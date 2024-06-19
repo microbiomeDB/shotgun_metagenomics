@@ -1,0 +1,19 @@
+In this directory are subdirectories for shotgun metagenomics studies. 
+Each study/ subdirectory needs:	
+	1. a samplesheet.csv file w 2-3 columns `sample`,`fastq_1`,`fastq_2`
+	2. a nf-params.json file w configuration for how airflow + nf-core should run
+	3. fastq.gz files
+
+There is also a file `metatdenovo_studies.csv` with two columns `studyName` and `studyPath`.
+When you have made your subdirectory for your study and are happy w it, you should add
+a row to this csv file. Eventually, modifications to this file trigger an Airflow run for the
+associated nf-core/metatdenovo DAG. For now, trigger it manually.
+
+IMPORTANT NOTES:
+
+  - It is best practice to include full (as opposed to relative) paths where they are needed
+  - An example directory exists called test_study
+  - There is a file called processed_studies_provenance.csv. Mostly you should NOT touch this.*
+
+* Possible exception being to remove a study to force it to re-run next time metatdenovo_studies.csv
+were touched.
