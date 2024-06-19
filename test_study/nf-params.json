@@ -1,0 +1,6 @@
+{
+    "input": "samplesheet.csv",
+    "outdir": ".\/out",
+    "eukulele_method": "mags",
+    "eukulele_db": "phylodb"
+}

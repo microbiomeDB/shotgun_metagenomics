@@ -1,3 +1,9 @@
 *.fastq
 *.fastq.gz
 *.fa.gz
+*.bam
+*.bam.bai
+
+*/work/*
+
+*/out/prodigal/*.prodigal_all.txt.gz
