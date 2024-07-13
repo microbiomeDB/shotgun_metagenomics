@@ -1,2 +1,3 @@
 studyName,studyPath
-test,/data/MicrobiomeDB/common/shotgun_metagenomics/test_study
+test_samplesheet,/data/MicrobiomeDB/common/shotgun_metagenomics/test_samplesheet_study
+test_fetchngs,/data/MicrobiomeDB/common/shotgun_metagenomics/test_fetchngs_study

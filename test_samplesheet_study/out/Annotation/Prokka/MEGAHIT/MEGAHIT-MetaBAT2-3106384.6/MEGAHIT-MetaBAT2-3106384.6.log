@@ -1,0 +1,157 @@
+[00:07:24] This is prokka 1.14.6
+[00:07:24] Written by Torsten Seemann <torsten.seemann@gmail.com>
+[00:07:24] Homepage is https://github.com/tseemann/prokka
+[00:07:24] Local time is Thu Jul 11 00:07:24 2024
+[00:07:24] You are not telling me who you are!
+[00:07:24] Operating system is linux
+[00:07:24] You have BioPerl 1.7.8
+[00:07:24] System has 80 cores.
+[00:07:24] Will use maximum of 2 cores.
+[00:07:24] Annotating as >>> Bacteria <<<
+[00:07:24] Generating locus_tag from 'MEGAHIT-MetaBAT2-3106384.6.fa' contents.
+[00:07:24] Setting --locustag DEHAJEPB from MD5 de1a3e9b266fc74c9ea76e913734978c
+[00:07:24] Creating new output folder: MEGAHIT-MetaBAT2-3106384.6
+[00:07:24] Running: mkdir -p MEGAHIT\-MetaBAT2\-3106384\.6
+[00:07:24] Using filename prefix: MEGAHIT-MetaBAT2-3106384.6.XXX
+[00:07:24] Setting HMMER_NCPU=1
+[00:07:24] Writing log to: MEGAHIT-MetaBAT2-3106384.6/MEGAHIT-MetaBAT2-3106384.6.log
+[00:07:24] Command: /usr/local/bin/prokka --metagenome --cpus 2 --prefix MEGAHIT-MetaBAT2-3106384.6 MEGAHIT-MetaBAT2-3106384.6.fa
+[00:07:24] Appending to PATH: /usr/local/bin
+[00:07:24] Looking for 'aragorn' - found /usr/local/bin/aragorn
+[00:07:24] Determined aragorn version is 001002 from 'ARAGORN v1.2.38 Dean Laslett'
+[00:07:24] Looking for 'barrnap' - found /usr/local/bin/barrnap
+[00:07:24] Determined barrnap version is 000009 from 'barrnap 0.9'
+[00:07:24] Looking for 'blastp' - found /usr/local/bin/blastp
+[00:07:25] Determined blastp version is 002012 from 'blastp: 2.12.0+'
+[00:07:25] Looking for 'cmpress' - found /usr/local/bin/cmpress
+[00:07:25] Determined cmpress version is 001001 from '# INFERNAL 1.1.4 (Dec 2020)'
+[00:07:25] Looking for 'cmscan' - found /usr/local/bin/cmscan
+[00:07:25] Determined cmscan version is 001001 from '# INFERNAL 1.1.4 (Dec 2020)'
+[00:07:25] Looking for 'egrep' - found /bin/egrep
+[00:07:25] Looking for 'find' - found /usr/bin/find
+[00:07:25] Looking for 'grep' - found /bin/grep
+[00:07:25] Looking for 'hmmpress' - found /usr/local/bin/hmmpress
+[00:07:25] Determined hmmpress version is 003003 from '# HMMER 3.3.2 (Nov 2020); http://hmmer.org/'
+[00:07:25] Looking for 'hmmscan' - found /usr/local/bin/hmmscan
+[00:07:25] Determined hmmscan version is 003003 from '# HMMER 3.3.2 (Nov 2020); http://hmmer.org/'
+[00:07:25] Looking for 'java' - found /usr/local/bin/java
+[00:07:25] Looking for 'makeblastdb' - found /usr/local/bin/makeblastdb
+[00:07:25] Determined makeblastdb version is 002012 from 'makeblastdb: 2.12.0+'
+[00:07:25] Looking for 'minced' - found /usr/local/bin/minced
+[00:07:25] Determined minced version is 004002 from 'minced 0.4.2'
+[00:07:25] Looking for 'parallel' - found /usr/local/bin/parallel
+[00:07:26] Determined parallel version is 20220222 from 'GNU parallel 20220222'
+[00:07:26] Looking for 'prodigal' - found /usr/local/bin/prodigal
+[00:07:26] Determined prodigal version is 002006 from 'Prodigal V2.6.3: February, 2016'
+[00:07:26] Looking for 'prokka-genbank_to_fasta_db' - found /usr/local/bin/prokka-genbank_to_fasta_db
+[00:07:26] Looking for 'sed' - found /bin/sed
+[00:07:26] Looking for 'tbl2asn' - found /usr/local/bin/tbl2asn
+[00:07:26] Determined tbl2asn version is 025007 from 'tbl2asn 25.7   arguments:'
+[00:07:26] Using genetic code table 11.
+[00:07:26] Loading and checking input file: MEGAHIT-MetaBAT2-3106384.6.fa
+[00:07:26] Wrote 217 contigs totalling 527664 bp.
+[00:07:26] Predicting tRNAs and tmRNAs
+[00:07:26] Running: aragorn -l -gc11  -w MEGAHIT\-MetaBAT2\-3106384\.6\/MEGAHIT\-MetaBAT2\-3106384\.6\.fna
+[00:07:26] 1 tRNA-Thr c[121,196] 34 (ggt)
+[00:07:26] 1 tRNA-Ala c[1017,1092] 34 (ggc)
+[00:07:26] 1 tRNA-Arg c[2301,2377] 35 (acg)
+[00:07:26] 1 tRNA-Pro [25,101] 35 (ggg)
+[00:07:26] 1 tRNA-Met [2308,2384] 35 (cat)
+[00:07:26] 1 tRNA-Gly [4,79] 34 (gcc)
+[00:07:26] Found 6 tRNAs
+[00:07:26] Predicting Ribosomal RNAs
+[00:07:26] Running Barrnap with 2 threads
+[00:07:27] Found 0 rRNAs
+[00:07:27] Skipping ncRNA search, enable with --rfam if desired.
+[00:07:27] Total of 6 tRNA + rRNA features
+[00:07:27] Searching for CRISPR repeats
+[00:07:28] Found 0 CRISPRs
+[00:07:28] Predicting coding sequences
+[00:07:28] Contigs total 527664 bp, so using meta mode
+[00:07:28] Running: prodigal -i MEGAHIT\-MetaBAT2\-3106384\.6\/MEGAHIT\-MetaBAT2\-3106384\.6\.fna -c -m -g 11 -p meta -f sco -q
+[00:07:30] Found 482 CDS
+[00:07:30] Connecting features back to sequences
+[00:07:30] Not using genus-specific database. Try --usegenus to enable it.
+[00:07:30] Annotating CDS, please be patient.
+[00:07:30] Will use 2 CPUs for similarity searching.
+[00:07:30] There are still 482 unannotated CDS left (started with 482)
+[00:07:30] Will use blast to search against /usr/local/db/kingdom/Bacteria/IS with 2 CPUs
+[00:07:30] Running: cat MEGAHIT\-MetaBAT2\-3106384\.6\/MEGAHIT\-MetaBAT2\-3106384\.6\.IS\.tmp\.42\.faa | parallel --gnu --plain -j 2 --block 29888 --recstart '>' --pipe blastp -query - -db /usr/local/db/kingdom/Bacteria/IS -evalue 1e-30 -qcov_hsp_perc 90 -num_threads 1 -num_descriptions 1 -num_alignments 1 -seg no > MEGAHIT\-MetaBAT2\-3106384\.6\/MEGAHIT\-MetaBAT2\-3106384\.6\.IS\.tmp\.42\.blast 2> /dev/null
+[00:07:36] Deleting unwanted file: MEGAHIT-MetaBAT2-3106384.6/MEGAHIT-MetaBAT2-3106384.6.IS.tmp.42.faa
+[00:07:36] Deleting unwanted file: MEGAHIT-MetaBAT2-3106384.6/MEGAHIT-MetaBAT2-3106384.6.IS.tmp.42.blast
+[00:07:36] There are still 482 unannotated CDS left (started with 482)
+[00:07:36] Will use blast to search against /usr/local/db/kingdom/Bacteria/AMR with 2 CPUs
+[00:07:36] Running: cat MEGAHIT\-MetaBAT2\-3106384\.6\/MEGAHIT\-MetaBAT2\-3106384\.6\.AMR\.tmp\.42\.faa | parallel --gnu --plain -j 2 --block 29888 --recstart '>' --pipe blastp -query - -db /usr/local/db/kingdom/Bacteria/AMR -evalue 1e-300 -qcov_hsp_perc 90 -num_threads 1 -num_descriptions 1 -num_alignments 1 -seg no > MEGAHIT\-MetaBAT2\-3106384\.6\/MEGAHIT\-MetaBAT2\-3106384\.6\.AMR\.tmp\.42\.blast 2> /dev/null
+[00:07:41] Deleting unwanted file: MEGAHIT-MetaBAT2-3106384.6/MEGAHIT-MetaBAT2-3106384.6.AMR.tmp.42.faa
+[00:07:41] Deleting unwanted file: MEGAHIT-MetaBAT2-3106384.6/MEGAHIT-MetaBAT2-3106384.6.AMR.tmp.42.blast
+[00:07:41] There are still 482 unannotated CDS left (started with 482)
+[00:07:41] Will use blast to search against /usr/local/db/kingdom/Bacteria/sprot with 2 CPUs
+[00:07:41] Running: cat MEGAHIT\-MetaBAT2\-3106384\.6\/MEGAHIT\-MetaBAT2\-3106384\.6\.sprot\.tmp\.42\.faa | parallel --gnu --plain -j 2 --block 29888 --recstart '>' --pipe blastp -query - -db /usr/local/db/kingdom/Bacteria/sprot -evalue 1e-09 -qcov_hsp_perc 80 -num_threads 1 -num_descriptions 1 -num_alignments 1 -seg no > MEGAHIT\-MetaBAT2\-3106384\.6\/MEGAHIT\-MetaBAT2\-3106384\.6\.sprot\.tmp\.42\.blast 2> /dev/null
+[00:08:04] Modify product: Uncharacterized protein Rv1488 => putative protein
+[00:08:04] Modify product: Nucleotide-binding protein SA0720 => Nucleotide-binding protein
+[00:08:04] Modify product: Uncharacterized sugar kinase YdjH => putative sugar kinase YdjH
+[00:08:04] Modify product: Uncharacterized ABC transporter ATP-binding protein Rv1273c => putative ABC transporter ATP-binding protein
+[00:08:04] Modify product: Probable ribosomal protein YlxQ => putative ribosomal protein YlxQ
+[00:08:04] Modify product: Probable endonuclease 4 => putative endonuclease 4
+[00:08:04] Modify product: Dihydroorotate dehydrogenase B (NAD(+)), electron transfer subunit homolog => Dihydroorotate dehydrogenase B (NAD(+)), electron transfer subunit 
+[00:08:04] Modify product: Uncharacterized protein HI_0933 => putative protein
+[00:08:04] Modify product: Uncharacterized ABC transporter ATP-binding protein YheS => putative ABC transporter ATP-binding protein YheS
+[00:08:04] Modify product: Probable ABC transporter ATP-binding protein M6_Spy0273 => putative ABC transporter ATP-binding protein
+[00:08:04] Modify product: Uncharacterized protein YqgN => putative protein YqgN
+[00:08:04] Modify product: Uncharacterized protein Rv2232 => putative protein
+[00:08:04] Modify product: Putative acetyltransferase SA2342 => Putative acetyltransferase
+[00:08:04] Modify product: Uncharacterized protein Rv2232 => putative protein
+[00:08:04] Modify product: Uncharacterized protein YpbG => putative protein YpbG
+[00:08:04] Modify product: Probable peptidoglycan glycosyltransferase FtsW => putative peptidoglycan glycosyltransferase FtsW
+[00:08:04] Modify product: Nucleoid-associated protein Cthe_2143 => Nucleoid-associated protein
+[00:08:04] Cleaned 17 /product names
+[00:08:04] Deleting unwanted file: MEGAHIT-MetaBAT2-3106384.6/MEGAHIT-MetaBAT2-3106384.6.sprot.tmp.42.faa
+[00:08:04] Deleting unwanted file: MEGAHIT-MetaBAT2-3106384.6/MEGAHIT-MetaBAT2-3106384.6.sprot.tmp.42.blast
+[00:08:04] There are still 270 unannotated CDS left (started with 482)
+[00:08:04] Will use hmmer3 to search against /usr/local/db/hmm/HAMAP.hmm with 2 CPUs
+[00:08:04] Running: cat MEGAHIT\-MetaBAT2\-3106384\.6\/MEGAHIT\-MetaBAT2\-3106384\.6\.HAMAP\.hmm\.tmp\.42\.faa | parallel --gnu --plain -j 2 --block 14836 --recstart '>' --pipe hmmscan --noali --notextw --acc -E 1e-09 --cpu 1 /usr/local/db/hmm/HAMAP.hmm /dev/stdin > MEGAHIT\-MetaBAT2\-3106384\.6\/MEGAHIT\-MetaBAT2\-3106384\.6\.HAMAP\.hmm\.tmp\.42\.hmmer3 2> /dev/null
+[00:08:20] Deleting unwanted file: MEGAHIT-MetaBAT2-3106384.6/MEGAHIT-MetaBAT2-3106384.6.HAMAP.hmm.tmp.42.faa
+[00:08:20] Deleting unwanted file: MEGAHIT-MetaBAT2-3106384.6/MEGAHIT-MetaBAT2-3106384.6.HAMAP.hmm.tmp.42.hmmer3
+[00:08:20] Labelling remaining 241 proteins as 'hypothetical protein'
+[00:08:20] Found 213 unique /gene codes.
+[00:08:20] Fixed 2 duplicate /gene - rhaS_1 rhaS_2
+[00:08:20] Fixed 2 duplicate /gene - gph_1 gph_2
+[00:08:20] Fixed 2 duplicate /gene - ilvB_1 ilvB_2
+[00:08:20] Fixed 2 duplicate /gene - walK_1 walK_2
+[00:08:20] Fixed 2 duplicate /gene - alr_1 alr_2
+[00:08:20] Fixed 3 duplicate /gene - trxA_1 trxA_2 trxA_3
+[00:08:20] Fixed 2 duplicate /gene - mepA_1 mepA_2
+[00:08:20] Fixed 7 colliding /gene names.
+[00:08:20] Adding /locus_tag identifiers
+[00:08:20] Assigned 488 locus_tags to CDS and RNA features.
+[00:08:20] Writing outputs to MEGAHIT-MetaBAT2-3106384.6/
+[00:08:21] Generating annotation statistics file
+[00:08:21] Generating Genbank and Sequin files
+[00:08:21] Running: tbl2asn -V b -a r10k -l paired-ends -M n -N 1 -y 'Annotated using prokka 1.14.6 from https://github.com/tseemann/prokka' -Z MEGAHIT\-MetaBAT2\-3106384\.6\/MEGAHIT\-MetaBAT2\-3106384\.6\.err -i MEGAHIT\-MetaBAT2\-3106384\.6\/MEGAHIT\-MetaBAT2\-3106384\.6\.fsa 2> /dev/null
+[00:08:22] Deleting unwanted file: MEGAHIT-MetaBAT2-3106384.6/errorsummary.val
+[00:08:22] Deleting unwanted file: MEGAHIT-MetaBAT2-3106384.6/MEGAHIT-MetaBAT2-3106384.6.dr
+[00:08:22] Deleting unwanted file: MEGAHIT-MetaBAT2-3106384.6/MEGAHIT-MetaBAT2-3106384.6.fixedproducts
+[00:08:22] Deleting unwanted file: MEGAHIT-MetaBAT2-3106384.6/MEGAHIT-MetaBAT2-3106384.6.ecn
+[00:08:22] Deleting unwanted file: MEGAHIT-MetaBAT2-3106384.6/MEGAHIT-MetaBAT2-3106384.6.val
+[00:08:22] Repairing broken .GBK output that tbl2asn produces...
+[00:08:22] Running: sed 's/COORDINATES: profile/COORDINATES:profile/' < MEGAHIT\-MetaBAT2\-3106384\.6\/MEGAHIT\-MetaBAT2\-3106384\.6\.gbf > MEGAHIT\-MetaBAT2\-3106384\.6\/MEGAHIT\-MetaBAT2\-3106384\.6\.gbk
+[00:08:22] Deleting unwanted file: MEGAHIT-MetaBAT2-3106384.6/MEGAHIT-MetaBAT2-3106384.6.gbf
+[00:08:22] Output files:
+[00:08:22] MEGAHIT-MetaBAT2-3106384.6/MEGAHIT-MetaBAT2-3106384.6.gbk
+[00:08:22] MEGAHIT-MetaBAT2-3106384.6/MEGAHIT-MetaBAT2-3106384.6.tsv
+[00:08:22] MEGAHIT-MetaBAT2-3106384.6/MEGAHIT-MetaBAT2-3106384.6.txt
+[00:08:22] MEGAHIT-MetaBAT2-3106384.6/MEGAHIT-MetaBAT2-3106384.6.log
+[00:08:22] MEGAHIT-MetaBAT2-3106384.6/MEGAHIT-MetaBAT2-3106384.6.err
+[00:08:22] MEGAHIT-MetaBAT2-3106384.6/MEGAHIT-MetaBAT2-3106384.6.gff
+[00:08:22] MEGAHIT-MetaBAT2-3106384.6/MEGAHIT-MetaBAT2-3106384.6.ffn
+[00:08:22] MEGAHIT-MetaBAT2-3106384.6/MEGAHIT-MetaBAT2-3106384.6.sqn
+[00:08:22] MEGAHIT-MetaBAT2-3106384.6/MEGAHIT-MetaBAT2-3106384.6.fsa
+[00:08:22] MEGAHIT-MetaBAT2-3106384.6/MEGAHIT-MetaBAT2-3106384.6.faa
+[00:08:22] MEGAHIT-MetaBAT2-3106384.6/MEGAHIT-MetaBAT2-3106384.6.fna
+[00:08:22] MEGAHIT-MetaBAT2-3106384.6/MEGAHIT-MetaBAT2-3106384.6.tbl
+[00:08:22] Annotation finished successfully.
+[00:08:22] Walltime used: 0.97 minutes
+[00:08:22] If you use this result please cite the Prokka paper:
+[00:08:22] Seemann T (2014) Prokka: rapid prokaryotic genome annotation. Bioinformatics. 30(14):2068-9.
+[00:08:22] Type 'prokka --citation' for more details.
+[00:08:22] Thank you, come again.

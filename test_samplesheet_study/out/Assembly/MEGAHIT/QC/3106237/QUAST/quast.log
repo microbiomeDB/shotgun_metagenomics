@@ -1,0 +1,72 @@
+/usr/local/bin/quast.py --threads 1 --rna-finding MEGAHIT-3106237.contigs.fa -o /home/dcallan/work/c1/ad82f6e302298f0e5b490560891fa3/QUAST --labels MEGAHIT-3106237
+
+Version: 5.0.2
+
+System information:
+  OS: Linux-3.10.0-1160.114.2.el7.x86_64-x86_64-with-debian-8.11 (linux_64)
+  Python version: 3.7.6
+  CPUs number: 80
+
+Started: 2024-07-10 23:30:59
+
+Logging to /home/dcallan/work/c1/ad82f6e302298f0e5b490560891fa3/QUAST/quast.log
+NOTICE: Output directory already exists and looks like a QUAST output dir. Existing results can be reused (e.g. previously generated alignments)!
+
+CWD: /home/dcallan/work/c1/ad82f6e302298f0e5b490560891fa3
+Main parameters: 
+  MODE: meta, threads: 1, minimum contig length: 500, minimum alignment length: 65, ambiguity: one, \
+  threshold for extensive misassembly size: 1000
+
+Contigs:
+  Pre-processing...
+  MEGAHIT-3106237.contigs.fa ==> MEGAHIT-3106237
+
+2024-07-10 23:31:02
+Running Basic statistics processor...
+  Contig files: 
+    MEGAHIT-3106237
+  Calculating N50 and L50...
+    MEGAHIT-3106237, N50 = 2459, L50 = 2636, Total length = 39048227, GC % = 42.88, # N's per 100 kbp =  0.00
+  Drawing Nx plot...
+    saved to /home/dcallan/work/c1/ad82f6e302298f0e5b490560891fa3/QUAST/basic_stats/Nx_plot.pdf
+  Drawing cumulative plot...
+    saved to /home/dcallan/work/c1/ad82f6e302298f0e5b490560891fa3/QUAST/basic_stats/cumulative_plot.pdf
+  Drawing GC content plot...
+    saved to /home/dcallan/work/c1/ad82f6e302298f0e5b490560891fa3/QUAST/basic_stats/GC_content_plot.pdf
+  Drawing MEGAHIT-3106237 GC content plot...
+    saved to /home/dcallan/work/c1/ad82f6e302298f0e5b490560891fa3/QUAST/basic_stats/MEGAHIT-3106237_GC_content_plot.pdf
+Done.
+
+NOTICE: Genes are not predicted by default. Use --gene-finding or --glimmer option to enable it.
+
+2024-07-10 23:31:05
+Running Barrnap...
+Logging to /home/dcallan/work/c1/ad82f6e302298f0e5b490560891fa3/QUAST/predicted_genes/barrnap.log...
+/usr/local/lib/python3.7/site-packages/quast_libs/barrnap/bin/barrnap --quiet -k bac \
+--threads 1 QUAST/quast_corrected_input/MEGAHIT_3106237.fa > QUAST/predicted_genes/MEGAHIT-3106237.rna.gff \
+2>> QUAST/predicted_genes/barrnap.log
+    Ribosomal RNA genes = 43
+    Predicted genes (GFF): /home/dcallan/work/c1/ad82f6e302298f0e5b490560891fa3/QUAST/predicted_genes/MEGAHIT-3106237.rna.gff
+Done.
+
+2024-07-10 23:31:46
+Creating large visual summaries...
+This may take a while: press Ctrl-C to skip this step..
+  1 of 2: Creating Icarus viewers...
+  2 of 2: Creating PDF with all tables and plots...
+Done
+
+2024-07-10 23:31:48
+RESULTS:
+  Text versions of total report are saved to /home/dcallan/work/c1/ad82f6e302298f0e5b490560891fa3/QUAST/report.txt, report.tsv, and report.tex
+  Text versions of transposed total report are saved to /home/dcallan/work/c1/ad82f6e302298f0e5b490560891fa3/QUAST/transposed_report.txt, transposed_report.tsv, and transposed_report.tex
+  HTML version (interactive tables and plots) is saved to /home/dcallan/work/c1/ad82f6e302298f0e5b490560891fa3/QUAST/report.html
+  PDF version (tables and plots) is saved to /home/dcallan/work/c1/ad82f6e302298f0e5b490560891fa3/QUAST/report.pdf
+  Icarus (contig browser) is saved to /home/dcallan/work/c1/ad82f6e302298f0e5b490560891fa3/QUAST/icarus.html
+  Log is saved to /home/dcallan/work/c1/ad82f6e302298f0e5b490560891fa3/QUAST/quast.log
+
+Finished: 2024-07-10 23:31:48
+Elapsed time: 0:00:48.131618
+NOTICEs: 2; WARNINGs: 0; non-fatal ERRORs: 0
+
+Thank you for using QUAST!

@@ -1,0 +1,40 @@
+# BUSCO version is: 5.4.3 
+# The lineage dataset is: clostridiales_odb10 (Creation date: 2024-01-08, number of genomes: 347, number of BUSCOs: 264)
+# Summarized benchmarking in BUSCO notation for file /home/dcallan/work/34/4e12d55ad9c470b5ae460ffeb9cb05/MEGAHIT-MetaBAT2-3108596.2.fa
+# BUSCO was run in mode: prok_genome
+# Gene predictor used: prodigal
+
+	***** Results: *****
+
+	C:61.7%[S:61.7%,D:0.0%],F:11.7%,M:26.6%,n:264	   
+	163	Complete BUSCOs (C)			   
+	163	Complete and single-copy BUSCOs (S)	   
+	0	Complete and duplicated BUSCOs (D)	   
+	31	Fragmented BUSCOs (F)			   
+	70	Missing BUSCOs (M)			   
+	264	Total BUSCO groups searched		   
+
+Assembly Statistics:
+	456	Number of scaffolds
+	456	Number of contigs
+	1683299	Total length
+	0.000%	Percent gaps
+	4 KB	Scaffold N50
+	4 KB	Contigs N50
+
+
+Dependencies and versions:
+	hmmsearch: 3.1
+	bbtools: 38.98
+	prodigal: 2.6.3
+	busco: 5.4.3
+	metaeuk: 6.a5d39d9
+	sepp: 4.4.0
+
+Placement file versions:
+	list_of_reference_markers.bacteria_odb10.2019-12-16.txt
+	tree.bacteria_odb10.2019-12-16.nwk
+	tree_metadata.bacteria_odb10.2019-12-16.txt
+	supermatrix.aln.bacteria_odb10.2019-12-16.faa
+	mapping_taxids-busco_dataset_name.bacteria_odb10.2019-12-16.txt
+	mapping_taxid-lineage.bacteria_odb10.2019-12-16.txt

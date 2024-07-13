@@ -1,0 +1,20 @@
+/usr/local/bin/metaquast.py --threads 1 --rna-finding --max-ref-number 0 -l MEGAHIT-3108596 MEGAHIT-3108596.contigs.fa -o QUAST
+
+Version: 5.0.2
+
+System information:
+  OS: Linux-3.10.0-1160.114.2.el7.x86_64-x86_64-with-debian-8.11 (linux_64)
+  Python version: 3.7.6
+  CPUs number: 80
+
+Started: 2024-07-10 23:36:53
+
+Logging to /home/dcallan/work/d2/2a9487c4da323b5f4bb9a5aeb6955a/QUAST/metaquast.log
+
+Contigs:
+  Pre-processing...
+  MEGAHIT-3108596.contigs.fa ==> MEGAHIT-3108596
+
+NOTICE: Maximum number of references (--max-ref-number) is set to 0, search in SILVA 16S rRNA database is disabled
+
+NOTICE: No references are provided, starting regular QUAST with MetaGeneMark gene finder

@@ -1,0 +1,564 @@
+MEGAHIT-MaxBin2-3101140.001:
+  CDS: 2852
+  bases: 3488433
+  contigs: 138
+  organism: Genus species
+  rRNA: 1
+  repeat_region: 1
+  tRNA: 47
+  tmRNA: 1
+MEGAHIT-MaxBin2-3101140.002:
+  CDS: 4462
+  bases: 5402312
+  contigs: 112
+  organism: Genus species
+  rRNA: 8
+  tRNA: 66
+MEGAHIT-MaxBin2-3101140.003:
+  CDS: 1462
+  bases: 1536682
+  contigs: 269
+  organism: Genus species
+  rRNA: 1
+  repeat_region: 3
+  tRNA: 17
+MEGAHIT-MaxBin2-3101140.004:
+  CDS: 4366
+  bases: 4792028
+  contigs: 171
+  organism: Genus species
+  rRNA: 3
+  repeat_region: 2
+  tRNA: 57
+  tmRNA: 1
+MEGAHIT-MaxBin2-3101140.005:
+  CDS: 4832
+  bases: 5260026
+  contigs: 777
+  organism: Genus species
+  rRNA: 14
+  tRNA: 51
+  tmRNA: 1
+MEGAHIT-MaxBin2-3101140.006:
+  CDS: 4456
+  bases: 4702080
+  contigs: 1382
+  organism: Genus species
+  rRNA: 2
+  tRNA: 65
+  tmRNA: 2
+MEGAHIT-MaxBin2-3101140.007:
+  CDS: 2833
+  bases: 2661750
+  contigs: 1477
+  organism: Genus species
+  rRNA: 1
+  tRNA: 11
+MEGAHIT-MaxBin2-3106237.001:
+  CDS: 150
+  bases: 144655
+  contigs: 11
+  organism: Genus species
+MEGAHIT-MaxBin2-3106237.002:
+  CDS: 4048
+  bases: 4982971
+  contigs: 356
+  organism: Genus species
+  rRNA: 7
+  repeat_region: 2
+  tRNA: 76
+  tmRNA: 1
+MEGAHIT-MaxBin2-3106237.003:
+  CDS: 2922
+  bases: 3448371
+  contigs: 1139
+  organism: Genus species
+  rRNA: 3
+  tRNA: 21
+  tmRNA: 1
+MEGAHIT-MaxBin2-3106237.004:
+  CDS: 5359
+  bases: 6895290
+  contigs: 1282
+  organism: Genus species
+  rRNA: 7
+  tRNA: 56
+  tmRNA: 1
+MEGAHIT-MaxBin2-3106237.005:
+  CDS: 1920
+  bases: 2286850
+  contigs: 990
+  organism: Genus species
+  rRNA: 7
+  tRNA: 20
+MEGAHIT-MaxBin2-3106237.006:
+  CDS: 4504
+  bases: 4819227
+  contigs: 1669
+  organism: Genus species
+  rRNA: 17
+  tRNA: 49
+  tmRNA: 1
+MEGAHIT-MaxBin2-3106237.007:
+  CDS: 2454
+  bases: 2544490
+  contigs: 1406
+  organism: Genus species
+  rRNA: 1
+  tRNA: 28
+MEGAHIT-MaxBin2-3106237.008:
+  CDS: 2282
+  bases: 2327173
+  contigs: 1266
+  organism: Genus species
+  tRNA: 24
+MEGAHIT-MaxBin2-3106237.009:
+  CDS: 1321
+  bases: 1351167
+  contigs: 832
+  organism: Genus species
+  tRNA: 11
+MEGAHIT-MaxBin2-3106384.001:
+  CDS: 2593
+  bases: 3173138
+  contigs: 143
+  organism: Genus species
+  rRNA: 3
+  repeat_region: 1
+  tRNA: 43
+  tmRNA: 1
+MEGAHIT-MaxBin2-3106384.002:
+  CDS: 5864
+  bases: 6970471
+  contigs: 272
+  organism: Genus species
+  rRNA: 7
+  repeat_region: 1
+  tRNA: 76
+MEGAHIT-MaxBin2-3106384.003:
+  CDS: 4428
+  bases: 4786239
+  contigs: 150
+  organism: Genus species
+  rRNA: 7
+  tRNA: 61
+  tmRNA: 1
+MEGAHIT-MaxBin2-3106384.004:
+  CDS: 4038
+  bases: 4905903
+  contigs: 230
+  organism: Genus species
+  rRNA: 11
+  repeat_region: 1
+  tRNA: 69
+  tmRNA: 1
+MEGAHIT-MaxBin2-3106384.005:
+  CDS: 3820
+  bases: 4136241
+  contigs: 1113
+  organism: Genus species
+  rRNA: 7
+  repeat_region: 2
+  tRNA: 46
+  tmRNA: 1
+MEGAHIT-MaxBin2-3106384.006:
+  CDS: 2155
+  bases: 2465985
+  contigs: 231
+  organism: Genus species
+  rRNA: 1
+  tRNA: 48
+  tmRNA: 1
+MEGAHIT-MaxBin2-3106384.007:
+  CDS: 4293
+  bases: 4304918
+  contigs: 2941
+  organism: Genus species
+  rRNA: 1
+  tRNA: 28
+MEGAHIT-MaxBin2-3108596.001:
+  CDS: 1575
+  bases: 1860772
+  contigs: 80
+  organism: Genus species
+  rRNA: 1
+  tRNA: 26
+  tmRNA: 1
+MEGAHIT-MaxBin2-3108596.002:
+  CDS: 2356
+  bases: 2929362
+  contigs: 308
+  organism: Genus species
+  repeat_region: 1
+  tRNA: 50
+MEGAHIT-MaxBin2-3108596.003:
+  CDS: 3645
+  bases: 4420480
+  contigs: 542
+  organism: Genus species
+  rRNA: 14
+  repeat_region: 1
+  tRNA: 33
+  tmRNA: 1
+MEGAHIT-MaxBin2-3108596.004:
+  CDS: 2650
+  bases: 3121531
+  contigs: 767
+  organism: Genus species
+  rRNA: 1
+  tRNA: 51
+  tmRNA: 1
+MEGAHIT-MaxBin2-3108596.005:
+  CDS: 4839
+  bases: 5990934
+  contigs: 1857
+  organism: Genus species
+  rRNA: 4
+  repeat_region: 1
+  tRNA: 48
+  tmRNA: 1
+MEGAHIT-MaxBin2-3108596.006:
+  CDS: 10297
+  bases: 12794923
+  contigs: 4462
+  organism: Genus species
+  rRNA: 8
+  tRNA: 63
+MEGAHIT-MaxBin2-3108596.007:
+  CDS: 2464
+  bases: 2676952
+  contigs: 549
+  organism: Genus species
+  rRNA: 1
+  tRNA: 46
+  tmRNA: 1
+MEGAHIT-MaxBin2-3108596.008:
+  CDS: 2515
+  bases: 2887661
+  contigs: 688
+  organism: Genus species
+  tRNA: 26
+  tmRNA: 1
+MEGAHIT-MaxBin2-3108596.009:
+  CDS: 1921
+  bases: 1936332
+  contigs: 666
+  organism: Genus species
+  rRNA: 3
+  tRNA: 35
+  tmRNA: 1
+MEGAHIT-MaxBin2-3108596.010:
+  CDS: 3008
+  bases: 3011651
+  contigs: 1592
+  organism: Genus species
+  rRNA: 5
+  repeat_region: 2
+  tRNA: 51
+  tmRNA: 1
+MEGAHIT-MaxBin2-3114327.001:
+  CDS: 2505
+  bases: 2751112
+  contigs: 1657
+  organism: Genus species
+  rRNA: 5
+  tRNA: 17
+MEGAHIT-MaxBin2-3114327.002:
+  CDS: 2597
+  bases: 2543294
+  contigs: 1744
+  organism: Genus species
+  rRNA: 12
+  tRNA: 36
+  tmRNA: 1
+MEGAHIT-MetaBAT2-3101140.1:
+  CDS: 3618
+  bases: 4436907
+  contigs: 48
+  organism: Genus species
+  rRNA: 1
+  tRNA: 53
+MEGAHIT-MetaBAT2-3101140.2:
+  CDS: 3317
+  bases: 3754182
+  contigs: 82
+  organism: Genus species
+  repeat_region: 2
+  tRNA: 55
+  tmRNA: 1
+MEGAHIT-MetaBAT2-3101140.3:
+  CDS: 3135
+  bases: 3162192
+  contigs: 382
+  organism: Genus species
+  repeat_region: 2
+  tRNA: 42
+  tmRNA: 2
+MEGAHIT-MetaBAT2-3101140.4:
+  CDS: 589
+  bases: 623302
+  contigs: 163
+  organism: Genus species
+  tRNA: 2
+MEGAHIT-MetaBAT2-3101140.5:
+  CDS: 1428
+  bases: 1401059
+  contigs: 565
+  organism: Genus species
+  tRNA: 8
+MEGAHIT-MetaBAT2-3101140.6:
+  CDS: 3152
+  bases: 3866144
+  contigs: 135
+  organism: Genus species
+  rRNA: 1
+  repeat_region: 1
+  tRNA: 51
+  tmRNA: 1
+MEGAHIT-MetaBAT2-3101140.7:
+  CDS: 4266
+  bases: 4619181
+  contigs: 316
+  organism: Genus species
+  rRNA: 5
+  tRNA: 52
+  tmRNA: 1
+MEGAHIT-MetaBAT2-3101140.8:
+  CDS: 517
+  bases: 471795
+  contigs: 32
+  organism: Genus species
+  tRNA: 1
+MEGAHIT-MetaBAT2-3106237.1:
+  CDS: 329
+  bases: 359000
+  contigs: 160
+  organism: Genus species
+  tRNA: 3
+MEGAHIT-MetaBAT2-3106237.10:
+  CDS: 2875
+  bases: 3612748
+  contigs: 70
+  organism: Genus species
+  rRNA: 4
+  repeat_region: 2
+  tRNA: 58
+  tmRNA: 1
+MEGAHIT-MetaBAT2-3106237.11:
+  CDS: 2576
+  bases: 2805272
+  contigs: 497
+  organism: Genus species
+  rRNA: 2
+  tRNA: 38
+MEGAHIT-MetaBAT2-3106237.2:
+  CDS: 336
+  bases: 323770
+  contigs: 134
+  organism: Genus species
+  tRNA: 8
+MEGAHIT-MetaBAT2-3106237.3:
+  CDS: 195
+  bases: 221676
+  contigs: 67
+  organism: Genus species
+  tRNA: 2
+MEGAHIT-MetaBAT2-3106237.4:
+  CDS: 1587
+  bases: 1866923
+  contigs: 673
+  organism: Genus species
+  rRNA: 1
+  tRNA: 18
+MEGAHIT-MetaBAT2-3106237.5:
+  CDS: 846
+  bases: 917780
+  contigs: 367
+  organism: Genus species
+  tRNA: 4
+MEGAHIT-MetaBAT2-3106237.6:
+  CDS: 770
+  bases: 762082
+  contigs: 346
+  organism: Genus species
+  tRNA: 4
+MEGAHIT-MetaBAT2-3106237.7:
+  CDS: 2694
+  bases: 3357498
+  contigs: 782
+  organism: Genus species
+  tRNA: 21
+  tmRNA: 1
+MEGAHIT-MetaBAT2-3106237.8:
+  CDS: 4430
+  bases: 5947729
+  contigs: 778
+  organism: Genus species
+  rRNA: 2
+  tRNA: 45
+  tmRNA: 1
+MEGAHIT-MetaBAT2-3106237.9:
+  CDS: 267
+  bases: 270296
+  contigs: 72
+  organism: Genus species
+  tRNA: 3
+MEGAHIT-MetaBAT2-3106384.1:
+  CDS: 4018
+  bases: 4897843
+  contigs: 231
+  organism: Genus species
+  rRNA: 8
+  repeat_region: 2
+  tRNA: 66
+  tmRNA: 1
+MEGAHIT-MetaBAT2-3106384.2:
+  CDS: 587
+  bases: 649059
+  contigs: 311
+  organism: Genus species
+  tRNA: 4
+MEGAHIT-MetaBAT2-3106384.3:
+  CDS: 3861
+  bases: 4685270
+  contigs: 97
+  organism: Genus species
+  tRNA: 53
+MEGAHIT-MetaBAT2-3106384.4:
+  CDS: 1923
+  bases: 2266704
+  contigs: 123
+  organism: Genus species
+  rRNA: 3
+  tRNA: 47
+  tmRNA: 1
+MEGAHIT-MetaBAT2-3106384.5:
+  CDS: 3287
+  bases: 4032579
+  contigs: 144
+  organism: Genus species
+  rRNA: 1
+  repeat_region: 1
+  tRNA: 52
+  tmRNA: 1
+MEGAHIT-MetaBAT2-3106384.6:
+  CDS: 482
+  bases: 527664
+  contigs: 217
+  organism: Genus species
+  tRNA: 6
+MEGAHIT-MetaBAT2-3106384.7:
+  CDS: 4412
+  bases: 4797510
+  contigs: 143
+  organism: Genus species
+  rRNA: 4
+  tRNA: 60
+  tmRNA: 1
+MEGAHIT-MetaBAT2-3106384.8:
+  CDS: 2401
+  bases: 2539688
+  contigs: 533
+  organism: Genus species
+  rRNA: 1
+  repeat_region: 1
+  tRNA: 29
+  tmRNA: 1
+MEGAHIT-MetaBAT2-3108596.1:
+  CDS: 2960
+  bases: 3657781
+  contigs: 109
+  organism: Genus species
+  rRNA: 1
+  repeat_region: 1
+  tRNA: 70
+  tmRNA: 1
+MEGAHIT-MetaBAT2-3108596.10:
+  CDS: 201
+  bases: 207819
+  contigs: 36
+  organism: Genus species
+MEGAHIT-MetaBAT2-3108596.11:
+  CDS: 1320
+  bases: 1682314
+  contigs: 639
+  organism: Genus species
+  tRNA: 7
+MEGAHIT-MetaBAT2-3108596.12:
+  CDS: 2337
+  bases: 2883163
+  contigs: 616
+  organism: Genus species
+  tRNA: 31
+  tmRNA: 1
+MEGAHIT-MetaBAT2-3108596.13:
+  CDS: 2954
+  bases: 3763536
+  contigs: 579
+  organism: Genus species
+  rRNA: 3
+  tRNA: 32
+MEGAHIT-MetaBAT2-3108596.2:
+  CDS: 1654
+  bases: 1683299
+  contigs: 456
+  organism: Genus species
+  rRNA: 2
+  tRNA: 30
+  tmRNA: 1
+MEGAHIT-MetaBAT2-3108596.3:
+  CDS: 2949
+  bases: 3394758
+  contigs: 656
+  organism: Genus species
+  rRNA: 1
+  repeat_region: 1
+  tRNA: 40
+  tmRNA: 1
+MEGAHIT-MetaBAT2-3108596.4:
+  CDS: 1391
+  bases: 2145464
+  contigs: 622
+  organism: Genus species
+  tRNA: 3
+MEGAHIT-MetaBAT2-3108596.5:
+  CDS: 978
+  bases: 963930
+  contigs: 380
+  organism: Genus species
+  tRNA: 17
+MEGAHIT-MetaBAT2-3108596.6:
+  CDS: 619
+  bases: 734278
+  contigs: 177
+  organism: Genus species
+  tRNA: 8
+MEGAHIT-MetaBAT2-3108596.7:
+  CDS: 1668
+  bases: 1838675
+  contigs: 324
+  organism: Genus species
+  tRNA: 32
+  tmRNA: 1
+MEGAHIT-MetaBAT2-3108596.8:
+  CDS: 2805
+  bases: 3533973
+  contigs: 257
+  organism: Genus species
+  rRNA: 1
+  repeat_region: 1
+  tRNA: 25
+  tmRNA: 1
+MEGAHIT-MetaBAT2-3108596.9:
+  CDS: 2453
+  bases: 3238623
+  contigs: 549
+  organism: Genus species
+  rRNA: 1
+  tRNA: 13
+MEGAHIT-MetaBAT2-3114327.1:
+  CDS: 598
+  bases: 689632
+  contigs: 316
+  organism: Genus species
+  tRNA: 6

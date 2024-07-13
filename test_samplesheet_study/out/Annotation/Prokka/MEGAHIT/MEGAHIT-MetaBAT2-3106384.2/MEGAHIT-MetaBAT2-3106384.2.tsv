@@ -1,0 +1,592 @@
+locus_tag	ftype	length_bp	gene	EC_number	COG	product
+FOHCGBPK_00001	CDS	1020	atpC_1			V-type ATP synthase subunit C
+FOHCGBPK_00002	CDS	228				hypothetical protein
+FOHCGBPK_00003	CDS	585	rho	3.6.4.-	COG1158	Transcription termination factor Rho
+FOHCGBPK_00004	CDS	840				hypothetical protein
+FOHCGBPK_00005	CDS	186				hypothetical protein
+FOHCGBPK_00006	CDS	222				hypothetical protein
+FOHCGBPK_00007	CDS	219				hypothetical protein
+FOHCGBPK_00008	CDS	228				hypothetical protein
+FOHCGBPK_00009	CDS	615				hypothetical protein
+FOHCGBPK_00010	CDS	642				hypothetical protein
+FOHCGBPK_00011	CDS	222				hypothetical protein
+FOHCGBPK_00012	CDS	666				hypothetical protein
+FOHCGBPK_00013	CDS	135				hypothetical protein
+FOHCGBPK_00014	CDS	378				hypothetical protein
+FOHCGBPK_00015	CDS	957				hypothetical protein
+FOHCGBPK_00016	CDS	777	dapF	5.1.1.7	COG0253	Diaminopimelate epimerase
+FOHCGBPK_00017	CDS	423				hypothetical protein
+FOHCGBPK_00018	CDS	867	dppC_1		COG1173	Dipeptide transport system permease protein DppC
+FOHCGBPK_00019	CDS	339	oppB		COG0601	Oligopeptide transport system permease protein OppB
+FOHCGBPK_00020	CDS	246				hypothetical protein
+FOHCGBPK_00021	CDS	1458	lhgD	1.1.5.-		L-2-hydroxyglutarate dehydrogenase
+FOHCGBPK_00022	CDS	186				hypothetical protein
+FOHCGBPK_00023	CDS	987				hypothetical protein
+FOHCGBPK_00024	CDS	1485	xylB_1	2.7.1.17	COG1070	Xylulose kinase
+FOHCGBPK_00025	CDS	816				hypothetical protein
+FOHCGBPK_00026	CDS	549				hypothetical protein
+FOHCGBPK_00027	CDS	1584				hypothetical protein
+FOHCGBPK_00028	CDS	462	oppF_1		COG4608	Oligopeptide transport ATP-binding protein OppF
+FOHCGBPK_00029	CDS	849				hypothetical protein
+FOHCGBPK_00030	CDS	729				hypothetical protein
+FOHCGBPK_00031	CDS	1254	hndC	1.12.1.3	COG1145	NADP-reducing hydrogenase subunit HndC
+FOHCGBPK_00032	CDS	132	nuoF	7.1.1.-	COG1894	NADH-quinone oxidoreductase subunit F
+FOHCGBPK_00033	CDS	345				hypothetical protein
+FOHCGBPK_00034	CDS	327				hypothetical protein
+FOHCGBPK_00035	CDS	288	yabP			Spore protein YabP
+FOHCGBPK_00036	CDS	474				hypothetical protein
+FOHCGBPK_00037	CDS	444				hypothetical protein
+FOHCGBPK_00038	CDS	465	cbbX		COG0464	Protein CbbX
+FOHCGBPK_00039	CDS	384				hypothetical protein
+FOHCGBPK_00040	CDS	816				hypothetical protein
+FOHCGBPK_00041	CDS	447				hypothetical protein
+FOHCGBPK_00042	CDS	813	murG	2.4.1.227		UDP-N-acetylglucosamine--N-acetylmuramyl-(pentapeptide) pyrophosphoryl-undecaprenol N-acetylglucosamine transferase
+FOHCGBPK_00043	CDS	216	cadA	3.6.3.3	COG2217	Cadmium, zinc and cobalt-transporting ATPase
+FOHCGBPK_00044	CDS	846				hypothetical protein
+FOHCGBPK_00045	CDS	417	mntR		COG1321	Transcriptional regulator MntR
+FOHCGBPK_00046	CDS	657	potD		COG0687	Spermidine/putrescine-binding periplasmic protein
+FOHCGBPK_00047	CDS	1068	spoVAD			Stage V sporulation protein AD
+FOHCGBPK_00048	CDS	363	ctpC	3.6.3.-	COG2217	Manganese-exporting P-type ATPase
+FOHCGBPK_00049	CDS	282				hypothetical protein
+FOHCGBPK_00050	CDS	456				hypothetical protein
+FOHCGBPK_00051	CDS	510				hypothetical protein
+FOHCGBPK_00052	CDS	750	plsC	2.3.1.51	COG0204	1-acyl-sn-glycerol-3-phosphate acyltransferase
+FOHCGBPK_00053	CDS	1011	yidC			Membrane protein insertase YidC
+FOHCGBPK_00054	CDS	786				hypothetical protein
+FOHCGBPK_00055	CDS	1380	mnmE	3.6.-.-	COG0486	tRNA modification GTPase MnmE
+FOHCGBPK_00056	CDS	477				hypothetical protein
+FOHCGBPK_00057	CDS	1311	pbpA		COG0768	Penicillin-binding protein A
+FOHCGBPK_00058	CDS	900	baiH	1.3.1.116	COG0446	7-beta-hydroxy-3-oxochol-24-oyl-CoA 4-desaturase
+FOHCGBPK_00059	CDS	474				hypothetical protein
+FOHCGBPK_00060	CDS	1362	xylG	7.5.2.10	COG1129	Xylose import ATP-binding protein XylG
+FOHCGBPK_00061	CDS	579				hypothetical protein
+FOHCGBPK_00062	CDS	678	arlR		COG0745	Response regulator ArlR
+FOHCGBPK_00063	CDS	1080	iscS	2.8.1.7	COG1104	Cysteine desulfurase IscS
+FOHCGBPK_00064	CDS	462				hypothetical protein
+FOHCGBPK_00065	CDS	816				hypothetical protein
+FOHCGBPK_00066	CDS	519				hypothetical protein
+FOHCGBPK_00067	CDS	519				hypothetical protein
+FOHCGBPK_00068	CDS	933	parB		COG1475	putative chromosome-partitioning protein ParB
+FOHCGBPK_00069	CDS	291	soj_1	3.6.-.-	COG1192	Sporulation initiation inhibitor protein Soj
+FOHCGBPK_00070	CDS	321	accA	2.1.3.15	COG0825	Acetyl-coenzyme A carboxylase carboxyl transferase subunit alpha
+FOHCGBPK_00071	CDS	1170				hypothetical protein
+FOHCGBPK_00072	CDS	1656	sasA_1	2.7.-.-		Adaptive-response sensory-kinase SasA
+FOHCGBPK_00073	CDS	492				hypothetical protein
+FOHCGBPK_00074	CDS	285	groS		COG0234	10 kDa chaperonin
+FOHCGBPK_00075	CDS	198				hypothetical protein
+FOHCGBPK_00076	CDS	1134		2.6.1.51	COG0075	Serine-pyruvate aminotransferase
+FOHCGBPK_00077	CDS	675				hypothetical protein
+FOHCGBPK_00078	CDS	1614				hypothetical protein
+FOHCGBPK_00079	CDS	690				hypothetical protein
+FOHCGBPK_00080	CDS	225	argB	2.7.2.8	COG0548	Acetylglutamate kinase
+FOHCGBPK_00081	CDS	1236	argD	2.6.1.11	COG4992	Acetylornithine aminotransferase
+FOHCGBPK_00082	CDS	840	dasC		COG0395	Diacetylchitobiose uptake system permease protein DasC
+FOHCGBPK_00083	CDS	894	ycjO		COG1175	Inner membrane ABC transporter permease protein YcjO
+FOHCGBPK_00084	CDS	675				hypothetical protein
+FOHCGBPK_00085	CDS	720				hypothetical protein
+FOHCGBPK_00086	CDS	744				hypothetical protein
+FOHCGBPK_00087	CDS	372				hypothetical protein
+FOHCGBPK_00088	CDS	1791	ltrA		COG3344	Group II intron-encoded protein LtrA
+FOHCGBPK_00089	CDS	789			COG1132	putative ABC transporter ATP-binding protein
+FOHCGBPK_00090	CDS	225				hypothetical protein
+FOHCGBPK_00091	CDS	945	yhaM	3.1.-.-	COG3481	3'-5' exoribonuclease YhaM
+FOHCGBPK_00092	CDS	930				hypothetical protein
+FOHCGBPK_00093	CDS	1341	dsdA	4.3.1.18	COG3048	D-serine dehydratase
+FOHCGBPK_00094	CDS	189				hypothetical protein
+FOHCGBPK_00095	CDS	534				hypothetical protein
+FOHCGBPK_00096	CDS	1701	pknD_1	2.7.11.1		Serine/threonine-protein kinase PknD
+FOHCGBPK_00097	CDS	180				hypothetical protein
+FOHCGBPK_00098	CDS	999	ribF		COG0196	Bifunctional riboflavin kinase/FMN adenylyltransferase
+FOHCGBPK_00099	CDS	267	rpsO		COG0184	30S ribosomal protein S15
+FOHCGBPK_00100	CDS	1392				hypothetical protein
+FOHCGBPK_00101	CDS	1215				hypothetical protein
+FOHCGBPK_00102	CDS	459			COG1638	Solute-binding protein
+FOHCGBPK_00103	CDS	1059				hypothetical protein
+FOHCGBPK_00104	CDS	1080	potA	7.6.2.11	COG3842	Spermidine/putrescine import ATP-binding protein PotA
+FOHCGBPK_00105	CDS	831				hypothetical protein
+FOHCGBPK_00106	CDS	606	spmA		COG2715	Spore maturation protein A
+FOHCGBPK_00107	CDS	1341				hypothetical protein
+FOHCGBPK_00108	CDS	960				hypothetical protein
+FOHCGBPK_00109	CDS	414				hypothetical protein
+FOHCGBPK_00110	CDS	1536				hypothetical protein
+FOHCGBPK_00111	CDS	912	era		COG1159	GTPase Era
+FOHCGBPK_00112	CDS	2241				hypothetical protein
+FOHCGBPK_00113	CDS	966				hypothetical protein
+FOHCGBPK_00114	CDS	885	xerD_1			Tyrosine recombinase XerD
+FOHCGBPK_00115	CDS	615	xerC		COG4973	Tyrosine recombinase XerC
+FOHCGBPK_00116	CDS	789				hypothetical protein
+FOHCGBPK_00117	CDS	1257	uraA		COG2233	Uracil permease
+FOHCGBPK_00118	CDS	990				hypothetical protein
+FOHCGBPK_00119	CDS	336	cheB	3.1.1.61	COG2201	Protein-glutamate methylesterase/protein-glutamine glutaminase
+FOHCGBPK_00120	CDS	744	cheB2	3.1.1.61	COG2201	Protein-glutamate methylesterase/protein-glutamine glutaminase 2
+FOHCGBPK_00121	CDS	237				hypothetical protein
+FOHCGBPK_00122	CDS	1737	pgcA	5.4.2.2		Phosphoglucomutase
+FOHCGBPK_00123	CDS	432				hypothetical protein
+FOHCGBPK_00124	CDS	435				hypothetical protein
+FOHCGBPK_00125	CDS	210				hypothetical protein
+FOHCGBPK_00126	CDS	642	cmk	2.7.4.25		Cytidylate kinase
+FOHCGBPK_00127	CDS	723	ydfK		COG1811	putative membrane protein YdfK
+FOHCGBPK_00128	CDS	750	ydjF		COG1349	putative HTH-type transcriptional regulator YdjF
+FOHCGBPK_00129	CDS	453	tal	2.2.1.2	COG0176	Transaldolase
+FOHCGBPK_00130	CDS	1653				hypothetical protein
+FOHCGBPK_00131	CDS	912				hypothetical protein
+FOHCGBPK_00132	CDS	1350	spnQ	4.2.1.164		dTDP-4-dehydro-2,6-dideoxy-D-glucose 3-dehydratase
+FOHCGBPK_00133	CDS	1059	rfbG	4.2.1.45	COG0451	CDP-glucose 4,6-dehydratase
+FOHCGBPK_00134	CDS	531	rfbF	2.7.7.33	COG1208	Glucose-1-phosphate cytidylyltransferase
+FOHCGBPK_00135	CDS	258				hypothetical protein
+FOHCGBPK_00136	CDS	1680	fruA		COG1299	PTS system fructose-specific EIIABC component
+FOHCGBPK_00137	CDS	459				hypothetical protein
+FOHCGBPK_00138	CDS	930				hypothetical protein
+FOHCGBPK_00139	CDS	282				hypothetical protein
+FOHCGBPK_00140	CDS	399				hypothetical protein
+FOHCGBPK_00141	CDS	381				hypothetical protein
+FOHCGBPK_00142	CDS	648	tnpR			Transposon Tn3 resolvase
+FOHCGBPK_00143	CDS	1212	der			GTPase Der
+FOHCGBPK_00144	CDS	375				hypothetical protein
+FOHCGBPK_00145	CDS	945	glcK	2.7.1.2	COG1940	Glucokinase
+FOHCGBPK_00146	CDS	1086	recF		COG1195	DNA replication and repair protein RecF
+FOHCGBPK_00147	CDS	831	rhaS			HTH-type transcriptional activator RhaS
+FOHCGBPK_00148	CDS	225				hypothetical protein
+FOHCGBPK_00149	CDS	654				hypothetical protein
+FOHCGBPK_00150	CDS	432				hypothetical protein
+FOHCGBPK_00151	CDS	1317				hypothetical protein
+FOHCGBPK_00152	CDS	687	ppm1	2.4.1.-		Polyprenol monophosphomannose synthase
+FOHCGBPK_00153	CDS	1974	norR			Anaerobic nitric oxide reductase transcription regulator NorR
+FOHCGBPK_00154	CDS	864				hypothetical protein
+FOHCGBPK_00155	CDS	855	araQ_1		COG0395	L-arabinose transport system permease protein AraQ
+FOHCGBPK_00156	CDS	891	araP		COG1175	L-arabinose transport system permease protein AraP
+FOHCGBPK_00157	CDS	1065				hypothetical protein
+FOHCGBPK_00158	CDS	1239				hypothetical protein
+FOHCGBPK_00159	CDS	1134				hypothetical protein
+FOHCGBPK_00160	CDS	576				hypothetical protein
+FOHCGBPK_00161	CDS	1044	pheS	6.1.1.20	COG0016	Phenylalanine--tRNA ligase alpha subunit
+FOHCGBPK_00162	CDS	213				hypothetical protein
+FOHCGBPK_00163	CDS	1362				hypothetical protein
+FOHCGBPK_00164	CDS	807				hypothetical protein
+FOHCGBPK_00165	CDS	462				hypothetical protein
+FOHCGBPK_00166	CDS	324				hypothetical protein
+FOHCGBPK_00167	CDS	237				hypothetical protein
+FOHCGBPK_00168	CDS	2511	mutS2	3.1.-.-		Endonuclease MutS2
+FOHCGBPK_00169	CDS	1155	algC	5.4.2.2	COG1109	Phosphomannomutase/phosphoglucomutase
+FOHCGBPK_00170	CDS	1044				hypothetical protein
+FOHCGBPK_00171	CDS	540				hypothetical protein
+FOHCGBPK_00172	CDS	501				hypothetical protein
+FOHCGBPK_00173	CDS	351				hypothetical protein
+FOHCGBPK_00174	CDS	717	gspF		COG1459	Putative type II secretion system protein F
+FOHCGBPK_00175	CDS	222				hypothetical protein
+FOHCGBPK_00176	CDS	1539	rbsA	7.5.2.7	COG1129	Ribose import ATP-binding protein RbsA
+FOHCGBPK_00177	CDS	1059				hypothetical protein
+FOHCGBPK_00178	CDS	201				hypothetical protein
+FOHCGBPK_00179	CDS	819				hypothetical protein
+FOHCGBPK_00180	CDS	408				hypothetical protein
+FOHCGBPK_00181	CDS	1224				hypothetical protein
+FOHCGBPK_00182	CDS	456				hypothetical protein
+FOHCGBPK_00183	CDS	390				hypothetical protein
+FOHCGBPK_00184	CDS	258				hypothetical protein
+FOHCGBPK_00185	CDS	1068				hypothetical protein
+FOHCGBPK_00186	CDS	669	ywaC	2.7.6.5	COG2357	GTP pyrophosphokinase YwaC
+FOHCGBPK_00187	CDS	765	pnp	2.7.7.8		Polyribonucleotide nucleotidyltransferase
+FOHCGBPK_00188	CDS	726	msbA	7.5.2.6	COG1132	Lipid A export ATP-binding/permease protein MsbA
+FOHCGBPK_00189	CDS	318				hypothetical protein
+FOHCGBPK_00190	CDS	234				hypothetical protein
+FOHCGBPK_00191	CDS	438	slyD	5.2.1.8	COG1047	FKBP-type peptidyl-prolyl cis-trans isomerase SlyD
+FOHCGBPK_00192	CDS	549	spoVT		COG2002	Stage V sporulation protein T
+FOHCGBPK_00193	CDS	438	dctM_1		COG1593	C4-dicarboxylate TRAP transporter large permease protein DctM
+FOHCGBPK_00194	CDS	948				hypothetical protein
+FOHCGBPK_00195	CDS	552				hypothetical protein
+FOHCGBPK_00196	CDS	723	lacM	3.2.1.23	COG3250	Beta-galactosidase small subunit
+FOHCGBPK_00197	CDS	666	lacL	3.2.1.23	COG3250	Beta-galactosidase large subunit
+FOHCGBPK_00198	CDS	846	araQ_2		COG0395	L-arabinose transport system permease protein AraQ
+FOHCGBPK_00199	CDS	600				hypothetical protein
+FOHCGBPK_00200	CDS	438	cymR			HTH-type transcriptional regulator CymR
+FOHCGBPK_00201	CDS	1053	mreB		COG1077	Cell shape-determining protein MreB
+FOHCGBPK_00202	CDS	789				hypothetical protein
+FOHCGBPK_00203	CDS	444				hypothetical protein
+FOHCGBPK_00204	CDS	423				hypothetical protein
+FOHCGBPK_00205	CDS	480				hypothetical protein
+FOHCGBPK_00206	CDS	900				hypothetical protein
+FOHCGBPK_00207	CDS	846	noc			Nucleoid occlusion protein
+FOHCGBPK_00208	CDS	429				hypothetical protein
+FOHCGBPK_00209	CDS	99				hypothetical protein
+FOHCGBPK_00210	CDS	180				hypothetical protein
+FOHCGBPK_00211	CDS	216				hypothetical protein
+FOHCGBPK_00212	CDS	561				hypothetical protein
+FOHCGBPK_00213	CDS	207				hypothetical protein
+FOHCGBPK_00214	CDS	984	pdtaS	2.7.13.3	COG3920	putative sensor histidine kinase pdtaS
+FOHCGBPK_00215	CDS	504				hypothetical protein
+FOHCGBPK_00216	CDS	195				hypothetical protein
+FOHCGBPK_00217	CDS	648	trmR	2.1.1.-	COG4122	tRNA 5-hydroxyuridine methyltransferase
+FOHCGBPK_00218	CDS	168				hypothetical protein
+FOHCGBPK_00219	CDS	348				hypothetical protein
+FOHCGBPK_00220	CDS	501				hypothetical protein
+FOHCGBPK_00221	CDS	360				hypothetical protein
+FOHCGBPK_00222	CDS	474				hypothetical protein
+FOHCGBPK_00223	CDS	993				hypothetical protein
+FOHCGBPK_00224	CDS	396				hypothetical protein
+FOHCGBPK_00225	CDS	348				hypothetical protein
+FOHCGBPK_00226	CDS	1452				hypothetical protein
+FOHCGBPK_00227	CDS	1044	serA	1.1.1.95	COG0111	D-3-phosphoglycerate dehydrogenase
+FOHCGBPK_00228	CDS	1446	ftsH4	3.4.24.-		ATP-dependent zinc metalloprotease FtsH 4
+FOHCGBPK_00229	CDS	750				hypothetical protein
+FOHCGBPK_00230	CDS	915	tyrS	6.1.1.1	COG0162	Tyrosine--tRNA ligase
+FOHCGBPK_00231	CDS	1245	nagA	3.5.1.25	COG1820	N-acetylglucosamine-6-phosphate deacetylase
+FOHCGBPK_00232	CDS	840	cntD	7.2.2.-	COG0444	Metal-staphylopine import system ATP-binding protein CntD
+FOHCGBPK_00233	CDS	585				hypothetical protein
+FOHCGBPK_00234	CDS	210				hypothetical protein
+FOHCGBPK_00235	CDS	1677	recQ	3.6.4.12	COG0514	ATP-dependent DNA helicase RecQ
+FOHCGBPK_00236	CDS	1008				hypothetical protein
+FOHCGBPK_00237	CDS	453				hypothetical protein
+FOHCGBPK_00238	CDS	1383				hypothetical protein
+FOHCGBPK_00239	CDS	216				hypothetical protein
+FOHCGBPK_00240	CDS	165				hypothetical protein
+FOHCGBPK_00241	CDS	1491				hypothetical protein
+FOHCGBPK_00242	CDS	291				hypothetical protein
+FOHCGBPK_00243	CDS	270				hypothetical protein
+FOHCGBPK_00244	CDS	1071	asnO	6.3.5.4	COG0367	Asparagine synthetase [glutamine-hydrolyzing] 3
+FOHCGBPK_00245	CDS	651				hypothetical protein
+FOHCGBPK_00246	CDS	462				hypothetical protein
+FOHCGBPK_00247	CDS	1503				hypothetical protein
+FOHCGBPK_00248	CDS	210				hypothetical protein
+FOHCGBPK_00249	CDS	1767	atpA	7.1.2.2	COG1155	V-type ATP synthase alpha chain
+FOHCGBPK_00250	CDS	489	moaC2	4.6.1.17	COG0315	Cyclic pyranopterin monophosphate synthase 2
+FOHCGBPK_00251	CDS	708				hypothetical protein
+FOHCGBPK_00252	CDS	255				hypothetical protein
+FOHCGBPK_00253	CDS	744				hypothetical protein
+FOHCGBPK_00254	CDS	1752				hypothetical protein
+FOHCGBPK_00255	CDS	513				hypothetical protein
+FOHCGBPK_00256	CDS	237				hypothetical protein
+FOHCGBPK_00257	CDS	1152	apeB	3.4.11.-	COG1362	putative M18 family aminopeptidase 2
+FOHCGBPK_00258	CDS	486	atzA	3.8.1.8		Atrazine chlorohydrolase
+FOHCGBPK_00259	CDS	957	hpr	1.1.1.81	COG1052	Hydroxypyruvate reductase
+FOHCGBPK_00260	CDS	192	btr		COG0614	HTH-type transcriptional activator Btr
+FOHCGBPK_00261	CDS	894				hypothetical protein
+FOHCGBPK_00262	CDS	318				hypothetical protein
+FOHCGBPK_00263	CDS	234				hypothetical protein
+FOHCGBPK_00264	CDS	1689				hypothetical protein
+FOHCGBPK_00265	CDS	1038	rhaR			HTH-type transcriptional activator RhaR
+FOHCGBPK_00266	CDS	114				hypothetical protein
+FOHCGBPK_00267	CDS	369				hypothetical protein
+FOHCGBPK_00268	CDS	1212	patB	4.4.1.13	COG1168	Cystathionine beta-lyase PatB
+FOHCGBPK_00269	CDS	237				hypothetical protein
+FOHCGBPK_00270	CDS	1227				hypothetical protein
+FOHCGBPK_00271	CDS	1086	thiK	2.7.1.89		Thiamine kinase
+FOHCGBPK_00272	CDS	867	iolE	4.2.1.44		Inosose dehydratase
+FOHCGBPK_00273	CDS	840				hypothetical protein
+FOHCGBPK_00274	CDS	240				hypothetical protein
+FOHCGBPK_00275	CDS	375				hypothetical protein
+FOHCGBPK_00276	CDS	1464	opuE_1		COG0591	Osmoregulated proline transporter OpuE
+FOHCGBPK_00277	CDS	585				hypothetical protein
+FOHCGBPK_00278	CDS	849		3.6.1.1		Cobalt-dependent inorganic pyrophosphatase
+FOHCGBPK_00279	CDS	648	xylB_2	2.7.1.17	COG1070	Xylulose kinase
+FOHCGBPK_00280	CDS	624				hypothetical protein
+FOHCGBPK_00281	CDS	1194				hypothetical protein
+FOHCGBPK_00282	CDS	264				hypothetical protein
+FOHCGBPK_00283	CDS	504				hypothetical protein
+FOHCGBPK_00284	CDS	447				hypothetical protein
+FOHCGBPK_00285	CDS	933				hypothetical protein
+FOHCGBPK_00286	CDS	861	speE	2.5.1.16	COG0421	Polyamine aminopropyltransferase
+FOHCGBPK_00287	CDS	411				hypothetical protein
+FOHCGBPK_00288	CDS	819	hom	1.1.1.3	COG0460	Homoserine dehydrogenase
+FOHCGBPK_00289	CDS	522	fabD	2.3.1.39		Malonyl CoA-acyl carrier protein transacylase
+FOHCGBPK_00290	CDS	741	fabG	1.1.1.100		3-oxoacyl-[acyl-carrier-protein] reductase FabG
+FOHCGBPK_00291	CDS	330				hypothetical protein
+FOHCGBPK_00292	CDS	501				hypothetical protein
+FOHCGBPK_00293	CDS	888				hypothetical protein
+FOHCGBPK_00294	CDS	219				hypothetical protein
+FOHCGBPK_00295	CDS	432				hypothetical protein
+FOHCGBPK_00296	CDS	330	ogt	2.1.1.63	COG0350	Methylated-DNA--protein-cysteine methyltransferase
+FOHCGBPK_00297	CDS	1278				hypothetical protein
+FOHCGBPK_00298	CDS	432				hypothetical protein
+FOHCGBPK_00299	CDS	1095				hypothetical protein
+FOHCGBPK_00300	CDS	693	rbn	3.1.26.11		Ribonuclease BN
+FOHCGBPK_00301	CDS	822	araQ_3		COG0395	L-arabinose transport system permease protein AraQ
+FOHCGBPK_00302	CDS	675	ugpA		COG1175	sn-glycerol-3-phosphate transport system permease protein UgpA
+FOHCGBPK_00303	CDS	777				hypothetical protein
+FOHCGBPK_00304	CDS	459	melC		COG0395	Melibiose/raffinose/stachyose import permease protein MelC
+FOHCGBPK_00305	CDS	333				hypothetical protein
+FOHCGBPK_00306	CDS	357				hypothetical protein
+FOHCGBPK_00307	CDS	639				hypothetical protein
+FOHCGBPK_00308	CDS	1332	btuD	7.6.2.8		Vitamin B12 import ATP-binding protein BtuD
+FOHCGBPK_00309	CDS	1440	proS	6.1.1.15	COG0442	Proline--tRNA ligase
+FOHCGBPK_00310	CDS	615				hypothetical protein
+FOHCGBPK_00311	CDS	474	vsr_1	3.1.-.-	COG3727	Very short patch repair protein
+FOHCGBPK_00312	CDS	261	minD		COG2894	Septum site-determining protein MinD
+FOHCGBPK_00313	CDS	633				hypothetical protein
+FOHCGBPK_00314	CDS	459				hypothetical protein
+FOHCGBPK_00315	CDS	219				hypothetical protein
+FOHCGBPK_00316	CDS	1068				hypothetical protein
+FOHCGBPK_00317	CDS	636				hypothetical protein
+FOHCGBPK_00318	CDS	1329				hypothetical protein
+FOHCGBPK_00319	CDS	642				hypothetical protein
+FOHCGBPK_00320	CDS	1317	rarA		COG2256	Replication-associated recombination protein A
+FOHCGBPK_00321	CDS	219				hypothetical protein
+FOHCGBPK_00322	CDS	1122	sasA_2	2.7.-.-		Adaptive-response sensory-kinase SasA
+FOHCGBPK_00323	CDS	192				hypothetical protein
+FOHCGBPK_00324	CDS	780	ycfH	3.1.-.-	COG0084	putative metal-dependent hydrolase YcfH
+FOHCGBPK_00325	CDS	864	rsmA	2.1.1.182	COG0030	Ribosomal RNA small subunit methyltransferase A
+FOHCGBPK_00326	CDS	291				hypothetical protein
+FOHCGBPK_00327	CDS	1161	codB		COG1457	Cytosine permease
+FOHCGBPK_00328	CDS	378	thiD	2.7.1.49		Hydroxymethylpyrimidine/phosphomethylpyrimidine kinase
+FOHCGBPK_00329	CDS	1119	guaD	3.5.4.3	COG0402	Guanine deaminase
+FOHCGBPK_00330	CDS	168				hypothetical protein
+FOHCGBPK_00331	CDS	210				hypothetical protein
+FOHCGBPK_00332	CDS	1683				hypothetical protein
+FOHCGBPK_00333	CDS	102				hypothetical protein
+FOHCGBPK_00334	CDS	627				hypothetical protein
+FOHCGBPK_00335	CDS	807				ISL3 family transposase IS652
+FOHCGBPK_00336	CDS	144				hypothetical protein
+FOHCGBPK_00337	CDS	234				hypothetical protein
+FOHCGBPK_00338	CDS	657				hypothetical protein
+FOHCGBPK_00339	CDS	300				hypothetical protein
+FOHCGBPK_00340	CDS	444				hypothetical protein
+FOHCGBPK_00341	tRNA	73				tRNA-Gly(gcc)
+FOHCGBPK_00342	tRNA	71				tRNA-Gly(tcc)
+FOHCGBPK_00343	tRNA	74				tRNA-Phe(gaa)
+FOHCGBPK_00344	CDS	1386	rpoN		COG1508	RNA polymerase sigma-54 factor
+FOHCGBPK_00345	CDS	1554				hypothetical protein
+FOHCGBPK_00346	CDS	429				hypothetical protein
+FOHCGBPK_00347	CDS	930				IS1595 family transposase ISCco3
+FOHCGBPK_00348	CDS	456				hypothetical protein
+FOHCGBPK_00349	CDS	864	fba	4.1.2.13		Fructose-bisphosphate aldolase
+FOHCGBPK_00350	CDS	330				hypothetical protein
+FOHCGBPK_00351	CDS	294				hypothetical protein
+FOHCGBPK_00352	tRNA	76				tRNA-Arg(acg)
+FOHCGBPK_00353	CDS	816				hypothetical protein
+FOHCGBPK_00354	CDS	1629				hypothetical protein
+FOHCGBPK_00355	CDS	441				hypothetical protein
+FOHCGBPK_00356	CDS	1077				hypothetical protein
+FOHCGBPK_00357	CDS	627				hypothetical protein
+FOHCGBPK_00358	CDS	609				hypothetical protein
+FOHCGBPK_00359	CDS	651				hypothetical protein
+FOHCGBPK_00360	CDS	330				hypothetical protein
+FOHCGBPK_00361	CDS	444				hypothetical protein
+FOHCGBPK_00362	CDS	579				hypothetical protein
+FOHCGBPK_00363	CDS	171				hypothetical protein
+FOHCGBPK_00364	CDS	198				hypothetical protein
+FOHCGBPK_00365	CDS	537	cof	3.6.1.-		HMP-PP phosphatase
+FOHCGBPK_00366	CDS	1389				hypothetical protein
+FOHCGBPK_00367	CDS	513				hypothetical protein
+FOHCGBPK_00368	CDS	345				hypothetical protein
+FOHCGBPK_00369	CDS	729	rsxB	7.-.-.-		Ion-translocating oxidoreductase complex subunit B
+FOHCGBPK_00370	CDS	666				hypothetical protein
+FOHCGBPK_00371	CDS	615				hypothetical protein
+FOHCGBPK_00372	CDS	891				hypothetical protein
+FOHCGBPK_00373	CDS	1401				hypothetical protein
+FOHCGBPK_00374	CDS	651				hypothetical protein
+FOHCGBPK_00375	CDS	1299	pepV	3.4.13.-		Beta-Ala-Xaa dipeptidase
+FOHCGBPK_00376	CDS	315	murL	5.1.1.23		UDP-N-acetyl-alpha-D-muramoyl-L-alanyl-L-glutamate epimerase
+FOHCGBPK_00377	CDS	102				hypothetical protein
+FOHCGBPK_00378	CDS	702	kdpE		COG0745	Transcriptional regulatory protein KdpE
+FOHCGBPK_00379	CDS	1962	kdpD	2.7.13.3	COG2205	Sensor protein KdpD
+FOHCGBPK_00380	CDS	267				hypothetical protein
+FOHCGBPK_00381	CDS	237				hypothetical protein
+FOHCGBPK_00382	CDS	825				hypothetical protein
+FOHCGBPK_00383	CDS	585	oppD_1		COG0444	Oligopeptide transport ATP-binding protein OppD
+FOHCGBPK_00384	CDS	987	oppF_2		COG4608	Oligopeptide transport ATP-binding protein OppF
+FOHCGBPK_00385	CDS	360	carE	1.3.1.108	COG2025	Caffeyl-CoA reductase-Etf complex subunit CarE
+FOHCGBPK_00386	CDS	897	gloB	3.1.2.6		Hydroxyacylglutathione hydrolase
+FOHCGBPK_00387	CDS	666	dctM_2		COG1593	C4-dicarboxylate TRAP transporter large permease protein DctM
+FOHCGBPK_00388	CDS	2232	yoaB	7.2.2.10	COG0474	Calcium-transporting ATPase 1
+FOHCGBPK_00389	CDS	915	dgoD	4.2.1.6	COG4948	D-galactonate dehydratase
+FOHCGBPK_00390	CDS	846	rsmI	2.1.1.198	COG0313	Ribosomal RNA small subunit methyltransferase I
+FOHCGBPK_00391	CDS	189				hypothetical protein
+FOHCGBPK_00392	CDS	777	yfiC	2.1.1.223		tRNA1(Val) (adenine(37)-N6)-methyltransferase
+FOHCGBPK_00393	CDS	726				hypothetical protein
+FOHCGBPK_00394	CDS	318				hypothetical protein
+FOHCGBPK_00395	CDS	957				hypothetical protein
+FOHCGBPK_00396	CDS	915	mscS		COG0668	Small-conductance mechanosensitive channel
+FOHCGBPK_00397	CDS	900	dctM_3		COG1593	C4-dicarboxylate TRAP transporter large permease protein DctM
+FOHCGBPK_00398	CDS	996	ruvB	3.6.4.12	COG2255	Holliday junction ATP-dependent DNA helicase RuvB
+FOHCGBPK_00399	CDS	1341	glgX	3.2.1.196		Glycogen debranching enzyme
+FOHCGBPK_00400	CDS	699				hypothetical protein
+FOHCGBPK_00401	CDS	1089				hypothetical protein
+FOHCGBPK_00402	CDS	498				hypothetical protein
+FOHCGBPK_00403	CDS	783	kduD	1.1.1.127		2-dehydro-3-deoxy-D-gluconate 5-dehydrogenase
+FOHCGBPK_00404	CDS	585	bacC	1.1.1.385		Dihydroanticapsin 7-dehydrogenase
+FOHCGBPK_00405	CDS	906				hypothetical protein
+FOHCGBPK_00406	CDS	501				hypothetical protein
+FOHCGBPK_00407	CDS	1536	opuE_2		COG0591	Osmoregulated proline transporter OpuE
+FOHCGBPK_00408	CDS	837	apbC		COG0489	Iron-sulfur cluster carrier protein
+FOHCGBPK_00409	CDS	339				hypothetical protein
+FOHCGBPK_00410	CDS	576				hypothetical protein
+FOHCGBPK_00411	CDS	264				hypothetical protein
+FOHCGBPK_00412	CDS	723	puuD	3.5.1.94	COG2071	Gamma-glutamyl-gamma-aminobutyrate hydrolase PuuD
+FOHCGBPK_00413	CDS	903	rbsK	2.7.1.15		Ribokinase
+FOHCGBPK_00414	CDS	1137	ugpB		COG1653	sn-glycerol-3-phosphate-binding periplasmic protein UgpB
+FOHCGBPK_00415	CDS	1227	acdA	1.3.99.-	COG1960	Acyl-CoA dehydrogenase
+FOHCGBPK_00416	CDS	126				hypothetical protein
+FOHCGBPK_00417	CDS	210				hypothetical protein
+FOHCGBPK_00418	CDS	1362	irtA	3.6.3.-	COG1132	Iron import ATP-binding/permease protein IrtA
+FOHCGBPK_00419	CDS	1626	nfdA	3.5.1.91		N-substituted formamide deformylase
+FOHCGBPK_00420	CDS	1278				hypothetical protein
+FOHCGBPK_00421	CDS	918				hypothetical protein
+FOHCGBPK_00422	CDS	156				hypothetical protein
+FOHCGBPK_00423	CDS	225				hypothetical protein
+FOHCGBPK_00424	CDS	174				hypothetical protein
+FOHCGBPK_00425	CDS	1170				hypothetical protein
+FOHCGBPK_00426	CDS	438		6.2.1.3	COG0318	Long-chain-fatty-acid--CoA ligase FadD13
+FOHCGBPK_00427	CDS	465	mgsA	4.2.3.3	COG1803	Methylglyoxal synthase
+FOHCGBPK_00428	CDS	411				hypothetical protein
+FOHCGBPK_00429	CDS	216				hypothetical protein
+FOHCGBPK_00430	CDS	1050				hypothetical protein
+FOHCGBPK_00431	CDS	663				hypothetical protein
+FOHCGBPK_00432	CDS	453	dtd	3.1.1.96	COG1490	D-aminoacyl-tRNA deacylase
+FOHCGBPK_00433	CDS	408				hypothetical protein
+FOHCGBPK_00434	CDS	1167				hypothetical protein
+FOHCGBPK_00435	CDS	849	yqeN		COG1466	putative protein YqeN
+FOHCGBPK_00436	CDS	828				hypothetical protein
+FOHCGBPK_00437	CDS	540				hypothetical protein
+FOHCGBPK_00438	CDS	444				hypothetical protein
+FOHCGBPK_00439	CDS	459				hypothetical protein
+FOHCGBPK_00440	CDS	342				hypothetical protein
+FOHCGBPK_00441	CDS	582				hypothetical protein
+FOHCGBPK_00442	CDS	1053				hypothetical protein
+FOHCGBPK_00443	CDS	438	nhaP2			K(+)/H(+) antiporter NhaP2
+FOHCGBPK_00444	CDS	1317			COG3385	IS4 family transposase ISSsu2
+FOHCGBPK_00445	CDS	288				hypothetical protein
+FOHCGBPK_00446	CDS	363				hypothetical protein
+FOHCGBPK_00447	CDS	147				hypothetical protein
+FOHCGBPK_00448	CDS	219				hypothetical protein
+FOHCGBPK_00449	CDS	1317	feoB		COG0370	Fe(2+) transporter FeoB
+FOHCGBPK_00450	CDS	405				hypothetical protein
+FOHCGBPK_00451	CDS	1092				hypothetical protein
+FOHCGBPK_00452	CDS	375				hypothetical protein
+FOHCGBPK_00453	CDS	1119				hypothetical protein
+FOHCGBPK_00454	CDS	1161				hypothetical protein
+FOHCGBPK_00455	CDS	768				hypothetical protein
+FOHCGBPK_00456	CDS	558				hypothetical protein
+FOHCGBPK_00457	CDS	165				hypothetical protein
+FOHCGBPK_00458	CDS	1386	glgA	2.4.1.21	COG0297	Glycogen synthase
+FOHCGBPK_00459	CDS	522	spo0A			Stage 0 sporulation protein A
+FOHCGBPK_00460	CDS	1371	glgB	2.4.1.18		1,4-alpha-glucan branching enzyme GlgB
+FOHCGBPK_00461	CDS	561				putative response regulatory protein
+FOHCGBPK_00462	CDS	1818				hypothetical protein
+FOHCGBPK_00463	CDS	702	argH	4.3.2.1	COG0165	Argininosuccinate lyase
+FOHCGBPK_00464	CDS	207				hypothetical protein
+FOHCGBPK_00465	CDS	918				hypothetical protein
+FOHCGBPK_00466	CDS	93				hypothetical protein
+FOHCGBPK_00467	CDS	435				hypothetical protein
+FOHCGBPK_00468	CDS	303	atpF_1			V-type ATP synthase subunit F
+FOHCGBPK_00469	CDS	888	kdpB	7.2.2.6		Potassium-transporting ATPase ATP-binding subunit
+FOHCGBPK_00470	CDS	345				hypothetical protein
+FOHCGBPK_00471	CDS	1155				hypothetical protein
+FOHCGBPK_00472	CDS	840				hypothetical protein
+FOHCGBPK_00473	CDS	240				hypothetical protein
+FOHCGBPK_00474	CDS	201				hypothetical protein
+FOHCGBPK_00475	CDS	867	gsiD_1		COG1173	Glutathione transport system permease protein GsiD
+FOHCGBPK_00476	CDS	870	dppB_1		COG0601	Dipeptide transport system permease protein DppB
+FOHCGBPK_00477	CDS	1068	moeA	2.10.1.1		Molybdopterin molybdenumtransferase
+FOHCGBPK_00478	CDS	1185				hypothetical protein
+FOHCGBPK_00479	CDS	180				hypothetical protein
+FOHCGBPK_00480	CDS	360	clpB		COG0542	Chaperone protein ClpB
+FOHCGBPK_00481	CDS	219				hypothetical protein
+FOHCGBPK_00482	CDS	360	ziaR			Transcriptional repressor SmtB 
+FOHCGBPK_00483	CDS	726				hypothetical protein
+FOHCGBPK_00484	CDS	909				hypothetical protein
+FOHCGBPK_00485	CDS	492				hypothetical protein
+FOHCGBPK_00486	CDS	702	alsE	5.1.3.-	COG0036	D-allulose-6-phosphate 3-epimerase
+FOHCGBPK_00487	CDS	489		1.1.1.301		D-arabitol-phosphate dehydrogenase
+FOHCGBPK_00488	CDS	810				hypothetical protein
+FOHCGBPK_00489	CDS	768	soj_2	3.6.-.-	COG1192	Sporulation initiation inhibitor protein Soj
+FOHCGBPK_00490	CDS	1557				hypothetical protein
+FOHCGBPK_00491	CDS	381	ssnA	3.-.-.-	COG0402	Putative aminohydrolase SsnA
+FOHCGBPK_00492	CDS	705				hypothetical protein
+FOHCGBPK_00493	CDS	396				hypothetical protein
+FOHCGBPK_00494	CDS	363				hypothetical protein
+FOHCGBPK_00495	CDS	576	nusB			Transcription antitermination protein NusB
+FOHCGBPK_00496	CDS	381				hypothetical protein
+FOHCGBPK_00497	CDS	378				hypothetical protein
+FOHCGBPK_00498	CDS	732				hypothetical protein
+FOHCGBPK_00499	CDS	906	cmpR		COG0583	HTH-type transcriptional activator CmpR
+FOHCGBPK_00500	CDS	369				hypothetical protein
+FOHCGBPK_00501	CDS	579				hypothetical protein
+FOHCGBPK_00502	CDS	396				hypothetical protein
+FOHCGBPK_00503	CDS	969	dppB_2		COG0601	Dipeptide transport system permease protein DppB
+FOHCGBPK_00504	CDS	906	gsiD_2		COG1173	Glutathione transport system permease protein GsiD
+FOHCGBPK_00505	CDS	222				hypothetical protein
+FOHCGBPK_00506	CDS	318				hypothetical protein
+FOHCGBPK_00507	CDS	219				hypothetical protein
+FOHCGBPK_00508	CDS	561				hypothetical protein
+FOHCGBPK_00509	CDS	195				hypothetical protein
+FOHCGBPK_00510	CDS	717				hypothetical protein
+FOHCGBPK_00511	CDS	459				hypothetical protein
+FOHCGBPK_00512	CDS	486				hypothetical protein
+FOHCGBPK_00513	CDS	468				hypothetical protein
+FOHCGBPK_00514	CDS	702				hypothetical protein
+FOHCGBPK_00515	CDS	867	xerD_2			Tyrosine recombinase XerD
+FOHCGBPK_00516	CDS	492				hypothetical protein
+FOHCGBPK_00517	CDS	942	menE	6.2.1.26		2-succinylbenzoate--CoA ligase
+FOHCGBPK_00518	CDS	1155	carC	1.3.1.108	COG1960	Caffeyl-CoA reductase-Etf complex subunit CarC
+FOHCGBPK_00519	CDS	309				hypothetical protein
+FOHCGBPK_00520	CDS	396				hypothetical protein
+FOHCGBPK_00521	CDS	174	argR			Arginine repressor
+FOHCGBPK_00522	CDS	804		4.1.2.42		D-threonine aldolase
+FOHCGBPK_00523	CDS	1245	pknD_2	2.7.11.1		Serine/threonine-protein kinase PknD
+FOHCGBPK_00524	CDS	594				hypothetical protein
+FOHCGBPK_00525	CDS	291				hypothetical protein
+FOHCGBPK_00526	CDS	246	atpF_2			ATP synthase subunit b
+FOHCGBPK_00527	CDS	507	atpH		COG0712	ATP synthase subunit delta
+FOHCGBPK_00528	CDS	1782				hypothetical protein
+FOHCGBPK_00529	CDS	279				hypothetical protein
+FOHCGBPK_00530	CDS	3033	mfd	3.6.4.-		Transcription-repair-coupling factor
+FOHCGBPK_00531	CDS	840				hypothetical protein
+FOHCGBPK_00532	CDS	366				hypothetical protein
+FOHCGBPK_00533	CDS	588				hypothetical protein
+FOHCGBPK_00534	CDS	1602	alaS	6.1.1.7	COG0013	Alanine--tRNA ligase
+FOHCGBPK_00535	CDS	429	rqcH		COG1293	Rqc2 RqcH
+FOHCGBPK_00536	CDS	888				hypothetical protein
+FOHCGBPK_00537	CDS	1266			COG1132	putative ABC transporter ATP-binding protein
+FOHCGBPK_00538	CDS	981	mepA			Multidrug export protein MepA
+FOHCGBPK_00539	CDS	1395	yeeO		COG0534	putative FMN/FAD exporter YeeO
+FOHCGBPK_00540	CDS	738				hypothetical protein
+FOHCGBPK_00541	CDS	444				hypothetical protein
+FOHCGBPK_00542	CDS	1269				hypothetical protein
+FOHCGBPK_00543	CDS	1281	pyrC	3.5.2.3	COG0044	Dihydroorotase
+FOHCGBPK_00544	CDS	1425	yheI	3.6.3.-	COG1132	putative multidrug resistance ABC transporter ATP-binding/permease protein YheI
+FOHCGBPK_00545	CDS	357			COG0718	Nucleoid-associated protein
+FOHCGBPK_00546	CDS	867				hypothetical protein
+FOHCGBPK_00547	CDS	792				hypothetical protein
+FOHCGBPK_00548	CDS	603				hypothetical protein
+FOHCGBPK_00549	CDS	642	gntR			putative D-xylose utilization operon transcriptional repressor
+FOHCGBPK_00550	CDS	141				hypothetical protein
+FOHCGBPK_00551	CDS	384				hypothetical protein
+FOHCGBPK_00552	CDS	357				hypothetical protein
+FOHCGBPK_00553	CDS	810				hypothetical protein
+FOHCGBPK_00554	CDS	468				hypothetical protein
+FOHCGBPK_00555	CDS	1065	apbE	2.7.1.180	COG1477	FAD:protein FMN transferase
+FOHCGBPK_00556	CDS	921				hypothetical protein
+FOHCGBPK_00557	CDS	468				hypothetical protein
+FOHCGBPK_00558	CDS	597				hypothetical protein
+FOHCGBPK_00559	CDS	369				hypothetical protein
+FOHCGBPK_00560	CDS	816				hypothetical protein
+FOHCGBPK_00561	CDS	975	oppF_3		COG4608	Oligopeptide transport ATP-binding protein OppF
+FOHCGBPK_00562	CDS	1014	oppD_2		COG0444	Oligopeptide transport ATP-binding protein OppD
+FOHCGBPK_00563	CDS	2241				hypothetical protein
+FOHCGBPK_00564	CDS	1308				hypothetical protein
+FOHCGBPK_00565	CDS	441	ptsI	2.7.3.9	COG1080	Phosphoenolpyruvate-protein phosphotransferase
+FOHCGBPK_00566	CDS	966		3.2.1.54	COG0366	Cyclomaltodextrinase
+FOHCGBPK_00567	CDS	1608	rssB			Regulator of RpoS
+FOHCGBPK_00568	CDS	1035				hypothetical protein
+FOHCGBPK_00569	CDS	417	vsr_2	3.1.-.-	COG3727	Very short patch repair protein
+FOHCGBPK_00570	CDS	504				hypothetical protein
+FOHCGBPK_00571	CDS	303	atpD1	7.1.2.2		ATP synthase subunit beta 1
+FOHCGBPK_00572	CDS	357	atpC_2		COG0355	ATP synthase epsilon chain
+FOHCGBPK_00573	CDS	435				hypothetical protein
+FOHCGBPK_00574	CDS	411				hypothetical protein
+FOHCGBPK_00575	CDS	1236	argJ		COG1364	Arginine biosynthesis bifunctional protein ArgJ
+FOHCGBPK_00576	CDS	453	ypeA	2.3.1.-	COG0456	Acetyltransferase YpeA
+FOHCGBPK_00577	CDS	555	argC	1.2.1.38	COG0002	N-acetyl-gamma-glutamyl-phosphate reductase
+FOHCGBPK_00578	CDS	999	dppD		COG0444	Dipeptide transport ATP-binding protein DppD
+FOHCGBPK_00579	CDS	336	dppC_2		COG1173	Dipeptide transport system permease protein DppC
+FOHCGBPK_00580	CDS	567				hypothetical protein
+FOHCGBPK_00581	CDS	1194				hypothetical protein
+FOHCGBPK_00582	CDS	1233				hypothetical protein
+FOHCGBPK_00583	CDS	471				hypothetical protein
+FOHCGBPK_00584	CDS	399				hypothetical protein
+FOHCGBPK_00585	CDS	393				hypothetical protein
+FOHCGBPK_00586	CDS	945				hypothetical protein
+FOHCGBPK_00587	CDS	240				hypothetical protein
+FOHCGBPK_00588	CDS	1713				hypothetical protein
+FOHCGBPK_00589	CDS	1416				hypothetical protein
+FOHCGBPK_00590	CDS	849	ycsE	3.1.3.104		5-amino-6-(5-phospho-D-ribitylamino)uracil phosphatase YcsE
+FOHCGBPK_00591	CDS	486				hypothetical protein

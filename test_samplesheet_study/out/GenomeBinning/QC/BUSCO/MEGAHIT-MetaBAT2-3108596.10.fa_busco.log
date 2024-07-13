@@ -1,0 +1,700 @@
+2024-07-11 00:09:29 INFO:	***** Start a BUSCO v5.4.3 analysis, current time: 07/11/2024 00:09:29 *****
+2024-07-11 00:09:29 INFO:	Configuring BUSCO with local environment
+2024-07-11 00:09:29 INFO:	Mode is genome
+2024-07-11 00:09:29 INFO:	Downloading information on latest versions of BUSCO data...
+2024-07-11 00:09:39 INFO:	Input file is /home/dcallan/work/a3/752f62eced88f49204dba80724ef1f/MEGAHIT-MetaBAT2-3108596.10.fa
+2024-07-11 00:09:39 INFO:	No lineage specified. Running lineage auto selector.
+
+2024-07-11 00:09:39 INFO:	***** Starting Auto Select Lineage *****
+	This process runs BUSCO on the generic lineage datasets for the domains archaea, bacteria and eukaryota. Once the optimal domain is selected, BUSCO automatically attempts to find the most appropriate BUSCO dataset to use based on phylogenetic placement.
+	--auto-lineage-euk and --auto-lineage-prok are also available if you know your input assembly is, or is not, an eukaryote. See the user guide for more information.
+	A reminder: Busco evaluations are valid when an appropriate dataset is used, i.e., the dataset belongs to the lineage of the species to test. Because of overlapping markers/spurious matches among domains, busco matches in another domain do not necessarily mean that your genome/proteome contains sequences from this domain. However, a high busco score in multiple domains might help you identify possible contaminations.
+2024-07-11 00:09:39 INFO:	Downloading file 'https://busco-data.ezlab.org/v5/data/lineages/archaea_odb10.2024-01-08.tar.gz'
+2024-07-11 00:09:43 INFO:	Decompressing file '/home/dcallan/work/a3/752f62eced88f49204dba80724ef1f/busco_downloads/lineages/archaea_odb10.tar.gz'
+2024-07-11 00:09:44 INFO:	Running BUSCO using lineage dataset archaea_odb10 (prokaryota, 2024-01-08)
+2024-07-11 00:09:44 INFO:	Running 1 job(s) on bbtools, starting at 07/11/2024 00:09:44
+2024-07-11 00:09:45 INFO:	[bbtools]	1 of 1 task(s) completed
+2024-07-11 00:09:45 INFO:	***** Run Prodigal on input to predict and extract genes *****
+2024-07-11 00:09:45 INFO:	Running Prodigal with genetic code 11 in single mode
+2024-07-11 00:09:45 INFO:	Running 1 job(s) on prodigal, starting at 07/11/2024 00:09:45
+2024-07-11 00:09:47 INFO:	[prodigal]	1 of 1 task(s) completed
+2024-07-11 00:09:47 INFO:	Genetic code 11 selected as optimal
+2024-07-11 00:09:47 INFO:	***** Run HMMER on gene sequences *****
+2024-07-11 00:09:47 INFO:	Running 194 job(s) on hmmsearch, starting at 07/11/2024 00:09:47
+2024-07-11 00:09:48 INFO:	[hmmsearch]	20 of 194 task(s) completed
+2024-07-11 00:09:48 INFO:	[hmmsearch]	39 of 194 task(s) completed
+2024-07-11 00:09:48 INFO:	[hmmsearch]	39 of 194 task(s) completed
+2024-07-11 00:09:48 INFO:	[hmmsearch]	59 of 194 task(s) completed
+2024-07-11 00:09:49 INFO:	[hmmsearch]	78 of 194 task(s) completed
+2024-07-11 00:09:49 INFO:	[hmmsearch]	97 of 194 task(s) completed
+2024-07-11 00:09:49 INFO:	[hmmsearch]	117 of 194 task(s) completed
+2024-07-11 00:09:49 INFO:	[hmmsearch]	136 of 194 task(s) completed
+2024-07-11 00:09:49 INFO:	[hmmsearch]	156 of 194 task(s) completed
+2024-07-11 00:09:49 INFO:	[hmmsearch]	156 of 194 task(s) completed
+2024-07-11 00:09:49 INFO:	[hmmsearch]	175 of 194 task(s) completed
+2024-07-11 00:09:49 INFO:	[hmmsearch]	194 of 194 task(s) completed
+2024-07-11 00:09:49 WARNING:	BUSCO did not find any match. Make sure to check the log files if this is unexpected.
+2024-07-11 00:09:49 INFO:	Results:	C:0.0%[S:0.0%,D:0.0%],F:0.0%,M:100.0%,n:194	   
+
+2024-07-11 00:09:49 INFO:	Downloading file 'https://busco-data.ezlab.org/v5/data/lineages/bacteria_odb10.2024-01-08.tar.gz'
+2024-07-11 00:09:50 INFO:	Decompressing file '/home/dcallan/work/a3/752f62eced88f49204dba80724ef1f/busco_downloads/lineages/bacteria_odb10.tar.gz'
+2024-07-11 00:09:51 INFO:	Running BUSCO using lineage dataset bacteria_odb10 (prokaryota, 2024-01-08)
+2024-07-11 00:09:51 INFO:	Running 1 job(s) on bbtools, starting at 07/11/2024 00:09:51
+2024-07-11 00:09:52 INFO:	[bbtools]	1 of 1 task(s) completed
+2024-07-11 00:09:52 INFO:	***** Run Prodigal on input to predict and extract genes *****
+2024-07-11 00:09:52 INFO:	Genetic code 11 selected as optimal
+2024-07-11 00:09:52 INFO:	***** Run HMMER on gene sequences *****
+2024-07-11 00:09:52 INFO:	Running 124 job(s) on hmmsearch, starting at 07/11/2024 00:09:52
+2024-07-11 00:09:54 INFO:	[hmmsearch]	13 of 124 task(s) completed
+2024-07-11 00:09:54 INFO:	[hmmsearch]	25 of 124 task(s) completed
+2024-07-11 00:09:54 INFO:	[hmmsearch]	38 of 124 task(s) completed
+2024-07-11 00:09:54 INFO:	[hmmsearch]	50 of 124 task(s) completed
+2024-07-11 00:09:54 INFO:	[hmmsearch]	63 of 124 task(s) completed
+2024-07-11 00:09:54 INFO:	[hmmsearch]	75 of 124 task(s) completed
+2024-07-11 00:09:54 INFO:	[hmmsearch]	87 of 124 task(s) completed
+2024-07-11 00:09:54 INFO:	[hmmsearch]	100 of 124 task(s) completed
+2024-07-11 00:09:54 INFO:	[hmmsearch]	112 of 124 task(s) completed
+2024-07-11 00:09:54 INFO:	[hmmsearch]	124 of 124 task(s) completed
+2024-07-11 00:09:54 WARNING:	BUSCO did not find any match. Make sure to check the log files if this is unexpected.
+2024-07-11 00:09:54 INFO:	Results:	C:0.0%[S:0.0%,D:0.0%],F:0.0%,M:100.0%,n:124	   
+
+2024-07-11 00:09:54 INFO:	Downloading file 'https://busco-data.ezlab.org/v5/data/lineages/eukaryota_odb10.2024-01-08.tar.gz'
+2024-07-11 00:09:57 INFO:	Decompressing file '/home/dcallan/work/a3/752f62eced88f49204dba80724ef1f/busco_downloads/lineages/eukaryota_odb10.tar.gz'
+2024-07-11 00:09:59 INFO:	Running BUSCO using lineage dataset eukaryota_odb10 (eukaryota, 2024-01-08)
+2024-07-11 00:09:59 INFO:	Running 1 job(s) on bbtools, starting at 07/11/2024 00:09:59
+2024-07-11 00:10:00 INFO:	[bbtools]	1 of 1 task(s) completed
+2024-07-11 00:10:02 INFO:	Running 1 job(s) on metaeuk, starting at 07/11/2024 00:10:02
+2024-07-11 00:10:19 INFO:	[metaeuk]	1 of 1 task(s) completed
+2024-07-11 00:10:19 INFO:	***** Run HMMER on gene sequences *****
+2024-07-11 00:10:19 INFO:	Running 255 job(s) on hmmsearch, starting at 07/11/2024 00:10:19
+2024-07-11 00:10:21 INFO:	[hmmsearch]	26 of 255 task(s) completed
+2024-07-11 00:10:21 INFO:	[hmmsearch]	51 of 255 task(s) completed
+2024-07-11 00:10:21 INFO:	[hmmsearch]	77 of 255 task(s) completed
+2024-07-11 00:10:21 INFO:	[hmmsearch]	77 of 255 task(s) completed
+2024-07-11 00:10:21 INFO:	[hmmsearch]	102 of 255 task(s) completed
+2024-07-11 00:10:21 INFO:	[hmmsearch]	128 of 255 task(s) completed
+2024-07-11 00:10:21 INFO:	[hmmsearch]	153 of 255 task(s) completed
+2024-07-11 00:10:21 INFO:	[hmmsearch]	179 of 255 task(s) completed
+2024-07-11 00:10:21 INFO:	[hmmsearch]	204 of 255 task(s) completed
+2024-07-11 00:10:21 INFO:	[hmmsearch]	230 of 255 task(s) completed
+2024-07-11 00:10:22 INFO:	[hmmsearch]	255 of 255 task(s) completed
+2024-07-11 00:10:22 WARNING:	BUSCO did not find any match. Make sure to check the log files if this is unexpected.
+2024-07-11 00:10:22 INFO:	Results:	C:0.0%[S:0.0%,D:0.0%],F:0.0%,M:100.0%,n:255	   
+
+2024-07-11 00:10:22 INFO:	Extracting missing and fragmented buscos from the file refseq_db.faa...
+2024-07-11 00:10:33 INFO:	Running 1 job(s) on metaeuk, starting at 07/11/2024 00:10:33
+2024-07-11 00:10:55 INFO:	[metaeuk]	1 of 1 task(s) completed
+2024-07-11 00:10:55 INFO:	***** Run HMMER on gene sequences *****
+2024-07-11 00:10:55 INFO:	Running 255 job(s) on hmmsearch, starting at 07/11/2024 00:10:55
+2024-07-11 00:10:57 INFO:	[hmmsearch]	26 of 255 task(s) completed
+2024-07-11 00:10:57 INFO:	[hmmsearch]	51 of 255 task(s) completed
+2024-07-11 00:10:57 INFO:	[hmmsearch]	77 of 255 task(s) completed
+2024-07-11 00:10:57 INFO:	[hmmsearch]	77 of 255 task(s) completed
+2024-07-11 00:10:57 INFO:	[hmmsearch]	128 of 255 task(s) completed
+2024-07-11 00:10:57 INFO:	[hmmsearch]	153 of 255 task(s) completed
+2024-07-11 00:10:57 INFO:	[hmmsearch]	179 of 255 task(s) completed
+2024-07-11 00:10:57 INFO:	[hmmsearch]	204 of 255 task(s) completed
+2024-07-11 00:10:57 INFO:	[hmmsearch]	230 of 255 task(s) completed
+2024-07-11 00:10:57 INFO:	[hmmsearch]	255 of 255 task(s) completed
+2024-07-11 00:10:58 WARNING:	BUSCO did not find any match. Make sure to check the log files if this is unexpected.
+2024-07-11 00:10:58 INFO:	Results:	C:0.0%[S:0.0%,D:0.0%],F:0.0%,M:100.0%,n:255	   
+
+2024-07-11 00:10:58 INFO:	Running virus detection pipeline
+2024-07-11 00:10:58 INFO:	Downloading file 'https://busco-data.ezlab.org/v5/data/information/virus_datasets.2020-11-26.txt.tar.gz'
+2024-07-11 00:10:58 INFO:	Download connection problem. Retrying in 10 seconds
+2024-07-11 00:11:08 INFO:	Downloading file 'https://busco-data.ezlab.org/v5/data/information/virus_datasets.2020-11-26.txt.tar.gz'
+2024-07-11 00:11:12 INFO:	Decompressing file '/home/dcallan/work/a3/752f62eced88f49204dba80724ef1f/busco_downloads/information/virus_datasets.2020-11-26.txt.tar.gz'
+2024-07-11 00:11:12 INFO:	Downloading file 'https://busco-data.ezlab.org/v5/data/lineages/alphabaculovirus_odb10.2024-01-08.tar.gz'
+2024-07-11 00:11:18 INFO:	Decompressing file '/home/dcallan/work/a3/752f62eced88f49204dba80724ef1f/busco_downloads/lineages/alphabaculovirus_odb10.tar.gz'
+2024-07-11 00:11:18 INFO:	Running BUSCO using lineage dataset alphabaculovirus_odb10 (viruses, 2024-01-08)
+2024-07-11 00:11:18 INFO:	Running 1 job(s) on bbtools, starting at 07/11/2024 00:11:18
+2024-07-11 00:11:19 INFO:	[bbtools]	1 of 1 task(s) completed
+2024-07-11 00:11:19 INFO:	***** Run Prodigal on input to predict and extract genes *****
+2024-07-11 00:11:19 INFO:	Running Prodigal with genetic code 1 in single mode
+2024-07-11 00:11:19 INFO:	Running 1 job(s) on prodigal, starting at 07/11/2024 00:11:19
+2024-07-11 00:11:20 INFO:	[prodigal]	1 of 1 task(s) completed
+2024-07-11 00:11:20 INFO:	Genetic code 1 selected as optimal
+2024-07-11 00:11:20 INFO:	***** Run HMMER on gene sequences *****
+2024-07-11 00:11:20 INFO:	Running 44 job(s) on hmmsearch, starting at 07/11/2024 00:11:20
+2024-07-11 00:11:22 INFO:	[hmmsearch]	5 of 44 task(s) completed
+2024-07-11 00:11:22 INFO:	[hmmsearch]	14 of 44 task(s) completed
+2024-07-11 00:11:22 INFO:	[hmmsearch]	18 of 44 task(s) completed
+2024-07-11 00:11:22 INFO:	[hmmsearch]	23 of 44 task(s) completed
+2024-07-11 00:11:22 INFO:	[hmmsearch]	27 of 44 task(s) completed
+2024-07-11 00:11:22 INFO:	[hmmsearch]	27 of 44 task(s) completed
+2024-07-11 00:11:22 INFO:	[hmmsearch]	31 of 44 task(s) completed
+2024-07-11 00:11:22 INFO:	[hmmsearch]	31 of 44 task(s) completed
+2024-07-11 00:11:22 INFO:	[hmmsearch]	36 of 44 task(s) completed
+2024-07-11 00:11:22 INFO:	[hmmsearch]	40 of 44 task(s) completed
+2024-07-11 00:11:22 INFO:	[hmmsearch]	44 of 44 task(s) completed
+2024-07-11 00:11:22 WARNING:	BUSCO did not find any match. Make sure to check the log files if this is unexpected.
+2024-07-11 00:11:22 INFO:	Results:	C:0.0%[S:0.0%,D:0.0%],F:0.0%,M:100.0%,n:44	   
+
+2024-07-11 00:11:22 INFO:	Downloading file 'https://busco-data.ezlab.org/v5/data/lineages/alphaherpesvirinae_odb10.2024-01-08.tar.gz'
+2024-07-11 00:11:23 INFO:	Decompressing file '/home/dcallan/work/a3/752f62eced88f49204dba80724ef1f/busco_downloads/lineages/alphaherpesvirinae_odb10.tar.gz'
+2024-07-11 00:11:23 INFO:	Running BUSCO using lineage dataset alphaherpesvirinae_odb10 (viruses, 2024-01-08)
+2024-07-11 00:11:23 INFO:	Running 1 job(s) on bbtools, starting at 07/11/2024 00:11:23
+2024-07-11 00:11:24 INFO:	[bbtools]	1 of 1 task(s) completed
+2024-07-11 00:11:24 INFO:	***** Run Prodigal on input to predict and extract genes *****
+2024-07-11 00:11:24 INFO:	Genetic code 1 selected as optimal
+2024-07-11 00:11:24 INFO:	***** Run HMMER on gene sequences *****
+2024-07-11 00:11:24 INFO:	Running 21 job(s) on hmmsearch, starting at 07/11/2024 00:11:24
+2024-07-11 00:11:26 INFO:	[hmmsearch]	3 of 21 task(s) completed
+2024-07-11 00:11:26 INFO:	[hmmsearch]	5 of 21 task(s) completed
+2024-07-11 00:11:26 INFO:	[hmmsearch]	7 of 21 task(s) completed
+2024-07-11 00:11:26 INFO:	[hmmsearch]	9 of 21 task(s) completed
+2024-07-11 00:11:26 INFO:	[hmmsearch]	11 of 21 task(s) completed
+2024-07-11 00:11:26 INFO:	[hmmsearch]	13 of 21 task(s) completed
+2024-07-11 00:11:26 INFO:	[hmmsearch]	15 of 21 task(s) completed
+2024-07-11 00:11:26 INFO:	[hmmsearch]	17 of 21 task(s) completed
+2024-07-11 00:11:26 INFO:	[hmmsearch]	19 of 21 task(s) completed
+2024-07-11 00:11:26 INFO:	[hmmsearch]	21 of 21 task(s) completed
+2024-07-11 00:11:26 WARNING:	BUSCO did not find any match. Make sure to check the log files if this is unexpected.
+2024-07-11 00:11:26 INFO:	Results:	C:0.0%[S:0.0%,D:0.0%],F:0.0%,M:100.0%,n:21	   
+
+2024-07-11 00:11:26 INFO:	Downloading file 'https://busco-data.ezlab.org/v5/data/lineages/aviadenovirus_odb10.2024-01-08.tar.gz'
+2024-07-11 00:11:27 INFO:	Decompressing file '/home/dcallan/work/a3/752f62eced88f49204dba80724ef1f/busco_downloads/lineages/aviadenovirus_odb10.tar.gz'
+2024-07-11 00:11:27 INFO:	Running BUSCO using lineage dataset aviadenovirus_odb10 (viruses, 2024-01-08)
+2024-07-11 00:11:27 INFO:	Running 1 job(s) on bbtools, starting at 07/11/2024 00:11:27
+2024-07-11 00:11:28 INFO:	[bbtools]	1 of 1 task(s) completed
+2024-07-11 00:11:28 INFO:	***** Run Prodigal on input to predict and extract genes *****
+2024-07-11 00:11:28 INFO:	Genetic code 1 selected as optimal
+2024-07-11 00:11:28 INFO:	***** Run HMMER on gene sequences *****
+2024-07-11 00:11:28 INFO:	Running 13 job(s) on hmmsearch, starting at 07/11/2024 00:11:28
+2024-07-11 00:11:30 INFO:	[hmmsearch]	2 of 13 task(s) completed
+2024-07-11 00:11:30 INFO:	[hmmsearch]	3 of 13 task(s) completed
+2024-07-11 00:11:30 INFO:	[hmmsearch]	4 of 13 task(s) completed
+2024-07-11 00:11:30 INFO:	[hmmsearch]	6 of 13 task(s) completed
+2024-07-11 00:11:30 INFO:	[hmmsearch]	7 of 13 task(s) completed
+2024-07-11 00:11:30 INFO:	[hmmsearch]	8 of 13 task(s) completed
+2024-07-11 00:11:30 INFO:	[hmmsearch]	10 of 13 task(s) completed
+2024-07-11 00:11:30 INFO:	[hmmsearch]	11 of 13 task(s) completed
+2024-07-11 00:11:30 INFO:	[hmmsearch]	12 of 13 task(s) completed
+2024-07-11 00:11:30 INFO:	[hmmsearch]	13 of 13 task(s) completed
+2024-07-11 00:11:30 WARNING:	BUSCO did not find any match. Make sure to check the log files if this is unexpected.
+2024-07-11 00:11:30 INFO:	Results:	C:0.0%[S:0.0%,D:0.0%],F:0.0%,M:100.0%,n:13	   
+
+2024-07-11 00:11:30 INFO:	Downloading file 'https://busco-data.ezlab.org/v5/data/lineages/baculoviridae_odb10.2024-01-08.tar.gz'
+2024-07-11 00:11:31 INFO:	Decompressing file '/home/dcallan/work/a3/752f62eced88f49204dba80724ef1f/busco_downloads/lineages/baculoviridae_odb10.tar.gz'
+2024-07-11 00:11:31 INFO:	Running BUSCO using lineage dataset baculoviridae_odb10 (viruses, 2024-01-08)
+2024-07-11 00:11:31 INFO:	Running 1 job(s) on bbtools, starting at 07/11/2024 00:11:31
+2024-07-11 00:11:32 INFO:	[bbtools]	1 of 1 task(s) completed
+2024-07-11 00:11:32 INFO:	***** Run Prodigal on input to predict and extract genes *****
+2024-07-11 00:11:32 INFO:	Genetic code 1 selected as optimal
+2024-07-11 00:11:32 INFO:	***** Run HMMER on gene sequences *****
+2024-07-11 00:11:32 INFO:	Running 12 job(s) on hmmsearch, starting at 07/11/2024 00:11:32
+2024-07-11 00:11:33 INFO:	[hmmsearch]	2 of 12 task(s) completed
+2024-07-11 00:11:33 INFO:	[hmmsearch]	3 of 12 task(s) completed
+2024-07-11 00:11:33 INFO:	[hmmsearch]	4 of 12 task(s) completed
+2024-07-11 00:11:33 INFO:	[hmmsearch]	5 of 12 task(s) completed
+2024-07-11 00:11:33 INFO:	[hmmsearch]	6 of 12 task(s) completed
+2024-07-11 00:11:33 INFO:	[hmmsearch]	8 of 12 task(s) completed
+2024-07-11 00:11:33 INFO:	[hmmsearch]	9 of 12 task(s) completed
+2024-07-11 00:11:33 INFO:	[hmmsearch]	10 of 12 task(s) completed
+2024-07-11 00:11:33 INFO:	[hmmsearch]	11 of 12 task(s) completed
+2024-07-11 00:11:33 INFO:	[hmmsearch]	12 of 12 task(s) completed
+2024-07-11 00:11:33 WARNING:	BUSCO did not find any match. Make sure to check the log files if this is unexpected.
+2024-07-11 00:11:33 INFO:	Results:	C:0.0%[S:0.0%,D:0.0%],F:0.0%,M:100.0%,n:12	   
+
+2024-07-11 00:11:33 INFO:	Downloading file 'https://busco-data.ezlab.org/v5/data/lineages/bclasvirinae_odb10.2024-01-08.tar.gz'
+2024-07-11 00:11:35 INFO:	Decompressing file '/home/dcallan/work/a3/752f62eced88f49204dba80724ef1f/busco_downloads/lineages/bclasvirinae_odb10.tar.gz'
+2024-07-11 00:11:35 INFO:	Running BUSCO using lineage dataset bclasvirinae_odb10 (viruses, 2024-01-08)
+2024-07-11 00:11:35 INFO:	Running 1 job(s) on bbtools, starting at 07/11/2024 00:11:35
+2024-07-11 00:11:36 INFO:	[bbtools]	1 of 1 task(s) completed
+2024-07-11 00:11:37 INFO:	***** Run Prodigal on input to predict and extract genes *****
+2024-07-11 00:11:37 INFO:	Genetic code 1 selected as optimal
+2024-07-11 00:11:37 INFO:	***** Run HMMER on gene sequences *****
+2024-07-11 00:11:37 INFO:	Running 36 job(s) on hmmsearch, starting at 07/11/2024 00:11:37
+2024-07-11 00:11:38 INFO:	[hmmsearch]	4 of 36 task(s) completed
+2024-07-11 00:11:38 INFO:	[hmmsearch]	8 of 36 task(s) completed
+2024-07-11 00:11:38 INFO:	[hmmsearch]	11 of 36 task(s) completed
+2024-07-11 00:11:38 INFO:	[hmmsearch]	15 of 36 task(s) completed
+2024-07-11 00:11:38 INFO:	[hmmsearch]	19 of 36 task(s) completed
+2024-07-11 00:11:38 INFO:	[hmmsearch]	22 of 36 task(s) completed
+2024-07-11 00:11:38 INFO:	[hmmsearch]	26 of 36 task(s) completed
+2024-07-11 00:11:38 INFO:	[hmmsearch]	29 of 36 task(s) completed
+2024-07-11 00:11:38 INFO:	[hmmsearch]	33 of 36 task(s) completed
+2024-07-11 00:11:38 INFO:	[hmmsearch]	36 of 36 task(s) completed
+2024-07-11 00:11:38 WARNING:	BUSCO did not find any match. Make sure to check the log files if this is unexpected.
+2024-07-11 00:11:38 INFO:	Results:	C:0.0%[S:0.0%,D:0.0%],F:0.0%,M:100.0%,n:36	   
+
+2024-07-11 00:11:38 INFO:	Downloading file 'https://busco-data.ezlab.org/v5/data/lineages/betabaculovirus_odb10.2024-01-08.tar.gz'
+2024-07-11 00:11:40 INFO:	Decompressing file '/home/dcallan/work/a3/752f62eced88f49204dba80724ef1f/busco_downloads/lineages/betabaculovirus_odb10.tar.gz'
+2024-07-11 00:11:40 INFO:	Running BUSCO using lineage dataset betabaculovirus_odb10 (viruses, 2024-01-08)
+2024-07-11 00:11:40 INFO:	Running 1 job(s) on bbtools, starting at 07/11/2024 00:11:40
+2024-07-11 00:11:42 INFO:	[bbtools]	1 of 1 task(s) completed
+2024-07-11 00:11:42 INFO:	***** Run Prodigal on input to predict and extract genes *****
+2024-07-11 00:11:42 INFO:	Genetic code 1 selected as optimal
+2024-07-11 00:11:42 INFO:	***** Run HMMER on gene sequences *****
+2024-07-11 00:11:42 INFO:	Running 58 job(s) on hmmsearch, starting at 07/11/2024 00:11:42
+2024-07-11 00:11:43 INFO:	[hmmsearch]	6 of 58 task(s) completed
+2024-07-11 00:11:43 INFO:	[hmmsearch]	24 of 58 task(s) completed
+2024-07-11 00:11:43 INFO:	[hmmsearch]	29 of 58 task(s) completed
+2024-07-11 00:11:43 INFO:	[hmmsearch]	35 of 58 task(s) completed
+2024-07-11 00:11:43 INFO:	[hmmsearch]	41 of 58 task(s) completed
+2024-07-11 00:11:43 INFO:	[hmmsearch]	47 of 58 task(s) completed
+2024-07-11 00:11:43 INFO:	[hmmsearch]	53 of 58 task(s) completed
+2024-07-11 00:11:43 INFO:	[hmmsearch]	58 of 58 task(s) completed
+2024-07-11 00:11:43 WARNING:	BUSCO did not find any match. Make sure to check the log files if this is unexpected.
+2024-07-11 00:11:43 INFO:	Results:	C:0.0%[S:0.0%,D:0.0%],F:0.0%,M:100.0%,n:58	   
+
+2024-07-11 00:11:43 INFO:	Downloading file 'https://busco-data.ezlab.org/v5/data/lineages/betaherpesvirinae_odb10.2024-01-08.tar.gz'
+2024-07-11 00:11:48 INFO:	Decompressing file '/home/dcallan/work/a3/752f62eced88f49204dba80724ef1f/busco_downloads/lineages/betaherpesvirinae_odb10.tar.gz'
+2024-07-11 00:11:48 INFO:	Running BUSCO using lineage dataset betaherpesvirinae_odb10 (viruses, 2024-01-08)
+2024-07-11 00:11:48 INFO:	Running 1 job(s) on bbtools, starting at 07/11/2024 00:11:48
+2024-07-11 00:11:49 INFO:	[bbtools]	1 of 1 task(s) completed
+2024-07-11 00:11:49 INFO:	***** Run Prodigal on input to predict and extract genes *****
+2024-07-11 00:11:49 INFO:	Genetic code 1 selected as optimal
+2024-07-11 00:11:49 INFO:	***** Run HMMER on gene sequences *****
+2024-07-11 00:11:49 INFO:	Running 10 job(s) on hmmsearch, starting at 07/11/2024 00:11:49
+2024-07-11 00:11:51 INFO:	[hmmsearch]	1 of 10 task(s) completed
+2024-07-11 00:11:51 INFO:	[hmmsearch]	2 of 10 task(s) completed
+2024-07-11 00:11:51 INFO:	[hmmsearch]	3 of 10 task(s) completed
+2024-07-11 00:11:51 INFO:	[hmmsearch]	4 of 10 task(s) completed
+2024-07-11 00:11:51 INFO:	[hmmsearch]	5 of 10 task(s) completed
+2024-07-11 00:11:51 INFO:	[hmmsearch]	6 of 10 task(s) completed
+2024-07-11 00:11:51 INFO:	[hmmsearch]	7 of 10 task(s) completed
+2024-07-11 00:11:51 INFO:	[hmmsearch]	8 of 10 task(s) completed
+2024-07-11 00:11:51 INFO:	[hmmsearch]	9 of 10 task(s) completed
+2024-07-11 00:11:51 INFO:	[hmmsearch]	10 of 10 task(s) completed
+2024-07-11 00:11:51 WARNING:	BUSCO did not find any match. Make sure to check the log files if this is unexpected.
+2024-07-11 00:11:51 INFO:	Results:	C:0.0%[S:0.0%,D:0.0%],F:0.0%,M:100.0%,n:10	   
+
+2024-07-11 00:11:51 INFO:	Downloading file 'https://busco-data.ezlab.org/v5/data/lineages/cheoctovirus_odb10.2024-01-08.tar.gz'
+2024-07-11 00:11:51 INFO:	Decompressing file '/home/dcallan/work/a3/752f62eced88f49204dba80724ef1f/busco_downloads/lineages/cheoctovirus_odb10.tar.gz'
+2024-07-11 00:11:52 INFO:	Running BUSCO using lineage dataset cheoctovirus_odb10 (viruses, 2024-01-08)
+2024-07-11 00:11:52 INFO:	Running 1 job(s) on bbtools, starting at 07/11/2024 00:11:52
+2024-07-11 00:11:53 INFO:	[bbtools]	1 of 1 task(s) completed
+2024-07-11 00:11:53 INFO:	***** Run Prodigal on input to predict and extract genes *****
+2024-07-11 00:11:53 INFO:	Genetic code 1 selected as optimal
+2024-07-11 00:11:53 INFO:	***** Run HMMER on gene sequences *****
+2024-07-11 00:11:53 INFO:	Running 16 job(s) on hmmsearch, starting at 07/11/2024 00:11:53
+2024-07-11 00:11:54 INFO:	[hmmsearch]	2 of 16 task(s) completed
+2024-07-11 00:11:54 INFO:	[hmmsearch]	4 of 16 task(s) completed
+2024-07-11 00:11:54 INFO:	[hmmsearch]	5 of 16 task(s) completed
+2024-07-11 00:11:54 INFO:	[hmmsearch]	7 of 16 task(s) completed
+2024-07-11 00:11:54 INFO:	[hmmsearch]	10 of 16 task(s) completed
+2024-07-11 00:11:54 INFO:	[hmmsearch]	10 of 16 task(s) completed
+2024-07-11 00:11:54 INFO:	[hmmsearch]	12 of 16 task(s) completed
+2024-07-11 00:11:54 INFO:	[hmmsearch]	13 of 16 task(s) completed
+2024-07-11 00:11:54 INFO:	[hmmsearch]	15 of 16 task(s) completed
+2024-07-11 00:11:54 INFO:	[hmmsearch]	16 of 16 task(s) completed
+2024-07-11 00:11:54 WARNING:	BUSCO did not find any match. Make sure to check the log files if this is unexpected.
+2024-07-11 00:11:54 INFO:	Results:	C:0.0%[S:0.0%,D:0.0%],F:0.0%,M:100.0%,n:16	   
+
+2024-07-11 00:11:54 INFO:	Downloading file 'https://busco-data.ezlab.org/v5/data/lineages/chordopoxvirinae_odb10.2024-01-08.tar.gz'
+2024-07-11 00:11:55 INFO:	Decompressing file '/home/dcallan/work/a3/752f62eced88f49204dba80724ef1f/busco_downloads/lineages/chordopoxvirinae_odb10.tar.gz'
+2024-07-11 00:11:56 INFO:	Running BUSCO using lineage dataset chordopoxvirinae_odb10 (viruses, 2024-01-08)
+2024-07-11 00:11:56 INFO:	Running 1 job(s) on bbtools, starting at 07/11/2024 00:11:56
+2024-07-11 00:11:57 INFO:	[bbtools]	1 of 1 task(s) completed
+2024-07-11 00:11:57 INFO:	***** Run Prodigal on input to predict and extract genes *****
+2024-07-11 00:11:57 INFO:	Genetic code 1 selected as optimal
+2024-07-11 00:11:57 INFO:	***** Run HMMER on gene sequences *****
+2024-07-11 00:11:57 INFO:	Running 58 job(s) on hmmsearch, starting at 07/11/2024 00:11:57
+2024-07-11 00:11:58 INFO:	[hmmsearch]	6 of 58 task(s) completed
+2024-07-11 00:11:58 INFO:	[hmmsearch]	12 of 58 task(s) completed
+2024-07-11 00:11:58 INFO:	[hmmsearch]	18 of 58 task(s) completed
+2024-07-11 00:11:58 INFO:	[hmmsearch]	24 of 58 task(s) completed
+2024-07-11 00:11:58 INFO:	[hmmsearch]	29 of 58 task(s) completed
+2024-07-11 00:11:58 INFO:	[hmmsearch]	35 of 58 task(s) completed
+2024-07-11 00:11:58 INFO:	[hmmsearch]	41 of 58 task(s) completed
+2024-07-11 00:11:58 INFO:	[hmmsearch]	47 of 58 task(s) completed
+2024-07-11 00:11:58 INFO:	[hmmsearch]	53 of 58 task(s) completed
+2024-07-11 00:11:58 INFO:	[hmmsearch]	58 of 58 task(s) completed
+2024-07-11 00:11:58 WARNING:	BUSCO did not find any match. Make sure to check the log files if this is unexpected.
+2024-07-11 00:11:58 INFO:	Results:	C:0.0%[S:0.0%,D:0.0%],F:0.0%,M:100.0%,n:58	   
+
+2024-07-11 00:11:58 INFO:	Downloading file 'https://busco-data.ezlab.org/v5/data/lineages/enquatrovirus_odb10.2024-01-08.tar.gz'
+2024-07-11 00:12:03 INFO:	Decompressing file '/home/dcallan/work/a3/752f62eced88f49204dba80724ef1f/busco_downloads/lineages/enquatrovirus_odb10.tar.gz'
+2024-07-11 00:12:03 INFO:	Running BUSCO using lineage dataset enquatrovirus_odb10 (viruses, 2024-01-08)
+2024-07-11 00:12:03 INFO:	Running 1 job(s) on bbtools, starting at 07/11/2024 00:12:03
+2024-07-11 00:12:05 INFO:	[bbtools]	1 of 1 task(s) completed
+2024-07-11 00:12:05 INFO:	***** Run Prodigal on input to predict and extract genes *****
+2024-07-11 00:12:05 INFO:	Genetic code 1 selected as optimal
+2024-07-11 00:12:05 INFO:	***** Run HMMER on gene sequences *****
+2024-07-11 00:12:05 INFO:	Running 12 job(s) on hmmsearch, starting at 07/11/2024 00:12:05
+2024-07-11 00:12:06 INFO:	[hmmsearch]	2 of 12 task(s) completed
+2024-07-11 00:12:06 INFO:	[hmmsearch]	3 of 12 task(s) completed
+2024-07-11 00:12:06 INFO:	[hmmsearch]	4 of 12 task(s) completed
+2024-07-11 00:12:06 INFO:	[hmmsearch]	5 of 12 task(s) completed
+2024-07-11 00:12:06 INFO:	[hmmsearch]	6 of 12 task(s) completed
+2024-07-11 00:12:06 INFO:	[hmmsearch]	8 of 12 task(s) completed
+2024-07-11 00:12:06 INFO:	[hmmsearch]	9 of 12 task(s) completed
+2024-07-11 00:12:06 INFO:	[hmmsearch]	10 of 12 task(s) completed
+2024-07-11 00:12:06 INFO:	[hmmsearch]	11 of 12 task(s) completed
+2024-07-11 00:12:06 INFO:	[hmmsearch]	12 of 12 task(s) completed
+2024-07-11 00:12:06 WARNING:	BUSCO did not find any match. Make sure to check the log files if this is unexpected.
+2024-07-11 00:12:06 INFO:	Results:	C:0.0%[S:0.0%,D:0.0%],F:0.0%,M:100.0%,n:12	   
+
+2024-07-11 00:12:06 INFO:	Downloading file 'https://busco-data.ezlab.org/v5/data/lineages/fromanvirus_odb10.2024-01-08.tar.gz'
+2024-07-11 00:12:10 INFO:	Decompressing file '/home/dcallan/work/a3/752f62eced88f49204dba80724ef1f/busco_downloads/lineages/fromanvirus_odb10.tar.gz'
+2024-07-11 00:12:10 INFO:	Running BUSCO using lineage dataset fromanvirus_odb10 (viruses, 2024-01-08)
+2024-07-11 00:12:10 INFO:	Running 1 job(s) on bbtools, starting at 07/11/2024 00:12:10
+2024-07-11 00:12:12 INFO:	[bbtools]	1 of 1 task(s) completed
+2024-07-11 00:12:12 INFO:	***** Run Prodigal on input to predict and extract genes *****
+2024-07-11 00:12:12 INFO:	Genetic code 1 selected as optimal
+2024-07-11 00:12:12 INFO:	***** Run HMMER on gene sequences *****
+2024-07-11 00:12:12 INFO:	Running 17 job(s) on hmmsearch, starting at 07/11/2024 00:12:12
+2024-07-11 00:12:13 INFO:	[hmmsearch]	2 of 17 task(s) completed
+2024-07-11 00:12:13 INFO:	[hmmsearch]	4 of 17 task(s) completed
+2024-07-11 00:12:13 INFO:	[hmmsearch]	6 of 17 task(s) completed
+2024-07-11 00:12:13 INFO:	[hmmsearch]	7 of 17 task(s) completed
+2024-07-11 00:12:13 INFO:	[hmmsearch]	9 of 17 task(s) completed
+2024-07-11 00:12:13 INFO:	[hmmsearch]	11 of 17 task(s) completed
+2024-07-11 00:12:13 INFO:	[hmmsearch]	12 of 17 task(s) completed
+2024-07-11 00:12:13 INFO:	[hmmsearch]	14 of 17 task(s) completed
+2024-07-11 00:12:13 INFO:	[hmmsearch]	16 of 17 task(s) completed
+2024-07-11 00:12:13 INFO:	[hmmsearch]	17 of 17 task(s) completed
+2024-07-11 00:12:13 WARNING:	BUSCO did not find any match. Make sure to check the log files if this is unexpected.
+2024-07-11 00:12:13 INFO:	Results:	C:0.0%[S:0.0%,D:0.0%],F:0.0%,M:100.0%,n:17	   
+
+2024-07-11 00:12:13 INFO:	Downloading file 'https://busco-data.ezlab.org/v5/data/lineages/gammaherpesvirinae_odb10.2024-01-08.tar.gz'
+2024-07-11 00:12:17 INFO:	Decompressing file '/home/dcallan/work/a3/752f62eced88f49204dba80724ef1f/busco_downloads/lineages/gammaherpesvirinae_odb10.tar.gz'
+2024-07-11 00:12:18 INFO:	Running BUSCO using lineage dataset gammaherpesvirinae_odb10 (viruses, 2024-01-08)
+2024-07-11 00:12:18 INFO:	Running 1 job(s) on bbtools, starting at 07/11/2024 00:12:18
+2024-07-11 00:12:19 INFO:	[bbtools]	1 of 1 task(s) completed
+2024-07-11 00:12:19 INFO:	***** Run Prodigal on input to predict and extract genes *****
+2024-07-11 00:12:19 INFO:	Genetic code 1 selected as optimal
+2024-07-11 00:12:19 INFO:	***** Run HMMER on gene sequences *****
+2024-07-11 00:12:19 INFO:	Running 29 job(s) on hmmsearch, starting at 07/11/2024 00:12:19
+2024-07-11 00:12:20 INFO:	[hmmsearch]	3 of 29 task(s) completed
+2024-07-11 00:12:20 INFO:	[hmmsearch]	6 of 29 task(s) completed
+2024-07-11 00:12:20 INFO:	[hmmsearch]	9 of 29 task(s) completed
+2024-07-11 00:12:20 INFO:	[hmmsearch]	12 of 29 task(s) completed
+2024-07-11 00:12:20 INFO:	[hmmsearch]	15 of 29 task(s) completed
+2024-07-11 00:12:20 INFO:	[hmmsearch]	18 of 29 task(s) completed
+2024-07-11 00:12:20 INFO:	[hmmsearch]	21 of 29 task(s) completed
+2024-07-11 00:12:20 INFO:	[hmmsearch]	24 of 29 task(s) completed
+2024-07-11 00:12:20 INFO:	[hmmsearch]	27 of 29 task(s) completed
+2024-07-11 00:12:20 INFO:	[hmmsearch]	29 of 29 task(s) completed
+2024-07-11 00:12:21 WARNING:	BUSCO did not find any match. Make sure to check the log files if this is unexpected.
+2024-07-11 00:12:21 INFO:	Results:	C:0.0%[S:0.0%,D:0.0%],F:0.0%,M:100.0%,n:29	   
+
+2024-07-11 00:12:21 INFO:	Downloading file 'https://busco-data.ezlab.org/v5/data/lineages/guernseyvirinae_odb10.2024-01-08.tar.gz'
+2024-07-11 00:12:23 INFO:	Decompressing file '/home/dcallan/work/a3/752f62eced88f49204dba80724ef1f/busco_downloads/lineages/guernseyvirinae_odb10.tar.gz'
+2024-07-11 00:12:23 INFO:	Running BUSCO using lineage dataset guernseyvirinae_odb10 (viruses, 2024-01-08)
+2024-07-11 00:12:23 INFO:	Running 1 job(s) on bbtools, starting at 07/11/2024 00:12:23
+2024-07-11 00:12:25 INFO:	[bbtools]	1 of 1 task(s) completed
+2024-07-11 00:12:25 INFO:	***** Run Prodigal on input to predict and extract genes *****
+2024-07-11 00:12:25 INFO:	Genetic code 1 selected as optimal
+2024-07-11 00:12:25 INFO:	***** Run HMMER on gene sequences *****
+2024-07-11 00:12:25 INFO:	Running 16 job(s) on hmmsearch, starting at 07/11/2024 00:12:25
+2024-07-11 00:12:26 INFO:	[hmmsearch]	2 of 16 task(s) completed
+2024-07-11 00:12:26 INFO:	[hmmsearch]	4 of 16 task(s) completed
+2024-07-11 00:12:26 INFO:	[hmmsearch]	5 of 16 task(s) completed
+2024-07-11 00:12:26 INFO:	[hmmsearch]	7 of 16 task(s) completed
+2024-07-11 00:12:26 INFO:	[hmmsearch]	9 of 16 task(s) completed
+2024-07-11 00:12:26 INFO:	[hmmsearch]	12 of 16 task(s) completed
+2024-07-11 00:12:26 INFO:	[hmmsearch]	13 of 16 task(s) completed
+2024-07-11 00:12:26 INFO:	[hmmsearch]	15 of 16 task(s) completed
+2024-07-11 00:12:26 INFO:	[hmmsearch]	16 of 16 task(s) completed
+2024-07-11 00:12:26 WARNING:	BUSCO did not find any match. Make sure to check the log files if this is unexpected.
+2024-07-11 00:12:26 INFO:	Results:	C:0.0%[S:0.0%,D:0.0%],F:0.0%,M:100.0%,n:16	   
+
+2024-07-11 00:12:26 INFO:	Downloading file 'https://busco-data.ezlab.org/v5/data/lineages/herpesviridae_odb10.2024-01-08.tar.gz'
+2024-07-11 00:12:29 INFO:	Decompressing file '/home/dcallan/work/a3/752f62eced88f49204dba80724ef1f/busco_downloads/lineages/herpesviridae_odb10.tar.gz'
+2024-07-11 00:12:29 INFO:	Running BUSCO using lineage dataset herpesviridae_odb10 (viruses, 2024-01-08)
+2024-07-11 00:12:29 INFO:	Running 1 job(s) on bbtools, starting at 07/11/2024 00:12:29
+2024-07-11 00:12:31 INFO:	[bbtools]	1 of 1 task(s) completed
+2024-07-11 00:12:31 INFO:	***** Run Prodigal on input to predict and extract genes *****
+2024-07-11 00:12:31 INFO:	Genetic code 1 selected as optimal
+2024-07-11 00:12:31 INFO:	***** Run HMMER on gene sequences *****
+2024-07-11 00:12:31 INFO:	Running 12 job(s) on hmmsearch, starting at 07/11/2024 00:12:31
+2024-07-11 00:12:32 INFO:	[hmmsearch]	2 of 12 task(s) completed
+2024-07-11 00:12:32 INFO:	[hmmsearch]	3 of 12 task(s) completed
+2024-07-11 00:12:32 INFO:	[hmmsearch]	4 of 12 task(s) completed
+2024-07-11 00:12:32 INFO:	[hmmsearch]	5 of 12 task(s) completed
+2024-07-11 00:12:32 INFO:	[hmmsearch]	6 of 12 task(s) completed
+2024-07-11 00:12:32 INFO:	[hmmsearch]	8 of 12 task(s) completed
+2024-07-11 00:12:32 INFO:	[hmmsearch]	9 of 12 task(s) completed
+2024-07-11 00:12:32 INFO:	[hmmsearch]	10 of 12 task(s) completed
+2024-07-11 00:12:32 INFO:	[hmmsearch]	11 of 12 task(s) completed
+2024-07-11 00:12:32 INFO:	[hmmsearch]	12 of 12 task(s) completed
+2024-07-11 00:12:32 WARNING:	BUSCO did not find any match. Make sure to check the log files if this is unexpected.
+2024-07-11 00:12:32 INFO:	Results:	C:0.0%[S:0.0%,D:0.0%],F:0.0%,M:100.0%,n:12	   
+
+2024-07-11 00:12:32 INFO:	Downloading file 'https://busco-data.ezlab.org/v5/data/lineages/iridoviridae_odb10.2024-01-08.tar.gz'
+2024-07-11 00:12:33 INFO:	Download connection problem. Retrying in 10 seconds
+2024-07-11 00:12:43 INFO:	Downloading file 'https://busco-data.ezlab.org/v5/data/lineages/iridoviridae_odb10.2024-01-08.tar.gz'
+2024-07-11 00:12:47 INFO:	Decompressing file '/home/dcallan/work/a3/752f62eced88f49204dba80724ef1f/busco_downloads/lineages/iridoviridae_odb10.tar.gz'
+2024-07-11 00:12:47 INFO:	Running BUSCO using lineage dataset iridoviridae_odb10 (viruses, 2024-01-08)
+2024-07-11 00:12:47 INFO:	Running 1 job(s) on bbtools, starting at 07/11/2024 00:12:47
+2024-07-11 00:12:49 INFO:	[bbtools]	1 of 1 task(s) completed
+2024-07-11 00:12:49 INFO:	***** Run Prodigal on input to predict and extract genes *****
+2024-07-11 00:12:49 INFO:	Genetic code 1 selected as optimal
+2024-07-11 00:12:49 INFO:	***** Run HMMER on gene sequences *****
+2024-07-11 00:12:49 INFO:	Running 10 job(s) on hmmsearch, starting at 07/11/2024 00:12:49
+2024-07-11 00:12:50 INFO:	[hmmsearch]	1 of 10 task(s) completed
+2024-07-11 00:12:50 INFO:	[hmmsearch]	2 of 10 task(s) completed
+2024-07-11 00:12:50 INFO:	[hmmsearch]	3 of 10 task(s) completed
+2024-07-11 00:12:50 INFO:	[hmmsearch]	4 of 10 task(s) completed
+2024-07-11 00:12:50 INFO:	[hmmsearch]	5 of 10 task(s) completed
+2024-07-11 00:12:50 INFO:	[hmmsearch]	6 of 10 task(s) completed
+2024-07-11 00:12:50 INFO:	[hmmsearch]	7 of 10 task(s) completed
+2024-07-11 00:12:50 INFO:	[hmmsearch]	8 of 10 task(s) completed
+2024-07-11 00:12:50 INFO:	[hmmsearch]	9 of 10 task(s) completed
+2024-07-11 00:12:50 INFO:	[hmmsearch]	10 of 10 task(s) completed
+2024-07-11 00:12:50 WARNING:	BUSCO did not find any match. Make sure to check the log files if this is unexpected.
+2024-07-11 00:12:50 INFO:	Results:	C:0.0%[S:0.0%,D:0.0%],F:0.0%,M:100.0%,n:10	   
+
+2024-07-11 00:12:50 INFO:	Downloading file 'https://busco-data.ezlab.org/v5/data/lineages/pahexavirus_odb10.2024-01-08.tar.gz'
+2024-07-11 00:12:54 INFO:	Decompressing file '/home/dcallan/work/a3/752f62eced88f49204dba80724ef1f/busco_downloads/lineages/pahexavirus_odb10.tar.gz'
+2024-07-11 00:12:54 INFO:	Running BUSCO using lineage dataset pahexavirus_odb10 (viruses, 2024-01-08)
+2024-07-11 00:12:54 INFO:	Running 1 job(s) on bbtools, starting at 07/11/2024 00:12:54
+2024-07-11 00:12:56 INFO:	[bbtools]	1 of 1 task(s) completed
+2024-07-11 00:12:56 INFO:	***** Run Prodigal on input to predict and extract genes *****
+2024-07-11 00:12:56 INFO:	Genetic code 1 selected as optimal
+2024-07-11 00:12:56 INFO:	***** Run HMMER on gene sequences *****
+2024-07-11 00:12:56 INFO:	Running 36 job(s) on hmmsearch, starting at 07/11/2024 00:12:56
+2024-07-11 00:12:57 INFO:	[hmmsearch]	4 of 36 task(s) completed
+2024-07-11 00:12:57 INFO:	[hmmsearch]	8 of 36 task(s) completed
+2024-07-11 00:12:57 INFO:	[hmmsearch]	11 of 36 task(s) completed
+2024-07-11 00:12:57 INFO:	[hmmsearch]	15 of 36 task(s) completed
+2024-07-11 00:12:57 INFO:	[hmmsearch]	19 of 36 task(s) completed
+2024-07-11 00:12:57 INFO:	[hmmsearch]	22 of 36 task(s) completed
+2024-07-11 00:12:57 INFO:	[hmmsearch]	26 of 36 task(s) completed
+2024-07-11 00:12:57 INFO:	[hmmsearch]	29 of 36 task(s) completed
+2024-07-11 00:12:57 INFO:	[hmmsearch]	33 of 36 task(s) completed
+2024-07-11 00:12:57 INFO:	[hmmsearch]	36 of 36 task(s) completed
+2024-07-11 00:12:57 WARNING:	BUSCO did not find any match. Make sure to check the log files if this is unexpected.
+2024-07-11 00:12:57 INFO:	Results:	C:0.0%[S:0.0%,D:0.0%],F:0.0%,M:100.0%,n:36	   
+
+2024-07-11 00:12:57 INFO:	Downloading file 'https://busco-data.ezlab.org/v5/data/lineages/peduovirus_odb10.2024-01-08.tar.gz'
+2024-07-11 00:13:00 INFO:	Decompressing file '/home/dcallan/work/a3/752f62eced88f49204dba80724ef1f/busco_downloads/lineages/peduovirus_odb10.tar.gz'
+2024-07-11 00:13:00 INFO:	Running BUSCO using lineage dataset peduovirus_odb10 (viruses, 2024-01-08)
+2024-07-11 00:13:00 INFO:	Running 1 job(s) on bbtools, starting at 07/11/2024 00:13:00
+2024-07-11 00:13:02 INFO:	[bbtools]	1 of 1 task(s) completed
+2024-07-11 00:13:02 INFO:	***** Run Prodigal on input to predict and extract genes *****
+2024-07-11 00:13:02 INFO:	Genetic code 1 selected as optimal
+2024-07-11 00:13:02 INFO:	***** Run HMMER on gene sequences *****
+2024-07-11 00:13:02 INFO:	Running 15 job(s) on hmmsearch, starting at 07/11/2024 00:13:02
+2024-07-11 00:13:03 INFO:	[hmmsearch]	2 of 15 task(s) completed
+2024-07-11 00:13:03 INFO:	[hmmsearch]	3 of 15 task(s) completed
+2024-07-11 00:13:03 INFO:	[hmmsearch]	5 of 15 task(s) completed
+2024-07-11 00:13:03 INFO:	[hmmsearch]	6 of 15 task(s) completed
+2024-07-11 00:13:03 INFO:	[hmmsearch]	8 of 15 task(s) completed
+2024-07-11 00:13:03 INFO:	[hmmsearch]	9 of 15 task(s) completed
+2024-07-11 00:13:03 INFO:	[hmmsearch]	11 of 15 task(s) completed
+2024-07-11 00:13:03 INFO:	[hmmsearch]	12 of 15 task(s) completed
+2024-07-11 00:13:03 INFO:	[hmmsearch]	14 of 15 task(s) completed
+2024-07-11 00:13:03 INFO:	[hmmsearch]	14 of 15 task(s) completed
+2024-07-11 00:13:03 INFO:	[hmmsearch]	15 of 15 task(s) completed
+2024-07-11 00:13:03 WARNING:	BUSCO did not find any match. Make sure to check the log files if this is unexpected.
+2024-07-11 00:13:03 INFO:	Results:	C:0.0%[S:0.0%,D:0.0%],F:0.0%,M:100.0%,n:15	   
+
+2024-07-11 00:13:03 INFO:	Downloading file 'https://busco-data.ezlab.org/v5/data/lineages/poxviridae_odb10.2024-01-08.tar.gz'
+2024-07-11 00:13:08 INFO:	Decompressing file '/home/dcallan/work/a3/752f62eced88f49204dba80724ef1f/busco_downloads/lineages/poxviridae_odb10.tar.gz'
+2024-07-11 00:13:08 INFO:	Running BUSCO using lineage dataset poxviridae_odb10 (viruses, 2024-01-08)
+2024-07-11 00:13:08 INFO:	Running 1 job(s) on bbtools, starting at 07/11/2024 00:13:08
+2024-07-11 00:13:10 INFO:	[bbtools]	1 of 1 task(s) completed
+2024-07-11 00:13:10 INFO:	***** Run Prodigal on input to predict and extract genes *****
+2024-07-11 00:13:10 INFO:	Genetic code 1 selected as optimal
+2024-07-11 00:13:10 INFO:	***** Run HMMER on gene sequences *****
+2024-07-11 00:13:10 INFO:	Running 18 job(s) on hmmsearch, starting at 07/11/2024 00:13:10
+2024-07-11 00:13:11 INFO:	[hmmsearch]	2 of 18 task(s) completed
+2024-07-11 00:13:11 INFO:	[hmmsearch]	4 of 18 task(s) completed
+2024-07-11 00:13:11 INFO:	[hmmsearch]	6 of 18 task(s) completed
+2024-07-11 00:13:11 INFO:	[hmmsearch]	8 of 18 task(s) completed
+2024-07-11 00:13:11 INFO:	[hmmsearch]	10 of 18 task(s) completed
+2024-07-11 00:13:11 INFO:	[hmmsearch]	13 of 18 task(s) completed
+2024-07-11 00:13:12 INFO:	[hmmsearch]	15 of 18 task(s) completed
+2024-07-11 00:13:12 INFO:	[hmmsearch]	17 of 18 task(s) completed
+2024-07-11 00:13:12 INFO:	[hmmsearch]	18 of 18 task(s) completed
+2024-07-11 00:13:12 WARNING:	BUSCO did not find any match. Make sure to check the log files if this is unexpected.
+2024-07-11 00:13:12 INFO:	Results:	C:0.0%[S:0.0%,D:0.0%],F:0.0%,M:100.0%,n:18	   
+
+2024-07-11 00:13:12 INFO:	Downloading file 'https://busco-data.ezlab.org/v5/data/lineages/rudiviridae_odb10.2024-01-08.tar.gz'
+2024-07-11 00:13:13 INFO:	Decompressing file '/home/dcallan/work/a3/752f62eced88f49204dba80724ef1f/busco_downloads/lineages/rudiviridae_odb10.tar.gz'
+2024-07-11 00:13:13 INFO:	Running BUSCO using lineage dataset rudiviridae_odb10 (viruses, 2024-01-08)
+2024-07-11 00:13:13 INFO:	Running 1 job(s) on bbtools, starting at 07/11/2024 00:13:13
+2024-07-11 00:13:15 INFO:	[bbtools]	1 of 1 task(s) completed
+2024-07-11 00:13:15 INFO:	***** Run Prodigal on input to predict and extract genes *****
+2024-07-11 00:13:15 INFO:	Genetic code 1 selected as optimal
+2024-07-11 00:13:15 INFO:	***** Run HMMER on gene sequences *****
+2024-07-11 00:13:15 INFO:	Running 11 job(s) on hmmsearch, starting at 07/11/2024 00:13:15
+2024-07-11 00:13:16 INFO:	[hmmsearch]	2 of 11 task(s) completed
+2024-07-11 00:13:16 INFO:	[hmmsearch]	3 of 11 task(s) completed
+2024-07-11 00:13:16 INFO:	[hmmsearch]	4 of 11 task(s) completed
+2024-07-11 00:13:16 INFO:	[hmmsearch]	5 of 11 task(s) completed
+2024-07-11 00:13:16 INFO:	[hmmsearch]	6 of 11 task(s) completed
+2024-07-11 00:13:16 INFO:	[hmmsearch]	7 of 11 task(s) completed
+2024-07-11 00:13:16 INFO:	[hmmsearch]	8 of 11 task(s) completed
+2024-07-11 00:13:16 INFO:	[hmmsearch]	9 of 11 task(s) completed
+2024-07-11 00:13:16 INFO:	[hmmsearch]	10 of 11 task(s) completed
+2024-07-11 00:13:16 INFO:	[hmmsearch]	11 of 11 task(s) completed
+2024-07-11 00:13:16 WARNING:	BUSCO did not find any match. Make sure to check the log files if this is unexpected.
+2024-07-11 00:13:16 INFO:	Results:	C:0.0%[S:0.0%,D:0.0%],F:0.0%,M:100.0%,n:11	   
+
+2024-07-11 00:13:16 INFO:	Downloading file 'https://busco-data.ezlab.org/v5/data/lineages/simplexvirus_odb10.2024-01-08.tar.gz'
+2024-07-11 00:13:18 INFO:	Decompressing file '/home/dcallan/work/a3/752f62eced88f49204dba80724ef1f/busco_downloads/lineages/simplexvirus_odb10.tar.gz'
+2024-07-11 00:13:19 INFO:	Running BUSCO using lineage dataset simplexvirus_odb10 (viruses, 2024-01-08)
+2024-07-11 00:13:19 INFO:	Running 1 job(s) on bbtools, starting at 07/11/2024 00:13:19
+2024-07-11 00:13:20 INFO:	[bbtools]	1 of 1 task(s) completed
+2024-07-11 00:13:20 INFO:	***** Run Prodigal on input to predict and extract genes *****
+2024-07-11 00:13:20 INFO:	Genetic code 1 selected as optimal
+2024-07-11 00:13:20 INFO:	***** Run HMMER on gene sequences *****
+2024-07-11 00:13:20 INFO:	Running 37 job(s) on hmmsearch, starting at 07/11/2024 00:13:20
+2024-07-11 00:13:21 INFO:	[hmmsearch]	4 of 37 task(s) completed
+2024-07-11 00:13:21 INFO:	[hmmsearch]	8 of 37 task(s) completed
+2024-07-11 00:13:21 INFO:	[hmmsearch]	12 of 37 task(s) completed
+2024-07-11 00:13:21 INFO:	[hmmsearch]	15 of 37 task(s) completed
+2024-07-11 00:13:21 INFO:	[hmmsearch]	19 of 37 task(s) completed
+2024-07-11 00:13:21 INFO:	[hmmsearch]	23 of 37 task(s) completed
+2024-07-11 00:13:21 INFO:	[hmmsearch]	26 of 37 task(s) completed
+2024-07-11 00:13:21 INFO:	[hmmsearch]	30 of 37 task(s) completed
+2024-07-11 00:13:21 INFO:	[hmmsearch]	34 of 37 task(s) completed
+2024-07-11 00:13:21 INFO:	[hmmsearch]	37 of 37 task(s) completed
+2024-07-11 00:13:22 WARNING:	BUSCO did not find any match. Make sure to check the log files if this is unexpected.
+2024-07-11 00:13:22 INFO:	Results:	C:0.0%[S:0.0%,D:0.0%],F:0.0%,M:100.0%,n:37	   
+
+2024-07-11 00:13:22 INFO:	Downloading file 'https://busco-data.ezlab.org/v5/data/lineages/skunavirus_odb10.2024-01-08.tar.gz'
+2024-07-11 00:13:22 INFO:	Decompressing file '/home/dcallan/work/a3/752f62eced88f49204dba80724ef1f/busco_downloads/lineages/skunavirus_odb10.tar.gz'
+2024-07-11 00:13:22 INFO:	Running BUSCO using lineage dataset skunavirus_odb10 (viruses, 2024-01-08)
+2024-07-11 00:13:22 INFO:	Running 1 job(s) on bbtools, starting at 07/11/2024 00:13:22
+2024-07-11 00:13:24 INFO:	[bbtools]	1 of 1 task(s) completed
+2024-07-11 00:13:24 INFO:	***** Run Prodigal on input to predict and extract genes *****
+2024-07-11 00:13:24 INFO:	Genetic code 1 selected as optimal
+2024-07-11 00:13:24 INFO:	***** Run HMMER on gene sequences *****
+2024-07-11 00:13:24 INFO:	Running 34 job(s) on hmmsearch, starting at 07/11/2024 00:13:24
+2024-07-11 00:13:25 INFO:	[hmmsearch]	4 of 34 task(s) completed
+2024-07-11 00:13:25 INFO:	[hmmsearch]	7 of 34 task(s) completed
+2024-07-11 00:13:25 INFO:	[hmmsearch]	11 of 34 task(s) completed
+2024-07-11 00:13:25 INFO:	[hmmsearch]	14 of 34 task(s) completed
+2024-07-11 00:13:25 INFO:	[hmmsearch]	17 of 34 task(s) completed
+2024-07-11 00:13:25 INFO:	[hmmsearch]	21 of 34 task(s) completed
+2024-07-11 00:13:25 INFO:	[hmmsearch]	24 of 34 task(s) completed
+2024-07-11 00:13:25 INFO:	[hmmsearch]	28 of 34 task(s) completed
+2024-07-11 00:13:25 INFO:	[hmmsearch]	31 of 34 task(s) completed
+2024-07-11 00:13:25 INFO:	[hmmsearch]	34 of 34 task(s) completed
+2024-07-11 00:13:25 WARNING:	BUSCO did not find any match. Make sure to check the log files if this is unexpected.
+2024-07-11 00:13:25 INFO:	Results:	C:0.0%[S:0.0%,D:0.0%],F:0.0%,M:100.0%,n:34	   
+
+2024-07-11 00:13:25 INFO:	Downloading file 'https://busco-data.ezlab.org/v5/data/lineages/spounavirinae_odb10.2024-01-08.tar.gz'
+2024-07-11 00:13:26 INFO:	Decompressing file '/home/dcallan/work/a3/752f62eced88f49204dba80724ef1f/busco_downloads/lineages/spounavirinae_odb10.tar.gz'
+2024-07-11 00:13:26 INFO:	Running BUSCO using lineage dataset spounavirinae_odb10 (viruses, 2024-01-08)
+2024-07-11 00:13:26 INFO:	Running 1 job(s) on bbtools, starting at 07/11/2024 00:13:26
+2024-07-11 00:13:28 INFO:	[bbtools]	1 of 1 task(s) completed
+2024-07-11 00:13:28 INFO:	***** Run Prodigal on input to predict and extract genes *****
+2024-07-11 00:13:28 INFO:	Genetic code 1 selected as optimal
+2024-07-11 00:13:28 INFO:	***** Run HMMER on gene sequences *****
+2024-07-11 00:13:28 INFO:	Running 16 job(s) on hmmsearch, starting at 07/11/2024 00:13:28
+2024-07-11 00:13:29 INFO:	[hmmsearch]	2 of 16 task(s) completed
+2024-07-11 00:13:29 INFO:	[hmmsearch]	4 of 16 task(s) completed
+2024-07-11 00:13:29 INFO:	[hmmsearch]	9 of 16 task(s) completed
+2024-07-11 00:13:29 INFO:	[hmmsearch]	10 of 16 task(s) completed
+2024-07-11 00:13:29 INFO:	[hmmsearch]	12 of 16 task(s) completed
+2024-07-11 00:13:29 INFO:	[hmmsearch]	13 of 16 task(s) completed
+2024-07-11 00:13:29 INFO:	[hmmsearch]	15 of 16 task(s) completed
+2024-07-11 00:13:29 INFO:	[hmmsearch]	16 of 16 task(s) completed
+2024-07-11 00:13:29 WARNING:	BUSCO did not find any match. Make sure to check the log files if this is unexpected.
+2024-07-11 00:13:29 INFO:	Results:	C:0.0%[S:0.0%,D:0.0%],F:0.0%,M:100.0%,n:16	   
+
+2024-07-11 00:13:29 INFO:	Downloading file 'https://busco-data.ezlab.org/v5/data/lineages/tequatrovirus_odb10.2024-01-08.tar.gz'
+2024-07-11 00:13:30 INFO:	Decompressing file '/home/dcallan/work/a3/752f62eced88f49204dba80724ef1f/busco_downloads/lineages/tequatrovirus_odb10.tar.gz'
+2024-07-11 00:13:30 INFO:	Running BUSCO using lineage dataset tequatrovirus_odb10 (viruses, 2024-01-08)
+2024-07-11 00:13:30 INFO:	Running 1 job(s) on bbtools, starting at 07/11/2024 00:13:30
+2024-07-11 00:13:32 INFO:	[bbtools]	1 of 1 task(s) completed
+2024-07-11 00:13:32 INFO:	***** Run Prodigal on input to predict and extract genes *****
+2024-07-11 00:13:32 INFO:	Genetic code 1 selected as optimal
+2024-07-11 00:13:32 INFO:	***** Run HMMER on gene sequences *****
+2024-07-11 00:13:32 INFO:	Running 24 job(s) on hmmsearch, starting at 07/11/2024 00:13:32
+2024-07-11 00:13:33 INFO:	[hmmsearch]	3 of 24 task(s) completed
+2024-07-11 00:13:33 INFO:	[hmmsearch]	5 of 24 task(s) completed
+2024-07-11 00:13:33 INFO:	[hmmsearch]	8 of 24 task(s) completed
+2024-07-11 00:13:33 INFO:	[hmmsearch]	10 of 24 task(s) completed
+2024-07-11 00:13:33 INFO:	[hmmsearch]	12 of 24 task(s) completed
+2024-07-11 00:13:33 INFO:	[hmmsearch]	15 of 24 task(s) completed
+2024-07-11 00:13:33 INFO:	[hmmsearch]	17 of 24 task(s) completed
+2024-07-11 00:13:33 INFO:	[hmmsearch]	20 of 24 task(s) completed
+2024-07-11 00:13:33 INFO:	[hmmsearch]	22 of 24 task(s) completed
+2024-07-11 00:13:33 INFO:	[hmmsearch]	24 of 24 task(s) completed
+2024-07-11 00:13:33 WARNING:	BUSCO did not find any match. Make sure to check the log files if this is unexpected.
+2024-07-11 00:13:33 INFO:	Results:	C:0.0%[S:0.0%,D:0.0%],F:0.0%,M:100.0%,n:24	   
+
+2024-07-11 00:13:33 INFO:	Downloading file 'https://busco-data.ezlab.org/v5/data/lineages/teseptimavirus_odb10.2024-01-08.tar.gz'
+2024-07-11 00:13:34 INFO:	Decompressing file '/home/dcallan/work/a3/752f62eced88f49204dba80724ef1f/busco_downloads/lineages/teseptimavirus_odb10.tar.gz'
+2024-07-11 00:13:34 INFO:	Running BUSCO using lineage dataset teseptimavirus_odb10 (viruses, 2024-01-08)
+2024-07-11 00:13:34 INFO:	Running 1 job(s) on bbtools, starting at 07/11/2024 00:13:34
+2024-07-11 00:13:35 INFO:	[bbtools]	1 of 1 task(s) completed
+2024-07-11 00:13:35 INFO:	***** Run Prodigal on input to predict and extract genes *****
+2024-07-11 00:13:35 INFO:	Genetic code 1 selected as optimal
+2024-07-11 00:13:35 INFO:	***** Run HMMER on gene sequences *****
+2024-07-11 00:13:35 INFO:	Running 15 job(s) on hmmsearch, starting at 07/11/2024 00:13:35
+2024-07-11 00:13:37 INFO:	[hmmsearch]	2 of 15 task(s) completed
+2024-07-11 00:13:37 INFO:	[hmmsearch]	3 of 15 task(s) completed
+2024-07-11 00:13:37 INFO:	[hmmsearch]	5 of 15 task(s) completed
+2024-07-11 00:13:37 INFO:	[hmmsearch]	6 of 15 task(s) completed
+2024-07-11 00:13:37 INFO:	[hmmsearch]	8 of 15 task(s) completed
+2024-07-11 00:13:37 INFO:	[hmmsearch]	9 of 15 task(s) completed
+2024-07-11 00:13:37 INFO:	[hmmsearch]	11 of 15 task(s) completed
+2024-07-11 00:13:37 INFO:	[hmmsearch]	12 of 15 task(s) completed
+2024-07-11 00:13:37 INFO:	[hmmsearch]	14 of 15 task(s) completed
+2024-07-11 00:13:37 INFO:	[hmmsearch]	15 of 15 task(s) completed
+2024-07-11 00:13:37 WARNING:	BUSCO did not find any match. Make sure to check the log files if this is unexpected.
+2024-07-11 00:13:37 INFO:	Results:	C:0.0%[S:0.0%,D:0.0%],F:0.0%,M:100.0%,n:15	   
+
+2024-07-11 00:13:37 INFO:	Downloading file 'https://busco-data.ezlab.org/v5/data/lineages/tevenvirinae_odb10.2024-01-08.tar.gz'
+2024-07-11 00:13:38 INFO:	Decompressing file '/home/dcallan/work/a3/752f62eced88f49204dba80724ef1f/busco_downloads/lineages/tevenvirinae_odb10.tar.gz'
+2024-07-11 00:13:38 INFO:	Running BUSCO using lineage dataset tevenvirinae_odb10 (viruses, 2024-01-08)
+2024-07-11 00:13:38 INFO:	Running 1 job(s) on bbtools, starting at 07/11/2024 00:13:38
+2024-07-11 00:13:39 INFO:	[bbtools]	1 of 1 task(s) completed
+2024-07-11 00:13:39 INFO:	***** Run Prodigal on input to predict and extract genes *****
+2024-07-11 00:13:39 INFO:	Genetic code 1 selected as optimal
+2024-07-11 00:13:39 INFO:	***** Run HMMER on gene sequences *****
+2024-07-11 00:13:39 INFO:	Running 27 job(s) on hmmsearch, starting at 07/11/2024 00:13:39
+2024-07-11 00:13:41 INFO:	[hmmsearch]	3 of 27 task(s) completed
+2024-07-11 00:13:41 INFO:	[hmmsearch]	6 of 27 task(s) completed
+2024-07-11 00:13:41 INFO:	[hmmsearch]	9 of 27 task(s) completed
+2024-07-11 00:13:41 INFO:	[hmmsearch]	11 of 27 task(s) completed
+2024-07-11 00:13:41 INFO:	[hmmsearch]	14 of 27 task(s) completed
+2024-07-11 00:13:41 INFO:	[hmmsearch]	17 of 27 task(s) completed
+2024-07-11 00:13:41 INFO:	[hmmsearch]	19 of 27 task(s) completed
+2024-07-11 00:13:41 INFO:	[hmmsearch]	25 of 27 task(s) completed
+2024-07-11 00:13:41 INFO:	[hmmsearch]	27 of 27 task(s) completed
+2024-07-11 00:13:41 WARNING:	BUSCO did not find any match. Make sure to check the log files if this is unexpected.
+2024-07-11 00:13:41 INFO:	Results:	C:0.0%[S:0.0%,D:0.0%],F:0.0%,M:100.0%,n:27	   
+
+2024-07-11 00:13:41 INFO:	Downloading file 'https://busco-data.ezlab.org/v5/data/lineages/tunavirinae_odb10.2024-01-08.tar.gz'
+2024-07-11 00:13:42 INFO:	Decompressing file '/home/dcallan/work/a3/752f62eced88f49204dba80724ef1f/busco_downloads/lineages/tunavirinae_odb10.tar.gz'
+2024-07-11 00:13:42 INFO:	Running BUSCO using lineage dataset tunavirinae_odb10 (viruses, 2024-01-08)
+2024-07-11 00:13:42 INFO:	Running 1 job(s) on bbtools, starting at 07/11/2024 00:13:42
+2024-07-11 00:13:43 INFO:	[bbtools]	1 of 1 task(s) completed
+2024-07-11 00:13:44 INFO:	***** Run Prodigal on input to predict and extract genes *****
+2024-07-11 00:13:44 INFO:	Genetic code 1 selected as optimal
+2024-07-11 00:13:44 INFO:	***** Run HMMER on gene sequences *****
+2024-07-11 00:13:44 INFO:	Running 26 job(s) on hmmsearch, starting at 07/11/2024 00:13:44
+2024-07-11 00:13:45 INFO:	[hmmsearch]	3 of 26 task(s) completed
+2024-07-11 00:13:45 INFO:	[hmmsearch]	6 of 26 task(s) completed
+2024-07-11 00:13:45 INFO:	[hmmsearch]	8 of 26 task(s) completed
+2024-07-11 00:13:45 INFO:	[hmmsearch]	11 of 26 task(s) completed
+2024-07-11 00:13:45 INFO:	[hmmsearch]	14 of 26 task(s) completed
+2024-07-11 00:13:45 INFO:	[hmmsearch]	16 of 26 task(s) completed
+2024-07-11 00:13:45 INFO:	[hmmsearch]	19 of 26 task(s) completed
+2024-07-11 00:13:45 INFO:	[hmmsearch]	21 of 26 task(s) completed
+2024-07-11 00:13:45 INFO:	[hmmsearch]	24 of 26 task(s) completed
+2024-07-11 00:13:45 INFO:	[hmmsearch]	26 of 26 task(s) completed
+2024-07-11 00:13:45 WARNING:	BUSCO did not find any match. Make sure to check the log files if this is unexpected.
+2024-07-11 00:13:45 INFO:	Results:	C:0.0%[S:0.0%,D:0.0%],F:0.0%,M:100.0%,n:26	   
+
+2024-07-11 00:13:45 INFO:	Downloading file 'https://busco-data.ezlab.org/v5/data/lineages/varicellovirus_odb10.2024-01-08.tar.gz'
+2024-07-11 00:13:46 INFO:	Decompressing file '/home/dcallan/work/a3/752f62eced88f49204dba80724ef1f/busco_downloads/lineages/varicellovirus_odb10.tar.gz'
+2024-07-11 00:13:46 INFO:	Running BUSCO using lineage dataset varicellovirus_odb10 (viruses, 2024-01-08)
+2024-07-11 00:13:46 INFO:	Running 1 job(s) on bbtools, starting at 07/11/2024 00:13:46
+2024-07-11 00:13:48 INFO:	[bbtools]	1 of 1 task(s) completed
+2024-07-11 00:13:48 INFO:	***** Run Prodigal on input to predict and extract genes *****
+2024-07-11 00:13:48 INFO:	Genetic code 1 selected as optimal
+2024-07-11 00:13:48 INFO:	***** Run HMMER on gene sequences *****
+2024-07-11 00:13:48 INFO:	Running 37 job(s) on hmmsearch, starting at 07/11/2024 00:13:48
+2024-07-11 00:13:49 INFO:	[hmmsearch]	4 of 37 task(s) completed
+2024-07-11 00:13:49 INFO:	[hmmsearch]	8 of 37 task(s) completed
+2024-07-11 00:13:49 INFO:	[hmmsearch]	12 of 37 task(s) completed
+2024-07-11 00:13:49 INFO:	[hmmsearch]	15 of 37 task(s) completed
+2024-07-11 00:13:49 INFO:	[hmmsearch]	19 of 37 task(s) completed
+2024-07-11 00:13:49 INFO:	[hmmsearch]	23 of 37 task(s) completed
+2024-07-11 00:13:49 INFO:	[hmmsearch]	26 of 37 task(s) completed
+2024-07-11 00:13:49 INFO:	[hmmsearch]	30 of 37 task(s) completed
+2024-07-11 00:13:49 INFO:	[hmmsearch]	34 of 37 task(s) completed
+2024-07-11 00:13:49 INFO:	[hmmsearch]	37 of 37 task(s) completed
+2024-07-11 00:13:49 WARNING:	BUSCO did not find any match. Make sure to check the log files if this is unexpected.
+2024-07-11 00:13:49 INFO:	Results:	C:0.0%[S:0.0%,D:0.0%],F:0.0%,M:100.0%,n:37	   
+

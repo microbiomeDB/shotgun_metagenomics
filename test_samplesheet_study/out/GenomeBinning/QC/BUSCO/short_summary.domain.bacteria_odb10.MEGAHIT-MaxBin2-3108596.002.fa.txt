@@ -1,0 +1,30 @@
+# BUSCO version is: 5.4.3 
+# The lineage dataset is: bacteria_odb10 (Creation date: 2024-01-08, number of genomes: 4085, number of BUSCOs: 124)
+# Summarized benchmarking in BUSCO notation for file /home/dcallan/work/26/7aca5d0367cccfc7096468af213c1d/MEGAHIT-MaxBin2-3108596.002.fa
+# BUSCO was run in mode: prok_genome
+# Gene predictor used: prodigal
+
+	***** Results: *****
+
+	C:66.2%[S:57.3%,D:8.9%],F:4.0%,M:29.8%,n:124	   
+	82	Complete BUSCOs (C)			   
+	71	Complete and single-copy BUSCOs (S)	   
+	11	Complete and duplicated BUSCOs (D)	   
+	5	Fragmented BUSCOs (F)			   
+	37	Missing BUSCOs (M)			   
+	124	Total BUSCO groups searched		   
+
+Assembly Statistics:
+	308	Number of scaffolds
+	308	Number of contigs
+	2929362	Total length
+	0.000%	Percent gaps
+	43 KB	Scaffold N50
+	43 KB	Contigs N50
+
+
+Dependencies and versions:
+	hmmsearch: 3.1
+	bbtools: 38.98
+	prodigal: 2.6.3
+	busco: 5.4.3

@@ -1,0 +1,2468 @@
+locus_tag	ftype	length_bp	gene	EC_number	COG	product
+IAHHDFLD_00001	CDS	1956	rcsC_1	2.7.13.3		Sensor histidine kinase RcsC
+IAHHDFLD_00002	CDS	543	dapH_1	2.3.1.89		2,3,4,5-tetrahydropyridine-2,6-dicarboxylate N-acetyltransferase
+IAHHDFLD_00003	CDS	1251	epsN	2.6.1.-	COG0399	Putative pyridoxal phosphate-dependent aminotransferase EpsN
+IAHHDFLD_00004	CDS	1047	rfbB_1	4.2.1.46	COG1088	dTDP-glucose 4,6-dehydratase
+IAHHDFLD_00005	CDS	1344	ugd_1	1.1.1.22	COG1004	UDP-glucose 6-dehydrogenase
+IAHHDFLD_00006	CDS	558				hypothetical protein
+IAHHDFLD_00007	CDS	534	rsmD	2.1.1.171	COG0742	Ribosomal RNA small subunit methyltransferase D
+IAHHDFLD_00008	CDS	1440	clsA	2.7.8.-	COG1502	Major cardiolipin synthase ClsA
+IAHHDFLD_00009	CDS	2814				hypothetical protein
+IAHHDFLD_00010	CDS	576				hypothetical protein
+IAHHDFLD_00011	CDS	639				hypothetical protein
+IAHHDFLD_00012	CDS	333				hypothetical protein
+IAHHDFLD_00013	CDS	351				hypothetical protein
+IAHHDFLD_00014	CDS	1239				hypothetical protein
+IAHHDFLD_00015	CDS	168				hypothetical protein
+IAHHDFLD_00016	CDS	231				hypothetical protein
+IAHHDFLD_00017	CDS	1197				hypothetical protein
+IAHHDFLD_00018	CDS	1188				hypothetical protein
+IAHHDFLD_00019	CDS	2610		3.2.1.-		Beta-xylosidase
+IAHHDFLD_00020	CDS	1818				hypothetical protein
+IAHHDFLD_00021	CDS	2556				hypothetical protein
+IAHHDFLD_00022	CDS	1797				hypothetical protein
+IAHHDFLD_00023	CDS	3066				hypothetical protein
+IAHHDFLD_00024	CDS	2043				hypothetical protein
+IAHHDFLD_00025	CDS	3279				TonB-dependent receptor P39
+IAHHDFLD_00026	CDS	195				hypothetical protein
+IAHHDFLD_00027	CDS	129				hypothetical protein
+IAHHDFLD_00028	CDS	366				hypothetical protein
+IAHHDFLD_00029	CDS	1716				hypothetical protein
+IAHHDFLD_00030	CDS	1275				hypothetical protein
+IAHHDFLD_00031	CDS	600				hypothetical protein
+IAHHDFLD_00032	CDS	1134				hypothetical protein
+IAHHDFLD_00033	CDS	297				hypothetical protein
+IAHHDFLD_00034	CDS	318				hypothetical protein
+IAHHDFLD_00035	CDS	552				hypothetical protein
+IAHHDFLD_00036	CDS	387				hypothetical protein
+IAHHDFLD_00037	CDS	456				hypothetical protein
+IAHHDFLD_00038	CDS	324				hypothetical protein
+IAHHDFLD_00039	CDS	1215				hypothetical protein
+IAHHDFLD_00040	CDS	1086				hypothetical protein
+IAHHDFLD_00041	CDS	1614				hypothetical protein
+IAHHDFLD_00042	CDS	3294	susC_1			TonB-dependent receptor SusC
+IAHHDFLD_00043	CDS	171				hypothetical protein
+IAHHDFLD_00044	CDS	912				hypothetical protein
+IAHHDFLD_00045	rRNA	1834				23S ribosomal RNA (partial)
+IAHHDFLD_00046	CDS	984				hypothetical protein
+IAHHDFLD_00047	CDS	891	rhaR_1			HTH-type transcriptional activator RhaR
+IAHHDFLD_00048	CDS	1194				hypothetical protein
+IAHHDFLD_00049	CDS	1029				hypothetical protein
+IAHHDFLD_00050	CDS	1506				TonB-dependent receptor P3
+IAHHDFLD_00051	CDS	1884				hypothetical protein
+IAHHDFLD_00052	CDS	4035	rcsC_2	2.7.13.3		Sensor histidine kinase RcsC
+IAHHDFLD_00053	CDS	3159				hypothetical protein
+IAHHDFLD_00054	CDS	1797				hypothetical protein
+IAHHDFLD_00055	CDS	2976				TonB-dependent receptor P39
+IAHHDFLD_00056	CDS	1662				SusD-like protein P25
+IAHHDFLD_00057	CDS	2181				hypothetical protein
+IAHHDFLD_00058	CDS	1338				hypothetical protein
+IAHHDFLD_00059	CDS	2505		2.4.1.161	COG1501	Oligosaccharide 4-alpha-D-glucosyltransferase
+IAHHDFLD_00060	CDS	1779				hypothetical protein
+IAHHDFLD_00061	CDS	1515				hypothetical protein
+IAHHDFLD_00062	CDS	1464				SusD-like protein P2
+IAHHDFLD_00063	CDS	3000				TonB-dependent receptor P3
+IAHHDFLD_00064	CDS	1650				hypothetical protein
+IAHHDFLD_00065	CDS	300	hisC	2.6.1.9	COG0079	Histidinol-phosphate aminotransferase
+IAHHDFLD_00066	CDS	1125	hisB		COG0131	Histidine biosynthesis bifunctional protein HisB
+IAHHDFLD_00067	CDS	591				hypothetical protein
+IAHHDFLD_00068	CDS	1926	nadE	6.3.5.1	COG0171	Glutamine-dependent NAD(+) synthetase
+IAHHDFLD_00069	CDS	1302	mleN		COG1757	Malate-2H(+)/Na(+)-lactate antiporter
+IAHHDFLD_00070	CDS	3159	rcsC_3	2.7.13.3		Sensor histidine kinase RcsC
+IAHHDFLD_00071	CDS	1605	rcsC_4	2.7.13.3		Sensor histidine kinase RcsC
+IAHHDFLD_00072	CDS	153				hypothetical protein
+IAHHDFLD_00073	CDS	528				hypothetical protein
+IAHHDFLD_00074	CDS	351	yybR		COG1733	putative HTH-type transcriptional regulator YybR
+IAHHDFLD_00075	CDS	444	yvbK	2.3.1.-		putative N-acetyltransferase YvbK
+IAHHDFLD_00076	CDS	990				hypothetical protein
+IAHHDFLD_00077	CDS	2784				hypothetical protein
+IAHHDFLD_00078	CDS	1017	rhaS_1			HTH-type transcriptional activator RhaS
+IAHHDFLD_00079	CDS	480				hypothetical protein
+IAHHDFLD_00080	CDS	606				hypothetical protein
+IAHHDFLD_00081	CDS	735				hypothetical protein
+IAHHDFLD_00082	CDS	195				hypothetical protein
+IAHHDFLD_00083	CDS	939				hypothetical protein
+IAHHDFLD_00084	CDS	351				hypothetical protein
+IAHHDFLD_00085	CDS	519				hypothetical protein
+IAHHDFLD_00086	CDS	1950	dsbD	1.8.1.8		Thiol:disulfide interchange protein DsbD
+IAHHDFLD_00087	CDS	492				hypothetical protein
+IAHHDFLD_00088	CDS	1845				hypothetical protein
+IAHHDFLD_00089	CDS	2538				hypothetical protein
+IAHHDFLD_00090	CDS	2226				hypothetical protein
+IAHHDFLD_00091	CDS	1056				hypothetical protein
+IAHHDFLD_00092	CDS	1119				hypothetical protein
+IAHHDFLD_00093	CDS	1098				hypothetical protein
+IAHHDFLD_00094	CDS	1605				hypothetical protein
+IAHHDFLD_00095	CDS	489	resA_1		COG0526	Thiol-disulfide oxidoreductase ResA
+IAHHDFLD_00096	CDS	894				hypothetical protein
+IAHHDFLD_00097	CDS	1593				SusD-like protein P38
+IAHHDFLD_00098	CDS	2970				TonB-dependent receptor P3
+IAHHDFLD_00099	CDS	939				hypothetical protein
+IAHHDFLD_00100	CDS	435				hypothetical protein
+IAHHDFLD_00101	CDS	513				hypothetical protein
+IAHHDFLD_00102	CDS	984				hypothetical protein
+IAHHDFLD_00103	CDS	222				hypothetical protein
+IAHHDFLD_00104	CDS	309				hypothetical protein
+IAHHDFLD_00105	CDS	246				hypothetical protein
+IAHHDFLD_00106	CDS	234				hypothetical protein
+IAHHDFLD_00107	CDS	627				hypothetical protein
+IAHHDFLD_00108	CDS	1341	trkA		COG0569	Trk system potassium uptake protein TrkA
+IAHHDFLD_00109	CDS	1905	dxs_1	2.2.1.7	COG1154	1-deoxy-D-xylulose-5-phosphate synthase
+IAHHDFLD_00110	CDS	2226				hypothetical protein
+IAHHDFLD_00111	CDS	489				hypothetical protein
+IAHHDFLD_00112	CDS	837				hypothetical protein
+IAHHDFLD_00113	CDS	1350				hypothetical protein
+IAHHDFLD_00114	CDS	210				hypothetical protein
+IAHHDFLD_00115	CDS	321				hypothetical protein
+IAHHDFLD_00116	CDS	1011				hypothetical protein
+IAHHDFLD_00117	CDS	930				hypothetical protein
+IAHHDFLD_00118	CDS	312				hypothetical protein
+IAHHDFLD_00119	CDS	1209				hypothetical protein
+IAHHDFLD_00120	CDS	153				hypothetical protein
+IAHHDFLD_00121	CDS	837				hypothetical protein
+IAHHDFLD_00122	CDS	543				hypothetical protein
+IAHHDFLD_00123	CDS	396				hypothetical protein
+IAHHDFLD_00124	CDS	351				hypothetical protein
+IAHHDFLD_00125	CDS	150				hypothetical protein
+IAHHDFLD_00126	CDS	564				hypothetical protein
+IAHHDFLD_00127	CDS	1035				hypothetical protein
+IAHHDFLD_00128	CDS	3216	susC_2			TonB-dependent receptor SusC
+IAHHDFLD_00129	CDS	1752				hypothetical protein
+IAHHDFLD_00130	CDS	1269				hypothetical protein
+IAHHDFLD_00131	CDS	2013				hypothetical protein
+IAHHDFLD_00132	CDS	192				hypothetical protein
+IAHHDFLD_00133	CDS	567				hypothetical protein
+IAHHDFLD_00134	CDS	1248				hypothetical protein
+IAHHDFLD_00135	CDS	969				hypothetical protein
+IAHHDFLD_00136	CDS	1131				hypothetical protein
+IAHHDFLD_00137	CDS	1302	prpB_1	4.1.3.30		2-methylisocitrate lyase
+IAHHDFLD_00138	CDS	2772	uvrA			UvrABC system protein A
+IAHHDFLD_00139	CDS	1014				hypothetical protein
+IAHHDFLD_00140	CDS	915	carA	6.3.5.5		Carbamoyl-phosphate synthase small chain
+IAHHDFLD_00141	CDS	3228	carB	6.3.5.5		Carbamoyl-phosphate synthase large chain
+IAHHDFLD_00142	CDS	396				hypothetical protein
+IAHHDFLD_00143	CDS	492				hypothetical protein
+IAHHDFLD_00144	CDS	387				hypothetical protein
+IAHHDFLD_00145	CDS	585				hypothetical protein
+IAHHDFLD_00146	CDS	1512				hypothetical protein
+IAHHDFLD_00147	CDS	198				hypothetical protein
+IAHHDFLD_00148	CDS	1161				hypothetical protein
+IAHHDFLD_00149	CDS	3582				TonB-dependent receptor P26
+IAHHDFLD_00150	CDS	1563				hypothetical protein
+IAHHDFLD_00151	CDS	1092				hypothetical protein
+IAHHDFLD_00152	CDS	1008	resA_2			Thiol-disulfide oxidoreductase ResA
+IAHHDFLD_00153	CDS	1707				hypothetical protein
+IAHHDFLD_00154	CDS	1143				hypothetical protein
+IAHHDFLD_00155	CDS	1176				hypothetical protein
+IAHHDFLD_00156	CDS	1290	resA_3			Thiol-disulfide oxidoreductase ResA
+IAHHDFLD_00157	CDS	138				hypothetical protein
+IAHHDFLD_00158	CDS	519				hypothetical protein
+IAHHDFLD_00159	CDS	1008				IS110 family transposase ISCaa7
+IAHHDFLD_00160	CDS	573				hypothetical protein
+IAHHDFLD_00161	CDS	2859		3.2.1.177	COG1501	Alpha-xylosidase BoGH31A
+IAHHDFLD_00162	CDS	684	lipB	2.3.1.181	COG0321	Octanoyltransferase
+IAHHDFLD_00163	CDS	918				hypothetical protein
+IAHHDFLD_00164	CDS	1557				hypothetical protein
+IAHHDFLD_00165	CDS	1989				hypothetical protein
+IAHHDFLD_00166	CDS	1098				hypothetical protein
+IAHHDFLD_00167	CDS	1860				hypothetical protein
+IAHHDFLD_00168	CDS	2016	hypBA1	3.2.1.185		Non-reducing end beta-L-arabinofuranosidase
+IAHHDFLD_00169	CDS	864				hypothetical protein
+IAHHDFLD_00170	CDS	1326				hypothetical protein
+IAHHDFLD_00171	CDS	930				hypothetical protein
+IAHHDFLD_00172	CDS	333				hypothetical protein
+IAHHDFLD_00173	CDS	321				hypothetical protein
+IAHHDFLD_00174	CDS	624				hypothetical protein
+IAHHDFLD_00175	CDS	1308		3.2.1.-		Glycosyl hydrolase family 109 protein 1
+IAHHDFLD_00176	CDS	678				hypothetical protein
+IAHHDFLD_00177	CDS	786				hypothetical protein
+IAHHDFLD_00178	CDS	1671				SusD-like protein P25
+IAHHDFLD_00179	CDS	3285				TonB-dependent receptor P3
+IAHHDFLD_00180	CDS	2184		3.2.1.-		Beta-xylosidase
+IAHHDFLD_00181	CDS	1440				hypothetical protein
+IAHHDFLD_00182	CDS	2556				hypothetical protein
+IAHHDFLD_00183	CDS	1431				hypothetical protein
+IAHHDFLD_00184	CDS	1308				hypothetical protein
+IAHHDFLD_00185	CDS	1716				SusD-like protein P2
+IAHHDFLD_00186	CDS	3075				TonB-dependent receptor P3
+IAHHDFLD_00187	CDS	2283				hypothetical protein
+IAHHDFLD_00188	CDS	1665				hypothetical protein
+IAHHDFLD_00189	CDS	1026	cytR		COG1609	HTH-type transcriptional repressor CytR
+IAHHDFLD_00190	CDS	708				hypothetical protein
+IAHHDFLD_00191	CDS	816	suhB	3.1.3.25	COG0483	Inositol-1-monophosphatase
+IAHHDFLD_00192	CDS	1140	mro_1	5.1.3.3	COG2017	Aldose 1-epimerase
+IAHHDFLD_00193	CDS	747				hypothetical protein
+IAHHDFLD_00194	CDS	2835		3.2.1.40		Alpha-L-rhamnosidase
+IAHHDFLD_00195	CDS	393	ttgI			Toluene efflux pump outer membrane protein TtgI
+IAHHDFLD_00196	tRNA	76				tRNA-Gly(gcc)
+IAHHDFLD_00197	CDS	378				hypothetical protein
+IAHHDFLD_00198	CDS	261				hypothetical protein
+IAHHDFLD_00199	CDS	2415				hypothetical protein
+IAHHDFLD_00200	CDS	2340				hypothetical protein
+IAHHDFLD_00201	CDS	3090	lacZ_1	3.2.1.23		Beta-galactosidase
+IAHHDFLD_00202	CDS	1407				hypothetical protein
+IAHHDFLD_00203	CDS	1404		3.2.1.40		Alpha-L-rhamnosidase
+IAHHDFLD_00204	CDS	1230		3.2.1.40		Alpha-L-rhamnosidase
+IAHHDFLD_00205	CDS	486				hypothetical protein
+IAHHDFLD_00206	CDS	1125	rhlE	3.6.4.13	COG0513	ATP-dependent RNA helicase RhlE
+IAHHDFLD_00207	CDS	1074	IMPDH	1.1.1.205		Inosine-5'-monophosphate dehydrogenase
+IAHHDFLD_00208	CDS	261				hypothetical protein
+IAHHDFLD_00209	CDS	204				hypothetical protein
+IAHHDFLD_00210	CDS	243				hypothetical protein
+IAHHDFLD_00211	CDS	1758				hypothetical protein
+IAHHDFLD_00212	CDS	480				hypothetical protein
+IAHHDFLD_00213	CDS	1878				hypothetical protein
+IAHHDFLD_00214	CDS	1050				hypothetical protein
+IAHHDFLD_00215	CDS	441				hypothetical protein
+IAHHDFLD_00216	CDS	348				hypothetical protein
+IAHHDFLD_00217	CDS	243				hypothetical protein
+IAHHDFLD_00218	CDS	714				hypothetical protein
+IAHHDFLD_00219	CDS	1440				hypothetical protein
+IAHHDFLD_00220	CDS	2256				hypothetical protein
+IAHHDFLD_00221	CDS	1410				hypothetical protein
+IAHHDFLD_00222	CDS	405				hypothetical protein
+IAHHDFLD_00223	CDS	369				hypothetical protein
+IAHHDFLD_00224	CDS	1071				hypothetical protein
+IAHHDFLD_00225	CDS	621				hypothetical protein
+IAHHDFLD_00226	CDS	2115	btuB_1			Vitamin B12 transporter BtuB
+IAHHDFLD_00227	CDS	1158				hypothetical protein
+IAHHDFLD_00228	CDS	612				hypothetical protein
+IAHHDFLD_00229	CDS	1212				hypothetical protein
+IAHHDFLD_00230	CDS	486				hypothetical protein
+IAHHDFLD_00231	CDS	303	nuoK	7.1.1.-	COG0713	NADH-quinone oxidoreductase subunit K
+IAHHDFLD_00232	CDS	330				hypothetical protein
+IAHHDFLD_00233	CDS	1398				hypothetical protein
+IAHHDFLD_00234	CDS	366				hypothetical protein
+IAHHDFLD_00235	CDS	1452				hypothetical protein
+IAHHDFLD_00236	CDS	657	gph	3.1.3.18	COG0546	Phosphoglycolate phosphatase
+IAHHDFLD_00237	CDS	1509				hypothetical protein
+IAHHDFLD_00238	CDS	177				hypothetical protein
+IAHHDFLD_00239	CDS	270				hypothetical protein
+IAHHDFLD_00240	CDS	423				hypothetical protein
+IAHHDFLD_00241	CDS	189				hypothetical protein
+IAHHDFLD_00242	CDS	258				hypothetical protein
+IAHHDFLD_00243	CDS	645				hypothetical protein
+IAHHDFLD_00244	CDS	861	btuD_1	7.6.2.8		Vitamin B12 import ATP-binding protein BtuD
+IAHHDFLD_00245	CDS	381	nagR		COG2188	HTH-type transcriptional repressor NagR
+IAHHDFLD_00246	CDS	366				hypothetical protein
+IAHHDFLD_00247	CDS	1233				hypothetical protein
+IAHHDFLD_00248	CDS	1641				hypothetical protein
+IAHHDFLD_00249	CDS	912	nanA_1	4.1.3.3	COG0329	N-acetylneuraminate lyase
+IAHHDFLD_00250	CDS	1017	nanM_1	5.1.3.24		N-acetylneuraminate epimerase
+IAHHDFLD_00251	CDS	753	nanR			HTH-type transcriptional repressor NanR
+IAHHDFLD_00252	CDS	2241	rep_1	3.6.4.12		ATP-dependent DNA helicase Rep
+IAHHDFLD_00253	CDS	525				hypothetical protein
+IAHHDFLD_00254	CDS	3552				TonB-dependent receptor P3
+IAHHDFLD_00255	CDS	1818				hypothetical protein
+IAHHDFLD_00256	CDS	798				hypothetical protein
+IAHHDFLD_00257	CDS	930				hypothetical protein
+IAHHDFLD_00258	CDS	1134				hypothetical protein
+IAHHDFLD_00259	CDS	1281	iolG_1	1.1.1.369		Inositol 2-dehydrogenase/D-chiro-inositol 3-dehydrogenase
+IAHHDFLD_00260	CDS	2361				hypothetical protein
+IAHHDFLD_00261	CDS	3258	rapA	3.6.4.-		RNA polymerase-associated protein RapA
+IAHHDFLD_00262	CDS	1014				hypothetical protein
+IAHHDFLD_00263	CDS	591				hypothetical protein
+IAHHDFLD_00264	CDS	276				hypothetical protein
+IAHHDFLD_00265	CDS	387				hypothetical protein
+IAHHDFLD_00266	CDS	222				hypothetical protein
+IAHHDFLD_00267	CDS	327				hypothetical protein
+IAHHDFLD_00268	CDS	855				hypothetical protein
+IAHHDFLD_00269	CDS	597				hypothetical protein
+IAHHDFLD_00270	CDS	300				hypothetical protein
+IAHHDFLD_00271	CDS	345				hypothetical protein
+IAHHDFLD_00272	CDS	327				hypothetical protein
+IAHHDFLD_00273	CDS	1707				hypothetical protein
+IAHHDFLD_00274	CDS	1656				hypothetical protein
+IAHHDFLD_00275	CDS	300				hypothetical protein
+IAHHDFLD_00276	CDS	174				hypothetical protein
+IAHHDFLD_00277	CDS	612				hypothetical protein
+IAHHDFLD_00278	CDS	1011				hypothetical protein
+IAHHDFLD_00279	CDS	2211				hypothetical protein
+IAHHDFLD_00280	CDS	252				hypothetical protein
+IAHHDFLD_00281	CDS	597				hypothetical protein
+IAHHDFLD_00282	CDS	387				hypothetical protein
+IAHHDFLD_00283	CDS	1251				hypothetical protein
+IAHHDFLD_00284	CDS	1227	lolE		COG4591	Lipoprotein-releasing system transmembrane protein LolE
+IAHHDFLD_00285	CDS	333	rbfA			Ribosome-binding factor A
+IAHHDFLD_00286	CDS	234				hypothetical protein
+IAHHDFLD_00287	CDS	123				hypothetical protein
+IAHHDFLD_00288	CDS	2502	bamB			Outer membrane protein assembly factor BamB
+IAHHDFLD_00289	CDS	1920				hypothetical protein
+IAHHDFLD_00290	CDS	969				hypothetical protein
+IAHHDFLD_00291	CDS	1764				hypothetical protein
+IAHHDFLD_00292	CDS	3561				TonB-dependent receptor P3
+IAHHDFLD_00293	CDS	1212				hypothetical protein
+IAHHDFLD_00294	CDS	1290				IS1380 family transposase ISBvu1
+IAHHDFLD_00295	CDS	705	yhhW	1.13.11.24	COG1741	Quercetin 2,3-dioxygenase
+IAHHDFLD_00296	CDS	1002	ldhA	1.1.1.28	COG1052	D-lactate dehydrogenase
+IAHHDFLD_00297	CDS	1371				hypothetical protein
+IAHHDFLD_00298	CDS	243				hypothetical protein
+IAHHDFLD_00299	CDS	159				hypothetical protein
+IAHHDFLD_00300	CDS	1023	btuD_2	7.6.2.8		Vitamin B12 import ATP-binding protein BtuD
+IAHHDFLD_00301	CDS	174				hypothetical protein
+IAHHDFLD_00302	CDS	264				hypothetical protein
+IAHHDFLD_00303	CDS	1803		3.6.3.-	COG1132	Putative multidrug export ATP-binding/permease protein
+IAHHDFLD_00304	CDS	1767		3.6.3.-	COG1132	Putative multidrug export ATP-binding/permease protein
+IAHHDFLD_00305	CDS	954	rclR		COG2207	RCS-specific HTH-type transcriptional activator RclR
+IAHHDFLD_00306	CDS	1464	ykoD	3.6.3.-	COG1122	Putative HMP/thiamine import ATP-binding protein YkoD
+IAHHDFLD_00307	CDS	723				hypothetical protein
+IAHHDFLD_00308	CDS	591				hypothetical protein
+IAHHDFLD_00309	CDS	525				hypothetical protein
+IAHHDFLD_00310	CDS	873				hypothetical protein
+IAHHDFLD_00311	CDS	1176	dnaG	2.7.7.-		DNA primase
+IAHHDFLD_00312	CDS	309				hypothetical protein
+IAHHDFLD_00313	CDS	957				hypothetical protein
+IAHHDFLD_00314	CDS	390				hypothetical protein
+IAHHDFLD_00315	CDS	1254				hypothetical protein
+IAHHDFLD_00316	CDS	831				hypothetical protein
+IAHHDFLD_00317	CDS	285				hypothetical protein
+IAHHDFLD_00318	CDS	1038				hypothetical protein
+IAHHDFLD_00319	CDS	498				hypothetical protein
+IAHHDFLD_00320	CDS	624				hypothetical protein
+IAHHDFLD_00321	CDS	1320	xerC_1			Tyrosine recombinase XerC
+IAHHDFLD_00322	CDS	441				hypothetical protein
+IAHHDFLD_00323	CDS	240				hypothetical protein
+IAHHDFLD_00324	CDS	333				hypothetical protein
+IAHHDFLD_00325	CDS	1269				hypothetical protein
+IAHHDFLD_00326	CDS	756	parA			Chromosome partitioning protein ParA
+IAHHDFLD_00327	CDS	249				hypothetical protein
+IAHHDFLD_00328	CDS	180				hypothetical protein
+IAHHDFLD_00329	CDS	336				hypothetical protein
+IAHHDFLD_00330	CDS	276				hypothetical protein
+IAHHDFLD_00331	CDS	579				hypothetical protein
+IAHHDFLD_00332	CDS	279				hypothetical protein
+IAHHDFLD_00333	CDS	585				hypothetical protein
+IAHHDFLD_00334	CDS	300				hypothetical protein
+IAHHDFLD_00335	CDS	351				hypothetical protein
+IAHHDFLD_00336	CDS	1785				hypothetical protein
+IAHHDFLD_00337	CDS	573				hypothetical protein
+IAHHDFLD_00338	CDS	879				hypothetical protein
+IAHHDFLD_00339	CDS	1071				hypothetical protein
+IAHHDFLD_00340	CDS	1347				hypothetical protein
+IAHHDFLD_00341	CDS	483				hypothetical protein
+IAHHDFLD_00342	CDS	354				hypothetical protein
+IAHHDFLD_00343	CDS	192				hypothetical protein
+IAHHDFLD_00344	CDS	627	cysE_1	2.3.1.30	COG1045	Serine acetyltransferase
+IAHHDFLD_00345	CDS	957				hypothetical protein
+IAHHDFLD_00346	CDS	1287				TonB-dependent receptor P3
+IAHHDFLD_00347	CDS	1683				hypothetical protein
+IAHHDFLD_00348	CDS	2112				hypothetical protein
+IAHHDFLD_00349	CDS	3264				hypothetical protein
+IAHHDFLD_00350	CDS	1662				SusD-like protein P38
+IAHHDFLD_00351	CDS	1101				hypothetical protein
+IAHHDFLD_00352	CDS	678				hypothetical protein
+IAHHDFLD_00353	CDS	3471	dnaE	2.7.7.7	COG0587	DNA polymerase III subunit alpha
+IAHHDFLD_00354	CDS	894	araC			Arabinose operon regulatory protein
+IAHHDFLD_00355	CDS	1437	xylE_1			D-xylose-proton symporter
+IAHHDFLD_00356	CDS	3282				hypothetical protein
+IAHHDFLD_00357	CDS	1617				hypothetical protein
+IAHHDFLD_00358	CDS	1371				hypothetical protein
+IAHHDFLD_00359	CDS	3093	susC_3			TonB-dependent receptor SusC
+IAHHDFLD_00360	CDS	1512				SusD-like protein
+IAHHDFLD_00361	CDS	675				hypothetical protein
+IAHHDFLD_00362	CDS	2349				hypothetical protein
+IAHHDFLD_00363	CDS	2502				hypothetical protein
+IAHHDFLD_00364	CDS	315	trxA			Thioredoxin 1
+IAHHDFLD_00365	CDS	336				hypothetical protein
+IAHHDFLD_00366	CDS	726				hypothetical protein
+IAHHDFLD_00367	CDS	963				hypothetical protein
+IAHHDFLD_00368	CDS	939				hypothetical protein
+IAHHDFLD_00369	CDS	618				hypothetical protein
+IAHHDFLD_00370	CDS	1272				hypothetical protein
+IAHHDFLD_00371	CDS	975	ravA	3.6.3.-		ATPase RavA
+IAHHDFLD_00372	CDS	1311				hypothetical protein
+IAHHDFLD_00373	CDS	378				hypothetical protein
+IAHHDFLD_00374	CDS	294				hypothetical protein
+IAHHDFLD_00375	CDS	228				hypothetical protein
+IAHHDFLD_00376	CDS	141				hypothetical protein
+IAHHDFLD_00377	CDS	600				hypothetical protein
+IAHHDFLD_00378	CDS	795				hypothetical protein
+IAHHDFLD_00379	CDS	255				hypothetical protein
+IAHHDFLD_00380	CDS	126				hypothetical protein
+IAHHDFLD_00381	CDS	114				hypothetical protein
+IAHHDFLD_00382	CDS	432				hypothetical protein
+IAHHDFLD_00383	CDS	522				hypothetical protein
+IAHHDFLD_00384	CDS	450				hypothetical protein
+IAHHDFLD_00385	CDS	1134	epsF	2.4.-.-	COG0438	Putative glycosyltransferase EpsF
+IAHHDFLD_00386	CDS	924	fcf1	1.1.1.266		dTDP-4-dehydro-6-deoxyglucose reductase
+IAHHDFLD_00387	CDS	408				hypothetical protein
+IAHHDFLD_00388	CDS	1068	mshA_1	2.4.1.250		D-inositol-3-phosphate glycosyltransferase
+IAHHDFLD_00389	CDS	1260				hypothetical protein
+IAHHDFLD_00390	CDS	975	gspA_1		COG1442	General stress protein A
+IAHHDFLD_00391	CDS	870	wbnK	2.4.1.308		O-antigen biosynthesis glycosyltransferase WbnK
+IAHHDFLD_00392	CDS	900				hypothetical protein
+IAHHDFLD_00393	CDS	1431	ftsA		COG0849	Cell division protein FtsA
+IAHHDFLD_00394	CDS	2460	gloB	3.1.2.6		Hydroxyacylglutathione hydrolase
+IAHHDFLD_00395	CDS	2319				hypothetical protein
+IAHHDFLD_00396	CDS	2481				hypothetical protein
+IAHHDFLD_00397	CDS	918				hypothetical protein
+IAHHDFLD_00398	CDS	1587				hypothetical protein
+IAHHDFLD_00399	CDS	171				hypothetical protein
+IAHHDFLD_00400	CDS	3066				TonB-dependent receptor P3
+IAHHDFLD_00401	CDS	1533				SusD-like protein P2
+IAHHDFLD_00402	CDS	2310		3.2.1.-		Beta-xylosidase
+IAHHDFLD_00403	CDS	1374				hypothetical protein
+IAHHDFLD_00404	CDS	2559				hypothetical protein
+IAHHDFLD_00405	CDS	234				hypothetical protein
+IAHHDFLD_00406	CDS	3924	rcsC_5	2.7.13.3		Sensor histidine kinase RcsC
+IAHHDFLD_00407	CDS	903				hypothetical protein
+IAHHDFLD_00408	CDS	2229				hypothetical protein
+IAHHDFLD_00409	CDS	900				hypothetical protein
+IAHHDFLD_00410	CDS	1461				hypothetical protein
+IAHHDFLD_00411	CDS	1776	susD_1			Starch-binding protein SusD
+IAHHDFLD_00412	CDS	2997	susC_4			TonB-dependent receptor SusC
+IAHHDFLD_00413	CDS	1176				hypothetical protein
+IAHHDFLD_00414	CDS	1098		3.2.1.55	COG3940	Extracellular exo-alpha-(1->5)-L-arabinofuranosidase
+IAHHDFLD_00415	CDS	993	xsa_1			Xylosidase/arabinosidase
+IAHHDFLD_00416	CDS	2112	bgaA	3.2.1.23		Beta-galactosidase BgaA
+IAHHDFLD_00417	CDS	1020				hypothetical protein
+IAHHDFLD_00418	CDS	396				hypothetical protein
+IAHHDFLD_00419	CDS	996				hypothetical protein
+IAHHDFLD_00420	CDS	570				hypothetical protein
+IAHHDFLD_00421	CDS	2175				hypothetical protein
+IAHHDFLD_00422	CDS	234				hypothetical protein
+IAHHDFLD_00423	CDS	2271				hypothetical protein
+IAHHDFLD_00424	CDS	1032				hypothetical protein
+IAHHDFLD_00425	CDS	774				hypothetical protein
+IAHHDFLD_00426	CDS	1038				hypothetical protein
+IAHHDFLD_00427	CDS	1086				hypothetical protein
+IAHHDFLD_00428	CDS	1095				hypothetical protein
+IAHHDFLD_00429	CDS	441				hypothetical protein
+IAHHDFLD_00430	CDS	1500				hypothetical protein
+IAHHDFLD_00431	CDS	3105				TonB-dependent receptor P3
+IAHHDFLD_00432	CDS	753				hypothetical protein
+IAHHDFLD_00433	CDS	321				hypothetical protein
+IAHHDFLD_00434	CDS	1218				hypothetical protein
+IAHHDFLD_00435	CDS	1020	ltrA_1		COG3344	Group II intron-encoded protein LtrA
+IAHHDFLD_00436	CDS	282				hypothetical protein
+IAHHDFLD_00437	CDS	417				hypothetical protein
+IAHHDFLD_00438	CDS	282	RBKS	2.7.1.15		Ribokinase
+IAHHDFLD_00439	CDS	381				hypothetical protein
+IAHHDFLD_00440	CDS	492	fldA		COG0716	Flavodoxin 1
+IAHHDFLD_00441	CDS	267				hypothetical protein
+IAHHDFLD_00442	CDS	267				hypothetical protein
+IAHHDFLD_00443	CDS	219				hypothetical protein
+IAHHDFLD_00444	CDS	1554				hypothetical protein
+IAHHDFLD_00445	CDS	156				hypothetical protein
+IAHHDFLD_00446	CDS	438				hypothetical protein
+IAHHDFLD_00447	CDS	1869		3.2.1.-		Beta-xylosidase
+IAHHDFLD_00448	CDS	1077	rfbG	4.2.1.45	COG0451	CDP-glucose 4,6-dehydratase
+IAHHDFLD_00449	CDS	492	rfbF	2.7.7.33	COG1208	Glucose-1-phosphate cytidylyltransferase
+IAHHDFLD_00450	CDS	252				hypothetical protein
+IAHHDFLD_00451	CDS	576	adk	2.7.4.3	COG0563	Adenylate kinase
+IAHHDFLD_00452	CDS	1038	thiL	2.7.4.16	COG0611	Thiamine-monophosphate kinase
+IAHHDFLD_00453	CDS	252				hypothetical protein
+IAHHDFLD_00454	tRNA	73				tRNA-Glu(ttc)
+IAHHDFLD_00455	CDS	765	yclP	7.2.2.-	COG4604	Petrobactin import ATP-binding protein YclP
+IAHHDFLD_00456	CDS	1008	hmuU		COG0609	Hemin transport system permease protein HmuU
+IAHHDFLD_00457	tRNA	76				tRNA-Pro(ggg)
+IAHHDFLD_00458	CDS	1044				hypothetical protein
+IAHHDFLD_00459	CDS	210				hypothetical protein
+IAHHDFLD_00460	CDS	393				hypothetical protein
+IAHHDFLD_00461	CDS	543				hypothetical protein
+IAHHDFLD_00462	CDS	1011				hypothetical protein
+IAHHDFLD_00463	CDS	372				hypothetical protein
+IAHHDFLD_00464	CDS	339				hypothetical protein
+IAHHDFLD_00465	CDS	522				hypothetical protein
+IAHHDFLD_00466	CDS	366				hypothetical protein
+IAHHDFLD_00467	CDS	936				hypothetical protein
+IAHHDFLD_00468	CDS	1152				hypothetical protein
+IAHHDFLD_00469	CDS	612				hypothetical protein
+IAHHDFLD_00470	CDS	159				hypothetical protein
+IAHHDFLD_00471	CDS	1599	glmS_1	5.4.99.1		Glutamate mutase sigma subunit
+IAHHDFLD_00472	CDS	1851				hypothetical protein
+IAHHDFLD_00473	CDS	657				hypothetical protein
+IAHHDFLD_00474	CDS	957				hypothetical protein
+IAHHDFLD_00475	CDS	657				hypothetical protein
+IAHHDFLD_00476	CDS	573	algU_1		COG1595	RNA polymerase sigma-H factor
+IAHHDFLD_00477	CDS	1281				hypothetical protein
+IAHHDFLD_00478	CDS	1170				hypothetical protein
+IAHHDFLD_00479	CDS	873	pdxK	2.7.1.35	COG2240	Pyridoxine/pyridoxal/pyridoxamine kinase
+IAHHDFLD_00480	CDS	582	lutC			Lactate utilization protein C
+IAHHDFLD_00481	CDS	1386	lutB			Lactate utilization protein B
+IAHHDFLD_00482	CDS	606				hypothetical protein
+IAHHDFLD_00483	CDS	918				hypothetical protein
+IAHHDFLD_00484	CDS	2256				hypothetical protein
+IAHHDFLD_00485	CDS	3060				TonB-dependent receptor P3
+IAHHDFLD_00486	CDS	1611				SusD-like protein P2
+IAHHDFLD_00487	CDS	1767				hypothetical protein
+IAHHDFLD_00488	CDS	231				hypothetical protein
+IAHHDFLD_00489	CDS	96				hypothetical protein
+IAHHDFLD_00490	CDS	201				hypothetical protein
+IAHHDFLD_00491	CDS	1128				hypothetical protein
+IAHHDFLD_00492	CDS	912	glyD			Glycosyltransferase GlyD
+IAHHDFLD_00493	CDS	1455	tuaB		COG2244	Teichuronic acid biosynthesis protein TuaB
+IAHHDFLD_00494	CDS	1113				hypothetical protein
+IAHHDFLD_00495	CDS	339				hypothetical protein
+IAHHDFLD_00496	CDS	972				hypothetical protein
+IAHHDFLD_00497	CDS	1794				hypothetical protein
+IAHHDFLD_00498	CDS	1386	axeA1_1	3.1.1.72	COG0657	Acetylxylan esterase
+IAHHDFLD_00499	CDS	1353	mepA_1			Multidrug export protein MepA
+IAHHDFLD_00500	CDS	189				hypothetical protein
+IAHHDFLD_00501	CDS	219				hypothetical protein
+IAHHDFLD_00502	CDS	330				hypothetical protein
+IAHHDFLD_00503	CDS	621				hypothetical protein
+IAHHDFLD_00504	CDS	1263	xerC_2			Tyrosine recombinase XerC
+IAHHDFLD_00505	CDS	303				hypothetical protein
+IAHHDFLD_00506	CDS	282				hypothetical protein
+IAHHDFLD_00507	CDS	990	xerC_3			Tyrosine recombinase XerC
+IAHHDFLD_00508	CDS	351				hypothetical protein
+IAHHDFLD_00509	CDS	921				hypothetical protein
+IAHHDFLD_00510	CDS	1017				hypothetical protein
+IAHHDFLD_00511	CDS	681				hypothetical protein
+IAHHDFLD_00512	CDS	816	bglA	3.2.1.73		Beta-glucanase
+IAHHDFLD_00513	CDS	2277	rcsC_6	2.7.13.3		Sensor histidine kinase RcsC
+IAHHDFLD_00514	CDS	1776	fucI	5.3.1.25	COG2407	L-fucose isomerase
+IAHHDFLD_00515	CDS	639	otnC	4.1.1.104	COG0235	3-oxo-tetronate 4-phosphate decarboxylase
+IAHHDFLD_00516	CDS	1431	rhaB	2.7.1.5	COG1070	L-Rhamnulokinase
+IAHHDFLD_00517	CDS	393		5.1.3.29		L-fucose mutarotase
+IAHHDFLD_00518	CDS	894				hypothetical protein
+IAHHDFLD_00519	CDS	315	pfp	2.7.1.90	COG0205	Pyrophosphate--fructose 6-phosphate 1-phosphotransferase
+IAHHDFLD_00520	CDS	390				hypothetical protein
+IAHHDFLD_00521	CDS	912	mscS		COG0668	Small-conductance mechanosensitive channel
+IAHHDFLD_00522	CDS	1221	xerC_4			Tyrosine recombinase XerC
+IAHHDFLD_00523	CDS	288				hypothetical protein
+IAHHDFLD_00524	CDS	324				hypothetical protein
+IAHHDFLD_00525	CDS	1053	xerC_5			Tyrosine recombinase XerC
+IAHHDFLD_00526	CDS	1326	xerC_6			Tyrosine recombinase XerC
+IAHHDFLD_00527	CDS	966	xerC_7			Tyrosine recombinase XerC
+IAHHDFLD_00528	CDS	582				hypothetical protein
+IAHHDFLD_00529	CDS	1068				hypothetical protein
+IAHHDFLD_00530	CDS	939	nadA	2.5.1.72	COG0379	Quinolinate synthase A
+IAHHDFLD_00531	CDS	150				hypothetical protein
+IAHHDFLD_00532	CDS	528	trmH	2.1.1.34	COG0566	tRNA (guanosine(18)-2'-O)-methyltransferase
+IAHHDFLD_00533	CDS	474	agaA_1	3.2.1.22		Alpha-galactosidase A
+IAHHDFLD_00534	CDS	723				hypothetical protein
+IAHHDFLD_00535	CDS	1251				hypothetical protein
+IAHHDFLD_00536	CDS	1338				hypothetical protein
+IAHHDFLD_00537	CDS	1542				hypothetical protein
+IAHHDFLD_00538	CDS	1014				hypothetical protein
+IAHHDFLD_00539	CDS	1407				hypothetical protein
+IAHHDFLD_00540	CDS	354				hypothetical protein
+IAHHDFLD_00541	CDS	1143				hypothetical protein
+IAHHDFLD_00542	CDS	1332				hypothetical protein
+IAHHDFLD_00543	CDS	1299				hypothetical protein
+IAHHDFLD_00544	CDS	1380		3.1.6.-		Ulvan-active sulfatase
+IAHHDFLD_00545	CDS	1377	atsA_1	3.1.6.1	COG3119	Arylsulfatase
+IAHHDFLD_00546	CDS	1371		3.1.6.-		Ulvan-active sulfatase
+IAHHDFLD_00547	CDS	1593	atsA_2	3.1.6.1	COG3119	Arylsulfatase
+IAHHDFLD_00548	CDS	2562				hypothetical protein
+IAHHDFLD_00549	CDS	1686	atsA_3	3.1.6.1	COG3119	Arylsulfatase
+IAHHDFLD_00550	CDS	1944				hypothetical protein
+IAHHDFLD_00551	CDS	1020				hypothetical protein
+IAHHDFLD_00552	CDS	588	dapH_2	2.3.1.89		2,3,4,5-tetrahydropyridine-2,6-dicarboxylate N-acetyltransferase
+IAHHDFLD_00553	CDS	1566				hypothetical protein
+IAHHDFLD_00554	CDS	255	glf_1	5.4.99.9	COG0562	UDP-galactopyranose mutase
+IAHHDFLD_00555	CDS	1662				hypothetical protein
+IAHHDFLD_00556	CDS	1065				hypothetical protein
+IAHHDFLD_00557	CDS	1854				hypothetical protein
+IAHHDFLD_00558	CDS	1752				hypothetical protein
+IAHHDFLD_00559	CDS	3576				TonB-dependent receptor P26
+IAHHDFLD_00560	CDS	1020				hypothetical protein
+IAHHDFLD_00561	CDS	573	rpoE_1		COG1595	ECF RNA polymerase sigma factor RpoE
+IAHHDFLD_00562	CDS	801				hypothetical protein
+IAHHDFLD_00563	CDS	1332	xynD	3.2.1.55		Arabinoxylan arabinofuranohydrolase
+IAHHDFLD_00564	CDS	1089				hypothetical protein
+IAHHDFLD_00565	CDS	1059	endOF1	3.2.1.96		Endo-beta-N-acetylglucosaminidase F1
+IAHHDFLD_00566	CDS	600				hypothetical protein
+IAHHDFLD_00567	CDS	831				hypothetical protein
+IAHHDFLD_00568	CDS	315	rhaM_1	5.1.3.32		L-rhamnose mutarotase
+IAHHDFLD_00569	CDS	213				hypothetical protein
+IAHHDFLD_00570	CDS	411				hypothetical protein
+IAHHDFLD_00571	CDS	126				hypothetical protein
+IAHHDFLD_00572	CDS	135				hypothetical protein
+IAHHDFLD_00573	CDS	732				hypothetical protein
+IAHHDFLD_00574	CDS	348				hypothetical protein
+IAHHDFLD_00575	CDS	273				hypothetical protein
+IAHHDFLD_00576	CDS	2856				hypothetical protein
+IAHHDFLD_00577	CDS	3030	susC_5			TonB-dependent receptor SusC
+IAHHDFLD_00578	CDS	1467				SusD-like protein
+IAHHDFLD_00579	CDS	2109				hypothetical protein
+IAHHDFLD_00580	CDS	1362				hypothetical protein
+IAHHDFLD_00581	CDS	2286		3.2.1.-		Beta-xylosidase
+IAHHDFLD_00582	CDS	2403		3.2.1.-		Beta-xylosidase
+IAHHDFLD_00583	CDS	519				hypothetical protein
+IAHHDFLD_00584	CDS	2157	rnr	3.1.13.1	COG0557	Ribonuclease R
+IAHHDFLD_00585	CDS	1128				hypothetical protein
+IAHHDFLD_00586	CDS	1134				hypothetical protein
+IAHHDFLD_00587	CDS	1041				hypothetical protein
+IAHHDFLD_00588	CDS	924				hypothetical protein
+IAHHDFLD_00589	CDS	1419				SusD-like protein P25
+IAHHDFLD_00590	CDS	3339				TonB-dependent receptor P3
+IAHHDFLD_00591	CDS	1560				hypothetical protein
+IAHHDFLD_00592	CDS	960				hypothetical protein
+IAHHDFLD_00593	CDS	597				hypothetical protein
+IAHHDFLD_00594	CDS	1305				hypothetical protein
+IAHHDFLD_00595	CDS	534	algU_2		COG1595	RNA polymerase sigma-H factor
+IAHHDFLD_00596	CDS	3009				TonB-dependent receptor P3
+IAHHDFLD_00597	CDS	570				hypothetical protein
+IAHHDFLD_00598	CDS	933	cas1	3.1.-.-		CRISPR-associated endonuclease Cas1
+IAHHDFLD_00599	CDS	237				hypothetical protein
+IAHHDFLD_00600	CDS	525				hypothetical protein
+IAHHDFLD_00601	CDS	297				hypothetical protein
+IAHHDFLD_00602	CDS	159				hypothetical protein
+IAHHDFLD_00603	CDS	450				hypothetical protein
+IAHHDFLD_00604	CDS	471				hypothetical protein
+IAHHDFLD_00605	CDS	813	rob		COG2207	Right origin-binding protein
+IAHHDFLD_00606	CDS	1182				hypothetical protein
+IAHHDFLD_00607	CDS	3150	nagZ_1	3.2.1.52		Beta-hexosaminidase
+IAHHDFLD_00608	CDS	2664				hypothetical protein
+IAHHDFLD_00609	CDS	2829				TonB-dependent receptor P26
+IAHHDFLD_00610	CDS	1758				hypothetical protein
+IAHHDFLD_00611	CDS	3426				TonB-dependent receptor P26
+IAHHDFLD_00612	CDS	1173				hypothetical protein
+IAHHDFLD_00613	CDS	546				hypothetical protein
+IAHHDFLD_00614	CDS	1191				hypothetical protein
+IAHHDFLD_00615	CDS	402				hypothetical protein
+IAHHDFLD_00616	CDS	624				hypothetical protein
+IAHHDFLD_00617	CDS	177				hypothetical protein
+IAHHDFLD_00618	CDS	1098				hypothetical protein
+IAHHDFLD_00619	CDS	1950				hypothetical protein
+IAHHDFLD_00620	CDS	1221				hypothetical protein
+IAHHDFLD_00621	CDS	627	cat	2.3.1.28		Chloramphenicol acetyltransferase
+IAHHDFLD_00622	tRNA	76				tRNA-Val(gac)
+IAHHDFLD_00623	CDS	843	pal			Peptidoglycan-associated lipoprotein
+IAHHDFLD_00624	CDS	585		3.6.1.66		dITP/XTP pyrophosphatase
+IAHHDFLD_00625	CDS	837				hypothetical protein
+IAHHDFLD_00626	CDS	477				hypothetical protein
+IAHHDFLD_00627	CDS	444				hypothetical protein
+IAHHDFLD_00628	CDS	465				hypothetical protein
+IAHHDFLD_00629	CDS	552				hypothetical protein
+IAHHDFLD_00630	CDS	801	xerC_8			Tyrosine recombinase XerC
+IAHHDFLD_00631	CDS	1491				hypothetical protein
+IAHHDFLD_00632	CDS	1005				hypothetical protein
+IAHHDFLD_00633	CDS	1386				hypothetical protein
+IAHHDFLD_00634	CDS	237				hypothetical protein
+IAHHDFLD_00635	CDS	291				hypothetical protein
+IAHHDFLD_00636	CDS	549				hypothetical protein
+IAHHDFLD_00637	CDS	681				hypothetical protein
+IAHHDFLD_00638	CDS	2349		3.2.1.-		Beta-xylosidase
+IAHHDFLD_00639	CDS	1077				hypothetical protein
+IAHHDFLD_00640	CDS	1242				hypothetical protein
+IAHHDFLD_00641	CDS	1941				hypothetical protein
+IAHHDFLD_00642	CDS	198				hypothetical protein
+IAHHDFLD_00643	CDS	837				hypothetical protein
+IAHHDFLD_00644	CDS	285				hypothetical protein
+IAHHDFLD_00645	CDS	597				hypothetical protein
+IAHHDFLD_00646	CDS	1503				hypothetical protein
+IAHHDFLD_00647	CDS	1779				hypothetical protein
+IAHHDFLD_00648	CDS	1329				hypothetical protein
+IAHHDFLD_00649	CDS	927				hypothetical protein
+IAHHDFLD_00650	CDS	1194				hypothetical protein
+IAHHDFLD_00651	CDS	1119	mshA_2	2.4.1.250		D-inositol-3-phosphate glycosyltransferase
+IAHHDFLD_00652	CDS	447				hypothetical protein
+IAHHDFLD_00653	CDS	306				hypothetical protein
+IAHHDFLD_00654	CDS	543				hypothetical protein
+IAHHDFLD_00655	CDS	1560				hypothetical protein
+IAHHDFLD_00656	CDS	1458				hypothetical protein
+IAHHDFLD_00657	CDS	525				hypothetical protein
+IAHHDFLD_00658	CDS	1200	lacZ_2	3.2.1.23		Beta-galactosidase
+IAHHDFLD_00659	CDS	498				hypothetical protein
+IAHHDFLD_00660	CDS	1332	xerC_9			Tyrosine recombinase XerC
+IAHHDFLD_00661	CDS	915				hypothetical protein
+IAHHDFLD_00662	CDS	570				hypothetical protein
+IAHHDFLD_00663	CDS	1314				hypothetical protein
+IAHHDFLD_00664	CDS	1605				hypothetical protein
+IAHHDFLD_00665	CDS	972	mfa2			Minor fimbrium anchoring subunit Mfa2
+IAHHDFLD_00666	CDS	2052				hypothetical protein
+IAHHDFLD_00667	CDS	2493				hypothetical protein
+IAHHDFLD_00668	CDS	2874				hypothetical protein
+IAHHDFLD_00669	CDS	267	hup			DNA-binding protein HU
+IAHHDFLD_00670	CDS	1170				Outer membrane protein 40
+IAHHDFLD_00671	CDS	504				hypothetical protein
+IAHHDFLD_00672	CDS	660	aqpZ		COG0580	Aquaporin Z
+IAHHDFLD_00673	CDS	870				hypothetical protein
+IAHHDFLD_00674	CDS	573				hypothetical protein
+IAHHDFLD_00675	CDS	147				hypothetical protein
+IAHHDFLD_00676	CDS	519				hypothetical protein
+IAHHDFLD_00677	CDS	351				hypothetical protein
+IAHHDFLD_00678	CDS	921				hypothetical protein
+IAHHDFLD_00679	CDS	1704				hypothetical protein
+IAHHDFLD_00680	CDS	2064	helD	3.6.4.12	COG3973	DNA helicase IV
+IAHHDFLD_00681	CDS	585				hypothetical protein
+IAHHDFLD_00682	CDS	774				hypothetical protein
+IAHHDFLD_00683	CDS	663	ung	3.2.2.27	COG0692	Uracil-DNA glycosylase
+IAHHDFLD_00684	CDS	315				hypothetical protein
+IAHHDFLD_00685	CDS	579	rfaH_1			Transcription antitermination protein RfaH
+IAHHDFLD_00686	CDS	207				hypothetical protein
+IAHHDFLD_00687	CDS	462				hypothetical protein
+IAHHDFLD_00688	tRNA	72				tRNA-Gly(acc)
+IAHHDFLD_00689	CDS	537				hypothetical protein
+IAHHDFLD_00690	CDS	105				hypothetical protein
+IAHHDFLD_00691	CDS	741	tyrS1	6.1.1.1	COG0162	Tyrosine--tRNA ligase 1
+IAHHDFLD_00692	CDS	354	folB	4.1.2.25	COG1539	Dihydroneopterin aldolase
+IAHHDFLD_00693	CDS	573	pgiA_1	5.3.1.9		Glucose-6-phosphate isomerase
+IAHHDFLD_00694	CDS	960	glcK	2.7.1.2	COG1940	Glucokinase
+IAHHDFLD_00695	CDS	1764				hypothetical protein
+IAHHDFLD_00696	CDS	786	pgiA_2	5.3.1.9		Glucose-6-phosphate isomerase
+IAHHDFLD_00697	CDS	177				hypothetical protein
+IAHHDFLD_00698	CDS	999				hypothetical protein
+IAHHDFLD_00699	CDS	1698				hypothetical protein
+IAHHDFLD_00700	CDS	1662				hypothetical protein
+IAHHDFLD_00701	CDS	3225	susC_6			TonB-dependent receptor SusC
+IAHHDFLD_00702	CDS	1140				hypothetical protein
+IAHHDFLD_00703	CDS	1605				SusD-like protein P25
+IAHHDFLD_00704	CDS	795				hypothetical protein
+IAHHDFLD_00705	CDS	816	pyrD_1	1.3.-.-		Dihydroorotate dehydrogenase
+IAHHDFLD_00706	CDS	1128	glf_2	5.4.99.9	COG0562	UDP-galactopyranose mutase
+IAHHDFLD_00707	CDS	1422	murJ			lipid II flippase MurJ
+IAHHDFLD_00708	CDS	474				hypothetical protein
+IAHHDFLD_00709	CDS	822				hypothetical protein
+IAHHDFLD_00710	CDS	435	xerC_10			Tyrosine recombinase XerC
+IAHHDFLD_00711	CDS	729				hypothetical protein
+IAHHDFLD_00712	CDS	2541				hypothetical protein
+IAHHDFLD_00713	CDS	1185				hypothetical protein
+IAHHDFLD_00714	CDS	1002				hypothetical protein
+IAHHDFLD_00715	CDS	2040				hypothetical protein
+IAHHDFLD_00716	CDS	3114				TonB-dependent receptor P3
+IAHHDFLD_00717	CDS	1515				hypothetical protein
+IAHHDFLD_00718	CDS	669				hypothetical protein
+IAHHDFLD_00719	CDS	171				hypothetical protein
+IAHHDFLD_00720	CDS	789				hypothetical protein
+IAHHDFLD_00721	CDS	1554				hypothetical protein
+IAHHDFLD_00722	CDS	1146				hypothetical protein
+IAHHDFLD_00723	CDS	540	cobO	2.5.1.17		Corrinoid adenosyltransferase
+IAHHDFLD_00724	CDS	366				hypothetical protein
+IAHHDFLD_00725	CDS	1683	aspT			Aspartate/alanine antiporter
+IAHHDFLD_00726	CDS	1005				hypothetical protein
+IAHHDFLD_00727	CDS	936	rbsK_1	2.7.1.15		Ribokinase
+IAHHDFLD_00728	CDS	864	rbsK_2	2.7.1.15		Ribokinase
+IAHHDFLD_00729	CDS	837	mcm	5.4.99.2	COG1884	Methylmalonyl-CoA mutase
+IAHHDFLD_00730	CDS	552	fecI_1		COG1595	putative RNA polymerase sigma factor FecI
+IAHHDFLD_00731	CDS	1017				hypothetical protein
+IAHHDFLD_00732	CDS	3363				TonB-dependent receptor P3
+IAHHDFLD_00733	CDS	1641				hypothetical protein
+IAHHDFLD_00734	CDS	903				hypothetical protein
+IAHHDFLD_00735	CDS	1305				hypothetical protein
+IAHHDFLD_00736	CDS	1647				hypothetical protein
+IAHHDFLD_00737	CDS	270				hypothetical protein
+IAHHDFLD_00738	CDS	384				hypothetical protein
+IAHHDFLD_00739	CDS	291				hypothetical protein
+IAHHDFLD_00740	CDS	423				hypothetical protein
+IAHHDFLD_00741	CDS	816				hypothetical protein
+IAHHDFLD_00742	CDS	339				hypothetical protein
+IAHHDFLD_00743	CDS	897				hypothetical protein
+IAHHDFLD_00744	CDS	303				hypothetical protein
+IAHHDFLD_00745	CDS	186				hypothetical protein
+IAHHDFLD_00746	CDS	240				hypothetical protein
+IAHHDFLD_00747	CDS	261				hypothetical protein
+IAHHDFLD_00748	CDS	285				hypothetical protein
+IAHHDFLD_00749	CDS	2967				TonB-dependent receptor P39
+IAHHDFLD_00750	CDS	1323				hypothetical protein
+IAHHDFLD_00751	CDS	255				hypothetical protein
+IAHHDFLD_00752	CDS	753				hypothetical protein
+IAHHDFLD_00753	CDS	234				hypothetical protein
+IAHHDFLD_00754	CDS	558				hypothetical protein
+IAHHDFLD_00755	CDS	309				hypothetical protein
+IAHHDFLD_00756	CDS	159				hypothetical protein
+IAHHDFLD_00757	CDS	258				hypothetical protein
+IAHHDFLD_00758	CDS	1953	polA	2.7.7.7	COG0258	DNA polymerase I
+IAHHDFLD_00759	CDS	774	focA		COG2116	putative formate transporter 1
+IAHHDFLD_00760	CDS	570				hypothetical protein
+IAHHDFLD_00761	CDS	570				hypothetical protein
+IAHHDFLD_00762	CDS	585	rpoE_2			ECF RNA polymerase sigma-E factor
+IAHHDFLD_00763	CDS	150				hypothetical protein
+IAHHDFLD_00764	CDS	204				hypothetical protein
+IAHHDFLD_00765	CDS	801				hypothetical protein
+IAHHDFLD_00766	CDS	627				hypothetical protein
+IAHHDFLD_00767	CDS	351	pqqD			PqqA binding protein
+IAHHDFLD_00768	CDS	909				hypothetical protein
+IAHHDFLD_00769	CDS	1548				SusD-like protein P38
+IAHHDFLD_00770	CDS	2964				TonB-dependent receptor P26
+IAHHDFLD_00771	CDS	3726	rcsC_7	2.7.13.3		Sensor histidine kinase RcsC
+IAHHDFLD_00772	CDS	882				hypothetical protein
+IAHHDFLD_00773	CDS	987				hypothetical protein
+IAHHDFLD_00774	CDS	1038				hypothetical protein
+IAHHDFLD_00775	CDS	117				hypothetical protein
+IAHHDFLD_00776	CDS	672				hypothetical protein
+IAHHDFLD_00777	CDS	114				hypothetical protein
+IAHHDFLD_00778	CDS	1182	mshA_3	2.4.1.250		D-inositol-3-phosphate glycosyltransferase
+IAHHDFLD_00779	CDS	1071	pqqE	1.21.98.4		PqqA peptide cyclase
+IAHHDFLD_00780	CDS	1083	glgM	2.4.1.342	COG0438	Alpha-maltose-1-phosphate synthase
+IAHHDFLD_00781	CDS	1407	gumD	2.7.8.31	COG2148	UDP-glucose:undecaprenyl-phosphate glucose-1-phosphate transferase
+IAHHDFLD_00782	CDS	825				hypothetical protein
+IAHHDFLD_00783	CDS	282				hypothetical protein
+IAHHDFLD_00784	CDS	684				hypothetical protein
+IAHHDFLD_00785	CDS	276				hypothetical protein
+IAHHDFLD_00786	CDS	513				hypothetical protein
+IAHHDFLD_00787	CDS	651				hypothetical protein
+IAHHDFLD_00788	CDS	3243				hypothetical protein
+IAHHDFLD_00789	CDS	411				hypothetical protein
+IAHHDFLD_00790	CDS	564				hypothetical protein
+IAHHDFLD_00791	CDS	861				hypothetical protein
+IAHHDFLD_00792	CDS	819				hypothetical protein
+IAHHDFLD_00793	CDS	1032	arnC_1	2.4.2.53		Undecaprenyl-phosphate 4-deoxy-4-formamido-L-arabinose transferase
+IAHHDFLD_00794	CDS	543	dapH_3	2.3.1.89		2,3,4,5-tetrahydropyridine-2,6-dicarboxylate N-acetyltransferase
+IAHHDFLD_00795	CDS	1170	pglH_1	2.4.1.292	COG0438	GalNAc-alpha-(1->4)-GalNAc-alpha-(1->3)-diNAcBac-PP-undecaprenol alpha-1,4-N-acetyl-D-galactosaminyltransferase
+IAHHDFLD_00796	CDS	1692				hypothetical protein
+IAHHDFLD_00797	CDS	888		2.4.2.45	COG0382	Decaprenyl-phosphate phosphoribosyltransferase
+IAHHDFLD_00798	CDS	600				hypothetical protein
+IAHHDFLD_00799	CDS	1764				hypothetical protein
+IAHHDFLD_00800	CDS	1155				hypothetical protein
+IAHHDFLD_00801	CDS	984				hypothetical protein
+IAHHDFLD_00802	CDS	615	btuD_3	7.6.2.8		Vitamin B12 import ATP-binding protein BtuD
+IAHHDFLD_00803	CDS	741				hypothetical protein
+IAHHDFLD_00804	CDS	384	ytrA_1		COG1725	HTH-type transcriptional repressor YtrA
+IAHHDFLD_00805	CDS	369				hypothetical protein
+IAHHDFLD_00806	CDS	273	rpoD		COG0568	RNA polymerase sigma factor RpoD
+IAHHDFLD_00807	CDS	660				hypothetical protein
+IAHHDFLD_00808	CDS	2343				hypothetical protein
+IAHHDFLD_00809	CDS	1968				hypothetical protein
+IAHHDFLD_00810	CDS	1269				hypothetical protein
+IAHHDFLD_00811	CDS	4110				hypothetical protein
+IAHHDFLD_00812	CDS	1173				hypothetical protein
+IAHHDFLD_00813	CDS	1026				hypothetical protein
+IAHHDFLD_00814	CDS	1530				SusD-like protein P25
+IAHHDFLD_00815	CDS	3201				TonB-dependent receptor P3
+IAHHDFLD_00816	CDS	4068	rcsC_8	2.7.13.3		Sensor histidine kinase RcsC
+IAHHDFLD_00817	CDS	1593				hypothetical protein
+IAHHDFLD_00818	CDS	999				hypothetical protein
+IAHHDFLD_00819	CDS	345				hypothetical protein
+IAHHDFLD_00820	CDS	1464				hypothetical protein
+IAHHDFLD_00821	CDS	1272	xerC_11			Tyrosine recombinase XerC
+IAHHDFLD_00822	CDS	453				hypothetical protein
+IAHHDFLD_00823	CDS	1722				hypothetical protein
+IAHHDFLD_00824	CDS	1938				hypothetical protein
+IAHHDFLD_00825	CDS	2235		3.2.1.-		Putative beta-xylosidase
+IAHHDFLD_00826	CDS	4134	rcsC_9	2.7.13.3		Sensor histidine kinase RcsC
+IAHHDFLD_00827	CDS	1848				hypothetical protein
+IAHHDFLD_00828	CDS	2331	bglB	3.2.1.21	COG1472	Thermostable beta-glucosidase B
+IAHHDFLD_00829	CDS	2289		3.2.1.21	COG1472	Beta-glucosidase BoGH3B
+IAHHDFLD_00830	CDS	1563	exoI	3.2.1.52	COG3525	Beta-hexosaminidase
+IAHHDFLD_00831	CDS	1110				hypothetical protein
+IAHHDFLD_00832	CDS	2016	susB_1	3.2.1.3		Glucan 1,4-alpha-glucosidase SusB
+IAHHDFLD_00833	CDS	1992				hypothetical protein
+IAHHDFLD_00834	CDS	837				hypothetical protein
+IAHHDFLD_00835	CDS	933	cpdA_1	3.1.4.53	COG1409	3',5'-cyclic adenosine monophosphate phosphodiesterase CpdA
+IAHHDFLD_00836	CDS	3093				TonB-dependent receptor P26
+IAHHDFLD_00837	CDS	1851				hypothetical protein
+IAHHDFLD_00838	CDS	873				hypothetical protein
+IAHHDFLD_00839	CDS	1767				hypothetical protein
+IAHHDFLD_00840	CDS	1356				hypothetical protein
+IAHHDFLD_00841	CDS	729				hypothetical protein
+IAHHDFLD_00842	CDS	1200				hypothetical protein
+IAHHDFLD_00843	CDS	510	rhaS_2			HTH-type transcriptional activator RhaS
+IAHHDFLD_00844	CDS	1974				hypothetical protein
+IAHHDFLD_00845	CDS	1248				hypothetical protein
+IAHHDFLD_00846	CDS	1392				hypothetical protein
+IAHHDFLD_00847	CDS	1869				hypothetical protein
+IAHHDFLD_00848	CDS	1119				hypothetical protein
+IAHHDFLD_00849	CDS	840				hypothetical protein
+IAHHDFLD_00850	CDS	1347				hypothetical protein
+IAHHDFLD_00851	CDS	1419	iolG_2	1.1.1.369		Inositol 2-dehydrogenase/D-chiro-inositol 3-dehydrogenase
+IAHHDFLD_00852	CDS	264				hypothetical protein
+IAHHDFLD_00853	CDS	1296	iolG_3	1.1.1.18	COG0673	Myo-inositol 2-dehydrogenase
+IAHHDFLD_00854	CDS	1008	abnA	3.2.1.99	COG3507	Extracellular endo-alpha-(1->5)-L-arabinanase 1
+IAHHDFLD_00855	CDS	4017	rcsC_10	2.7.13.3		Sensor histidine kinase RcsC
+IAHHDFLD_00856	CDS	2001	FCS1	6.2.1.34		Trans-feruloyl-CoA synthase FCS1
+IAHHDFLD_00857	CDS	555				hypothetical protein
+IAHHDFLD_00858	CDS	1071				hypothetical protein
+IAHHDFLD_00859	CDS	1050	yhiM			Inner membrane protein YhiM
+IAHHDFLD_00860	CDS	1539				hypothetical protein
+IAHHDFLD_00861	CDS	699				hypothetical protein
+IAHHDFLD_00862	CDS	333				hypothetical protein
+IAHHDFLD_00863	CDS	243				hypothetical protein
+IAHHDFLD_00864	CDS	561				hypothetical protein
+IAHHDFLD_00865	CDS	195				hypothetical protein
+IAHHDFLD_00866	CDS	183				hypothetical protein
+IAHHDFLD_00867	CDS	225				hypothetical protein
+IAHHDFLD_00868	CDS	228				hypothetical protein
+IAHHDFLD_00869	CDS	366				hypothetical protein
+IAHHDFLD_00870	CDS	330				hypothetical protein
+IAHHDFLD_00871	CDS	930				hypothetical protein
+IAHHDFLD_00872	CDS	780				hypothetical protein
+IAHHDFLD_00873	CDS	438				hypothetical protein
+IAHHDFLD_00874	CDS	516				hypothetical protein
+IAHHDFLD_00875	CDS	843				hypothetical protein
+IAHHDFLD_00876	CDS	246				hypothetical protein
+IAHHDFLD_00877	CDS	480				hypothetical protein
+IAHHDFLD_00878	CDS	1173	radD	3.6.4.12	COG1061	Putative DNA repair helicase RadD
+IAHHDFLD_00879	CDS	447				hypothetical protein
+IAHHDFLD_00880	CDS	888				hypothetical protein
+IAHHDFLD_00881	CDS	555				hypothetical protein
+IAHHDFLD_00882	CDS	183				hypothetical protein
+IAHHDFLD_00883	CDS	399				hypothetical protein
+IAHHDFLD_00884	CDS	744	rsrIM	2.1.1.72		Modification methylase RsrI
+IAHHDFLD_00885	CDS	171				hypothetical protein
+IAHHDFLD_00886	CDS	402				hypothetical protein
+IAHHDFLD_00887	CDS	321				hypothetical protein
+IAHHDFLD_00888	CDS	327				hypothetical protein
+IAHHDFLD_00889	CDS	486				hypothetical protein
+IAHHDFLD_00890	CDS	768				hypothetical protein
+IAHHDFLD_00891	CDS	813	cysH	1.8.4.8		Phosphoadenosine phosphosulfate reductase
+IAHHDFLD_00892	CDS	492				hypothetical protein
+IAHHDFLD_00893	CDS	246				hypothetical protein
+IAHHDFLD_00894	CDS	2007	rcsC_11	2.7.13.3		Sensor histidine kinase RcsC
+IAHHDFLD_00895	CDS	1362		3.1.6.-		Ulvan-active sulfatase
+IAHHDFLD_00896	CDS	1380				hypothetical protein
+IAHHDFLD_00897	CDS	1626	atsA_4	3.1.6.1	COG3119	Arylsulfatase
+IAHHDFLD_00898	CDS	1533		3.1.6.-	COG3119	N-acetylglucosamine-6-O-sulfatase
+IAHHDFLD_00899	CDS	3126				TonB-dependent receptor P26
+IAHHDFLD_00900	CDS	1620				SusD-like protein P2
+IAHHDFLD_00901	CDS	468				hypothetical protein
+IAHHDFLD_00902	CDS	1230				hypothetical protein
+IAHHDFLD_00903	CDS	1470				hypothetical protein
+IAHHDFLD_00904	CDS	831	tsf		COG0264	Elongation factor Ts
+IAHHDFLD_00905	CDS	942				hypothetical protein
+IAHHDFLD_00906	CDS	387	rpsI		COG0103	30S ribosomal protein S9
+IAHHDFLD_00907	CDS	552	sigK		COG1595	ECF RNA polymerase sigma factor SigK
+IAHHDFLD_00908	CDS	1116				hypothetical protein
+IAHHDFLD_00909	CDS	312				hypothetical protein
+IAHHDFLD_00910	CDS	1503				hypothetical protein
+IAHHDFLD_00911	CDS	816				hypothetical protein
+IAHHDFLD_00912	CDS	153				hypothetical protein
+IAHHDFLD_00913	CDS	873				hypothetical protein
+IAHHDFLD_00914	CDS	150				hypothetical protein
+IAHHDFLD_00915	CDS	222				hypothetical protein
+IAHHDFLD_00916	CDS	606				hypothetical protein
+IAHHDFLD_00917	CDS	156				hypothetical protein
+IAHHDFLD_00918	CDS	132				hypothetical protein
+IAHHDFLD_00919	CDS	297				hypothetical protein
+IAHHDFLD_00920	CDS	345				hypothetical protein
+IAHHDFLD_00921	CDS	2271				hypothetical protein
+IAHHDFLD_00922	CDS	219				hypothetical protein
+IAHHDFLD_00923	CDS	267				hypothetical protein
+IAHHDFLD_00924	CDS	936				hypothetical protein
+IAHHDFLD_00925	tRNA	74				tRNA-Gly(gcc)
+IAHHDFLD_00926	CDS	2271				hypothetical protein
+IAHHDFLD_00927	CDS	2829	rhaR_2			HTH-type transcriptional activator RhaR
+IAHHDFLD_00928	CDS	2877				TonB-dependent receptor P39
+IAHHDFLD_00929	CDS	1470				SusD-like protein P38
+IAHHDFLD_00930	CDS	612				hypothetical protein
+IAHHDFLD_00931	CDS	1563				hypothetical protein
+IAHHDFLD_00932	CDS	1557				hypothetical protein
+IAHHDFLD_00933	CDS	213				hypothetical protein
+IAHHDFLD_00934	CDS	906				hypothetical protein
+IAHHDFLD_00935	CDS	654				hypothetical protein
+IAHHDFLD_00936	CDS	759				hypothetical protein
+IAHHDFLD_00937	CDS	3321				hypothetical protein
+IAHHDFLD_00938	CDS	924				hypothetical protein
+IAHHDFLD_00939	CDS	669				hypothetical protein
+IAHHDFLD_00940	CDS	1740				hypothetical protein
+IAHHDFLD_00941	CDS	2214				hypothetical protein
+IAHHDFLD_00942	CDS	3387				TonB-dependent receptor P3
+IAHHDFLD_00943	CDS	1005	wbbI	2.4.1.-		Beta-1,6-galactofuranosyltransferase WbbI
+IAHHDFLD_00944	CDS	1131	glf_3	5.4.99.9	COG0562	UDP-galactopyranose mutase
+IAHHDFLD_00945	CDS	1038				hypothetical protein
+IAHHDFLD_00946	CDS	969				hypothetical protein
+IAHHDFLD_00947	CDS	570				hypothetical protein
+IAHHDFLD_00948	CDS	450				hypothetical protein
+IAHHDFLD_00949	CDS	810				hypothetical protein
+IAHHDFLD_00950	CDS	759				hypothetical protein
+IAHHDFLD_00951	CDS	261				hypothetical protein
+IAHHDFLD_00952	CDS	1536				hypothetical protein
+IAHHDFLD_00953	CDS	951				hypothetical protein
+IAHHDFLD_00954	CDS	2415		2.7.10.-		Putative tyrosine-protein kinase in cps region
+IAHHDFLD_00955	CDS	1173				hypothetical protein
+IAHHDFLD_00956	CDS	1614	susD_2			Starch-binding protein SusD
+IAHHDFLD_00957	CDS	1224	xerC_12			Tyrosine recombinase XerC
+IAHHDFLD_00958	CDS	396				hypothetical protein
+IAHHDFLD_00959	CDS	1344	lpd	1.8.1.4	COG1249	Dihydrolipoyl dehydrogenase
+IAHHDFLD_00960	CDS	723	lplJ	6.3.1.20	COG0095	Lipoate-protein ligase LplJ
+IAHHDFLD_00961	CDS	1437	pdhC	2.3.1.12		Dihydrolipoyllysine-residue acetyltransferase component of pyruvate dehydrogenase complex
+IAHHDFLD_00962	CDS	2037	dxs_2	2.2.1.7		1-deoxy-D-xylulose-5-phosphate synthase
+IAHHDFLD_00963	CDS	507	isiB			Flavodoxin
+IAHHDFLD_00964	tRNA	95				tRNA-Arg(ccg)
+IAHHDFLD_00965	CDS	1335				hypothetical protein
+IAHHDFLD_00966	CDS	1599				hypothetical protein
+IAHHDFLD_00967	CDS	783				hypothetical protein
+IAHHDFLD_00968	CDS	471	guaD	3.5.4.3	COG0590	Guanine deaminase
+IAHHDFLD_00969	CDS	987		1.-.-.-		Oxidoreductase P35
+IAHHDFLD_00970	CDS	1467				hypothetical protein
+IAHHDFLD_00971	CDS	1545				hypothetical protein
+IAHHDFLD_00972	CDS	1491				SusD-like protein P25
+IAHHDFLD_00973	CDS	2586				TonB-dependent receptor P3
+IAHHDFLD_00974	CDS	555				TonB-dependent receptor P39
+IAHHDFLD_00975	CDS	1203				hypothetical protein
+IAHHDFLD_00976	CDS	1173				hypothetical protein
+IAHHDFLD_00977	CDS	2478		3.2.1.31		Putative beta-glucuronidase
+IAHHDFLD_00978	CDS	1257				hypothetical protein
+IAHHDFLD_00979	CDS	4110	rcsC_12	2.7.13.3		Sensor histidine kinase RcsC
+IAHHDFLD_00980	CDS	2070				hypothetical protein
+IAHHDFLD_00981	CDS	1674				SusD-like protein P25
+IAHHDFLD_00982	CDS	1158				TonB-dependent receptor P3
+IAHHDFLD_00983	CDS	741				hypothetical protein
+IAHHDFLD_00984	CDS	966				TonB-dependent receptor P39
+IAHHDFLD_00985	CDS	651	rhaR_3			HTH-type transcriptional activator RhaR
+IAHHDFLD_00986	CDS	543	srpC_1		COG2059	putative chromate transport protein
+IAHHDFLD_00987	CDS	549	srpC_2		COG2059	putative chromate transport protein
+IAHHDFLD_00988	CDS	1509				hypothetical protein
+IAHHDFLD_00989	CDS	927				hypothetical protein
+IAHHDFLD_00990	CDS	1593				hypothetical protein
+IAHHDFLD_00991	CDS	1152				TonB-dependent receptor P3
+IAHHDFLD_00992	CDS	1818	ltrA_2		COG3344	Group II intron-encoded protein LtrA
+IAHHDFLD_00993	CDS	276				hypothetical protein
+IAHHDFLD_00994	CDS	537				hypothetical protein
+IAHHDFLD_00995	CDS	597				hypothetical protein
+IAHHDFLD_00996	CDS	471				hypothetical protein
+IAHHDFLD_00997	CDS	756				hypothetical protein
+IAHHDFLD_00998	CDS	810				hypothetical protein
+IAHHDFLD_00999	CDS	4293	rcsC_13	2.7.13.3		Sensor histidine kinase RcsC
+IAHHDFLD_01000	CDS	1368				hypothetical protein
+IAHHDFLD_01001	CDS	3132				TonB-dependent receptor P3
+IAHHDFLD_01002	CDS	1584				SusD-like protein P2
+IAHHDFLD_01003	CDS	1146				hypothetical protein
+IAHHDFLD_01004	CDS	324		2.4.1.281	COG2152	4-O-beta-D-mannosyl-D-glucose phosphorylase
+IAHHDFLD_01005	CDS	4200	lacZ_3	3.2.1.23		Beta-galactosidase
+IAHHDFLD_01006	CDS	867				hypothetical protein
+IAHHDFLD_01007	CDS	897				hypothetical protein
+IAHHDFLD_01008	CDS	387				hypothetical protein
+IAHHDFLD_01009	CDS	2424				hypothetical protein
+IAHHDFLD_01010	CDS	762				hypothetical protein
+IAHHDFLD_01011	CDS	621				hypothetical protein
+IAHHDFLD_01012	CDS	681				hypothetical protein
+IAHHDFLD_01013	CDS	159				hypothetical protein
+IAHHDFLD_01014	CDS	411				hypothetical protein
+IAHHDFLD_01015	CDS	453				hypothetical protein
+IAHHDFLD_01016	CDS	903				hypothetical protein
+IAHHDFLD_01017	CDS	402				hypothetical protein
+IAHHDFLD_01018	CDS	156				hypothetical protein
+IAHHDFLD_01019	CDS	681				hypothetical protein
+IAHHDFLD_01020	CDS	924				hypothetical protein
+IAHHDFLD_01021	CDS	489				hypothetical protein
+IAHHDFLD_01022	CDS	1089				hypothetical protein
+IAHHDFLD_01023	CDS	639				hypothetical protein
+IAHHDFLD_01024	CDS	399				hypothetical protein
+IAHHDFLD_01025	CDS	570				hypothetical protein
+IAHHDFLD_01026	CDS	861				hypothetical protein
+IAHHDFLD_01027	CDS	324				hypothetical protein
+IAHHDFLD_01028	CDS	1134				hypothetical protein
+IAHHDFLD_01029	CDS	537				hypothetical protein
+IAHHDFLD_01030	CDS	624				hypothetical protein
+IAHHDFLD_01031	CDS	297				hypothetical protein
+IAHHDFLD_01032	CDS	222				hypothetical protein
+IAHHDFLD_01033	CDS	192				hypothetical protein
+IAHHDFLD_01034	CDS	909				hypothetical protein
+IAHHDFLD_01035	CDS	216				hypothetical protein
+IAHHDFLD_01036	CDS	381				hypothetical protein
+IAHHDFLD_01037	CDS	561				hypothetical protein
+IAHHDFLD_01038	CDS	345				hypothetical protein
+IAHHDFLD_01039	CDS	180				hypothetical protein
+IAHHDFLD_01040	CDS	519				hypothetical protein
+IAHHDFLD_01041	CDS	978				IS982 family transposase ISPrsp2
+IAHHDFLD_01042	CDS	3810				hypothetical protein
+IAHHDFLD_01043	CDS	861				hypothetical protein
+IAHHDFLD_01044	CDS	609				hypothetical protein
+IAHHDFLD_01045	CDS	3180				TonB-dependent receptor P39
+IAHHDFLD_01046	CDS	930				hypothetical protein
+IAHHDFLD_01047	CDS	756				hypothetical protein
+IAHHDFLD_01048	CDS	1455				putative protein/MSMEI_1241
+IAHHDFLD_01049	CDS	585				hypothetical protein
+IAHHDFLD_01050	CDS	3396				hypothetical protein
+IAHHDFLD_01051	CDS	1155				hypothetical protein
+IAHHDFLD_01052	CDS	150				hypothetical protein
+IAHHDFLD_01053	CDS	831				hypothetical protein
+IAHHDFLD_01054	CDS	918				hypothetical protein
+IAHHDFLD_01055	CDS	3234				hypothetical protein
+IAHHDFLD_01056	CDS	2982				hypothetical protein
+IAHHDFLD_01057	CDS	468				hypothetical protein
+IAHHDFLD_01058	CDS	627				hypothetical protein
+IAHHDFLD_01059	CDS	828				hypothetical protein
+IAHHDFLD_01060	CDS	291				hypothetical protein
+IAHHDFLD_01061	CDS	237				hypothetical protein
+IAHHDFLD_01062	CDS	1008		2.4.1.319	COG2152	Beta-1,4-mannooligosaccharide phosphorylase
+IAHHDFLD_01063	CDS	1296	ampG_1		COG0477	Anhydromuropeptide permease
+IAHHDFLD_01064	CDS	387				hypothetical protein
+IAHHDFLD_01065	CDS	1503				hypothetical protein
+IAHHDFLD_01066	CDS	2802				hypothetical protein
+IAHHDFLD_01067	CDS	456				hypothetical protein
+IAHHDFLD_01068	CDS	1416				hypothetical protein
+IAHHDFLD_01069	CDS	3345				TonB-dependent receptor P3
+IAHHDFLD_01070	CDS	1173				hypothetical protein
+IAHHDFLD_01071	CDS	576				hypothetical protein
+IAHHDFLD_01072	CDS	444				hypothetical protein
+IAHHDFLD_01073	CDS	288	yvgN	1.1.1.-	COG0656	Glyoxal reductase
+IAHHDFLD_01074	CDS	801				IS3 family transposase ISBce13
+IAHHDFLD_01075	CDS	276				hypothetical protein
+IAHHDFLD_01076	CDS	732				hypothetical protein
+IAHHDFLD_01077	CDS	1386				TonB-dependent receptor P3
+IAHHDFLD_01078	CDS	2040	glgB_1	2.4.1.18		1,4-alpha-glucan branching enzyme GlgB
+IAHHDFLD_01079	CDS	2217	susB_2	3.2.1.3		Glucan 1,4-alpha-glucosidase SusB
+IAHHDFLD_01080	CDS	3048	susC_7			TonB-dependent receptor SusC
+IAHHDFLD_01081	CDS	1611	susD_3			Starch-binding protein SusD
+IAHHDFLD_01082	CDS	1173	susE			Outer membrane protein SusE
+IAHHDFLD_01083	CDS	1482	susF			Outer membrane protein SusF
+IAHHDFLD_01084	CDS	2277	glgB_2	2.4.1.18		1,4-alpha-glucan branching enzyme GlgB
+IAHHDFLD_01085	CDS	765	lpxH	3.6.1.54	COG2908	UDP-2,3-diacylglucosamine hydrolase
+IAHHDFLD_01086	CDS	312	sufT			Fe-S protein maturation auxiliary factor SufT
+IAHHDFLD_01087	CDS	2640	lacZ_4	3.2.1.23		Beta-galactosidase
+IAHHDFLD_01088	CDS	2040				hypothetical protein
+IAHHDFLD_01089	CDS	2196				hypothetical protein
+IAHHDFLD_01090	CDS	1953				hypothetical protein
+IAHHDFLD_01091	CDS	1770				hypothetical protein
+IAHHDFLD_01092	CDS	3327	susC_8			TonB-dependent receptor SusC
+IAHHDFLD_01093	CDS	3936	rcsC_14	2.7.13.3		Sensor histidine kinase RcsC
+IAHHDFLD_01094	CDS	696				hypothetical protein
+IAHHDFLD_01095	CDS	2016				hypothetical protein
+IAHHDFLD_01096	CDS	1704				hypothetical protein
+IAHHDFLD_01097	CDS	609	pglC	2.7.8.36	COG2148	Undecaprenyl phosphate N,N'-diacetylbacillosamine 1-phosphate transferase
+IAHHDFLD_01098	CDS	1092	pglA	2.4.1.290		N,N'-diacetylbacillosaminyl-diphospho-undecaprenol alpha-1,3-N-acetylgalactosaminyltransferase
+IAHHDFLD_01099	CDS	1161	tagF	2.7.8.12	COG1887	Teichoic acid poly(glycerol phosphate) polymerase
+IAHHDFLD_01100	CDS	531				hypothetical protein
+IAHHDFLD_01101	CDS	144				hypothetical protein
+IAHHDFLD_01102	CDS	1218				IS256 family transposase ISSde5
+IAHHDFLD_01103	CDS	204				hypothetical protein
+IAHHDFLD_01104	CDS	189				hypothetical protein
+IAHHDFLD_01105	CDS	111				hypothetical protein
+IAHHDFLD_01106	CDS	1146				hypothetical protein
+IAHHDFLD_01107	CDS	816				hypothetical protein
+IAHHDFLD_01108	CDS	297				hypothetical protein
+IAHHDFLD_01109	CDS	255				hypothetical protein
+IAHHDFLD_01110	CDS	1419				hypothetical protein
+IAHHDFLD_01111	CDS	759				hypothetical protein
+IAHHDFLD_01112	CDS	1623				hypothetical protein
+IAHHDFLD_01113	CDS	1143	araJ		COG2814	Putative transporter AraJ
+IAHHDFLD_01114	CDS	1407				hypothetical protein
+IAHHDFLD_01115	CDS	1629				hypothetical protein
+IAHHDFLD_01116	CDS	1698				hypothetical protein
+IAHHDFLD_01117	CDS	1554				hypothetical protein
+IAHHDFLD_01118	CDS	1236				hypothetical protein
+IAHHDFLD_01119	CDS	1035				hypothetical protein
+IAHHDFLD_01120	CDS	1596				hypothetical protein
+IAHHDFLD_01121	CDS	3339				TonB-dependent receptor P3
+IAHHDFLD_01122	CDS	987				hypothetical protein
+IAHHDFLD_01123	CDS	552	fecI_2		COG1595	putative RNA polymerase sigma factor FecI
+IAHHDFLD_01124	CDS	1194	fucP		COG0738	L-fucose-proton symporter
+IAHHDFLD_01125	CDS	348				hypothetical protein
+IAHHDFLD_01126	CDS	558				hypothetical protein
+IAHHDFLD_01127	CDS	525	chrA			Chromate transport protein
+IAHHDFLD_01128	CDS	948				hypothetical protein
+IAHHDFLD_01129	CDS	1794				hypothetical protein
+IAHHDFLD_01130	CDS	1533				hypothetical protein
+IAHHDFLD_01131	CDS	1662				IS1182 family transposase ISBf3
+IAHHDFLD_01132	CDS	711				hypothetical protein
+IAHHDFLD_01133	CDS	1209	xerC_13			Tyrosine recombinase XerC
+IAHHDFLD_01134	CDS	498				hypothetical protein
+IAHHDFLD_01135	CDS	960				hypothetical protein
+IAHHDFLD_01136	CDS	681				hypothetical protein
+IAHHDFLD_01137	CDS	900				hypothetical protein
+IAHHDFLD_01138	CDS	966				hypothetical protein
+IAHHDFLD_01139	CDS	1686				hypothetical protein
+IAHHDFLD_01140	CDS	1395				SusD-like protein P2
+IAHHDFLD_01141	CDS	3414				TonB-dependent receptor P3
+IAHHDFLD_01142	CDS	942				hypothetical protein
+IAHHDFLD_01143	CDS	567	sigW_1		COG1595	ECF RNA polymerase sigma factor SigW
+IAHHDFLD_01144	CDS	141				hypothetical protein
+IAHHDFLD_01145	CDS	624				hypothetical protein
+IAHHDFLD_01146	CDS	1101				hypothetical protein
+IAHHDFLD_01147	CDS	1677				hypothetical protein
+IAHHDFLD_01148	CDS	99				hypothetical protein
+IAHHDFLD_01149	CDS	234				hypothetical protein
+IAHHDFLD_01150	CDS	90				hypothetical protein
+IAHHDFLD_01151	CDS	1128				hypothetical protein
+IAHHDFLD_01152	CDS	342				hypothetical protein
+IAHHDFLD_01153	CDS	3291				hypothetical protein
+IAHHDFLD_01154	CDS	858				hypothetical protein
+IAHHDFLD_01155	CDS	3210				hypothetical protein
+IAHHDFLD_01156	CDS	1107				hypothetical protein
+IAHHDFLD_01157	CDS	531				hypothetical protein
+IAHHDFLD_01158	CDS	336				hypothetical protein
+IAHHDFLD_01159	CDS	1131	mshA_4	2.4.1.250		D-inositol-3-phosphate glycosyltransferase
+IAHHDFLD_01160	CDS	2316	gtfA_1	2.4.1.-		UDP-N-acetylglucosamine--peptide N-acetylglucosaminyltransferase GtfA subunit
+IAHHDFLD_01161	CDS	987				hypothetical protein
+IAHHDFLD_01162	CDS	1056				hypothetical protein
+IAHHDFLD_01163	CDS	1527				hypothetical protein
+IAHHDFLD_01164	CDS	1938	pglF	4.2.1.135	COG1086	UDP-N-acetyl-alpha-D-glucosamine C6 dehydratase
+IAHHDFLD_01165	CDS	978				hypothetical protein
+IAHHDFLD_01166	CDS	1113				hypothetical protein
+IAHHDFLD_01167	CDS	1014				hypothetical protein
+IAHHDFLD_01168	CDS	1539				hypothetical protein
+IAHHDFLD_01169	CDS	150				hypothetical protein
+IAHHDFLD_01170	CDS	816				hypothetical protein
+IAHHDFLD_01171	CDS	318				hypothetical protein
+IAHHDFLD_01172	CDS	990				hypothetical protein
+IAHHDFLD_01173	CDS	1626				hypothetical protein
+IAHHDFLD_01174	CDS	411				hypothetical protein
+IAHHDFLD_01175	CDS	1653				hypothetical protein
+IAHHDFLD_01176	CDS	3327				TonB-dependent receptor P3
+IAHHDFLD_01177	CDS	1578				hypothetical protein
+IAHHDFLD_01178	CDS	1041				hypothetical protein
+IAHHDFLD_01179	CDS	1212				hypothetical protein
+IAHHDFLD_01180	CDS	966				hypothetical protein
+IAHHDFLD_01181	CDS	2202				hypothetical protein
+IAHHDFLD_01182	CDS	1329	ampG_2		COG0477	Anhydromuropeptide permease
+IAHHDFLD_01183	CDS	1008		2.4.1.320	COG2152	1,4-beta-mannosyl-N-acetylglucosamine phosphorylase
+IAHHDFLD_01184	CDS	2274				hypothetical protein
+IAHHDFLD_01185	CDS	588	xerC_14			Tyrosine recombinase XerC
+IAHHDFLD_01186	CDS	888				hypothetical protein
+IAHHDFLD_01187	CDS	846				hypothetical protein
+IAHHDFLD_01188	CDS	1023				hypothetical protein
+IAHHDFLD_01189	CDS	2433				hypothetical protein
+IAHHDFLD_01190	CDS	1665				hypothetical protein
+IAHHDFLD_01191	CDS	387	xsa_2			Xylosidase/arabinosidase
+IAHHDFLD_01192	CDS	2868	nagZ_2	3.2.1.52		Beta-hexosaminidase
+IAHHDFLD_01193	CDS	1473				hypothetical protein
+IAHHDFLD_01194	CDS	2553	xyl3A	3.2.1.37	COG1472	Xylan 1,4-beta-xylosidase
+IAHHDFLD_01195	CDS	135				hypothetical protein
+IAHHDFLD_01196	CDS	93				hypothetical protein
+IAHHDFLD_01197	CDS	1104				hypothetical protein
+IAHHDFLD_01198	CDS	708				hypothetical protein
+IAHHDFLD_01199	tRNA	72				tRNA-Gly(ccc)
+IAHHDFLD_01200	CDS	699				hypothetical protein
+IAHHDFLD_01201	CDS	396				hypothetical protein
+IAHHDFLD_01202	CDS	462				hypothetical protein
+IAHHDFLD_01203	CDS	324				hypothetical protein
+IAHHDFLD_01204	CDS	339				hypothetical protein
+IAHHDFLD_01205	CDS	363				hypothetical protein
+IAHHDFLD_01206	CDS	321				hypothetical protein
+IAHHDFLD_01207	CDS	1089				hypothetical protein
+IAHHDFLD_01208	CDS	402				hypothetical protein
+IAHHDFLD_01209	CDS	696				hypothetical protein
+IAHHDFLD_01210	CDS	1149				hypothetical protein
+IAHHDFLD_01211	CDS	366				hypothetical protein
+IAHHDFLD_01212	CDS	294	higB	3.1.-.-	COG4680	mRNA interferase HigB
+IAHHDFLD_01213	CDS	5238				hypothetical protein
+IAHHDFLD_01214	CDS	954				hypothetical protein
+IAHHDFLD_01215	CDS	3240				hypothetical protein
+IAHHDFLD_01216	CDS	531				hypothetical protein
+IAHHDFLD_01217	CDS	531				hypothetical protein
+IAHHDFLD_01218	CDS	411				hypothetical protein
+IAHHDFLD_01219	CDS	468				hypothetical protein
+IAHHDFLD_01220	CDS	3954				hypothetical protein
+IAHHDFLD_01221	CDS	324				hypothetical protein
+IAHHDFLD_01222	CDS	267				hypothetical protein
+IAHHDFLD_01223	CDS	465				hypothetical protein
+IAHHDFLD_01224	CDS	495				hypothetical protein
+IAHHDFLD_01225	CDS	480				hypothetical protein
+IAHHDFLD_01226	tRNA	75				tRNA-His(gtg)
+IAHHDFLD_01227	CDS	1335				hypothetical protein
+IAHHDFLD_01228	CDS	2115				hypothetical protein
+IAHHDFLD_01229	CDS	711				hypothetical protein
+IAHHDFLD_01230	CDS	270				hypothetical protein
+IAHHDFLD_01231	CDS	888				hypothetical protein
+IAHHDFLD_01232	CDS	1086				hypothetical protein
+IAHHDFLD_01233	CDS	456				hypothetical protein
+IAHHDFLD_01234	CDS	1083				hypothetical protein
+IAHHDFLD_01235	CDS	249				hypothetical protein
+IAHHDFLD_01236	CDS	423				hypothetical protein
+IAHHDFLD_01237	CDS	609				hypothetical protein
+IAHHDFLD_01238	CDS	384				hypothetical protein
+IAHHDFLD_01239	CDS	936				hypothetical protein
+IAHHDFLD_01240	CDS	486				hypothetical protein
+IAHHDFLD_01241	CDS	231				hypothetical protein
+IAHHDFLD_01242	CDS	1431				hypothetical protein
+IAHHDFLD_01243	CDS	201				hypothetical protein
+IAHHDFLD_01244	CDS	630				hypothetical protein
+IAHHDFLD_01245	CDS	582				hypothetical protein
+IAHHDFLD_01246	CDS	1569		2.1.1.72		Modification methylase Eco57IB
+IAHHDFLD_01247	CDS	996				hypothetical protein
+IAHHDFLD_01248	CDS	354				hypothetical protein
+IAHHDFLD_01249	CDS	1509				hypothetical protein
+IAHHDFLD_01250	CDS	1767				hypothetical protein
+IAHHDFLD_01251	CDS	126				hypothetical protein
+IAHHDFLD_01252	CDS	945				hypothetical protein
+IAHHDFLD_01253	CDS	561				hypothetical protein
+IAHHDFLD_01254	CDS	681	lacZ_5	3.2.1.23		Beta-galactosidase
+IAHHDFLD_01255	CDS	450				hypothetical protein
+IAHHDFLD_01256	CDS	1194	ugd_2	1.1.1.22	COG1004	UDP-glucose 6-dehydrogenase
+IAHHDFLD_01257	CDS	1272				hypothetical protein
+IAHHDFLD_01258	CDS	1272				hypothetical protein
+IAHHDFLD_01259	CDS	135				hypothetical protein
+IAHHDFLD_01260	CDS	246				hypothetical protein
+IAHHDFLD_01261	CDS	333				hypothetical protein
+IAHHDFLD_01262	CDS	306				hypothetical protein
+IAHHDFLD_01263	CDS	90				hypothetical protein
+IAHHDFLD_01264	CDS	768				hypothetical protein
+IAHHDFLD_01265	CDS	696				hypothetical protein
+IAHHDFLD_01266	CDS	240				hypothetical protein
+IAHHDFLD_01267	CDS	942				hypothetical protein
+IAHHDFLD_01268	CDS	366				hypothetical protein
+IAHHDFLD_01269	CDS	573				hypothetical protein
+IAHHDFLD_01270	CDS	1512				hypothetical protein
+IAHHDFLD_01271	CDS	1713				hypothetical protein
+IAHHDFLD_01272	CDS	999				hypothetical protein
+IAHHDFLD_01273	CDS	1113				hypothetical protein
+IAHHDFLD_01274	CDS	1581				hypothetical protein
+IAHHDFLD_01275	CDS	3180				hypothetical protein
+IAHHDFLD_01276	CDS	960				hypothetical protein
+IAHHDFLD_01277	CDS	921				hypothetical protein
+IAHHDFLD_01278	CDS	1098				hypothetical protein
+IAHHDFLD_01279	CDS	1467				hypothetical protein
+IAHHDFLD_01280	CDS	1164		5.1.3.11		Cellobiose 2-epimerase
+IAHHDFLD_01281	CDS	1506		3.1.6.-	COG3119	N-acetylgalactosamine-6-O-sulfatase
+IAHHDFLD_01282	CDS	1389				Bifunctional sulfatase/alpha-L-rhamnosidase
+IAHHDFLD_01283	CDS	1506		3.1.6.-	COG3119	N-acetylgalactosamine-6-O-sulfatase
+IAHHDFLD_01284	CDS	1677				hypothetical protein
+IAHHDFLD_01285	CDS	1854				hypothetical protein
+IAHHDFLD_01286	CDS	3156				TonB-dependent receptor P3
+IAHHDFLD_01287	CDS	594	ftsZ			Cell division protein FtsZ
+IAHHDFLD_01288	CDS	450	yqeY		COG1610	putative protein YqeY
+IAHHDFLD_01289	CDS	375				hypothetical protein
+IAHHDFLD_01290	CDS	333				hypothetical protein
+IAHHDFLD_01291	CDS	1767				hypothetical protein
+IAHHDFLD_01292	CDS	1230				hypothetical protein
+IAHHDFLD_01293	CDS	945				hypothetical protein
+IAHHDFLD_01294	CDS	729	recO			DNA repair protein RecO
+IAHHDFLD_01295	CDS	576				hypothetical protein
+IAHHDFLD_01296	CDS	585				hypothetical protein
+IAHHDFLD_01297	CDS	474	sigM			ECF RNA polymerase sigma factor SigM
+IAHHDFLD_01298	tRNA	73				tRNA-Glu(ttc)
+IAHHDFLD_01299	CDS	858				hypothetical protein
+IAHHDFLD_01300	CDS	1668	lacZ_6	3.2.1.23		Beta-galactosidase
+IAHHDFLD_01301	CDS	1386		3.1.6.-		Ulvan-active sulfatase
+IAHHDFLD_01302	CDS	2166				hypothetical protein
+IAHHDFLD_01303	CDS	1665	atsA_5	3.1.6.1	COG3119	Arylsulfatase
+IAHHDFLD_01304	CDS	2199				hypothetical protein
+IAHHDFLD_01305	CDS	4242				hypothetical protein
+IAHHDFLD_01306	CDS	2445				hypothetical protein
+IAHHDFLD_01307	CDS	3252				hypothetical protein
+IAHHDFLD_01308	CDS	975	pyrD_2	1.3.-.-		Dihydroorotate dehydrogenase
+IAHHDFLD_01309	CDS	1101	gcvT	2.1.2.10		Aminomethyltransferase
+IAHHDFLD_01310	CDS	1209	yghO_1			Protein YghO
+IAHHDFLD_01311	CDS	261	COQ3	2.1.1.222		Ubiquinone biosynthesis O-methyltransferase, mitochondrial
+IAHHDFLD_01312	CDS	420				hypothetical protein
+IAHHDFLD_01313	CDS	2994				hypothetical protein
+IAHHDFLD_01314	CDS	234				hypothetical protein
+IAHHDFLD_01315	CDS	186				hypothetical protein
+IAHHDFLD_01316	CDS	1074	algA		COG0662	Alginate biosynthesis protein AlgA
+IAHHDFLD_01317	CDS	1344	gltA	2.3.3.16	COG0372	Citrate synthase
+IAHHDFLD_01318	CDS	762				hypothetical protein
+IAHHDFLD_01319	CDS	1224	namA	1.6.99.1	COG1902	NADPH dehydrogenase
+IAHHDFLD_01320	CDS	852	acr1	1.2.1.-	COG3320	Fatty acyl-CoA reductase
+IAHHDFLD_01321	CDS	1371				hypothetical protein
+IAHHDFLD_01322	CDS	369				hypothetical protein
+IAHHDFLD_01323	CDS	900				hypothetical protein
+IAHHDFLD_01324	CDS	249				hypothetical protein
+IAHHDFLD_01325	CDS	849				hypothetical protein
+IAHHDFLD_01326	CDS	564				hypothetical protein
+IAHHDFLD_01327	CDS	849	cbgA	3.2.1.23		Beta-galactosidase
+IAHHDFLD_01328	CDS	1044	yhcG	3.1.-.-	COG4804	Putative nuclease YhcG
+IAHHDFLD_01329	CDS	1590				hypothetical protein
+IAHHDFLD_01330	CDS	3180				TonB-dependent receptor P26
+IAHHDFLD_01331	CDS	2031				hypothetical protein
+IAHHDFLD_01332	CDS	543	csh	3.13.1.5		Carbon disulfide hydrolase
+IAHHDFLD_01333	CDS	225				hypothetical protein
+IAHHDFLD_01334	CDS	1878				hypothetical protein
+IAHHDFLD_01335	CDS	1695				hypothetical protein
+IAHHDFLD_01336	CDS	2256				hypothetical protein
+IAHHDFLD_01337	CDS	4179				hypothetical protein
+IAHHDFLD_01338	CDS	2616	nagZ_3	3.2.1.52		Beta-hexosaminidase
+IAHHDFLD_01339	CDS	720	lutR		COG2186	HTH-type transcriptional regulator LutR
+IAHHDFLD_01340	CDS	3156				TonB-dependent receptor P3
+IAHHDFLD_01341	CDS	1518				SusD-like protein P25
+IAHHDFLD_01342	CDS	1686				hypothetical protein
+IAHHDFLD_01343	CDS	2277				hypothetical protein
+IAHHDFLD_01344	CDS	2208		4.2.2.26		Exo-oligoalginate lyase
+IAHHDFLD_01345	CDS	345				hypothetical protein
+IAHHDFLD_01346	CDS	1467	nanT			Sialic acid transporter NanT
+IAHHDFLD_01347	CDS	753	gdhI	1.1.1.47	COG1028	Glucose 1-dehydrogenase 1
+IAHHDFLD_01348	CDS	1203				hypothetical protein
+IAHHDFLD_01349	CDS	990	aes_1	3.1.1.-		Acetyl esterase
+IAHHDFLD_01350	CDS	897				hypothetical protein
+IAHHDFLD_01351	CDS	381				hypothetical protein
+IAHHDFLD_01352	CDS	894				hypothetical protein
+IAHHDFLD_01353	CDS	321				hypothetical protein
+IAHHDFLD_01354	CDS	801	aes_2	3.1.1.-		Acetyl esterase
+IAHHDFLD_01355	CDS	948	cysK1	2.5.1.47	COG0031	O-acetylserine sulfhydrylase
+IAHHDFLD_01356	CDS	2295		3.2.1.21	COG1472	Beta-glucosidase BoGH3B
+IAHHDFLD_01357	CDS	1263				hypothetical protein
+IAHHDFLD_01358	CDS	1677				hypothetical protein
+IAHHDFLD_01359	CDS	1473				TonB-dependent receptor P3
+IAHHDFLD_01360	CDS	549				hypothetical protein
+IAHHDFLD_01361	CDS	342				hypothetical protein
+IAHHDFLD_01362	CDS	1170				hypothetical protein
+IAHHDFLD_01363	CDS	2376				hypothetical protein
+IAHHDFLD_01364	CDS	1200				hypothetical protein
+IAHHDFLD_01365	CDS	285				hypothetical protein
+IAHHDFLD_01366	CDS	1410				hypothetical protein
+IAHHDFLD_01367	CDS	1278				hypothetical protein
+IAHHDFLD_01368	CDS	516				hypothetical protein
+IAHHDFLD_01369	CDS	741				hypothetical protein
+IAHHDFLD_01370	CDS	216				hypothetical protein
+IAHHDFLD_01371	CDS	708				hypothetical protein
+IAHHDFLD_01372	CDS	684				hypothetical protein
+IAHHDFLD_01373	CDS	390				hypothetical protein
+IAHHDFLD_01374	CDS	507				hypothetical protein
+IAHHDFLD_01375	CDS	111				hypothetical protein
+IAHHDFLD_01376	CDS	144				hypothetical protein
+IAHHDFLD_01377	CDS	210				hypothetical protein
+IAHHDFLD_01378	CDS	138				hypothetical protein
+IAHHDFLD_01379	CDS	384				hypothetical protein
+IAHHDFLD_01380	CDS	177				hypothetical protein
+IAHHDFLD_01381	CDS	987	gspA_2		COG1442	General stress protein A
+IAHHDFLD_01382	CDS	867				hypothetical protein
+IAHHDFLD_01383	CDS	615				hypothetical protein
+IAHHDFLD_01384	CDS	534				hypothetical protein
+IAHHDFLD_01385	CDS	1212				hypothetical protein
+IAHHDFLD_01386	CDS	618				hypothetical protein
+IAHHDFLD_01387	CDS	3300				hypothetical protein
+IAHHDFLD_01388	CDS	1434				hypothetical protein
+IAHHDFLD_01389	CDS	2352				hypothetical protein
+IAHHDFLD_01390	CDS	657				hypothetical protein
+IAHHDFLD_01391	CDS	1716				hypothetical protein
+IAHHDFLD_01392	CDS	285				hypothetical protein
+IAHHDFLD_01393	CDS	1125	xerC_15			Tyrosine recombinase XerC
+IAHHDFLD_01394	CDS	702	rpiA	5.3.1.6	COG0120	Ribose-5-phosphate isomerase A
+IAHHDFLD_01395	CDS	195				hypothetical protein
+IAHHDFLD_01396	CDS	798	gpsA	1.1.1.94	COG0240	Glycerol-3-phosphate dehydrogenase [NAD(P)+]
+IAHHDFLD_01397	CDS	3024	rcsC_15	2.7.13.3		Sensor histidine kinase RcsC
+IAHHDFLD_01398	CDS	351				hypothetical protein
+IAHHDFLD_01399	CDS	510				hypothetical protein
+IAHHDFLD_01400	CDS	2415	btuB_2			Vitamin B12 transporter BtuB
+IAHHDFLD_01401	CDS	747				hypothetical protein
+IAHHDFLD_01402	CDS	2469	nanM_2	5.1.3.24		N-acetylneuraminate epimerase
+IAHHDFLD_01403	CDS	918	nanA_2	4.1.3.3	COG0329	N-acetylneuraminate lyase
+IAHHDFLD_01404	CDS	315				hypothetical protein
+IAHHDFLD_01405	CDS	504				hypothetical protein
+IAHHDFLD_01406	CDS	552				hypothetical protein
+IAHHDFLD_01407	CDS	564				hypothetical protein
+IAHHDFLD_01408	CDS	792				hypothetical protein
+IAHHDFLD_01409	CDS	1725				hypothetical protein
+IAHHDFLD_01410	CDS	1668				hypothetical protein
+IAHHDFLD_01411	CDS	1233				hypothetical protein
+IAHHDFLD_01412	CDS	588				hypothetical protein
+IAHHDFLD_01413	CDS	888				hypothetical protein
+IAHHDFLD_01414	CDS	606				hypothetical protein
+IAHHDFLD_01415	CDS	168				hypothetical protein
+IAHHDFLD_01416	CDS	258				hypothetical protein
+IAHHDFLD_01417	CDS	354				hypothetical protein
+IAHHDFLD_01418	CDS	567	srrA		COG0745	Transcriptional regulatory protein SrrA
+IAHHDFLD_01419	CDS	306				hypothetical protein
+IAHHDFLD_01420	CDS	1536				hypothetical protein
+IAHHDFLD_01421	CDS	711	mntB		COG1121	Manganese transport system ATP-binding protein MntB
+IAHHDFLD_01422	CDS	795	lspA	3.4.23.36		Lipoprotein signal peptidase
+IAHHDFLD_01423	tRNA	83				tRNA-Leu(cag)
+IAHHDFLD_01424	CDS	342				hypothetical protein
+IAHHDFLD_01425	CDS	369				hypothetical protein
+IAHHDFLD_01426	CDS	747				hypothetical protein
+IAHHDFLD_01427	CDS	2307	cirA		COG4771	Colicin I receptor
+IAHHDFLD_01428	CDS	345				hypothetical protein
+IAHHDFLD_01429	CDS	609				hypothetical protein
+IAHHDFLD_01430	CDS	507				hypothetical protein
+IAHHDFLD_01431	CDS	1275				hypothetical protein
+IAHHDFLD_01432	CDS	1188				hypothetical protein
+IAHHDFLD_01433	CDS	144				hypothetical protein
+IAHHDFLD_01434	CDS	1698				hypothetical protein
+IAHHDFLD_01435	CDS	420				hypothetical protein
+IAHHDFLD_01436	CDS	216				hypothetical protein
+IAHHDFLD_01437	CDS	165				hypothetical protein
+IAHHDFLD_01438	CDS	1440				hypothetical protein
+IAHHDFLD_01439	CDS	1014				hypothetical protein
+IAHHDFLD_01440	CDS	1080				hypothetical protein
+IAHHDFLD_01441	CDS	438				hypothetical protein
+IAHHDFLD_01442	CDS	897	gnu	5.1.3.26	COG0451	N-acetyl-alpha-D-glucosaminyl-diphospho-ditrans,octacis-undecaprenol 4-epimerase
+IAHHDFLD_01443	CDS	846				hypothetical protein
+IAHHDFLD_01444	CDS	921				hypothetical protein
+IAHHDFLD_01445	CDS	1125	gtfA_2	2.4.1.-		UDP-N-acetylglucosamine--peptide N-acetylglucosaminyltransferase GtfA subunit
+IAHHDFLD_01446	CDS	765				hypothetical protein
+IAHHDFLD_01447	CDS	195				hypothetical protein
+IAHHDFLD_01448	CDS	354	rep_2	3.6.4.12		ATP-dependent DNA helicase Rep
+IAHHDFLD_01449	CDS	402				hypothetical protein
+IAHHDFLD_01450	CDS	411				hypothetical protein
+IAHHDFLD_01451	CDS	390				hypothetical protein
+IAHHDFLD_01452	CDS	330				hypothetical protein
+IAHHDFLD_01453	CDS	681	aqpZ2			Aquaporin Z 2
+IAHHDFLD_01454	CDS	927	oxyR			Hydrogen peroxide-inducible genes activator
+IAHHDFLD_01455	CDS	477	dps	1.16.-.-	COG0783	DNA protection during starvation protein
+IAHHDFLD_01456	CDS	348				hypothetical protein
+IAHHDFLD_01457	CDS	1794				hypothetical protein
+IAHHDFLD_01458	CDS	2118				hypothetical protein
+IAHHDFLD_01459	CDS	1770				hypothetical protein
+IAHHDFLD_01460	CDS	246				hypothetical protein
+IAHHDFLD_01461	CDS	540				hypothetical protein
+IAHHDFLD_01462	CDS	327				hypothetical protein
+IAHHDFLD_01463	CDS	363				hypothetical protein
+IAHHDFLD_01464	CDS	1992	egtB	1.14.99.50		Hercynine oxygenase
+IAHHDFLD_01465	CDS	1065	secY		COG0201	Protein translocase subunit SecY
+IAHHDFLD_01466	CDS	777	map	3.4.11.18	COG0024	Methionine aminopeptidase 1
+IAHHDFLD_01467	CDS	219	infA		COG0361	Translation initiation factor IF-1
+IAHHDFLD_01468	CDS	117	ykgO		COG0257	50S ribosomal protein L36 2
+IAHHDFLD_01469	CDS	327	rpsM			30S ribosomal protein S13
+IAHHDFLD_01470	CDS	507				hypothetical protein
+IAHHDFLD_01471	CDS	981				hypothetical protein
+IAHHDFLD_01472	CDS	234				hypothetical protein
+IAHHDFLD_01473	CDS	1764				hypothetical protein
+IAHHDFLD_01474	CDS	1008				hypothetical protein
+IAHHDFLD_01475	CDS	1062				hypothetical protein
+IAHHDFLD_01476	CDS	825				hypothetical protein
+IAHHDFLD_01477	CDS	171				hypothetical protein
+IAHHDFLD_01478	CDS	873				hypothetical protein
+IAHHDFLD_01479	CDS	1104	epsD_1	2.4.-.-		Putative glycosyltransferase EpsD
+IAHHDFLD_01480	CDS	486				hypothetical protein
+IAHHDFLD_01481	CDS	513				hypothetical protein
+IAHHDFLD_01482	CDS	1236				hypothetical protein
+IAHHDFLD_01483	CDS	912	yedA			putative inner membrane transporter YedA
+IAHHDFLD_01484	CDS	516				hypothetical protein
+IAHHDFLD_01485	CDS	852				hypothetical protein
+IAHHDFLD_01486	CDS	369				hypothetical protein
+IAHHDFLD_01487	CDS	807				hypothetical protein
+IAHHDFLD_01488	CDS	243				hypothetical protein
+IAHHDFLD_01489	CDS	156				hypothetical protein
+IAHHDFLD_01490	CDS	444				hypothetical protein
+IAHHDFLD_01491	CDS	450				hypothetical protein
+IAHHDFLD_01492	CDS	795				hypothetical protein
+IAHHDFLD_01493	CDS	930				hypothetical protein
+IAHHDFLD_01494	CDS	798				hypothetical protein
+IAHHDFLD_01495	CDS	198				hypothetical protein
+IAHHDFLD_01496	CDS	1638				hypothetical protein
+IAHHDFLD_01497	CDS	105				hypothetical protein
+IAHHDFLD_01498	CDS	1167				hypothetical protein
+IAHHDFLD_01499	CDS	2493		5.1.1.1		Alanine racemase
+IAHHDFLD_01500	CDS	1782				hypothetical protein
+IAHHDFLD_01501	CDS	1941				hypothetical protein
+IAHHDFLD_01502	CDS	1353				hypothetical protein
+IAHHDFLD_01503	CDS	2232				hypothetical protein
+IAHHDFLD_01504	CDS	1212				hypothetical protein
+IAHHDFLD_01505	CDS	1035				hypothetical protein
+IAHHDFLD_01506	CDS	3951				hypothetical protein
+IAHHDFLD_01507	CDS	690	yjjV	3.1.-.-	COG0084	putative metal-dependent hydrolase YjjV
+IAHHDFLD_01508	CDS	1416				hypothetical protein
+IAHHDFLD_01509	CDS	750				hypothetical protein
+IAHHDFLD_01510	CDS	1833				hypothetical protein
+IAHHDFLD_01511	CDS	1587				hypothetical protein
+IAHHDFLD_01512	CDS	2001				hypothetical protein
+IAHHDFLD_01513	CDS	219				hypothetical protein
+IAHHDFLD_01514	CDS	2346				hypothetical protein
+IAHHDFLD_01515	CDS	1086				hypothetical protein
+IAHHDFLD_01516	CDS	1047				hypothetical protein
+IAHHDFLD_01517	CDS	1200				hypothetical protein
+IAHHDFLD_01518	CDS	135				hypothetical protein
+IAHHDFLD_01519	CDS	174				hypothetical protein
+IAHHDFLD_01520	CDS	426				hypothetical protein
+IAHHDFLD_01521	CDS	324				hypothetical protein
+IAHHDFLD_01522	CDS	2244				hypothetical protein
+IAHHDFLD_01523	CDS	372				hypothetical protein
+IAHHDFLD_01524	CDS	153				hypothetical protein
+IAHHDFLD_01525	CDS	504				hypothetical protein
+IAHHDFLD_01526	CDS	1068				hypothetical protein
+IAHHDFLD_01527	CDS	3540				TonB-dependent receptor P3
+IAHHDFLD_01528	CDS	1428				hypothetical protein
+IAHHDFLD_01529	CDS	2505				hypothetical protein
+IAHHDFLD_01530	CDS	747	gpmA	5.4.2.11	COG0588	2,3-bisphosphoglycerate-dependent phosphoglycerate mutase
+IAHHDFLD_01531	CDS	1053	fbaB	4.1.2.13	COG1830	Fructose-bisphosphate aldolase class 1
+IAHHDFLD_01532	CDS	657	tal	2.2.1.2	COG0176	Transaldolase
+IAHHDFLD_01533	CDS	3948	rcsC_16	2.7.13.3		Sensor histidine kinase RcsC
+IAHHDFLD_01534	CDS	90				hypothetical protein
+IAHHDFLD_01535	CDS	1431	rapZ			RNase adapter protein RapZ
+IAHHDFLD_01536	CDS	750	murU	2.7.7.99	COG1208	N-acetylmuramate alpha-1-phosphate uridylyltransferase
+IAHHDFLD_01537	CDS	1983	rcsC_17	2.7.13.3		Sensor histidine kinase RcsC
+IAHHDFLD_01538	CDS	132				hypothetical protein
+IAHHDFLD_01539	CDS	150				hypothetical protein
+IAHHDFLD_01540	CDS	423				hypothetical protein
+IAHHDFLD_01541	CDS	948	pyrD_3	1.3.5.2	COG0167	Dihydroorotate dehydrogenase (quinone)
+IAHHDFLD_01542	CDS	795	axeA1_2	3.1.1.72	COG0657	Acetylxylan esterase
+IAHHDFLD_01543	CDS	792				hypothetical protein
+IAHHDFLD_01544	CDS	615	ligD		COG1793	Multifunctional non-homologous end joining protein LigD
+IAHHDFLD_01545	CDS	633				hypothetical protein
+IAHHDFLD_01546	CDS	672	sapB		COG1285	Protein SapB
+IAHHDFLD_01547	CDS	918	btuD_4	7.6.2.8		Vitamin B12 import ATP-binding protein BtuD
+IAHHDFLD_01548	CDS	1785			COG1132	putative ABC transporter ATP-binding protein
+IAHHDFLD_01549	CDS	693				hypothetical protein
+IAHHDFLD_01550	CDS	1293			COG2826	IS30 family transposase ISSmi3
+IAHHDFLD_01551	CDS	411				hypothetical protein
+IAHHDFLD_01552	CDS	708				hypothetical protein
+IAHHDFLD_01553	CDS	213				hypothetical protein
+IAHHDFLD_01554	CDS	327				hypothetical protein
+IAHHDFLD_01555	CDS	294				hypothetical protein
+IAHHDFLD_01556	CDS	384				hypothetical protein
+IAHHDFLD_01557	CDS	432				hypothetical protein
+IAHHDFLD_01558	CDS	354				hypothetical protein
+IAHHDFLD_01559	CDS	1305				hypothetical protein
+IAHHDFLD_01560	CDS	1800				hypothetical protein
+IAHHDFLD_01561	CDS	195				hypothetical protein
+IAHHDFLD_01562	CDS	510				hypothetical protein
+IAHHDFLD_01563	CDS	588				hypothetical protein
+IAHHDFLD_01564	CDS	501				hypothetical protein
+IAHHDFLD_01565	CDS	1281	hemW		COG0635	Heme chaperone HemW
+IAHHDFLD_01566	CDS	852				hypothetical protein
+IAHHDFLD_01567	CDS	465				hypothetical protein
+IAHHDFLD_01568	CDS	246				hypothetical protein
+IAHHDFLD_01569	CDS	1890				hypothetical protein
+IAHHDFLD_01570	CDS	1143				IS481 family transposase ISBxe3
+IAHHDFLD_01571	CDS	243				hypothetical protein
+IAHHDFLD_01572	CDS	477				hypothetical protein
+IAHHDFLD_01573	CDS	558				hypothetical protein
+IAHHDFLD_01574	CDS	1221		3.2.1.-		Unsaturated glucuronyl hydrolase
+IAHHDFLD_01575	CDS	1650		3.2.1.-		Beta-xylosidase
+IAHHDFLD_01576	CDS	2208	agaA_2	3.2.1.22		Alpha-galactosidase AgaA
+IAHHDFLD_01577	CDS	1203				hypothetical protein
+IAHHDFLD_01578	CDS	1458				hypothetical protein
+IAHHDFLD_01579	CDS	1740				hypothetical protein
+IAHHDFLD_01580	CDS	3207				TonB-dependent receptor P26
+IAHHDFLD_01581	CDS	96				hypothetical protein
+IAHHDFLD_01582	CDS	516	sigE_1		COG1595	ECF RNA polymerase sigma factor SigE
+IAHHDFLD_01583	CDS	2736				hypothetical protein
+IAHHDFLD_01584	CDS	303				hypothetical protein
+IAHHDFLD_01585	CDS	3141	lacZ_7	3.2.1.23		Beta-galactosidase
+IAHHDFLD_01586	CDS	1281				hypothetical protein
+IAHHDFLD_01587	CDS	1464				hypothetical protein
+IAHHDFLD_01588	CDS	1722				hypothetical protein
+IAHHDFLD_01589	CDS	3234				TonB-dependent receptor P26
+IAHHDFLD_01590	CDS	516	sigE_2		COG1595	ECF RNA polymerase sigma factor SigE
+IAHHDFLD_01591	CDS	2778				hypothetical protein
+IAHHDFLD_01592	CDS	2268				hypothetical protein
+IAHHDFLD_01593	CDS	1926	menH	4.2.99.20		2-succinyl-6-hydroxy-2,4-cyclohexadiene-1-carboxylate synthase
+IAHHDFLD_01594	CDS	1935				hypothetical protein
+IAHHDFLD_01595	CDS	783				hypothetical protein
+IAHHDFLD_01596	CDS	384				hypothetical protein
+IAHHDFLD_01597	CDS	1617				hypothetical protein
+IAHHDFLD_01598	CDS	168				hypothetical protein
+IAHHDFLD_01599	CDS	3264	lacZ_8	3.2.1.23		Beta-galactosidase
+IAHHDFLD_01600	CDS	1530	resA_4			Thiol-disulfide oxidoreductase ResA
+IAHHDFLD_01601	CDS	1503	rcsC_18	2.7.13.3		Sensor histidine kinase RcsC
+IAHHDFLD_01602	CDS	846	rhaS_3			HTH-type transcriptional activator RhaS
+IAHHDFLD_01603	CDS	1149	cpdA_2	3.1.4.53		3',5'-cyclic adenosine monophosphate phosphodiesterase CpdA
+IAHHDFLD_01604	CDS	468				hypothetical protein
+IAHHDFLD_01605	CDS	2289				hypothetical protein
+IAHHDFLD_01606	CDS	1806	glmS_2	5.4.99.1		Glutamate mutase sigma subunit
+IAHHDFLD_01607	CDS	1572	sglT_1			Sodium/glucose cotransporter
+IAHHDFLD_01608	CDS	1002				IS110 family transposase ISCaa7
+IAHHDFLD_01609	CDS	678				hypothetical protein
+IAHHDFLD_01610	CDS	1011	hemE	4.1.1.37	COG0407	Uroporphyrinogen decarboxylase
+IAHHDFLD_01611	CDS	435	rpiB	5.3.1.6	COG0698	Ribose-5-phosphate isomerase B
+IAHHDFLD_01612	CDS	1371				hypothetical protein
+IAHHDFLD_01613	CDS	1284	ampG_3		COG0477	Anhydromuropeptide permease
+IAHHDFLD_01614	CDS	852				hypothetical protein
+IAHHDFLD_01615	CDS	816	murQ	4.2.1.126	COG2103	N-acetylmuramic acid 6-phosphate etherase
+IAHHDFLD_01616	CDS	1932				hypothetical protein
+IAHHDFLD_01617	CDS	2538				hypothetical protein
+IAHHDFLD_01618	CDS	420				hypothetical protein
+IAHHDFLD_01619	CDS	1944				hypothetical protein
+IAHHDFLD_01620	CDS	1356				hypothetical protein
+IAHHDFLD_01621	CDS	1857				SusD-like protein
+IAHHDFLD_01622	CDS	3279				TonB-dependent receptor P26
+IAHHDFLD_01623	CDS	1512				hypothetical protein
+IAHHDFLD_01624	CDS	3966	rcsC_19	2.7.13.3		Sensor histidine kinase RcsC
+IAHHDFLD_01625	CDS	468				hypothetical protein
+IAHHDFLD_01626	CDS	1284	tuaD	1.1.1.22	COG1004	UDP-glucose 6-dehydrogenase TuaD
+IAHHDFLD_01627	CDS	846				hypothetical protein
+IAHHDFLD_01628	CDS	870				hypothetical protein
+IAHHDFLD_01629	CDS	1581	thiK	2.7.1.89		Thiamine kinase
+IAHHDFLD_01630	CDS	1512	opuD		COG1292	Glycine betaine transporter OpuD
+IAHHDFLD_01631	CDS	729				hypothetical protein
+IAHHDFLD_01632	CDS	1188	mnmE	3.6.-.-		tRNA modification GTPase MnmE
+IAHHDFLD_01633	CDS	966				hypothetical protein
+IAHHDFLD_01634	CDS	1209				hypothetical protein
+IAHHDFLD_01635	CDS	960				hypothetical protein
+IAHHDFLD_01636	CDS	1527				hypothetical protein
+IAHHDFLD_01637	CDS	129				hypothetical protein
+IAHHDFLD_01638	CDS	171				hypothetical protein
+IAHHDFLD_01639	CDS	243				hypothetical protein
+IAHHDFLD_01640	CDS	321				hypothetical protein
+IAHHDFLD_01641	CDS	276				hypothetical protein
+IAHHDFLD_01642	CDS	609				hypothetical protein
+IAHHDFLD_01643	CDS	1389	algC	5.4.2.2	COG1109	Phosphomannomutase/phosphoglucomutase
+IAHHDFLD_01644	CDS	3951	rhaS_4			HTH-type transcriptional activator RhaS
+IAHHDFLD_01645	CDS	2154		2.4.1.161	COG1501	Oligosaccharide 4-alpha-D-glucosyltransferase
+IAHHDFLD_01646	CDS	1560				hypothetical protein
+IAHHDFLD_01647	CDS	864				hypothetical protein
+IAHHDFLD_01648	CDS	1395				hypothetical protein
+IAHHDFLD_01649	CDS	1104	cpdA_3	3.1.4.53		3',5'-cyclic adenosine monophosphate phosphodiesterase CpdA
+IAHHDFLD_01650	CDS	2259				hypothetical protein
+IAHHDFLD_01651	CDS	1440				hypothetical protein
+IAHHDFLD_01652	CDS	1008				hypothetical protein
+IAHHDFLD_01653	CDS	978				hypothetical protein
+IAHHDFLD_01654	CDS	1635				hypothetical protein
+IAHHDFLD_01655	CDS	1701				hypothetical protein
+IAHHDFLD_01656	CDS	444				hypothetical protein
+IAHHDFLD_01657	CDS	258				hypothetical protein
+IAHHDFLD_01658	CDS	1317	feoB		COG0370	Fe(2+) transporter FeoB
+IAHHDFLD_01659	CDS	216				hypothetical protein
+IAHHDFLD_01660	tRNA	73				tRNA-Cys(gca)
+IAHHDFLD_01661	CDS	1203				hypothetical protein
+IAHHDFLD_01662	CDS	1059				hypothetical protein
+IAHHDFLD_01663	CDS	675				hypothetical protein
+IAHHDFLD_01664	CDS	372				hypothetical protein
+IAHHDFLD_01665	CDS	1305	xerC_16			Tyrosine recombinase XerC
+IAHHDFLD_01666	CDS	1185	xerC_17			Tyrosine recombinase XerC
+IAHHDFLD_01667	CDS	1701				hypothetical protein
+IAHHDFLD_01668	CDS	1188				hypothetical protein
+IAHHDFLD_01669	CDS	1377		3.2.1.23	COG3250	Beta-galactosidase BoGH2A
+IAHHDFLD_01670	CDS	2229		3.2.1.21	COG1472	Beta-glucosidase BoGH3A
+IAHHDFLD_01671	CDS	1350				hypothetical protein
+IAHHDFLD_01672	CDS	957				hypothetical protein
+IAHHDFLD_01673	CDS	1575				Putative fimbrium tip subunit Fim1C
+IAHHDFLD_01674	CDS	3192				TonB-dependent receptor P3
+IAHHDFLD_01675	CDS	2031				hypothetical protein
+IAHHDFLD_01676	CDS	3042				TonB-dependent receptor P39
+IAHHDFLD_01677	CDS	1731				hypothetical protein
+IAHHDFLD_01678	CDS	2085	yesW_1	4.2.2.23		Rhamnogalacturonan endolyase YesW
+IAHHDFLD_01679	CDS	3423				hypothetical protein
+IAHHDFLD_01680	CDS	1635				hypothetical protein
+IAHHDFLD_01681	CDS	1092				hypothetical protein
+IAHHDFLD_01682	CDS	1842	yesW_2	4.2.2.23		Rhamnogalacturonan endolyase YesW
+IAHHDFLD_01683	CDS	1410				hypothetical protein
+IAHHDFLD_01684	CDS	315	rhaM_2	5.1.3.32		L-rhamnose mutarotase
+IAHHDFLD_01685	CDS	744				hypothetical protein
+IAHHDFLD_01686	CDS	1695	sglT_2			Sodium/glucose cotransporter
+IAHHDFLD_01687	CDS	1140	mro_2	5.1.3.3	COG2017	Aldose 1-epimerase
+IAHHDFLD_01688	CDS	1983		3.2.1.55		Extracellular exo-alpha-L-arabinofuranosidase
+IAHHDFLD_01689	CDS	2256				hypothetical protein
+IAHHDFLD_01690	CDS	807				hypothetical protein
+IAHHDFLD_01691	CDS	1443				hypothetical protein
+IAHHDFLD_01692	CDS	693				hypothetical protein
+IAHHDFLD_01693	CDS	1902				hypothetical protein
+IAHHDFLD_01694	CDS	3411	susC_9			TonB-dependent receptor SusC
+IAHHDFLD_01695	CDS	1149	wbiB	5.1.3.25		dTDP-L-rhamnose 4-epimerase
+IAHHDFLD_01696	CDS	804				hypothetical protein
+IAHHDFLD_01697	CDS	900				hypothetical protein
+IAHHDFLD_01698	CDS	888				hypothetical protein
+IAHHDFLD_01699	CDS	408	cysE_2	2.3.1.30		Serine acetyltransferase
+IAHHDFLD_01700	CDS	762				hypothetical protein
+IAHHDFLD_01701	CDS	1002	arnC_2	2.4.2.53		Undecaprenyl-phosphate 4-deoxy-4-formamido-L-arabinose transferase
+IAHHDFLD_01702	CDS	1095				hypothetical protein
+IAHHDFLD_01703	CDS	1071				hypothetical protein
+IAHHDFLD_01704	CDS	1119	mshA_5	2.4.1.250		D-inositol-3-phosphate glycosyltransferase
+IAHHDFLD_01705	CDS	150				hypothetical protein
+IAHHDFLD_01706	CDS	1119				hypothetical protein
+IAHHDFLD_01707	CDS	633				hypothetical protein
+IAHHDFLD_01708	CDS	741				hypothetical protein
+IAHHDFLD_01709	CDS	996	rfbB_2	4.2.1.46	COG1088	dTDP-glucose 4,6-dehydratase
+IAHHDFLD_01710	CDS	729				hypothetical protein
+IAHHDFLD_01711	CDS	1128	iolD	3.7.1.22		3D-(3,5/4)-trihydroxycyclohexane-1,2-dione hydrolase
+IAHHDFLD_01712	CDS	1311	prpB_2	4.1.3.30		2-methylisocitrate lyase
+IAHHDFLD_01713	CDS	846				hypothetical protein
+IAHHDFLD_01714	CDS	645	queC	6.3.4.20	COG0603	7-cyano-7-deazaguanine synthase
+IAHHDFLD_01715	CDS	636				hypothetical protein
+IAHHDFLD_01716	CDS	1080				TonB-dependent receptor P3
+IAHHDFLD_01717	CDS	654				hypothetical protein
+IAHHDFLD_01718	CDS	234				hypothetical protein
+IAHHDFLD_01719	CDS	930				hypothetical protein
+IAHHDFLD_01720	CDS	546				hypothetical protein
+IAHHDFLD_01721	CDS	309				hypothetical protein
+IAHHDFLD_01722	CDS	195				hypothetical protein
+IAHHDFLD_01723	CDS	261				hypothetical protein
+IAHHDFLD_01724	CDS	264				hypothetical protein
+IAHHDFLD_01725	CDS	183				hypothetical protein
+IAHHDFLD_01726	CDS	711				hypothetical protein
+IAHHDFLD_01727	CDS	183				hypothetical protein
+IAHHDFLD_01728	CDS	438				hypothetical protein
+IAHHDFLD_01729	CDS	297				hypothetical protein
+IAHHDFLD_01730	CDS	246	dapF	5.1.1.7		Diaminopimelate epimerase
+IAHHDFLD_01731	CDS	192				hypothetical protein
+IAHHDFLD_01732	CDS	801	carC	3.7.1.13		2-hydroxy-6-oxo-6-(2'-aminophenyl)hexa-2,4-dienoic acid hydrolase
+IAHHDFLD_01733	CDS	627				hypothetical protein
+IAHHDFLD_01734	CDS	330				hypothetical protein
+IAHHDFLD_01735	CDS	324				hypothetical protein
+IAHHDFLD_01736	CDS	456				hypothetical protein
+IAHHDFLD_01737	CDS	735				hypothetical protein
+IAHHDFLD_01738	CDS	555	rpoE_3		COG1595	ECF RNA polymerase sigma-E factor
+IAHHDFLD_01739	CDS	1230				hypothetical protein
+IAHHDFLD_01740	CDS	888				hypothetical protein
+IAHHDFLD_01741	CDS	138				hypothetical protein
+IAHHDFLD_01742	CDS	1326	purL	6.3.5.3	COG0046	Phosphoribosylformylglycinamidine synthase
+IAHHDFLD_01743	CDS	4014	rcsC_20	2.7.13.3		Sensor histidine kinase RcsC
+IAHHDFLD_01744	CDS	519				hypothetical protein
+IAHHDFLD_01745	CDS	462				hypothetical protein
+IAHHDFLD_01746	CDS	204				hypothetical protein
+IAHHDFLD_01747	CDS	1530		3.1.6.-	COG3119	N-acetylglucosamine-6-O-sulfatase
+IAHHDFLD_01748	CDS	1362				hypothetical protein
+IAHHDFLD_01749	CDS	1386		3.1.6.-	COG3119	N-acetylgalactosamine-6-O-sulfatase
+IAHHDFLD_01750	CDS	1032	epsD_2	2.4.-.-		Putative glycosyltransferase EpsD
+IAHHDFLD_01751	CDS	906				hypothetical protein
+IAHHDFLD_01752	CDS	759				hypothetical protein
+IAHHDFLD_01753	CDS	1203	yteR_1	3.2.1.172	COG4225	Unsaturated rhamnogalacturonyl hydrolase YteR
+IAHHDFLD_01754	CDS	1467				hypothetical protein
+IAHHDFLD_01755	CDS	3861				hypothetical protein
+IAHHDFLD_01756	CDS	1050	wbpI	5.1.3.23	COG0381	UDP-2,3-diacetamido-2,3-dideoxy-D-glucuronate 2-epimerase
+IAHHDFLD_01757	CDS	1440	rfbX		COG2244	Putative O-antigen transporter
+IAHHDFLD_01758	CDS	891				hypothetical protein
+IAHHDFLD_01759	CDS	1077				hypothetical protein
+IAHHDFLD_01760	CDS	1173	mshA_6	2.4.1.250	COG0438	D-inositol 3-phosphate glycosyltransferase
+IAHHDFLD_01761	CDS	1125	mshA_7	2.4.1.250		D-inositol-3-phosphate glycosyltransferase
+IAHHDFLD_01762	CDS	522	dapH_4	2.3.1.89		2,3,4,5-tetrahydropyridine-2,6-dicarboxylate N-acetyltransferase
+IAHHDFLD_01763	CDS	1008				hypothetical protein
+IAHHDFLD_01764	CDS	447	dapH_5	2.3.1.89		2,3,4,5-tetrahydropyridine-2,6-dicarboxylate N-acetyltransferase
+IAHHDFLD_01765	CDS	1053	pglH_2	2.4.1.292	COG0438	GalNAc-alpha-(1->4)-GalNAc-alpha-(1->3)-diNAcBac-PP-undecaprenol alpha-1,4-N-acetyl-D-galactosaminyltransferase
+IAHHDFLD_01766	CDS	1110	glgA	2.4.1.21		Glycogen synthase
+IAHHDFLD_01767	CDS	597	dapH_6	2.3.1.89		2,3,4,5-tetrahydropyridine-2,6-dicarboxylate N-acetyltransferase
+IAHHDFLD_01768	CDS	876				hypothetical protein
+IAHHDFLD_01769	CDS	663	epsL	2.-.-.-	COG2148	putative sugar transferase EpsL
+IAHHDFLD_01770	CDS	678				hypothetical protein
+IAHHDFLD_01771	CDS	438				hypothetical protein
+IAHHDFLD_01772	CDS	429				hypothetical protein
+IAHHDFLD_01773	CDS	318				hypothetical protein
+IAHHDFLD_01774	CDS	477				hypothetical protein
+IAHHDFLD_01775	CDS	297				hypothetical protein
+IAHHDFLD_01776	CDS	546				hypothetical protein
+IAHHDFLD_01777	CDS	303				hypothetical protein
+IAHHDFLD_01778	CDS	954				hypothetical protein
+IAHHDFLD_01779	CDS	1713				hypothetical protein
+IAHHDFLD_01780	CDS	141				hypothetical protein
+IAHHDFLD_01781	CDS	267				hypothetical protein
+IAHHDFLD_01782	CDS	420				hypothetical protein
+IAHHDFLD_01783	CDS	420				hypothetical protein
+IAHHDFLD_01784	CDS	483				hypothetical protein
+IAHHDFLD_01785	CDS	474				hypothetical protein
+IAHHDFLD_01786	CDS	591				hypothetical protein
+IAHHDFLD_01787	CDS	456				hypothetical protein
+IAHHDFLD_01788	CDS	1176	ybdG		COG0668	Miniconductance mechanosensitive channel YbdG
+IAHHDFLD_01789	CDS	1200				hypothetical protein
+IAHHDFLD_01790	CDS	408	pepD	3.4.13.18	COG2195	Cytosol non-specific dipeptidase
+IAHHDFLD_01791	CDS	1347	spnQ	4.2.1.164		dTDP-4-dehydro-2,6-dideoxy-D-glucose 3-dehydratase
+IAHHDFLD_01792	CDS	1407	wcaJ	2.7.8.31	COG2148	UDP-glucose:undecaprenyl-phosphate glucose-1-phosphate transferase
+IAHHDFLD_01793	CDS	1101				hypothetical protein
+IAHHDFLD_01794	CDS	624				hypothetical protein
+IAHHDFLD_01795	CDS	357				hypothetical protein
+IAHHDFLD_01796	CDS	753	ypdB		COG3279	Transcriptional regulatory protein YpdB
+IAHHDFLD_01797	CDS	1389				hypothetical protein
+IAHHDFLD_01798	CDS	942				hypothetical protein
+IAHHDFLD_01799	CDS	270				hypothetical protein
+IAHHDFLD_01800	CDS	3042	susC_10			TonB-dependent receptor SusC
+IAHHDFLD_01801	CDS	1659	susD_4			Starch-binding protein SusD
+IAHHDFLD_01802	CDS	1815				hypothetical protein
+IAHHDFLD_01803	CDS	2319	susG	3.2.1.1	COG0366	Alpha-amylase SusG
+IAHHDFLD_01804	CDS	1338	amyB	3.2.1.1		Alpha-amylase 2
+IAHHDFLD_01805	CDS	1878				hypothetical protein
+IAHHDFLD_01806	CDS	2196	susB_3	3.2.1.3		Glucan 1,4-alpha-glucosidase SusB
+IAHHDFLD_01807	CDS	759				hypothetical protein
+IAHHDFLD_01808	CDS	432				hypothetical protein
+IAHHDFLD_01809	CDS	468		3.6.1.25	COG2954	Inorganic triphosphatase
+IAHHDFLD_01810	CDS	1299				hypothetical protein
+IAHHDFLD_01811	CDS	3177				hypothetical protein
+IAHHDFLD_01812	CDS	990	xsa_3			Xylosidase/arabinosidase
+IAHHDFLD_01813	CDS	573				hypothetical protein
+IAHHDFLD_01814	CDS	1203				hypothetical protein
+IAHHDFLD_01815	CDS	3432				TonB-dependent receptor P3
+IAHHDFLD_01816	CDS	1920				hypothetical protein
+IAHHDFLD_01817	CDS	1320				hypothetical protein
+IAHHDFLD_01818	CDS	1143				hypothetical protein
+IAHHDFLD_01819	CDS	1467				hypothetical protein
+IAHHDFLD_01820	CDS	681				hypothetical protein
+IAHHDFLD_01821	CDS	582	rclC		COG3059	Inner membrane protein RclC
+IAHHDFLD_01822	CDS	1374	rclA		COG1249	putative pyridine nucleotide-disulfide oxidoreductase RclA
+IAHHDFLD_01823	CDS	93				hypothetical protein
+IAHHDFLD_01824	CDS	1701	expZ		COG0488	Nucleotide-binding protein ExpZ
+IAHHDFLD_01825	CDS	891				TonB-dependent receptor P3
+IAHHDFLD_01826	CDS	1491				SusD-like protein P2
+IAHHDFLD_01827	CDS	3252				TonB-dependent receptor P3
+IAHHDFLD_01828	CDS	2562				hypothetical protein
+IAHHDFLD_01829	CDS	816				hypothetical protein
+IAHHDFLD_01830	CDS	198				hypothetical protein
+IAHHDFLD_01831	CDS	819				hypothetical protein
+IAHHDFLD_01832	CDS	984				hypothetical protein
+IAHHDFLD_01833	CDS	573				hypothetical protein
+IAHHDFLD_01834	CDS	513	pinR	3.1.22.-	COG1961	Serine recombinase PinR
+IAHHDFLD_01835	CDS	396				hypothetical protein
+IAHHDFLD_01836	CDS	243				hypothetical protein
+IAHHDFLD_01837	CDS	513				hypothetical protein
+IAHHDFLD_01838	CDS	423				hypothetical protein
+IAHHDFLD_01839	CDS	1932				TonB-dependent receptor P3
+IAHHDFLD_01840	CDS	1530				hypothetical protein
+IAHHDFLD_01841	CDS	933				hypothetical protein
+IAHHDFLD_01842	CDS	1080				hypothetical protein
+IAHHDFLD_01843	CDS	1608				hypothetical protein
+IAHHDFLD_01844	CDS	1548				hypothetical protein
+IAHHDFLD_01845	CDS	1599				hypothetical protein
+IAHHDFLD_01846	CDS	159				hypothetical protein
+IAHHDFLD_01847	CDS	363				hypothetical protein
+IAHHDFLD_01848	CDS	4212				hypothetical protein
+IAHHDFLD_01849	CDS	621	slmA_1			Nucleoid occlusion factor SlmA
+IAHHDFLD_01850	CDS	1998				hypothetical protein
+IAHHDFLD_01851	CDS	1482				hypothetical protein
+IAHHDFLD_01852	CDS	1536				hypothetical protein
+IAHHDFLD_01853	CDS	3006				TonB-dependent receptor P3
+IAHHDFLD_01854	CDS	1644				hypothetical protein
+IAHHDFLD_01855	CDS	789	nadX	1.4.1.21		L-aspartate dehydrogenase
+IAHHDFLD_01856	CDS	429				hypothetical protein
+IAHHDFLD_01857	CDS	183				hypothetical protein
+IAHHDFLD_01858	CDS	756				hypothetical protein
+IAHHDFLD_01859	CDS	2244				hypothetical protein
+IAHHDFLD_01860	CDS	510				hypothetical protein
+IAHHDFLD_01861	CDS	444				hypothetical protein
+IAHHDFLD_01862	CDS	1047	rsmA	2.1.1.182		Ribosomal RNA small subunit methyltransferase A
+IAHHDFLD_01863	CDS	231				hypothetical protein
+IAHHDFLD_01864	CDS	237				hypothetical protein
+IAHHDFLD_01865	CDS	783				hypothetical protein
+IAHHDFLD_01866	CDS	381	sigW_2		COG1595	ECF RNA polymerase sigma factor SigW
+IAHHDFLD_01867	CDS	579				hypothetical protein
+IAHHDFLD_01868	CDS	162				hypothetical protein
+IAHHDFLD_01869	CDS	1182	ce	5.1.3.11		Cellobiose 2-epimerase
+IAHHDFLD_01870	CDS	1401	xylE_2			D-xylose-proton symporter
+IAHHDFLD_01871	CDS	1101				hypothetical protein
+IAHHDFLD_01872	CDS	255				hypothetical protein
+IAHHDFLD_01873	CDS	630				hypothetical protein
+IAHHDFLD_01874	CDS	234				hypothetical protein
+IAHHDFLD_01875	CDS	207				hypothetical protein
+IAHHDFLD_01876	CDS	852				hypothetical protein
+IAHHDFLD_01877	CDS	870				hypothetical protein
+IAHHDFLD_01878	CDS	1062	aroB	4.2.3.4	COG0337	3-dehydroquinate synthase
+IAHHDFLD_01879	CDS	537				hypothetical protein
+IAHHDFLD_01880	CDS	933				hypothetical protein
+IAHHDFLD_01881	CDS	1986				hypothetical protein
+IAHHDFLD_01882	CDS	591	rpoE_4		COG1595	ECF RNA polymerase sigma-E factor
+IAHHDFLD_01883	CDS	1143				hypothetical protein
+IAHHDFLD_01884	CDS	3432				TonB-dependent receptor P3
+IAHHDFLD_01885	CDS	1851				hypothetical protein
+IAHHDFLD_01886	CDS	1461				hypothetical protein
+IAHHDFLD_01887	CDS	2184				hypothetical protein
+IAHHDFLD_01888	CDS	1869				hypothetical protein
+IAHHDFLD_01889	CDS	1686				hypothetical protein
+IAHHDFLD_01890	CDS	411				hypothetical protein
+IAHHDFLD_01891	CDS	456				hypothetical protein
+IAHHDFLD_01892	CDS	480				SusD-like protein P25
+IAHHDFLD_01893	CDS	1044				hypothetical protein
+IAHHDFLD_01894	CDS	108				hypothetical protein
+IAHHDFLD_01895	CDS	1383				hypothetical protein
+IAHHDFLD_01896	CDS	810				hypothetical protein
+IAHHDFLD_01897	CDS	1161				hypothetical protein
+IAHHDFLD_01898	CDS	2886				hypothetical protein
+IAHHDFLD_01899	CDS	1308				hypothetical protein
+IAHHDFLD_01900	CDS	972				hypothetical protein
+IAHHDFLD_01901	CDS	399				hypothetical protein
+IAHHDFLD_01902	CDS	1242				hypothetical protein
+IAHHDFLD_01903	CDS	384				hypothetical protein
+IAHHDFLD_01904	CDS	1221	xerC_18			Tyrosine recombinase XerC
+IAHHDFLD_01905	CDS	1578				hypothetical protein
+IAHHDFLD_01906	CDS	369				hypothetical protein
+IAHHDFLD_01907	CDS	732				hypothetical protein
+IAHHDFLD_01908	CDS	150				hypothetical protein
+IAHHDFLD_01909	CDS	351	ndhC	7.1.1.-		NAD(P)H-quinone oxidoreductase subunit 3
+IAHHDFLD_01910	CDS	246				hypothetical protein
+IAHHDFLD_01911	CDS	1611				hypothetical protein
+IAHHDFLD_01912	CDS	510	cnrH			RNA polymerase sigma factor CnrH
+IAHHDFLD_01913	CDS	162				hypothetical protein
+IAHHDFLD_01914	CDS	1179	yhgF		COG2183	Protein YhgF
+IAHHDFLD_01915	CDS	177				hypothetical protein
+IAHHDFLD_01916	CDS	186				hypothetical protein
+IAHHDFLD_01917	CDS	306				hypothetical protein
+IAHHDFLD_01918	CDS	333				hypothetical protein
+IAHHDFLD_01919	CDS	288				hypothetical protein
+IAHHDFLD_01920	CDS	1239	wbjC	1.1.1.367		UDP-2-acetamido-2,6-beta-L-arabino-hexul-4-ose reductase
+IAHHDFLD_01921	CDS	1050	capD	5.1.3.2	COG1086	UDP-glucose 4-epimerase
+IAHHDFLD_01922	CDS	1065	wbgU	5.1.3.7		UDP-N-acetylglucosamine 4-epimerase
+IAHHDFLD_01923	CDS	1320	ugd_3	1.1.1.22	COG1004	UDP-glucose 6-dehydrogenase
+IAHHDFLD_01924	CDS	450				hypothetical protein
+IAHHDFLD_01925	CDS	1284				hypothetical protein
+IAHHDFLD_01926	CDS	561				hypothetical protein
+IAHHDFLD_01927	CDS	516				hypothetical protein
+IAHHDFLD_01928	CDS	2154				hypothetical protein
+IAHHDFLD_01929	CDS	2967	bepA	3.4.-.-		Beta-barrel assembly-enhancing protease
+IAHHDFLD_01930	CDS	1476				hypothetical protein
+IAHHDFLD_01931	CDS	1173				hypothetical protein
+IAHHDFLD_01932	CDS	1713				hypothetical protein
+IAHHDFLD_01933	CDS	519				hypothetical protein
+IAHHDFLD_01934	CDS	381				Single-stranded DNA-binding protein
+IAHHDFLD_01935	CDS	258				hypothetical protein
+IAHHDFLD_01936	CDS	579				hypothetical protein
+IAHHDFLD_01937	CDS	936				hypothetical protein
+IAHHDFLD_01938	CDS	738				hypothetical protein
+IAHHDFLD_01939	CDS	1017				hypothetical protein
+IAHHDFLD_01940	CDS	741				hypothetical protein
+IAHHDFLD_01941	CDS	1068	dapE	3.5.1.18	COG0624	Putative succinyl-diaminopimelate desuccinylase DapE
+IAHHDFLD_01942	CDS	1191	resA_5			Thiol-disulfide oxidoreductase ResA
+IAHHDFLD_01943	CDS	1020				hypothetical protein
+IAHHDFLD_01944	CDS	468				hypothetical protein
+IAHHDFLD_01945	CDS	636				hypothetical protein
+IAHHDFLD_01946	CDS	1344				hypothetical protein
+IAHHDFLD_01947	CDS	567	rfaH_2			Transcription antitermination protein RfaH
+IAHHDFLD_01948	CDS	888	rffH	2.7.7.24	COG1209	Glucose-1-phosphate thymidylyltransferase 2
+IAHHDFLD_01949	CDS	570	rfbC	5.1.3.13	COG1898	dTDP-4-dehydrorhamnose 3,5-epimerase
+IAHHDFLD_01950	CDS	867	rmlD	1.1.1.133		dTDP-4-dehydrorhamnose reductase
+IAHHDFLD_01951	CDS	1077	rfbB_3	4.2.1.46	COG1088	dTDP-glucose 4,6-dehydratase
+IAHHDFLD_01952	CDS	255				hypothetical protein
+IAHHDFLD_01953	CDS	1527				hypothetical protein
+IAHHDFLD_01954	CDS	1188				hypothetical protein
+IAHHDFLD_01955	CDS	1161				hypothetical protein
+IAHHDFLD_01956	CDS	1251				hypothetical protein
+IAHHDFLD_01957	CDS	1137				hypothetical protein
+IAHHDFLD_01958	CDS	576				hypothetical protein
+IAHHDFLD_01959	CDS	2214				hypothetical protein
+IAHHDFLD_01960	CDS	576	sigE_3		COG1595	ECF RNA polymerase sigma factor SigE
+IAHHDFLD_01961	CDS	480				hypothetical protein
+IAHHDFLD_01962	CDS	432				hypothetical protein
+IAHHDFLD_01963	CDS	2025				hypothetical protein
+IAHHDFLD_01964	CDS	321	rpsG			30S ribosomal protein S7
+IAHHDFLD_01965	CDS	1944				hypothetical protein
+IAHHDFLD_01966	CDS	2205				hypothetical protein
+IAHHDFLD_01967	CDS	1668	atsA_6	3.1.6.1	COG3119	Arylsulfatase
+IAHHDFLD_01968	CDS	1188				hypothetical protein
+IAHHDFLD_01969	CDS	1554		3.1.6.1	COG3119	Arylsulfatase
+IAHHDFLD_01970	CDS	2058				hypothetical protein
+IAHHDFLD_01971	CDS	4011	rcsC_21	2.7.13.3		Sensor histidine kinase RcsC
+IAHHDFLD_01972	CDS	903				hypothetical protein
+IAHHDFLD_01973	CDS	1797				hypothetical protein
+IAHHDFLD_01974	CDS	951				hypothetical protein
+IAHHDFLD_01975	CDS	2655	lacZ_9	3.2.1.23		Beta-galactosidase
+IAHHDFLD_01976	CDS	4398	rcsC_22	2.7.13.3		Sensor histidine kinase RcsC
+IAHHDFLD_01977	CDS	1683				hypothetical protein
+IAHHDFLD_01978	CDS	3156				hypothetical protein
+IAHHDFLD_01979	CDS	552				hypothetical protein
+IAHHDFLD_01980	CDS	252				hypothetical protein
+IAHHDFLD_01981	CDS	1254	ybjJ			Inner membrane protein YbjJ
+IAHHDFLD_01982	CDS	768	yjjP		COG2966	Inner membrane protein YjjP
+IAHHDFLD_01983	CDS	624				hypothetical protein
+IAHHDFLD_01984	CDS	1380	dnaC	3.6.4.12	COG0305	Replicative DNA helicase
+IAHHDFLD_01985	CDS	495				hypothetical protein
+IAHHDFLD_01986	CDS	267				hypothetical protein
+IAHHDFLD_01987	CDS	450				hypothetical protein
+IAHHDFLD_01988	CDS	450				hypothetical protein
+IAHHDFLD_01989	CDS	2568				hypothetical protein
+IAHHDFLD_01990	CDS	972				hypothetical protein
+IAHHDFLD_01991	CDS	1641				hypothetical protein
+IAHHDFLD_01992	CDS	726				hypothetical protein
+IAHHDFLD_01993	CDS	1518				hypothetical protein
+IAHHDFLD_01994	CDS	3138				TonB-dependent receptor P3
+IAHHDFLD_01995	CDS	1173	adh2	1.1.1.192	COG1979	Long-chain-alcohol dehydrogenase 2
+IAHHDFLD_01996	CDS	108				hypothetical protein
+IAHHDFLD_01997	CDS	1011				hypothetical protein
+IAHHDFLD_01998	CDS	378	dfx	1.15.1.2	COG2033	Desulfoferrodoxin
+IAHHDFLD_01999	CDS	1326	mepA_2			Multidrug export protein MepA
+IAHHDFLD_02000	CDS	561	slmA_2			Nucleoid occlusion factor SlmA
+IAHHDFLD_02001	CDS	636	COQ5_1	2.1.1.163		2-methoxy-6-polyprenyl-1,4-benzoquinol methylase, mitochondrial
+IAHHDFLD_02002	CDS	240				hypothetical protein
+IAHHDFLD_02003	CDS	378	ytrA_2		COG1725	HTH-type transcriptional repressor YtrA
+IAHHDFLD_02004	CDS	759				hypothetical protein
+IAHHDFLD_02005	CDS	207				hypothetical protein
+IAHHDFLD_02006	CDS	243				hypothetical protein
+IAHHDFLD_02007	CDS	684	COQ5_2	2.1.1.163		2-methoxy-6-polyprenyl-1,4-benzoquinol methylase, mitochondrial
+IAHHDFLD_02008	CDS	843				hypothetical protein
+IAHHDFLD_02009	CDS	516				hypothetical protein
+IAHHDFLD_02010	CDS	246				hypothetical protein
+IAHHDFLD_02011	CDS	225				hypothetical protein
+IAHHDFLD_02012	CDS	2193				hypothetical protein
+IAHHDFLD_02013	CDS	1752				hypothetical protein
+IAHHDFLD_02014	CDS	558				hypothetical protein
+IAHHDFLD_02015	CDS	351	ybiT		COG0488	putative ABC transporter ATP-binding protein YbiT
+IAHHDFLD_02016	CDS	543				hypothetical protein
+IAHHDFLD_02017	CDS	234				hypothetical protein
+IAHHDFLD_02018	CDS	2016				hypothetical protein
+IAHHDFLD_02019	CDS	279				hypothetical protein
+IAHHDFLD_02020	CDS	540				hypothetical protein
+IAHHDFLD_02021	CDS	555				hypothetical protein
+IAHHDFLD_02022	CDS	573				hypothetical protein
+IAHHDFLD_02023	CDS	1554				hypothetical protein
+IAHHDFLD_02024	CDS	2973				TonB-dependent receptor P26
+IAHHDFLD_02025	CDS	1311				hypothetical protein
+IAHHDFLD_02026	CDS	435				hypothetical protein
+IAHHDFLD_02027	CDS	1545				hypothetical protein
+IAHHDFLD_02028	CDS	1464				hypothetical protein
+IAHHDFLD_02029	CDS	1902	yesX	4.2.2.24		Rhamnogalacturonan exolyase YesX
+IAHHDFLD_02030	CDS	4368	rcsC_23	2.7.13.3		Sensor histidine kinase RcsC
+IAHHDFLD_02031	CDS	2964		3.2.1.31		Beta-glucuronidase
+IAHHDFLD_02032	CDS	879				hypothetical protein
+IAHHDFLD_02033	CDS	3132				TonB-dependent receptor P3
+IAHHDFLD_02034	CDS	1605				SusD-like protein P25
+IAHHDFLD_02035	CDS	255				hypothetical protein
+IAHHDFLD_02036	CDS	207				hypothetical protein
+IAHHDFLD_02037	CDS	774				hypothetical protein
+IAHHDFLD_02038	CDS	1284				hypothetical protein
+IAHHDFLD_02039	CDS	1605				Putative fimbrium tip subunit Fim1C
+IAHHDFLD_02040	CDS	891				hypothetical protein
+IAHHDFLD_02041	CDS	951				hypothetical protein
+IAHHDFLD_02042	CDS	1137				hypothetical protein
+IAHHDFLD_02043	CDS	969				hypothetical protein
+IAHHDFLD_02044	CDS	1008	rhaR_4			HTH-type transcriptional activator RhaR
+IAHHDFLD_02045	CDS	789	nudC	3.6.1.22	COG2816	NADH pyrophosphatase
+IAHHDFLD_02046	CDS	564				hypothetical protein
+IAHHDFLD_02047	CDS	1050	oatA	2.3.1.-		O-acetyltransferase OatA
+IAHHDFLD_02048	CDS	1176				hypothetical protein
+IAHHDFLD_02049	CDS	618	pgcA	5.4.2.2		Phosphoglucomutase
+IAHHDFLD_02050	CDS	879				hypothetical protein
+IAHHDFLD_02051	CDS	2163				hypothetical protein
+IAHHDFLD_02052	CDS	894				hypothetical protein
+IAHHDFLD_02053	CDS	1746				hypothetical protein
+IAHHDFLD_02054	CDS	3501				TonB-dependent receptor P39
+IAHHDFLD_02055	CDS	1008				hypothetical protein
+IAHHDFLD_02056	CDS	666				hypothetical protein
+IAHHDFLD_02057	CDS	1668				Bifunctional sulfatase/alpha-L-rhamnosidase
+IAHHDFLD_02058	CDS	360				hypothetical protein
+IAHHDFLD_02059	CDS	696				hypothetical protein
+IAHHDFLD_02060	CDS	906	rhaS_5			HTH-type transcriptional activator RhaS
+IAHHDFLD_02061	CDS	1758	dxs_3	2.2.1.7	COG1154	1-deoxy-D-xylulose-5-phosphate synthase
+IAHHDFLD_02062	CDS	117				hypothetical protein
+IAHHDFLD_02063	CDS	891	rhaS_6			HTH-type transcriptional activator RhaS
+IAHHDFLD_02064	CDS	666				hypothetical protein
+IAHHDFLD_02065	CDS	3330	tolB			Tol-Pal system protein TolB
+IAHHDFLD_02066	CDS	822				hypothetical protein
+IAHHDFLD_02067	CDS	318				hypothetical protein
+IAHHDFLD_02068	CDS	387				hypothetical protein
+IAHHDFLD_02069	CDS	1824				hypothetical protein
+IAHHDFLD_02070	CDS	4062	rcsC_24	2.7.13.3		Sensor histidine kinase RcsC
+IAHHDFLD_02071	CDS	1386				hypothetical protein
+IAHHDFLD_02072	CDS	507	ylaC			RNA polymerase sigma factor YlaC
+IAHHDFLD_02073	CDS	105				hypothetical protein
+IAHHDFLD_02074	CDS	3237	susC_11			TonB-dependent receptor SusC
+IAHHDFLD_02075	CDS	1737				hypothetical protein
+IAHHDFLD_02076	CDS	1398				hypothetical protein
+IAHHDFLD_02077	CDS	1290				hypothetical protein
+IAHHDFLD_02078	CDS	1254	axe7A_1	3.1.1.-	COG3458	Acetyl esterase Axe7A
+IAHHDFLD_02079	CDS	2154				hypothetical protein
+IAHHDFLD_02080	CDS	828				hypothetical protein
+IAHHDFLD_02081	CDS	678				hypothetical protein
+IAHHDFLD_02082	CDS	1446				TonB-dependent receptor P3
+IAHHDFLD_02083	CDS	633	menI_1	3.1.2.28		1,4-dihydroxy-2-naphthoyl-CoA hydrolase
+IAHHDFLD_02084	CDS	1107	menF_1	5.4.4.2		Isochorismate synthase MenF
+IAHHDFLD_02085	CDS	1668	menD_1	2.2.1.9	COG1165	2-succinyl-5-enolpyruvyl-6-hydroxy-3-cyclohexene-1-carboxylate synthase
+IAHHDFLD_02086	CDS	2217				hypothetical protein
+IAHHDFLD_02087	CDS	1056				hypothetical protein
+IAHHDFLD_02088	CDS	414				hypothetical protein
+IAHHDFLD_02089	CDS	1218				hypothetical protein
+IAHHDFLD_02090	CDS	750				hypothetical protein
+IAHHDFLD_02091	CDS	945	xerC_19			Tyrosine recombinase XerC
+IAHHDFLD_02092	CDS	1005	phoA	3.1.3.1	COG1785	Alkaline phosphatase
+IAHHDFLD_02093	CDS	840				hypothetical protein
+IAHHDFLD_02094	CDS	1191	bfce	5.1.3.11	COG2942	Cellobiose 2-epimerase
+IAHHDFLD_02095	CDS	1284	axe7A_2	3.1.1.-	COG3458	Acetyl esterase Axe7A
+IAHHDFLD_02096	CDS	1368	yagG_1		COG2211	Putative glycoside/cation symporter YagG
+IAHHDFLD_02097	CDS	1179		2.4.1.281	COG2152	4-O-beta-D-mannosyl-D-glucose phosphorylase
+IAHHDFLD_02098	CDS	1071	manA_1	3.2.1.78	COG4124	Mannan endo-1,4-beta-mannosidase
+IAHHDFLD_02099	CDS	1200	manA_2	3.2.1.78	COG4124	Mannan endo-1,4-beta-mannosidase
+IAHHDFLD_02100	CDS	816	aes_3	3.1.1.-		Acetyl esterase
+IAHHDFLD_02101	CDS	1173				hypothetical protein
+IAHHDFLD_02102	CDS	1797				SusD-like protein P2
+IAHHDFLD_02103	CDS	3246				TonB-dependent receptor P3
+IAHHDFLD_02104	CDS	441				hypothetical protein
+IAHHDFLD_02105	CDS	441				hypothetical protein
+IAHHDFLD_02106	CDS	3993	rcsC_25	2.7.13.3		Sensor histidine kinase RcsC
+IAHHDFLD_02107	CDS	897	eamA		COG0697	putative amino-acid metabolite efflux pump
+IAHHDFLD_02108	CDS	1455				hypothetical protein
+IAHHDFLD_02109	CDS	1758				hypothetical protein
+IAHHDFLD_02110	CDS	2085				hypothetical protein
+IAHHDFLD_02111	CDS	1416				hypothetical protein
+IAHHDFLD_02112	CDS	564				hypothetical protein
+IAHHDFLD_02113	CDS	1116	menE	6.2.1.26	COG0318	putative 2-succinylbenzoate--CoA ligase
+IAHHDFLD_02114	CDS	1026	ykfB	5.1.1.20	COG4948	L-Ala-D/L-Glu epimerase
+IAHHDFLD_02115	CDS	825	menB	4.1.3.36	COG0447	1,4-dihydroxy-2-naphthoyl-CoA synthase
+IAHHDFLD_02116	CDS	1668	menD_2	2.2.1.9		2-succinyl-5-enolpyruvyl-6-hydroxy-3-cyclohexene-1-carboxylate synthase
+IAHHDFLD_02117	CDS	1116	menF_2	5.4.4.2		Isochorismate synthase MenF
+IAHHDFLD_02118	CDS	1233	menI_2	3.1.2.28		1,4-dihydroxy-2-naphthoyl-CoA hydrolase
+IAHHDFLD_02119	CDS	363				hypothetical protein
+IAHHDFLD_02120	CDS	1758				hypothetical protein
+IAHHDFLD_02121	CDS	783				hypothetical protein
+IAHHDFLD_02122	CDS	930	rlmF	2.1.1.181	COG3129	Ribosomal RNA large subunit methyltransferase F
+IAHHDFLD_02123	CDS	651	vraR			Response regulator protein VraR
+IAHHDFLD_02124	CDS	1449				hypothetical protein
+IAHHDFLD_02125	CDS	3240	susC_12			TonB-dependent receptor SusC
+IAHHDFLD_02126	CDS	1185		4.4.1.11	COG0626	L-methionine gamma-lyase
+IAHHDFLD_02127	CDS	1218	mshA_8	2.4.1.250		D-inositol-3-phosphate glycosyltransferase
+IAHHDFLD_02128	CDS	1872				hypothetical protein
+IAHHDFLD_02129	CDS	2124	iolG_4	1.1.1.369		Inositol 2-dehydrogenase/D-chiro-inositol 3-dehydrogenase
+IAHHDFLD_02130	CDS	1851				hypothetical protein
+IAHHDFLD_02131	CDS	915	dpnM	2.1.1.72		Modification methylase DpnIIA
+IAHHDFLD_02132	CDS	861	dpnB	3.1.21.4		Type-2 restriction enzyme DpnII
+IAHHDFLD_02133	CDS	522				hypothetical protein
+IAHHDFLD_02134	CDS	222				hypothetical protein
+IAHHDFLD_02135	CDS	1527		3.1.6.-	COG3119	N-acetylgalactosamine-6-O-sulfatase
+IAHHDFLD_02136	CDS	144	rbr		COG1592	Rubrerythrin
+IAHHDFLD_02137	CDS	3936	rcsC_26	2.7.13.3		Sensor histidine kinase RcsC
+IAHHDFLD_02138	CDS	1704				hypothetical protein
+IAHHDFLD_02139	CDS	2016				hypothetical protein
+IAHHDFLD_02140	CDS	990				hypothetical protein
+IAHHDFLD_02141	CDS	1998				hypothetical protein
+IAHHDFLD_02142	CDS	1569				hypothetical protein
+IAHHDFLD_02143	CDS	315				hypothetical protein
+IAHHDFLD_02144	CDS	879	htpX	3.4.24.-		Protease HtpX
+IAHHDFLD_02145	CDS	258				hypothetical protein
+IAHHDFLD_02146	CDS	507				hypothetical protein
+IAHHDFLD_02147	CDS	93				hypothetical protein
+IAHHDFLD_02148	CDS	1341				hypothetical protein
+IAHHDFLD_02149	CDS	423				hypothetical protein
+IAHHDFLD_02150	CDS	471				hypothetical protein
+IAHHDFLD_02151	CDS	1683				hypothetical protein
+IAHHDFLD_02152	CDS	690				hypothetical protein
+IAHHDFLD_02153	CDS	516	fecR		COG3712	Protein FecR
+IAHHDFLD_02154	CDS	159				hypothetical protein
+IAHHDFLD_02155	CDS	369				hypothetical protein
+IAHHDFLD_02156	CDS	231				hypothetical protein
+IAHHDFLD_02157	CDS	531				hypothetical protein
+IAHHDFLD_02158	CDS	1221				hypothetical protein
+IAHHDFLD_02159	CDS	306				hypothetical protein
+IAHHDFLD_02160	CDS	744				hypothetical protein
+IAHHDFLD_02161	CDS	1020				hypothetical protein
+IAHHDFLD_02162	CDS	609				hypothetical protein
+IAHHDFLD_02163	CDS	1818				hypothetical protein
+IAHHDFLD_02164	CDS	3087	lacZ_10	3.2.1.23		Beta-galactosidase
+IAHHDFLD_02165	CDS	2325				hypothetical protein
+IAHHDFLD_02166	CDS	1584		3.1.6.-	COG3119	N-acetylglucosamine-6-O-sulfatase
+IAHHDFLD_02167	CDS	1815				hypothetical protein
+IAHHDFLD_02168	CDS	3207				TonB-dependent receptor P3
+IAHHDFLD_02169	CDS	552				hypothetical protein
+IAHHDFLD_02170	CDS	312				hypothetical protein
+IAHHDFLD_02171	CDS	789				Iron-sulfur cluster carrier protein
+IAHHDFLD_02172	CDS	387				hypothetical protein
+IAHHDFLD_02173	CDS	417				hypothetical protein
+IAHHDFLD_02174	CDS	1032				hypothetical protein
+IAHHDFLD_02175	CDS	417				hypothetical protein
+IAHHDFLD_02176	CDS	354				hypothetical protein
+IAHHDFLD_02177	CDS	462				hypothetical protein
+IAHHDFLD_02178	CDS	195				hypothetical protein
+IAHHDFLD_02179	CDS	390				hypothetical protein
+IAHHDFLD_02180	CDS	249				hypothetical protein
+IAHHDFLD_02181	CDS	969				hypothetical protein
+IAHHDFLD_02182	CDS	1434				hypothetical protein
+IAHHDFLD_02183	CDS	3972	rcsC_27	2.7.13.3		Sensor histidine kinase RcsC
+IAHHDFLD_02184	CDS	774				hypothetical protein
+IAHHDFLD_02185	CDS	2058				hypothetical protein
+IAHHDFLD_02186	CDS	2349				hypothetical protein
+IAHHDFLD_02187	CDS	1641				hypothetical protein
+IAHHDFLD_02188	CDS	690				hypothetical protein
+IAHHDFLD_02189	CDS	1524				hypothetical protein
+IAHHDFLD_02190	CDS	3351				TonB-dependent receptor P39
+IAHHDFLD_02191	CDS	1290	wbpA	1.1.1.136	COG0677	UDP-N-acetyl-D-glucosamine 6-dehydrogenase
+IAHHDFLD_02192	CDS	573	wbpD	2.3.1.201	COG0110	UDP-2-acetamido-3-amino-2,3-dideoxy-D-glucuronate N-acetyltransferase
+IAHHDFLD_02193	CDS	1125	wbpE	2.6.1.98	COG0399	UDP-2-acetamido-2-deoxy-3-oxo-D-glucuronate aminotransferase
+IAHHDFLD_02194	CDS	966	wbpB	1.1.1.335	COG0673	UDP-N-acetyl-2-amino-2-deoxy-D-glucuronate oxidase
+IAHHDFLD_02195	CDS	486				hypothetical protein
+IAHHDFLD_02196	CDS	537				hypothetical protein
+IAHHDFLD_02197	CDS	330				hypothetical protein
+IAHHDFLD_02198	CDS	2361		3.2.1.21	COG1472	Beta-glucosidase BoGH3B
+IAHHDFLD_02199	CDS	1590		3.2.1.55	COG3507	Non-reducing end alpha-L-arabinofuranosidase BoGH43B
+IAHHDFLD_02200	CDS	1581		3.2.1.55	COG3507	Non-reducing end alpha-L-arabinofuranosidase BoGH43A
+IAHHDFLD_02201	CDS	162				hypothetical protein
+IAHHDFLD_02202	CDS	1509		3.2.1.151	COG2730	Xyloglucan-specific endo-beta-1,4-glucanase BoGH5A
+IAHHDFLD_02203	CDS	3174				TonB-dependent receptor P3
+IAHHDFLD_02204	CDS	1629				SusD-like protein
+IAHHDFLD_02205	CDS	1470				IPT/TIG domain-containing protein
+IAHHDFLD_02206	CDS	1764		3.2.1.151		Xyloglucan-specific endo-beta-1,4-glucanase BoGH9A
+IAHHDFLD_02207	CDS	4020	rcsC_28	2.7.13.3		Sensor histidine kinase RcsC
+IAHHDFLD_02208	CDS	183				hypothetical protein
+IAHHDFLD_02209	CDS	90				hypothetical protein
+IAHHDFLD_02210	CDS	2580				hypothetical protein
+IAHHDFLD_02211	CDS	2259				hypothetical protein
+IAHHDFLD_02212	CDS	3240	lacZ_11	3.2.1.23		Beta-galactosidase
+IAHHDFLD_02213	CDS	2493				hypothetical protein
+IAHHDFLD_02214	CDS	1863	sacC	3.2.1.80	COG1621	Levanase
+IAHHDFLD_02215	CDS	873	lacX			Protein LacX, plasmid
+IAHHDFLD_02216	CDS	264				hypothetical protein
+IAHHDFLD_02217	CDS	3114	susC_13			TonB-dependent receptor SusC
+IAHHDFLD_02218	CDS	1713				SusD-like protein
+IAHHDFLD_02219	CDS	1386				hypothetical protein
+IAHHDFLD_02220	CDS	1560				hypothetical protein
+IAHHDFLD_02221	CDS	1836				hypothetical protein
+IAHHDFLD_02222	CDS	1104	yteR_2	3.2.1.172	COG4225	Unsaturated rhamnogalacturonyl hydrolase YteR
+IAHHDFLD_02223	CDS	2931	lacZ_12	3.2.1.23		Beta-galactosidase
+IAHHDFLD_02224	CDS	1146				hypothetical protein
+IAHHDFLD_02225	CDS	2712	csxA_1	3.2.1.165	COG3250	Exo-beta-D-glucosaminidase
+IAHHDFLD_02226	CDS	1728				hypothetical protein
+IAHHDFLD_02227	CDS	1878				hypothetical protein
+IAHHDFLD_02228	CDS	1062				hypothetical protein
+IAHHDFLD_02229	CDS	2082				hypothetical protein
+IAHHDFLD_02230	CDS	3111				TonB-dependent receptor P3
+IAHHDFLD_02231	CDS	1437				hypothetical protein
+IAHHDFLD_02232	CDS	1887				hypothetical protein
+IAHHDFLD_02233	CDS	1518		3.1.6.-	COG3119	N-acetylgalactosamine-6-O-sulfatase
+IAHHDFLD_02234	CDS	1830	lacZ_13	3.2.1.23		Beta-galactosidase
+IAHHDFLD_02235	CDS	588				hypothetical protein
+IAHHDFLD_02236	CDS	525				hypothetical protein
+IAHHDFLD_02237	CDS	282				hypothetical protein
+IAHHDFLD_02238	CDS	729				hypothetical protein
+IAHHDFLD_02239	CDS	342				hypothetical protein
+IAHHDFLD_02240	CDS	2349				hypothetical protein
+IAHHDFLD_02241	CDS	93				hypothetical protein
+IAHHDFLD_02242	CDS	183				hypothetical protein
+IAHHDFLD_02243	CDS	1161	nedA	3.2.1.18		Sialidase
+IAHHDFLD_02244	CDS	1455				hypothetical protein
+IAHHDFLD_02245	CDS	3246				TonB-dependent receptor P39
+IAHHDFLD_02246	CDS	1137	yghO_2			Protein YghO
+IAHHDFLD_02247	CDS	1869				hypothetical protein
+IAHHDFLD_02248	CDS	780				hypothetical protein
+IAHHDFLD_02249	CDS	2733		3.2.1.40		Alpha-L-rhamnosidase
+IAHHDFLD_02250	CDS	1395	yagG_2		COG2211	Putative glycoside/cation symporter YagG
+IAHHDFLD_02251	CDS	1170		2.4.1.281	COG2152	4-O-beta-D-mannosyl-D-glucose phosphorylase
+IAHHDFLD_02252	CDS	1362				hypothetical protein
+IAHHDFLD_02253	CDS	1041	egl_1	3.2.1.4		Endoglucanase
+IAHHDFLD_02254	CDS	2571	csxA_2	3.2.1.165	COG3250	Exo-beta-D-glucosaminidase
+IAHHDFLD_02255	CDS	1086	egl_2	3.2.1.4		Endoglucanase
+IAHHDFLD_02256	CDS	1173				hypothetical protein
+IAHHDFLD_02257	CDS	1764				hypothetical protein
+IAHHDFLD_02258	CDS	3252				TonB-dependent receptor P3
+IAHHDFLD_02259	CDS	978	eglS	3.2.1.4	COG2730	Endoglucanase
+IAHHDFLD_02260	CDS	1080				hypothetical protein
+IAHHDFLD_02261	CDS	1086	mro_3	5.1.3.3	COG2017	Aldose 1-epimerase
+IAHHDFLD_02262	CDS	669				hypothetical protein
+IAHHDFLD_02263	CDS	1632				hypothetical protein
+IAHHDFLD_02264	CDS	1494				SusD-like protein P38
+IAHHDFLD_02265	CDS	3012				TonB-dependent receptor P39
+IAHHDFLD_02266	CDS	1353		3.1.6.-	COG3119	N-acetylgalactosamine-6-O-sulfatase
+IAHHDFLD_02267	CDS	312				hypothetical protein
+IAHHDFLD_02268	CDS	504				hypothetical protein
+IAHHDFLD_02269	CDS	528				hypothetical protein
+IAHHDFLD_02270	CDS	1308				hypothetical protein
+IAHHDFLD_02271	CDS	309				hypothetical protein
+IAHHDFLD_02272	CDS	246				hypothetical protein
+IAHHDFLD_02273	CDS	231				hypothetical protein
+IAHHDFLD_02274	CDS	258				hypothetical protein
+IAHHDFLD_02275	CDS	1332				hypothetical protein
+IAHHDFLD_02276	CDS	417				hypothetical protein
+IAHHDFLD_02277	CDS	222				hypothetical protein
+IAHHDFLD_02278	CDS	261				hypothetical protein
+IAHHDFLD_02279	CDS	423				hypothetical protein
+IAHHDFLD_02280	CDS	351				hypothetical protein
+IAHHDFLD_02281	CDS	1062				hypothetical protein
+IAHHDFLD_02282	CDS	771				hypothetical protein
+IAHHDFLD_02283	CDS	1512	cpdA_4	3.1.4.53		3',5'-cyclic adenosine monophosphate phosphodiesterase CpdA
+IAHHDFLD_02284	CDS	474				hypothetical protein
+IAHHDFLD_02285	CDS	96				hypothetical protein
+IAHHDFLD_02286	CDS	588	sstT			Serine/threonine transporter SstT
+IAHHDFLD_02287	CDS	402				hypothetical protein
+IAHHDFLD_02288	CDS	1464				hypothetical protein
+IAHHDFLD_02289	CDS	1131	mro_4	5.1.3.3	COG2017	Aldose 1-epimerase
+IAHHDFLD_02290	CDS	1422				hypothetical protein
+IAHHDFLD_02291	CDS	2055				hypothetical protein
+IAHHDFLD_02292	CDS	222				hypothetical protein
+IAHHDFLD_02293	CDS	396				hypothetical protein
+IAHHDFLD_02294	CDS	1398				hypothetical protein
+IAHHDFLD_02295	CDS	1290				hypothetical protein
+IAHHDFLD_02296	CDS	1215				hypothetical protein
+IAHHDFLD_02297	CDS	3357				TonB-dependent receptor P39
+IAHHDFLD_02298	CDS	1524				hypothetical protein
+IAHHDFLD_02299	CDS	747				hypothetical protein
+IAHHDFLD_02300	CDS	1674				hypothetical protein
+IAHHDFLD_02301	CDS	2325				hypothetical protein
+IAHHDFLD_02302	CDS	2358	ptpA	3.4.14.12	COG1506	Prolyl tripeptidyl peptidase
+IAHHDFLD_02303	CDS	2718				hypothetical protein
+IAHHDFLD_02304	CDS	405				hypothetical protein
+IAHHDFLD_02305	CDS	417	ybeY	3.1.-.-		Endoribonuclease YbeY
+IAHHDFLD_02306	CDS	1233				hypothetical protein
+IAHHDFLD_02307	CDS	798				hypothetical protein
+IAHHDFLD_02308	CDS	441	pgdA	3.5.1.104	COG0726	Peptidoglycan-N-acetylglucosamine deacetylase
+IAHHDFLD_02309	CDS	2979				TonB-dependent receptor P3
+IAHHDFLD_02310	CDS	1779				SusD-like protein P25
+IAHHDFLD_02311	CDS	1299				hypothetical protein
+IAHHDFLD_02312	CDS	1524				hypothetical protein
+IAHHDFLD_02313	CDS	498				hypothetical protein
+IAHHDFLD_02314	CDS	249				hypothetical protein
+IAHHDFLD_02315	CDS	753				hypothetical protein
+IAHHDFLD_02316	CDS	1428				hypothetical protein
+IAHHDFLD_02317	CDS	2451		3.2.1.-		Beta-xylosidase
+IAHHDFLD_02318	CDS	570				hypothetical protein
+IAHHDFLD_02319	CDS	1311				hypothetical protein
+IAHHDFLD_02320	CDS	2658		3.2.1.40		Alpha-L-rhamnosidase
+IAHHDFLD_02321	CDS	867				hypothetical protein
+IAHHDFLD_02322	CDS	1110	dpp7	3.4.14.-		Dipeptidyl-peptidase 7
+IAHHDFLD_02323	CDS	2790				TonB-dependent receptor P26
+IAHHDFLD_02324	CDS	1041	bioF	2.3.1.47	COG0156	8-amino-7-oxononanoate synthase 2
+IAHHDFLD_02325	CDS	1023				hypothetical protein
+IAHHDFLD_02326	CDS	2136				hypothetical protein
+IAHHDFLD_02327	CDS	1269				hypothetical protein
+IAHHDFLD_02328	CDS	1359				hypothetical protein
+IAHHDFLD_02329	CDS	1419	recD2	3.6.4.12	COG0507	ATP-dependent RecD-like DNA helicase
+IAHHDFLD_02330	CDS	2037				hypothetical protein
+IAHHDFLD_02331	CDS	1173				hypothetical protein
+IAHHDFLD_02332	CDS	1035				hypothetical protein
+IAHHDFLD_02333	CDS	1581				hypothetical protein
+IAHHDFLD_02334	CDS	3354				TonB-dependent receptor P3
+IAHHDFLD_02335	CDS	1284	oah1	2.5.1.-	COG2873	O-acetyl-L-homoserine sulfhydrylase 1
+IAHHDFLD_02336	CDS	207				hypothetical protein
+IAHHDFLD_02337	CDS	339	hipA	2.7.11.1	COG3550	Serine/threonine-protein kinase toxin HipA
+IAHHDFLD_02338	CDS	891				hypothetical protein
+IAHHDFLD_02339	CDS	117				hypothetical protein
+IAHHDFLD_02340	CDS	156				hypothetical protein
+IAHHDFLD_02341	CDS	378				hypothetical protein
+IAHHDFLD_02342	tRNA	76				tRNA-Pro(ggg)
+IAHHDFLD_02343	CDS	1221	queA	2.4.99.17	COG0809	S-adenosylmethionine:tRNA ribosyltransferase-isomerase
+IAHHDFLD_02344	CDS	495	idi	5.3.3.2	COG1443	Isopentenyl-diphosphate Delta-isomerase
+IAHHDFLD_02345	CDS	543	bsaA			Glutathione peroxidase BsaA
+IAHHDFLD_02346	CDS	4326	mdtC			Multidrug resistance protein MdtC
+IAHHDFLD_02347	CDS	891				hypothetical protein
+IAHHDFLD_02348	CDS	1068				hypothetical protein
+IAHHDFLD_02349	CDS	795	lytR		COG3279	Sensory transduction protein LytR
+IAHHDFLD_02350	CDS	1947		3.2.1.22		Retaining alpha-galactosidase
+IAHHDFLD_02351	CDS	3258				hypothetical protein
+IAHHDFLD_02352	CDS	798				hypothetical protein
+IAHHDFLD_02353	CDS	2343				hypothetical protein
+IAHHDFLD_02354	CDS	2280				hypothetical protein
+IAHHDFLD_02355	CDS	2523				hypothetical protein
+IAHHDFLD_02356	CDS	477				hypothetical protein
+IAHHDFLD_02357	CDS	1146				hypothetical protein
+IAHHDFLD_02358	CDS	1920				hypothetical protein
+IAHHDFLD_02359	CDS	3138				TonB-dependent receptor P3
+IAHHDFLD_02360	CDS	1611				hypothetical protein
+IAHHDFLD_02361	CDS	528				hypothetical protein
+IAHHDFLD_02362	CDS	882	norR			Anaerobic nitric oxide reductase transcription regulator NorR
+IAHHDFLD_02363	CDS	1365				hypothetical protein
+IAHHDFLD_02364	CDS	1188				hypothetical protein
+IAHHDFLD_02365	CDS	1173		3.2.1.-		Unsaturated 3S-rhamnoglycuronyl hydrolase
+IAHHDFLD_02366	CDS	189				hypothetical protein
+IAHHDFLD_02367	CDS	429				hypothetical protein
+IAHHDFLD_02368	CDS	642				hypothetical protein
+IAHHDFLD_02369	CDS	1554				hypothetical protein
+IAHHDFLD_02370	CDS	426	tolR_1			Tol-Pal system protein TolR
+IAHHDFLD_02371	CDS	447	tolR_2			Tol-Pal system protein TolR
+IAHHDFLD_02372	CDS	1386	tolQ			Tol-Pal system protein TolQ
+IAHHDFLD_02373	CDS	1569				hypothetical protein
+IAHHDFLD_02374	CDS	1302				hypothetical protein
+IAHHDFLD_02375	CDS	639				hypothetical protein
+IAHHDFLD_02376	CDS	756				hypothetical protein
+IAHHDFLD_02377	CDS	354				hypothetical protein
+IAHHDFLD_02378	CDS	435				hypothetical protein
+IAHHDFLD_02379	CDS	714				hypothetical protein
+IAHHDFLD_02380	CDS	2592				hypothetical protein
+IAHHDFLD_02381	CDS	471				hypothetical protein
+IAHHDFLD_02382	CDS	129				hypothetical protein
+IAHHDFLD_02383	CDS	2364		3.2.1.-		Beta-xylosidase
+IAHHDFLD_02384	CDS	222				hypothetical protein
+IAHHDFLD_02385	CDS	765				IS1595 family transposase ISOdsp1
+IAHHDFLD_02386	CDS	2091				hypothetical protein
+IAHHDFLD_02387	CDS	630				hypothetical protein
+IAHHDFLD_02388	CDS	894				hypothetical protein
+IAHHDFLD_02389	CDS	1023				hypothetical protein
+IAHHDFLD_02390	CDS	882	rhaR_5			HTH-type transcriptional activator RhaR
+IAHHDFLD_02391	CDS	603				hypothetical protein
+IAHHDFLD_02392	CDS	774				hypothetical protein
+IAHHDFLD_02393	CDS	1335	dbpA	3.6.4.13	COG0513	ATP-dependent RNA helicase DbpA
+IAHHDFLD_02394	CDS	180				hypothetical protein
+IAHHDFLD_02395	CDS	1269	nqrF	7.2.1.1	COG2871	Na(+)-translocating NADH-quinone reductase subunit F
+IAHHDFLD_02396	CDS	168				hypothetical protein
+IAHHDFLD_02397	CDS	1983	rcsC_29	2.7.13.3		Sensor histidine kinase RcsC
+IAHHDFLD_02398	CDS	597				hypothetical protein
+IAHHDFLD_02399	CDS	1689				hypothetical protein
+IAHHDFLD_02400	CDS	3501				TonB-dependent receptor P3
+IAHHDFLD_02401	CDS	1830				hypothetical protein
+IAHHDFLD_02402	CDS	1086				hypothetical protein
+IAHHDFLD_02403	CDS	1077				hypothetical protein
+IAHHDFLD_02404	CDS	1809	lacZ_14	3.2.1.23		Beta-galactosidase
+IAHHDFLD_02405	CDS	3279				hypothetical protein
+IAHHDFLD_02406	CDS	738				hypothetical protein
+IAHHDFLD_02407	CDS	1866				hypothetical protein
+IAHHDFLD_02408	CDS	900				hypothetical protein
+IAHHDFLD_02409	CDS	1767				SusD-like protein P38
+IAHHDFLD_02410	CDS	3561				TonB-dependent receptor P26
+IAHHDFLD_02411	CDS	945				hypothetical protein
+IAHHDFLD_02412	CDS	1500				hypothetical protein
+IAHHDFLD_02413	CDS	570				hypothetical protein
+IAHHDFLD_02414	CDS	1203		3.2.1.-		Unsaturated glucuronyl hydrolase
+IAHHDFLD_02415	CDS	1551		3.1.6.-	COG3119	Endo-4-O-sulfatase
+IAHHDFLD_02416	CDS	2592	mgtB	7.2.2.14	COG0474	Magnesium-transporting ATPase, P-type 1
+IAHHDFLD_02417	CDS	513				hypothetical protein
+IAHHDFLD_02418	CDS	933	resA_6			Thiol-disulfide oxidoreductase ResA
+IAHHDFLD_02419	CDS	915	mneS		COG0053	Manganese efflux system protein MneS
+IAHHDFLD_02420	CDS	513				hypothetical protein
+IAHHDFLD_02421	CDS	1287				hypothetical protein
+IAHHDFLD_02422	CDS	405				hypothetical protein
+IAHHDFLD_02423	CDS	1656				hypothetical protein
+IAHHDFLD_02424	CDS	2235				hypothetical protein
+IAHHDFLD_02425	CDS	1452				hypothetical protein
+IAHHDFLD_02426	CDS	360				hypothetical protein
+IAHHDFLD_02427	CDS	489				hypothetical protein
+IAHHDFLD_02428	CDS	1725				hypothetical protein
+IAHHDFLD_02429	CDS	756				hypothetical protein
+IAHHDFLD_02430	CDS	1515				hypothetical protein
+IAHHDFLD_02431	CDS	3198	susC_14			TonB-dependent receptor SusC
+IAHHDFLD_02432	CDS	1047				hypothetical protein
+IAHHDFLD_02433	CDS	786				hypothetical protein
+IAHHDFLD_02434	CDS	201				hypothetical protein
+IAHHDFLD_02435	CDS	1341				hypothetical protein
+IAHHDFLD_02436	CDS	234				hypothetical protein
+IAHHDFLD_02437	CDS	708				hypothetical protein
+IAHHDFLD_02438	CDS	450				hypothetical protein
+IAHHDFLD_02439	CDS	327				hypothetical protein
+IAHHDFLD_02440	CDS	189				hypothetical protein
+IAHHDFLD_02441	CDS	1635				hypothetical protein
+IAHHDFLD_02442	CDS	1212	resA_7			Thiol-disulfide oxidoreductase ResA
+IAHHDFLD_02443	CDS	516	yrdA		COG0663	Protein YrdA
+IAHHDFLD_02444	CDS	90				hypothetical protein
+IAHHDFLD_02445	CDS	1782				hypothetical protein
+IAHHDFLD_02446	CDS	693				hypothetical protein
+IAHHDFLD_02447	CDS	780				hypothetical protein
+IAHHDFLD_02448	CDS	642				hypothetical protein
+IAHHDFLD_02449	CDS	1053				hypothetical protein
+IAHHDFLD_02450	CDS	549				hypothetical protein
+IAHHDFLD_02451	CDS	1233	aroA	2.5.1.19	COG0128	3-phosphoshikimate 1-carboxyvinyltransferase
+IAHHDFLD_02452	CDS	570				hypothetical protein
+IAHHDFLD_02453	CDS	717		1.-.-.-	COG1028	putative oxidoreductase
+IAHHDFLD_02454	CDS	750				hypothetical protein
+IAHHDFLD_02455	CDS	1035				hypothetical protein
+IAHHDFLD_02456	CDS	1128				hypothetical protein
+IAHHDFLD_02457	CDS	468				hypothetical protein
+IAHHDFLD_02458	CDS	825	znuB		COG1108	High-affinity zinc uptake system membrane protein ZnuB
+IAHHDFLD_02459	CDS	180				hypothetical protein
+IAHHDFLD_02460	CDS	102				hypothetical protein
+IAHHDFLD_02461	CDS	489				hypothetical protein
+IAHHDFLD_02462	CDS	1710				hypothetical protein
+IAHHDFLD_02463	CDS	255				hypothetical protein
+IAHHDFLD_02464	CDS	1023				hypothetical protein
+IAHHDFLD_02465	CDS	597				hypothetical protein
+IAHHDFLD_02466	CDS	669				hypothetical protein
+IAHHDFLD_02467	CDS	1149	nusA		COG0195	Transcription termination/antitermination protein NusA

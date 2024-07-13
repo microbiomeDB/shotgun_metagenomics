@@ -1,0 +1,2647 @@
+locus_tag	ftype	length_bp	gene	EC_number	COG	product
+CCGELMGK_00001	tRNA	76				tRNA-Val(gac)
+CCGELMGK_00002	CDS	624	cat	2.3.1.28		Chloramphenicol acetyltransferase
+CCGELMGK_00003	CDS	312	rplU		COG0261	50S ribosomal protein L21
+CCGELMGK_00004	CDS	261	rpmA_1		COG0211	50S ribosomal protein L27
+CCGELMGK_00005	CDS	516				hypothetical protein
+CCGELMGK_00006	CDS	195				hypothetical protein
+CCGELMGK_00007	CDS	213				hypothetical protein
+CCGELMGK_00008	CDS	600				hypothetical protein
+CCGELMGK_00009	CDS	411				hypothetical protein
+CCGELMGK_00010	CDS	1134	lptD			LPS-assembly protein LptD
+CCGELMGK_00011	CDS	471	ilvE_1	2.6.1.42		putative branched-chain-amino-acid aminotransferase
+CCGELMGK_00012	CDS	822	mnmG_1		COG0445	tRNA uridine 5-carboxymethylaminomethyl modification enzyme MnmG
+CCGELMGK_00013	CDS	891	rhaR_1			HTH-type transcriptional activator RhaR
+CCGELMGK_00014	CDS	201				hypothetical protein
+CCGELMGK_00015	CDS	312				hypothetical protein
+CCGELMGK_00016	CDS	231				hypothetical protein
+CCGELMGK_00017	CDS	159				hypothetical protein
+CCGELMGK_00018	CDS	249				hypothetical protein
+CCGELMGK_00019	CDS	204				hypothetical protein
+CCGELMGK_00020	CDS	177				hypothetical protein
+CCGELMGK_00021	CDS	1293	tyrS_1	6.1.1.1		Tyrosine--tRNA ligase
+CCGELMGK_00022	CDS	339				hypothetical protein
+CCGELMGK_00023	CDS	2091	topB	5.6.2.1	COG0550	DNA topoisomerase 3
+CCGELMGK_00024	CDS	1593				hypothetical protein
+CCGELMGK_00025	CDS	234				hypothetical protein
+CCGELMGK_00026	CDS	618	resA_1			Thiol-disulfide oxidoreductase ResA
+CCGELMGK_00027	CDS	582				hypothetical protein
+CCGELMGK_00028	CDS	858				hypothetical protein
+CCGELMGK_00029	CDS	321				hypothetical protein
+CCGELMGK_00030	CDS	573				hypothetical protein
+CCGELMGK_00031	CDS	228				hypothetical protein
+CCGELMGK_00032	CDS	618	swrC		COG0841	Swarming motility protein SwrC
+CCGELMGK_00033	CDS	447				hypothetical protein
+CCGELMGK_00034	CDS	705				hypothetical protein
+CCGELMGK_00035	CDS	450				hypothetical protein
+CCGELMGK_00036	CDS	171				hypothetical protein
+CCGELMGK_00037	CDS	468				hypothetical protein
+CCGELMGK_00038	CDS	462				hypothetical protein
+CCGELMGK_00039	CDS	408				hypothetical protein
+CCGELMGK_00040	CDS	303				hypothetical protein
+CCGELMGK_00041	CDS	426				hypothetical protein
+CCGELMGK_00042	CDS	2508				hypothetical protein
+CCGELMGK_00043	CDS	564				hypothetical protein
+CCGELMGK_00044	CDS	504				hypothetical protein
+CCGELMGK_00045	CDS	486	vioA	2.6.1.33		dTDP-4-amino-4,6-dideoxy-D-glucose transaminase
+CCGELMGK_00046	CDS	213				hypothetical protein
+CCGELMGK_00047	CDS	423				hypothetical protein
+CCGELMGK_00048	CDS	282				hypothetical protein
+CCGELMGK_00049	CDS	639				hypothetical protein
+CCGELMGK_00050	CDS	438				hypothetical protein
+CCGELMGK_00051	CDS	690				hypothetical protein
+CCGELMGK_00052	CDS	324				hypothetical protein
+CCGELMGK_00053	CDS	849				hypothetical protein
+CCGELMGK_00054	CDS	390				hypothetical protein
+CCGELMGK_00055	CDS	345				hypothetical protein
+CCGELMGK_00056	CDS	528				hypothetical protein
+CCGELMGK_00057	CDS	1068				hypothetical protein
+CCGELMGK_00058	CDS	372				hypothetical protein
+CCGELMGK_00059	CDS	681				hypothetical protein
+CCGELMGK_00060	CDS	246				hypothetical protein
+CCGELMGK_00061	CDS	639				hypothetical protein
+CCGELMGK_00062	CDS	942				hypothetical protein
+CCGELMGK_00063	CDS	684				hypothetical protein
+CCGELMGK_00064	CDS	780	glnQ_1	3.6.3.-	COG1126	Glutamine transport ATP-binding protein GlnQ
+CCGELMGK_00065	CDS	255				hypothetical protein
+CCGELMGK_00066	CDS	606				hypothetical protein
+CCGELMGK_00067	CDS	471				hypothetical protein
+CCGELMGK_00068	CDS	159	rnhB_1			Ribonuclease HII
+CCGELMGK_00069	CDS	780				TonB-dependent receptor P26
+CCGELMGK_00070	CDS	492				hypothetical protein
+CCGELMGK_00071	CDS	300				hypothetical protein
+CCGELMGK_00072	CDS	906	recF_1			DNA replication and repair protein RecF
+CCGELMGK_00073	CDS	477	mraZ			Transcriptional regulator MraZ
+CCGELMGK_00074	CDS	1023	kdpD	2.7.13.3	COG2205	Sensor protein KdpD
+CCGELMGK_00075	CDS	225				hypothetical protein
+CCGELMGK_00076	CDS	1065				hypothetical protein
+CCGELMGK_00077	CDS	612				hypothetical protein
+CCGELMGK_00078	CDS	315				hypothetical protein
+CCGELMGK_00079	CDS	789				hypothetical protein
+CCGELMGK_00080	CDS	951				hypothetical protein
+CCGELMGK_00081	CDS	1185				hypothetical protein
+CCGELMGK_00082	CDS	1482				hypothetical protein
+CCGELMGK_00083	CDS	744				hypothetical protein
+CCGELMGK_00084	CDS	405				hypothetical protein
+CCGELMGK_00085	tRNA	74				tRNA-Met(cat)
+CCGELMGK_00086	CDS	396				hypothetical protein
+CCGELMGK_00087	CDS	1002	galK_1	2.7.1.6		Galactokinase
+CCGELMGK_00088	CDS	504			COG0716	Flavodoxin 1
+CCGELMGK_00089	CDS	636				hypothetical protein
+CCGELMGK_00090	CDS	660				hypothetical protein
+CCGELMGK_00091	CDS	474				hypothetical protein
+CCGELMGK_00092	CDS	537				hypothetical protein
+CCGELMGK_00093	rRNA	734				16S ribosomal RNA (partial)
+CCGELMGK_00094	CDS	1437	mrdB	2.4.1.129		Peptidoglycan glycosyltransferase MrdB
+CCGELMGK_00095	CDS	561				hypothetical protein
+CCGELMGK_00096	CDS	420				hypothetical protein
+CCGELMGK_00097	CDS	894	queA	2.4.99.17	COG0809	S-adenosylmethionine:tRNA ribosyltransferase-isomerase
+CCGELMGK_00098	CDS	474				hypothetical protein
+CCGELMGK_00099	CDS	411				hypothetical protein
+CCGELMGK_00100	CDS	315				hypothetical protein
+CCGELMGK_00101	CDS	429				hypothetical protein
+CCGELMGK_00102	CDS	372				hypothetical protein
+CCGELMGK_00103	CDS	243				hypothetical protein
+CCGELMGK_00104	CDS	360				hypothetical protein
+CCGELMGK_00105	CDS	825				hypothetical protein
+CCGELMGK_00106	CDS	606	dctP		COG1638	Solute-binding protein
+CCGELMGK_00107	CDS	552	yiaM		COG3090	2,3-diketo-L-gulonate TRAP transporter small permease protein YiaM
+CCGELMGK_00108	CDS	501				hypothetical protein
+CCGELMGK_00109	CDS	396				hypothetical protein
+CCGELMGK_00110	CDS	543				hypothetical protein
+CCGELMGK_00111	CDS	318				hypothetical protein
+CCGELMGK_00112	CDS	861				hypothetical protein
+CCGELMGK_00113	CDS	603				hypothetical protein
+CCGELMGK_00114	CDS	597				hypothetical protein
+CCGELMGK_00115	CDS	453	asnS	6.1.1.22	COG0017	Asparagine--tRNA ligase
+CCGELMGK_00116	CDS	759				hypothetical protein
+CCGELMGK_00117	CDS	255				hypothetical protein
+CCGELMGK_00118	CDS	393				hypothetical protein
+CCGELMGK_00119	CDS	207				hypothetical protein
+CCGELMGK_00120	CDS	219				hypothetical protein
+CCGELMGK_00121	CDS	1026	mltG	4.2.2.-		Endolytic murein transglycosylase
+CCGELMGK_00122	CDS	744				hypothetical protein
+CCGELMGK_00123	CDS	540				hypothetical protein
+CCGELMGK_00124	CDS	387	purD	6.3.4.13		Phosphoribosylamine--glycine ligase
+CCGELMGK_00125	CDS	795	mltD	4.2.2.-	COG0741	Membrane-bound lytic murein transglycosylase D
+CCGELMGK_00126	CDS	519				hypothetical protein
+CCGELMGK_00127	CDS	273			COG0776	DNA-binding protein HU
+CCGELMGK_00128	CDS	1329				hypothetical protein
+CCGELMGK_00129	CDS	531				hypothetical protein
+CCGELMGK_00130	CDS	432				hypothetical protein
+CCGELMGK_00131	CDS	1074				hypothetical protein
+CCGELMGK_00132	CDS	612				hypothetical protein
+CCGELMGK_00133	CDS	591				hypothetical protein
+CCGELMGK_00134	CDS	327				hypothetical protein
+CCGELMGK_00135	CDS	375				hypothetical protein
+CCGELMGK_00136	CDS	510				hypothetical protein
+CCGELMGK_00137	CDS	513				hypothetical protein
+CCGELMGK_00138	CDS	912				hypothetical protein
+CCGELMGK_00139	CDS	963	cheB	3.5.1.44		Protein-glutamate methylesterase/protein-glutamine glutaminase
+CCGELMGK_00140	CDS	876				hypothetical protein
+CCGELMGK_00141	CDS	888				hypothetical protein
+CCGELMGK_00142	CDS	387				hypothetical protein
+CCGELMGK_00143	CDS	420	dnaJ		COG0484	Chaperone protein DnaJ
+CCGELMGK_00144	CDS	291				hypothetical protein
+CCGELMGK_00145	CDS	297	higA1		COG1396	Antitoxin HigA1
+CCGELMGK_00146	CDS	339				hypothetical protein
+CCGELMGK_00147	CDS	618				hypothetical protein
+CCGELMGK_00148	CDS	789				hypothetical protein
+CCGELMGK_00149	CDS	771				hypothetical protein
+CCGELMGK_00150	CDS	228	rplX_1		COG0198	50S ribosomal protein L24
+CCGELMGK_00151	CDS	582	rplE		COG0094	50S ribosomal protein L5
+CCGELMGK_00152	CDS	402	rpsH		COG0096	30S ribosomal protein S8
+CCGELMGK_00153	CDS	504				hypothetical protein
+CCGELMGK_00154	CDS	234				hypothetical protein
+CCGELMGK_00155	CDS	213				hypothetical protein
+CCGELMGK_00156	CDS	210				hypothetical protein
+CCGELMGK_00157	CDS	678	kdnA	2.6.1.109	COG0399	8-amino-3,8-dideoxy-alpha-D-manno-octulosonate transaminase
+CCGELMGK_00158	CDS	654				hypothetical protein
+CCGELMGK_00159	CDS	1065				hypothetical protein
+CCGELMGK_00160	CDS	513				hypothetical protein
+CCGELMGK_00161	CDS	618				hypothetical protein
+CCGELMGK_00162	CDS	597	hpt	2.4.2.8	COG0634	Hypoxanthine phosphoribosyltransferase
+CCGELMGK_00163	CDS	798				hypothetical protein
+CCGELMGK_00164	CDS	183				hypothetical protein
+CCGELMGK_00165	CDS	453				hypothetical protein
+CCGELMGK_00166	CDS	276				hypothetical protein
+CCGELMGK_00167	CDS	567				hypothetical protein
+CCGELMGK_00168	CDS	327				hypothetical protein
+CCGELMGK_00169	CDS	378				hypothetical protein
+CCGELMGK_00170	CDS	885				hypothetical protein
+CCGELMGK_00171	CDS	714				hypothetical protein
+CCGELMGK_00172	CDS	942				hypothetical protein
+CCGELMGK_00173	CDS	354				hypothetical protein
+CCGELMGK_00174	CDS	243				hypothetical protein
+CCGELMGK_00175	CDS	552	glyQS_1	6.1.1.14		Glycine--tRNA ligase
+CCGELMGK_00176	CDS	414	yrrK	3.1.-.-	COG0816	Putative pre-16S rRNA nuclease
+CCGELMGK_00177	CDS	420				hypothetical protein
+CCGELMGK_00178	CDS	927				hypothetical protein
+CCGELMGK_00179	CDS	627				hypothetical protein
+CCGELMGK_00180	CDS	477				hypothetical protein
+CCGELMGK_00181	CDS	867				hypothetical protein
+CCGELMGK_00182	CDS	1116				hypothetical protein
+CCGELMGK_00183	CDS	1251				hypothetical protein
+CCGELMGK_00184	CDS	1557				hypothetical protein
+CCGELMGK_00185	CDS	990				hypothetical protein
+CCGELMGK_00186	CDS	714				hypothetical protein
+CCGELMGK_00187	CDS	207				hypothetical protein
+CCGELMGK_00188	CDS	438				hypothetical protein
+CCGELMGK_00189	CDS	522				hypothetical protein
+CCGELMGK_00190	CDS	1239				IS110 family transposase ISCsa3
+CCGELMGK_00191	CDS	618				hypothetical protein
+CCGELMGK_00192	CDS	1224	xerC_1			Tyrosine recombinase XerC
+CCGELMGK_00193	CDS	378				hypothetical protein
+CCGELMGK_00194	CDS	564				hypothetical protein
+CCGELMGK_00195	CDS	834				hypothetical protein
+CCGELMGK_00196	CDS	759				hypothetical protein
+CCGELMGK_00197	CDS	297				hypothetical protein
+CCGELMGK_00198	CDS	888				hypothetical protein
+CCGELMGK_00199	CDS	498				hypothetical protein
+CCGELMGK_00200	CDS	495				hypothetical protein
+CCGELMGK_00201	CDS	735				hypothetical protein
+CCGELMGK_00202	CDS	789				hypothetical protein
+CCGELMGK_00203	CDS	1053				hypothetical protein
+CCGELMGK_00204	CDS	351				hypothetical protein
+CCGELMGK_00205	CDS	720				hypothetical protein
+CCGELMGK_00206	CDS	312				hypothetical protein
+CCGELMGK_00207	CDS	513	nqrC	7.2.1.1		Na(+)-translocating NADH-quinone reductase subunit C
+CCGELMGK_00208	CDS	447				hypothetical protein
+CCGELMGK_00209	CDS	201				hypothetical protein
+CCGELMGK_00210	CDS	462				hypothetical protein
+CCGELMGK_00211	CDS	420				hypothetical protein
+CCGELMGK_00212	CDS	447				hypothetical protein
+CCGELMGK_00213	CDS	183	rpmD		COG1841	50S ribosomal protein L30
+CCGELMGK_00214	CDS	504	rpsE		COG0098	30S ribosomal protein S5
+CCGELMGK_00215	CDS	417				hypothetical protein
+CCGELMGK_00216	CDS	786				hypothetical protein
+CCGELMGK_00217	CDS	258				hypothetical protein
+CCGELMGK_00218	CDS	732				hypothetical protein
+CCGELMGK_00219	CDS	684				hypothetical protein
+CCGELMGK_00220	CDS	414		3.6.-.-	COG1703	putative GTPase
+CCGELMGK_00221	CDS	372				hypothetical protein
+CCGELMGK_00222	CDS	171				hypothetical protein
+CCGELMGK_00223	CDS	522				hypothetical protein
+CCGELMGK_00224	CDS	276				hypothetical protein
+CCGELMGK_00225	CDS	246				hypothetical protein
+CCGELMGK_00226	CDS	309				hypothetical protein
+CCGELMGK_00227	CDS	279				hypothetical protein
+CCGELMGK_00228	CDS	357				hypothetical protein
+CCGELMGK_00229	CDS	261				hypothetical protein
+CCGELMGK_00230	CDS	597				hypothetical protein
+CCGELMGK_00231	CDS	231				hypothetical protein
+CCGELMGK_00232	CDS	291				hypothetical protein
+CCGELMGK_00233	CDS	927				hypothetical protein
+CCGELMGK_00234	CDS	525	ftnA_1	1.16.3.2		Bacterial non-heme ferritin
+CCGELMGK_00235	CDS	882	era			GTPase Era
+CCGELMGK_00236	CDS	276				hypothetical protein
+CCGELMGK_00237	CDS	489				hypothetical protein
+CCGELMGK_00238	CDS	651	pinR_1	3.1.22.-	COG1961	Serine recombinase PinR
+CCGELMGK_00239	CDS	288				hypothetical protein
+CCGELMGK_00240	CDS	1134	xerC_2			Tyrosine recombinase XerC
+CCGELMGK_00241	CDS	216				hypothetical protein
+CCGELMGK_00242	CDS	333				hypothetical protein
+CCGELMGK_00243	CDS	654				hypothetical protein
+CCGELMGK_00244	CDS	543				hypothetical protein
+CCGELMGK_00245	CDS	1428	susB	3.2.1.3		Glucan 1,4-alpha-glucosidase SusB
+CCGELMGK_00246	CDS	1161				hypothetical protein
+CCGELMGK_00247	CDS	585	carQ		COG1595	RNA polymerase sigma factor CarQ
+CCGELMGK_00248	CDS	135				hypothetical protein
+CCGELMGK_00249	CDS	741				hypothetical protein
+CCGELMGK_00250	CDS	666				hypothetical protein
+CCGELMGK_00251	CDS	369				hypothetical protein
+CCGELMGK_00252	CDS	729				hypothetical protein
+CCGELMGK_00253	CDS	336				hypothetical protein
+CCGELMGK_00254	CDS	234				hypothetical protein
+CCGELMGK_00255	CDS	189				hypothetical protein
+CCGELMGK_00256	CDS	339				hypothetical protein
+CCGELMGK_00257	CDS	96				hypothetical protein
+CCGELMGK_00258	CDS	264				hypothetical protein
+CCGELMGK_00259	CDS	435				hypothetical protein
+CCGELMGK_00260	CDS	1059				hypothetical protein
+CCGELMGK_00261	CDS	708	quiB	4.2.1.10	COG0710	Catabolic 3-dehydroquinate dehydratase
+CCGELMGK_00262	CDS	1209				hypothetical protein
+CCGELMGK_00263	CDS	345				hypothetical protein
+CCGELMGK_00264	CDS	1089	fcl	1.1.1.271	COG0451	GDP-L-fucose synthase
+CCGELMGK_00265	CDS	348	gmd	4.2.1.47	COG1089	GDP-mannose 4,6-dehydratase
+CCGELMGK_00266	CDS	816				hypothetical protein
+CCGELMGK_00267	CDS	411				hypothetical protein
+CCGELMGK_00268	CDS	402				hypothetical protein
+CCGELMGK_00269	CDS	264				hypothetical protein
+CCGELMGK_00270	CDS	381				hypothetical protein
+CCGELMGK_00271	CDS	507				hypothetical protein
+CCGELMGK_00272	CDS	1452				hypothetical protein
+CCGELMGK_00273	CDS	1890	susC_1			TonB-dependent receptor SusC
+CCGELMGK_00274	CDS	555				hypothetical protein
+CCGELMGK_00275	CDS	858				hypothetical protein
+CCGELMGK_00276	CDS	1548				hypothetical protein
+CCGELMGK_00277	CDS	681				hypothetical protein
+CCGELMGK_00278	CDS	1050				hypothetical protein
+CCGELMGK_00279	CDS	570	RBKS_1	2.7.1.15		Ribokinase
+CCGELMGK_00280	CDS	744				hypothetical protein
+CCGELMGK_00281	CDS	390				hypothetical protein
+CCGELMGK_00282	CDS	402				hypothetical protein
+CCGELMGK_00283	CDS	303	kdsB	2.7.7.38	COG1212	3-deoxy-manno-octulosonate cytidylyltransferase
+CCGELMGK_00284	CDS	426				hypothetical protein
+CCGELMGK_00285	CDS	552				hypothetical protein
+CCGELMGK_00286	CDS	732				hypothetical protein
+CCGELMGK_00287	CDS	843				hypothetical protein
+CCGELMGK_00288	CDS	1203	xerC_3			Tyrosine recombinase XerC
+CCGELMGK_00289	tRNA	76				tRNA-Gly(gcc)
+CCGELMGK_00290	CDS	675				hypothetical protein
+CCGELMGK_00291	CDS	495				hypothetical protein
+CCGELMGK_00292	CDS	570	rhaS_1			HTH-type transcriptional activator RhaS
+CCGELMGK_00293	CDS	378				hypothetical protein
+CCGELMGK_00294	CDS	480				hypothetical protein
+CCGELMGK_00295	CDS	402				hypothetical protein
+CCGELMGK_00296	CDS	387				hypothetical protein
+CCGELMGK_00297	CDS	822				hypothetical protein
+CCGELMGK_00298	CDS	213				hypothetical protein
+CCGELMGK_00299	CDS	246				hypothetical protein
+CCGELMGK_00300	CDS	573				hypothetical protein
+CCGELMGK_00301	CDS	750				hypothetical protein
+CCGELMGK_00302	CDS	540		3.6.1.1		Cobalt-dependent inorganic pyrophosphatase
+CCGELMGK_00303	CDS	660				hypothetical protein
+CCGELMGK_00304	CDS	294				hypothetical protein
+CCGELMGK_00305	CDS	477				hypothetical protein
+CCGELMGK_00306	CDS	348				hypothetical protein
+CCGELMGK_00307	CDS	237				hypothetical protein
+CCGELMGK_00308	CDS	513	sulD		COG0801	Bifunctional folate synthesis protein
+CCGELMGK_00309	CDS	792				hypothetical protein
+CCGELMGK_00310	CDS	462				hypothetical protein
+CCGELMGK_00311	CDS	351	rsfS_1		COG0799	Ribosomal silencing factor RsfS
+CCGELMGK_00312	CDS	1311				hypothetical protein
+CCGELMGK_00313	CDS	705	appA			Oligopeptide-binding protein AppA
+CCGELMGK_00314	CDS	522				hypothetical protein
+CCGELMGK_00315	CDS	471	thiL_1	2.7.4.16	COG0611	Thiamine-monophosphate kinase
+CCGELMGK_00316	CDS	1578	secDF		COG0341	Protein translocase subunit SecDF
+CCGELMGK_00317	CDS	198				hypothetical protein
+CCGELMGK_00318	CDS	246				hypothetical protein
+CCGELMGK_00319	CDS	594				hypothetical protein
+CCGELMGK_00320	CDS	1071	rhaR_2			HTH-type transcriptional activator RhaR
+CCGELMGK_00321	CDS	471				hypothetical protein
+CCGELMGK_00322	CDS	1056				hypothetical protein
+CCGELMGK_00323	CDS	573				hypothetical protein
+CCGELMGK_00324	CDS	183				hypothetical protein
+CCGELMGK_00325	CDS	891	rmlD	1.1.1.133	COG1091	dTDP-4-dehydrorhamnose reductase
+CCGELMGK_00326	CDS	498				hypothetical protein
+CCGELMGK_00327	CDS	615				hypothetical protein
+CCGELMGK_00328	CDS	261				hypothetical protein
+CCGELMGK_00329	CDS	861				hypothetical protein
+CCGELMGK_00330	CDS	858				hypothetical protein
+CCGELMGK_00331	CDS	795	bepA	3.4.-.-		Beta-barrel assembly-enhancing protease
+CCGELMGK_00332	CDS	576				hypothetical protein
+CCGELMGK_00333	CDS	228				hypothetical protein
+CCGELMGK_00334	CDS	579				hypothetical protein
+CCGELMGK_00335	CDS	525				hypothetical protein
+CCGELMGK_00336	CDS	720				hypothetical protein
+CCGELMGK_00337	CDS	492				hypothetical protein
+CCGELMGK_00338	CDS	327				hypothetical protein
+CCGELMGK_00339	CDS	609				hypothetical protein
+CCGELMGK_00340	CDS	801				hypothetical protein
+CCGELMGK_00341	CDS	1989				TonB-dependent receptor P3
+CCGELMGK_00342	CDS	624	udk	2.7.1.48		Uridine kinase
+CCGELMGK_00343	CDS	885	mutS_1		COG0249	DNA mismatch repair protein MutS
+CCGELMGK_00344	CDS	219				hypothetical protein
+CCGELMGK_00345	CDS	693				hypothetical protein
+CCGELMGK_00346	CDS	882				hypothetical protein
+CCGELMGK_00347	CDS	459				hypothetical protein
+CCGELMGK_00348	CDS	519				hypothetical protein
+CCGELMGK_00349	CDS	282				hypothetical protein
+CCGELMGK_00350	CDS	339			COG0217	putative transcriptional regulatory protein
+CCGELMGK_00351	CDS	507				hypothetical protein
+CCGELMGK_00352	CDS	489	rfbG	4.2.1.45	COG0451	CDP-glucose 4,6-dehydratase
+CCGELMGK_00353	rRNA	1136				16S ribosomal RNA (partial)
+CCGELMGK_00354	CDS	984	rlmN	2.1.1.192		putative dual-specificity RNA methyltransferase RlmN
+CCGELMGK_00355	CDS	357				hypothetical protein
+CCGELMGK_00356	CDS	285				hypothetical protein
+CCGELMGK_00357	CDS	1521				hypothetical protein
+CCGELMGK_00358	CDS	303				hypothetical protein
+CCGELMGK_00359	CDS	1242				hypothetical protein
+CCGELMGK_00360	CDS	387				hypothetical protein
+CCGELMGK_00361	CDS	519				hypothetical protein
+CCGELMGK_00362	CDS	915				TonB-dependent receptor P3
+CCGELMGK_00363	CDS	1344	rppH	3.6.1.-		RNA pyrophosphohydrolase
+CCGELMGK_00364	CDS	336				hypothetical protein
+CCGELMGK_00365	CDS	384				hypothetical protein
+CCGELMGK_00366	CDS	660				hypothetical protein
+CCGELMGK_00367	CDS	513				hypothetical protein
+CCGELMGK_00368	CDS	651	ymdB	3.1.1.106		O-acetyl-ADP-ribose deacetylase
+CCGELMGK_00369	CDS	1080				hypothetical protein
+CCGELMGK_00370	CDS	525	bfr	1.16.3.1	COG2193	Bacterioferritin
+CCGELMGK_00371	CDS	180				hypothetical protein
+CCGELMGK_00372	CDS	540				hypothetical protein
+CCGELMGK_00373	CDS	213				hypothetical protein
+CCGELMGK_00374	CDS	222				hypothetical protein
+CCGELMGK_00375	CDS	648	rpoN_1		COG1508	RNA polymerase sigma-54 factor
+CCGELMGK_00376	CDS	774				hypothetical protein
+CCGELMGK_00377	CDS	198				hypothetical protein
+CCGELMGK_00378	CDS	1041				hypothetical protein
+CCGELMGK_00379	CDS	450				hypothetical protein
+CCGELMGK_00380	CDS	633				hypothetical protein
+CCGELMGK_00381	CDS	273				hypothetical protein
+CCGELMGK_00382	CDS	318				hypothetical protein
+CCGELMGK_00383	CDS	219				hypothetical protein
+CCGELMGK_00384	CDS	255				hypothetical protein
+CCGELMGK_00385	CDS	171				hypothetical protein
+CCGELMGK_00386	CDS	465				hypothetical protein
+CCGELMGK_00387	CDS	471				hypothetical protein
+CCGELMGK_00388	CDS	240				hypothetical protein
+CCGELMGK_00389	CDS	1518				hypothetical protein
+CCGELMGK_00390	CDS	354				hypothetical protein
+CCGELMGK_00391	CDS	282				hypothetical protein
+CCGELMGK_00392	CDS	783	xerC_4			Tyrosine recombinase XerC
+CCGELMGK_00393	CDS	396	susD			Starch-binding protein SusD
+CCGELMGK_00394	CDS	324	yhaZ		COG4335	putative protein YhaZ
+CCGELMGK_00395	CDS	222				hypothetical protein
+CCGELMGK_00396	CDS	534				hypothetical protein
+CCGELMGK_00397	CDS	804				hypothetical protein
+CCGELMGK_00398	CDS	228				hypothetical protein
+CCGELMGK_00399	CDS	543				hypothetical protein
+CCGELMGK_00400	CDS	726				hypothetical protein
+CCGELMGK_00401	CDS	1134				hypothetical protein
+CCGELMGK_00402	CDS	411				hypothetical protein
+CCGELMGK_00403	CDS	327				hypothetical protein
+CCGELMGK_00404	CDS	417	yjdF			putative protein YjdF
+CCGELMGK_00405	CDS	282				hypothetical protein
+CCGELMGK_00406	CDS	174				hypothetical protein
+CCGELMGK_00407	CDS	429				hypothetical protein
+CCGELMGK_00408	CDS	264				hypothetical protein
+CCGELMGK_00409	CDS	420	rtcB	6.5.1.-	COG1690	RNA-splicing ligase RtcB
+CCGELMGK_00410	CDS	327				hypothetical protein
+CCGELMGK_00411	CDS	213				hypothetical protein
+CCGELMGK_00412	CDS	708				hypothetical protein
+CCGELMGK_00413	CDS	585	xerC_5			Tyrosine recombinase XerC
+CCGELMGK_00414	CDS	846				hypothetical protein
+CCGELMGK_00415	CDS	375				hypothetical protein
+CCGELMGK_00416	CDS	1245				hypothetical protein
+CCGELMGK_00417	CDS	552				hypothetical protein
+CCGELMGK_00418	CDS	333				hypothetical protein
+CCGELMGK_00419	CDS	777	rsrIM	2.1.1.72		Modification methylase RsrI
+CCGELMGK_00420	CDS	402	mdtA_1			Multidrug resistance protein MdtA
+CCGELMGK_00421	CDS	627	ftsZ			Cell division protein FtsZ
+CCGELMGK_00422	CDS	426				hypothetical protein
+CCGELMGK_00423	CDS	567				hypothetical protein
+CCGELMGK_00424	CDS	183				hypothetical protein
+CCGELMGK_00425	CDS	285				hypothetical protein
+CCGELMGK_00426	CDS	297				hypothetical protein
+CCGELMGK_00427	CDS	513				hypothetical protein
+CCGELMGK_00428	CDS	465				hypothetical protein
+CCGELMGK_00429	CDS	1134				hypothetical protein
+CCGELMGK_00430	CDS	1527				hypothetical protein
+CCGELMGK_00431	CDS	1938	pglF	4.2.1.135	COG1086	UDP-N-acetyl-alpha-D-glucosamine C6 dehydratase
+CCGELMGK_00432	CDS	1113				hypothetical protein
+CCGELMGK_00433	CDS	1062				hypothetical protein
+CCGELMGK_00434	CDS	858				hypothetical protein
+CCGELMGK_00435	CDS	1479				hypothetical protein
+CCGELMGK_00436	CDS	360				hypothetical protein
+CCGELMGK_00437	CDS	444				hypothetical protein
+CCGELMGK_00438	CDS	681				hypothetical protein
+CCGELMGK_00439	CDS	366				hypothetical protein
+CCGELMGK_00440	CDS	453				hypothetical protein
+CCGELMGK_00441	CDS	294				hypothetical protein
+CCGELMGK_00442	CDS	918	dnaK		COG0443	Chaperone protein DnaK
+CCGELMGK_00443	CDS	690				hypothetical protein
+CCGELMGK_00444	CDS	156				hypothetical protein
+CCGELMGK_00445	CDS	891				hypothetical protein
+CCGELMGK_00446	CDS	582				hypothetical protein
+CCGELMGK_00447	CDS	159				hypothetical protein
+CCGELMGK_00448	CDS	897				hypothetical protein
+CCGELMGK_00449	CDS	1002	dapA	4.3.3.7	COG0329	4-hydroxy-tetrahydrodipicolinate synthase
+CCGELMGK_00450	CDS	606				hypothetical protein
+CCGELMGK_00451	CDS	732				hypothetical protein
+CCGELMGK_00452	CDS	942				hypothetical protein
+CCGELMGK_00453	CDS	780				hypothetical protein
+CCGELMGK_00454	CDS	489				hypothetical protein
+CCGELMGK_00455	CDS	240				hypothetical protein
+CCGELMGK_00456	CDS	402				hypothetical protein
+CCGELMGK_00457	CDS	486				hypothetical protein
+CCGELMGK_00458	CDS	276				hypothetical protein
+CCGELMGK_00459	CDS	384				hypothetical protein
+CCGELMGK_00460	CDS	918				hypothetical protein
+CCGELMGK_00461	CDS	633				hypothetical protein
+CCGELMGK_00462	CDS	531				hypothetical protein
+CCGELMGK_00463	CDS	525				hypothetical protein
+CCGELMGK_00464	CDS	912				hypothetical protein
+CCGELMGK_00465	CDS	732				hypothetical protein
+CCGELMGK_00466	CDS	219				hypothetical protein
+CCGELMGK_00467	CDS	228				hypothetical protein
+CCGELMGK_00468	CDS	579				hypothetical protein
+CCGELMGK_00469	CDS	543	nusG		COG0250	Transcription termination/antitermination protein NusG
+CCGELMGK_00470	CDS	1092				hypothetical protein
+CCGELMGK_00471	CDS	255				hypothetical protein
+CCGELMGK_00472	CDS	1002	qorA	1.6.5.5	COG0604	Quinone oxidoreductase 1
+CCGELMGK_00473	CDS	1302				hypothetical protein
+CCGELMGK_00474	CDS	207				hypothetical protein
+CCGELMGK_00475	CDS	261				hypothetical protein
+CCGELMGK_00476	CDS	621	grpE			Protein GrpE
+CCGELMGK_00477	CDS	849				hypothetical protein
+CCGELMGK_00478	CDS	735	glpT		COG2271	Glycerol-3-phosphate transporter
+CCGELMGK_00479	CDS	759				hypothetical protein
+CCGELMGK_00480	CDS	453	iolS	1.1.1.-	COG0667	Aldo-keto reductase IolS
+CCGELMGK_00481	CDS	447				IS200/IS605 family transposase IS1341
+CCGELMGK_00482	CDS	1149	yteR	3.2.1.172	COG4225	Unsaturated rhamnogalacturonyl hydrolase YteR
+CCGELMGK_00483	CDS	456				hypothetical protein
+CCGELMGK_00484	CDS	1122				hypothetical protein
+CCGELMGK_00485	CDS	489				hypothetical protein
+CCGELMGK_00486	CDS	801				hypothetical protein
+CCGELMGK_00487	CDS	345				hypothetical protein
+CCGELMGK_00488	CDS	447				hypothetical protein
+CCGELMGK_00489	CDS	444	aroK	2.7.1.71	COG0703	Shikimate kinase 1
+CCGELMGK_00490	CDS	576				hypothetical protein
+CCGELMGK_00491	CDS	822				hypothetical protein
+CCGELMGK_00492	CDS	663	rhaR_3			HTH-type transcriptional activator RhaR
+CCGELMGK_00493	CDS	444				hypothetical protein
+CCGELMGK_00494	CDS	681				hypothetical protein
+CCGELMGK_00495	CDS	249				hypothetical protein
+CCGELMGK_00496	CDS	528	pheT	6.1.1.20	COG0072	Phenylalanine--tRNA ligase beta subunit
+CCGELMGK_00497	CDS	381				hypothetical protein
+CCGELMGK_00498	CDS	2361				hypothetical protein
+CCGELMGK_00499	CDS	864				hypothetical protein
+CCGELMGK_00500	CDS	1080	ysdC	3.4.11.-	COG1363	Putative aminopeptidase YsdC
+CCGELMGK_00501	CDS	615	rplC			50S ribosomal protein L3
+CCGELMGK_00502	CDS	597				hypothetical protein
+CCGELMGK_00503	CDS	147				hypothetical protein
+CCGELMGK_00504	CDS	201				hypothetical protein
+CCGELMGK_00505	CDS	201				hypothetical protein
+CCGELMGK_00506	CDS	147				hypothetical protein
+CCGELMGK_00507	CDS	381				hypothetical protein
+CCGELMGK_00508	CDS	441				hypothetical protein
+CCGELMGK_00509	CDS	1041				hypothetical protein
+CCGELMGK_00510	CDS	597	ansB	3.5.1.1	COG0252	L-asparaginase 2
+CCGELMGK_00511	CDS	1101				hypothetical protein
+CCGELMGK_00512	CDS	273				hypothetical protein
+CCGELMGK_00513	CDS	669				hypothetical protein
+CCGELMGK_00514	CDS	279				hypothetical protein
+CCGELMGK_00515	rRNA	1187				23S ribosomal RNA (partial)
+CCGELMGK_00516	CDS	504				hypothetical protein
+CCGELMGK_00517	CDS	1542				hypothetical protein
+CCGELMGK_00518	CDS	399				hypothetical protein
+CCGELMGK_00519	CDS	786	tmoS	2.7.13.3		Sensor histidine kinase TmoS
+CCGELMGK_00520	CDS	204				hypothetical protein
+CCGELMGK_00521	CDS	423	btsS	2.7.13.3	COG3275	Sensor histidine kinase BtsS
+CCGELMGK_00522	CDS	321				hypothetical protein
+CCGELMGK_00523	tRNA	86				tRNA-Tyr(gta)
+CCGELMGK_00524	CDS	354				hypothetical protein
+CCGELMGK_00525	CDS	465				hypothetical protein
+CCGELMGK_00526	CDS	705				hypothetical protein
+CCGELMGK_00527	CDS	237	dan	3.5.1.81		D-aminoacylase
+CCGELMGK_00528	CDS	1359	dsdX			D-serine transporter DsdX
+CCGELMGK_00529	rRNA	737				16S ribosomal RNA (partial)
+CCGELMGK_00530	CDS	435				hypothetical protein
+CCGELMGK_00531	CDS	486	murG_1	2.4.1.227		UDP-N-acetylglucosamine--N-acetylmuramyl-(pentapeptide) pyrophosphoryl-undecaprenol N-acetylglucosamine transferase
+CCGELMGK_00532	CDS	366				hypothetical protein
+CCGELMGK_00533	CDS	825	rfbB	4.2.1.46	COG1088	dTDP-glucose 4,6-dehydratase
+CCGELMGK_00534	CDS	297				hypothetical protein
+CCGELMGK_00535	CDS	456				hypothetical protein
+CCGELMGK_00536	CDS	945	kdpA		COG2060	Potassium-transporting ATPase potassium-binding subunit
+CCGELMGK_00537	CDS	318				hypothetical protein
+CCGELMGK_00538	CDS	213				hypothetical protein
+CCGELMGK_00539	CDS	162				hypothetical protein
+CCGELMGK_00540	CDS	261				hypothetical protein
+CCGELMGK_00541	CDS	189				hypothetical protein
+CCGELMGK_00542	CDS	198	rplN_1			50S ribosomal protein L14
+CCGELMGK_00543	CDS	1095				hypothetical protein
+CCGELMGK_00544	CDS	330				hypothetical protein
+CCGELMGK_00545	CDS	162				hypothetical protein
+CCGELMGK_00546	CDS	297				hypothetical protein
+CCGELMGK_00547	CDS	441				hypothetical protein
+CCGELMGK_00548	CDS	675				hypothetical protein
+CCGELMGK_00549	CDS	531				hypothetical protein
+CCGELMGK_00550	CDS	999				hypothetical protein
+CCGELMGK_00551	CDS	1308	zraR		COG2204	Transcriptional regulatory protein ZraR
+CCGELMGK_00552	CDS	711				hypothetical protein
+CCGELMGK_00553	CDS	855	resA_2			Thiol-disulfide oxidoreductase ResA
+CCGELMGK_00554	CDS	636	pepT	3.4.11.4	COG2195	Peptidase T
+CCGELMGK_00555	CDS	213				hypothetical protein
+CCGELMGK_00556	CDS	828				hypothetical protein
+CCGELMGK_00557	CDS	705				hypothetical protein
+CCGELMGK_00558	CDS	591				hypothetical protein
+CCGELMGK_00559	CDS	177				hypothetical protein
+CCGELMGK_00560	CDS	804	epsD	2.4.-.-		Putative glycosyltransferase EpsD
+CCGELMGK_00561	CDS	264				hypothetical protein
+CCGELMGK_00562	CDS	1509				hypothetical protein
+CCGELMGK_00563	CDS	198				hypothetical protein
+CCGELMGK_00564	CDS	624				hypothetical protein
+CCGELMGK_00565	CDS	882	serC	2.6.1.52		Phosphoserine aminotransferase
+CCGELMGK_00566	CDS	279				hypothetical protein
+CCGELMGK_00567	CDS	765				hypothetical protein
+CCGELMGK_00568	CDS	390				hypothetical protein
+CCGELMGK_00569	CDS	528				hypothetical protein
+CCGELMGK_00570	CDS	1374				hypothetical protein
+CCGELMGK_00571	CDS	1146	recF_2			DNA replication and repair protein RecF
+CCGELMGK_00572	CDS	672				hypothetical protein
+CCGELMGK_00573	CDS	672				hypothetical protein
+CCGELMGK_00574	CDS	219				hypothetical protein
+CCGELMGK_00575	CDS	558				hypothetical protein
+CCGELMGK_00576	CDS	546				hypothetical protein
+CCGELMGK_00577	CDS	300				hypothetical protein
+CCGELMGK_00578	CDS	480	hupR1		COG2204	Hydrogenase transcriptional regulatory protein hupR1
+CCGELMGK_00579	CDS	843	sasA_1	2.7.-.-		Adaptive-response sensory-kinase SasA
+CCGELMGK_00580	CDS	522	rplJ			50S ribosomal protein L10
+CCGELMGK_00581	CDS	378	rplL		COG0222	50S ribosomal protein L7/L12
+CCGELMGK_00582	CDS	582				hypothetical protein
+CCGELMGK_00583	CDS	681				hypothetical protein
+CCGELMGK_00584	CDS	858				hypothetical protein
+CCGELMGK_00585	CDS	597				hypothetical protein
+CCGELMGK_00586	CDS	588				hypothetical protein
+CCGELMGK_00587	CDS	549				hypothetical protein
+CCGELMGK_00588	CDS	483	yidC_1			Membrane protein insertase YidC
+CCGELMGK_00589	CDS	414				hypothetical protein
+CCGELMGK_00590	CDS	576				hypothetical protein
+CCGELMGK_00591	CDS	678	glnP		COG0765	Glutamine transport system permease protein GlnP
+CCGELMGK_00592	CDS	372	glnM		COG0765	putative glutamine ABC transporter permease protein GlnM
+CCGELMGK_00593	CDS	660	plsY	2.3.1.275	COG0344	Glycerol-3-phosphate acyltransferase
+CCGELMGK_00594	CDS	300				hypothetical protein
+CCGELMGK_00595	CDS	156				hypothetical protein
+CCGELMGK_00596	CDS	570	cwlH	3.5.1.28	COG3409	N-acetylmuramoyl-L-alanine amidase CwlH
+CCGELMGK_00597	CDS	612				hypothetical protein
+CCGELMGK_00598	CDS	684				hypothetical protein
+CCGELMGK_00599	CDS	687				hypothetical protein
+CCGELMGK_00600	CDS	333				hypothetical protein
+CCGELMGK_00601	CDS	732				hypothetical protein
+CCGELMGK_00602	CDS	423				hypothetical protein
+CCGELMGK_00603	CDS	204				hypothetical protein
+CCGELMGK_00604	CDS	471				hypothetical protein
+CCGELMGK_00605	CDS	369				hypothetical protein
+CCGELMGK_00606	CDS	120				hypothetical protein
+CCGELMGK_00607	CDS	960				hypothetical protein
+CCGELMGK_00608	CDS	879				hypothetical protein
+CCGELMGK_00609	CDS	462				hypothetical protein
+CCGELMGK_00610	CDS	1563				hypothetical protein
+CCGELMGK_00611	CDS	678				hypothetical protein
+CCGELMGK_00612	CDS	717				IS110 family transposase ISFnu3
+CCGELMGK_00613	CDS	489				hypothetical protein
+CCGELMGK_00614	CDS	813	lexA	3.4.21.88		LexA repressor
+CCGELMGK_00615	CDS	186				hypothetical protein
+CCGELMGK_00616	CDS	993				hypothetical protein
+CCGELMGK_00617	CDS	228	rsxB_1	7.-.-.-		Ion-translocating oxidoreductase complex subunit B
+CCGELMGK_00618	CDS	291				hypothetical protein
+CCGELMGK_00619	CDS	702				hypothetical protein
+CCGELMGK_00620	CDS	426				hypothetical protein
+CCGELMGK_00621	CDS	741				hypothetical protein
+CCGELMGK_00622	tRNA	84				tRNA-Tyr(gta)
+CCGELMGK_00623	tRNA	77				tRNA-Thr(tgt)
+CCGELMGK_00624	CDS	708				hypothetical protein
+CCGELMGK_00625	CDS	150				hypothetical protein
+CCGELMGK_00626	CDS	228				hypothetical protein
+CCGELMGK_00627	CDS	471	glmM			Phosphoglucosamine mutase
+CCGELMGK_00628	CDS	447				hypothetical protein
+CCGELMGK_00629	CDS	618				hypothetical protein
+CCGELMGK_00630	CDS	171				hypothetical protein
+CCGELMGK_00631	CDS	456				hypothetical protein
+CCGELMGK_00632	CDS	243				hypothetical protein
+CCGELMGK_00633	CDS	312				hypothetical protein
+CCGELMGK_00634	CDS	519				hypothetical protein
+CCGELMGK_00635	CDS	183				hypothetical protein
+CCGELMGK_00636	CDS	339				hypothetical protein
+CCGELMGK_00637	CDS	198				hypothetical protein
+CCGELMGK_00638	CDS	360				hypothetical protein
+CCGELMGK_00639	CDS	471				hypothetical protein
+CCGELMGK_00640	CDS	1671				hypothetical protein
+CCGELMGK_00641	CDS	282				hypothetical protein
+CCGELMGK_00642	CDS	333				hypothetical protein
+CCGELMGK_00643	CDS	999				IS110 family transposase ISCaa7
+CCGELMGK_00644	CDS	357				hypothetical protein
+CCGELMGK_00645	CDS	378				hypothetical protein
+CCGELMGK_00646	CDS	750				hypothetical protein
+CCGELMGK_00647	CDS	183				hypothetical protein
+CCGELMGK_00648	CDS	309		3.2.1.177	COG1501	Alpha-xylosidase BoGH31A
+CCGELMGK_00649	CDS	324				hypothetical protein
+CCGELMGK_00650	CDS	396				hypothetical protein
+CCGELMGK_00651	CDS	780				hypothetical protein
+CCGELMGK_00652	CDS	408				hypothetical protein
+CCGELMGK_00653	CDS	438				hypothetical protein
+CCGELMGK_00654	CDS	717				hypothetical protein
+CCGELMGK_00655	CDS	387				hypothetical protein
+CCGELMGK_00656	CDS	396				hypothetical protein
+CCGELMGK_00657	CDS	282				hypothetical protein
+CCGELMGK_00658	CDS	993				hypothetical protein
+CCGELMGK_00659	CDS	846				hypothetical protein
+CCGELMGK_00660	CDS	213				hypothetical protein
+CCGELMGK_00661	CDS	189				hypothetical protein
+CCGELMGK_00662	CDS	165				hypothetical protein
+CCGELMGK_00663	CDS	234				hypothetical protein
+CCGELMGK_00664	CDS	93				hypothetical protein
+CCGELMGK_00665	CDS	414				hypothetical protein
+CCGELMGK_00666	CDS	522				hypothetical protein
+CCGELMGK_00667	CDS	801	tyrS_2	6.1.1.1	COG0162	Tyrosine--tRNA ligase
+CCGELMGK_00668	CDS	483				hypothetical protein
+CCGELMGK_00669	CDS	465				hypothetical protein
+CCGELMGK_00670	CDS	324				hypothetical protein
+CCGELMGK_00671	CDS	951				hypothetical protein
+CCGELMGK_00672	CDS	678				hypothetical protein
+CCGELMGK_00673	CDS	612				hypothetical protein
+CCGELMGK_00674	CDS	162				hypothetical protein
+CCGELMGK_00675	CDS	963				hypothetical protein
+CCGELMGK_00676	CDS	1083				hypothetical protein
+CCGELMGK_00677	CDS	420				hypothetical protein
+CCGELMGK_00678	CDS	327				hypothetical protein
+CCGELMGK_00679	CDS	375				hypothetical protein
+CCGELMGK_00680	CDS	159				hypothetical protein
+CCGELMGK_00681	CDS	309				hypothetical protein
+CCGELMGK_00682	CDS	195				hypothetical protein
+CCGELMGK_00683	CDS	243				hypothetical protein
+CCGELMGK_00684	CDS	276				hypothetical protein
+CCGELMGK_00685	CDS	1131				hypothetical protein
+CCGELMGK_00686	CDS	303	gdhB	1.4.1.2		NAD-specific glutamate dehydrogenase
+CCGELMGK_00687	CDS	1245				hypothetical protein
+CCGELMGK_00688	tRNA	73				tRNA-Arg(tcg)
+CCGELMGK_00689	CDS	576				hypothetical protein
+CCGELMGK_00690	CDS	1341				hypothetical protein
+CCGELMGK_00691	CDS	420				hypothetical protein
+CCGELMGK_00692	CDS	282				hypothetical protein
+CCGELMGK_00693	CDS	465				hypothetical protein
+CCGELMGK_00694	CDS	624				hypothetical protein
+CCGELMGK_00695	CDS	519				hypothetical protein
+CCGELMGK_00696	CDS	672				hypothetical protein
+CCGELMGK_00697	CDS	561				hypothetical protein
+CCGELMGK_00698	CDS	543	srpC		COG2059	putative chromate transport protein
+CCGELMGK_00699	CDS	537				hypothetical protein
+CCGELMGK_00700	CDS	1272				hypothetical protein
+CCGELMGK_00701	CDS	747				hypothetical protein
+CCGELMGK_00702	CDS	201				hypothetical protein
+CCGELMGK_00703	CDS	297				hypothetical protein
+CCGELMGK_00704	CDS	438				hypothetical protein
+CCGELMGK_00705	CDS	1230	proA	1.2.1.41	COG0014	Gamma-glutamyl phosphate reductase
+CCGELMGK_00706	CDS	651				hypothetical protein
+CCGELMGK_00707	CDS	507				hypothetical protein
+CCGELMGK_00708	CDS	273				hypothetical protein
+CCGELMGK_00709	CDS	1014				hypothetical protein
+CCGELMGK_00710	CDS	708	bepF			Efflux pump periplasmic linker BepF
+CCGELMGK_00711	CDS	237				hypothetical protein
+CCGELMGK_00712	CDS	1050	atpA	7.1.2.2	COG0056	ATP synthase subunit alpha
+CCGELMGK_00713	CDS	627	dcp	3.4.15.5	COG0339	Dipeptidyl carboxypeptidase
+CCGELMGK_00714	CDS	168				hypothetical protein
+CCGELMGK_00715	CDS	153				hypothetical protein
+CCGELMGK_00716	CDS	819				hypothetical protein
+CCGELMGK_00717	CDS	438				hypothetical protein
+CCGELMGK_00718	CDS	306				hypothetical protein
+CCGELMGK_00719	CDS	555	wecA	2.7.8.33		Undecaprenyl-phosphate alpha-N-acetylglucosaminyl 1-phosphate transferase
+CCGELMGK_00720	CDS	906	rfbA_1	2.7.7.24	COG1209	Glucose-1-phosphate thymidylyltransferase 1
+CCGELMGK_00721	CDS	189				hypothetical protein
+CCGELMGK_00722	CDS	210				hypothetical protein
+CCGELMGK_00723	CDS	468				hypothetical protein
+CCGELMGK_00724	CDS	471				hypothetical protein
+CCGELMGK_00725	CDS	789	rsgA_1	3.6.1.-	COG1162	Small ribosomal subunit biogenesis GTPase RsgA
+CCGELMGK_00726	CDS	570				hypothetical protein
+CCGELMGK_00727	CDS	369				hypothetical protein
+CCGELMGK_00728	CDS	489	ribH	2.5.1.78	COG0054	6,7-dimethyl-8-ribityllumazine synthase
+CCGELMGK_00729	CDS	669				hypothetical protein
+CCGELMGK_00730	CDS	831				hypothetical protein
+CCGELMGK_00731	CDS	930				hypothetical protein
+CCGELMGK_00732	CDS	264				hypothetical protein
+CCGELMGK_00733	CDS	978				hypothetical protein
+CCGELMGK_00734	CDS	1158			COG3385	IS4 family transposase IS1675
+CCGELMGK_00735	CDS	897	rhaS_2			HTH-type transcriptional activator RhaS
+CCGELMGK_00736	CDS	633				hypothetical protein
+CCGELMGK_00737	CDS	615				hypothetical protein
+CCGELMGK_00738	CDS	1005				hypothetical protein
+CCGELMGK_00739	CDS	339	adk	2.7.4.3		Adenylate kinase
+CCGELMGK_00740	CDS	426				hypothetical protein
+CCGELMGK_00741	CDS	417				hypothetical protein
+CCGELMGK_00742	CDS	252				hypothetical protein
+CCGELMGK_00743	CDS	663		1.2.7.1	COG0674	Pyruvate:ferredoxin oxidoreductase
+CCGELMGK_00744	CDS	147				hypothetical protein
+CCGELMGK_00745	CDS	801	ctpC	3.6.3.-	COG2217	Manganese-exporting P-type ATPase
+CCGELMGK_00746	CDS	123				hypothetical protein
+CCGELMGK_00747	CDS	249				hypothetical protein
+CCGELMGK_00748	CDS	474				hypothetical protein
+CCGELMGK_00749	CDS	720				hypothetical protein
+CCGELMGK_00750	CDS	246				hypothetical protein
+CCGELMGK_00751	CDS	852				hypothetical protein
+CCGELMGK_00752	CDS	285	gpmA	5.4.2.11		2,3-bisphosphoglycerate-dependent phosphoglycerate mutase
+CCGELMGK_00753	CDS	765				hypothetical protein
+CCGELMGK_00754	CDS	291				hypothetical protein
+CCGELMGK_00755	CDS	885	xerC_6		COG4973	Tyrosine recombinase XerC
+CCGELMGK_00756	CDS	618				hypothetical protein
+CCGELMGK_00757	CDS	504				hypothetical protein
+CCGELMGK_00758	CDS	369				hypothetical protein
+CCGELMGK_00759	CDS	684				hypothetical protein
+CCGELMGK_00760	CDS	1062				hypothetical protein
+CCGELMGK_00761	CDS	852				hypothetical protein
+CCGELMGK_00762	CDS	273				hypothetical protein
+CCGELMGK_00763	CDS	447				hypothetical protein
+CCGELMGK_00764	CDS	351				hypothetical protein
+CCGELMGK_00765	CDS	480				hypothetical protein
+CCGELMGK_00766	CDS	1206				hypothetical protein
+CCGELMGK_00767	CDS	606	flr			Flavoredoxin
+CCGELMGK_00768	CDS	393				hypothetical protein
+CCGELMGK_00769	CDS	162				hypothetical protein
+CCGELMGK_00770	CDS	588		3.2.2.-	COG1611	Putative cytokinin riboside 5'-monophosphate phosphoribohydrolase
+CCGELMGK_00771	CDS	255	metK	2.5.1.6		S-adenosylmethionine synthase
+CCGELMGK_00772	CDS	228				hypothetical protein
+CCGELMGK_00773	CDS	777				hypothetical protein
+CCGELMGK_00774	CDS	396				hypothetical protein
+CCGELMGK_00775	CDS	1251	ugd	1.1.1.22	COG1004	UDP-glucose 6-dehydrogenase
+CCGELMGK_00776	CDS	150				hypothetical protein
+CCGELMGK_00777	CDS	618				hypothetical protein
+CCGELMGK_00778	CDS	330				hypothetical protein
+CCGELMGK_00779	CDS	1059				hypothetical protein
+CCGELMGK_00780	CDS	1431				hypothetical protein
+CCGELMGK_00781	CDS	1176				TonB-dependent receptor P3
+CCGELMGK_00782	CDS	675				hypothetical protein
+CCGELMGK_00783	CDS	114				hypothetical protein
+CCGELMGK_00784	CDS	369				hypothetical protein
+CCGELMGK_00785	CDS	540	coaBC		COG0452	Coenzyme A biosynthesis bifunctional protein CoaBC
+CCGELMGK_00786	CDS	552				hypothetical protein
+CCGELMGK_00787	CDS	285				hypothetical protein
+CCGELMGK_00788	CDS	969				hypothetical protein
+CCGELMGK_00789	CDS	351				hypothetical protein
+CCGELMGK_00790	CDS	636				hypothetical protein
+CCGELMGK_00791	CDS	360				hypothetical protein
+CCGELMGK_00792	CDS	693				hypothetical protein
+CCGELMGK_00793	CDS	1113				hypothetical protein
+CCGELMGK_00794	CDS	219				hypothetical protein
+CCGELMGK_00795	CDS	399				hypothetical protein
+CCGELMGK_00796	CDS	558				hypothetical protein
+CCGELMGK_00797	CDS	213				hypothetical protein
+CCGELMGK_00798	CDS	252				hypothetical protein
+CCGELMGK_00799	CDS	393				hypothetical protein
+CCGELMGK_00800	CDS	474				hypothetical protein
+CCGELMGK_00801	CDS	741	purM_1	6.3.3.1		Phosphoribosylformylglycinamidine cyclo-ligase
+CCGELMGK_00802	CDS	687				hypothetical protein
+CCGELMGK_00803	CDS	192				hypothetical protein
+CCGELMGK_00804	CDS	1323				hypothetical protein
+CCGELMGK_00805	CDS	816				hypothetical protein
+CCGELMGK_00806	CDS	330				hypothetical protein
+CCGELMGK_00807	CDS	855				hypothetical protein
+CCGELMGK_00808	CDS	213	fbaB	4.1.2.13	COG1830	Fructose-bisphosphate aldolase class 1
+CCGELMGK_00809	CDS	603				hypothetical protein
+CCGELMGK_00810	CDS	297				hypothetical protein
+CCGELMGK_00811	CDS	201				hypothetical protein
+CCGELMGK_00812	CDS	300				hypothetical protein
+CCGELMGK_00813	CDS	1188				hypothetical protein
+CCGELMGK_00814	CDS	471				hypothetical protein
+CCGELMGK_00815	CDS	219				hypothetical protein
+CCGELMGK_00816	CDS	696	aroB	4.2.3.4	COG0337	3-dehydroquinate synthase
+CCGELMGK_00817	CDS	330	eno_1	4.2.1.11		Enolase
+CCGELMGK_00818	CDS	369				hypothetical protein
+CCGELMGK_00819	CDS	1398				hypothetical protein
+CCGELMGK_00820	CDS	378				hypothetical protein
+CCGELMGK_00821	CDS	237				hypothetical protein
+CCGELMGK_00822	CDS	183				hypothetical protein
+CCGELMGK_00823	CDS	330				hypothetical protein
+CCGELMGK_00824	CDS	369				hypothetical protein
+CCGELMGK_00825	CDS	465				hypothetical protein
+CCGELMGK_00826	CDS	333				hypothetical protein
+CCGELMGK_00827	CDS	351	rsfS_2		COG0799	Ribosomal silencing factor RsfS
+CCGELMGK_00828	CDS	738				hypothetical protein
+CCGELMGK_00829	CDS	564				hypothetical protein
+CCGELMGK_00830	CDS	513				hypothetical protein
+CCGELMGK_00831	CDS	450				hypothetical protein
+CCGELMGK_00832	CDS	654				hypothetical protein
+CCGELMGK_00833	CDS	450				hypothetical protein
+CCGELMGK_00834	CDS	930		2.4.-.-		putative glycosyltransferase
+CCGELMGK_00835	CDS	435	pccB	6.4.1.3	COG4799	Propionyl-CoA carboxylase beta chain
+CCGELMGK_00836	CDS	321				hypothetical protein
+CCGELMGK_00837	CDS	462	pycA	6.4.1.1		Pyruvate carboxylase
+CCGELMGK_00838	CDS	1209				hypothetical protein
+CCGELMGK_00839	CDS	210				hypothetical protein
+CCGELMGK_00840	CDS	663				hypothetical protein
+CCGELMGK_00841	CDS	291				hypothetical protein
+CCGELMGK_00842	CDS	321				hypothetical protein
+CCGELMGK_00843	CDS	321				hypothetical protein
+CCGELMGK_00844	CDS	423	cpsD	2.7.10.2		Tyrosine-protein kinase CpsD
+CCGELMGK_00845	CDS	414				hypothetical protein
+CCGELMGK_00846	CDS	108				hypothetical protein
+CCGELMGK_00847	CDS	297				hypothetical protein
+CCGELMGK_00848	CDS	309				hypothetical protein
+CCGELMGK_00849	CDS	630				hypothetical protein
+CCGELMGK_00850	CDS	537		3.1.3.48		Putative low molecular weight protein-tyrosine-phosphatase
+CCGELMGK_00851	CDS	288				hypothetical protein
+CCGELMGK_00852	CDS	387			COG0537	putative HIT-like protein
+CCGELMGK_00853	CDS	288				hypothetical protein
+CCGELMGK_00854	CDS	900				hypothetical protein
+CCGELMGK_00855	CDS	249				hypothetical protein
+CCGELMGK_00856	CDS	195				hypothetical protein
+CCGELMGK_00857	CDS	132				hypothetical protein
+CCGELMGK_00858	CDS	972				hypothetical protein
+CCGELMGK_00859	CDS	1428				TonB-dependent receptor P3
+CCGELMGK_00860	CDS	864	dtpA			Dipeptide and tripeptide permease A
+CCGELMGK_00861	CDS	513	ispB	2.5.1.90	COG0142	Octaprenyl diphosphate synthase
+CCGELMGK_00862	CDS	873				hypothetical protein
+CCGELMGK_00863	CDS	549				hypothetical protein
+CCGELMGK_00864	CDS	300				hypothetical protein
+CCGELMGK_00865	CDS	1065				hypothetical protein
+CCGELMGK_00866	CDS	1068	mdtK			Multidrug resistance protein MdtK
+CCGELMGK_00867	CDS	510				hypothetical protein
+CCGELMGK_00868	CDS	459				hypothetical protein
+CCGELMGK_00869	CDS	231				hypothetical protein
+CCGELMGK_00870	CDS	504				hypothetical protein
+CCGELMGK_00871	CDS	504				hypothetical protein
+CCGELMGK_00872	CDS	201				hypothetical protein
+CCGELMGK_00873	CDS	579				hypothetical protein
+CCGELMGK_00874	CDS	153				hypothetical protein
+CCGELMGK_00875	CDS	729				hypothetical protein
+CCGELMGK_00876	CDS	477	greA		COG0782	Transcription elongation factor GreA
+CCGELMGK_00877	CDS	363	clsA	2.7.8.-	COG1502	Major cardiolipin synthase ClsA
+CCGELMGK_00878	CDS	366				hypothetical protein
+CCGELMGK_00879	CDS	507				hypothetical protein
+CCGELMGK_00880	CDS	549				hypothetical protein
+CCGELMGK_00881	CDS	498				hypothetical protein
+CCGELMGK_00882	CDS	108				hypothetical protein
+CCGELMGK_00883	CDS	264				hypothetical protein
+CCGELMGK_00884	CDS	567				hypothetical protein
+CCGELMGK_00885	CDS	351				hypothetical protein
+CCGELMGK_00886	CDS	294				hypothetical protein
+CCGELMGK_00887	CDS	1179				SusD-like protein P2
+CCGELMGK_00888	CDS	438	korB	1.2.7.3	COG1013	2-oxoglutarate oxidoreductase subunit KorB
+CCGELMGK_00889	CDS	1104	cvrA		COG3263	K(+)/H(+) antiporter NhaP2
+CCGELMGK_00890	CDS	948				hypothetical protein
+CCGELMGK_00891	CDS	309				hypothetical protein
+CCGELMGK_00892	CDS	396				hypothetical protein
+CCGELMGK_00893	CDS	201				hypothetical protein
+CCGELMGK_00894	CDS	600				hypothetical protein
+CCGELMGK_00895	CDS	669				hypothetical protein
+CCGELMGK_00896	CDS	477				hypothetical protein
+CCGELMGK_00897	CDS	534				hypothetical protein
+CCGELMGK_00898	CDS	852				hypothetical protein
+CCGELMGK_00899	CDS	630				hypothetical protein
+CCGELMGK_00900	CDS	198				hypothetical protein
+CCGELMGK_00901	CDS	210				hypothetical protein
+CCGELMGK_00902	CDS	153				hypothetical protein
+CCGELMGK_00903	CDS	1176				hypothetical protein
+CCGELMGK_00904	CDS	1269				hypothetical protein
+CCGELMGK_00905	CDS	414				hypothetical protein
+CCGELMGK_00906	CDS	840				hypothetical protein
+CCGELMGK_00907	CDS	489				hypothetical protein
+CCGELMGK_00908	CDS	231				hypothetical protein
+CCGELMGK_00909	CDS	273				hypothetical protein
+CCGELMGK_00910	CDS	279				hypothetical protein
+CCGELMGK_00911	CDS	138				hypothetical protein
+CCGELMGK_00912	CDS	1515				hypothetical protein
+CCGELMGK_00913	CDS	1194				hypothetical protein
+CCGELMGK_00914	CDS	1134				hypothetical protein
+CCGELMGK_00915	CDS	111				hypothetical protein
+CCGELMGK_00916	CDS	186				hypothetical protein
+CCGELMGK_00917	CDS	183				hypothetical protein
+CCGELMGK_00918	CDS	990				hypothetical protein
+CCGELMGK_00919	CDS	663				hypothetical protein
+CCGELMGK_00920	CDS	321				hypothetical protein
+CCGELMGK_00921	CDS	243				hypothetical protein
+CCGELMGK_00922	CDS	711	frdA	1.3.5.4		Fumarate reductase flavoprotein subunit
+CCGELMGK_00923	CDS	219				hypothetical protein
+CCGELMGK_00924	CDS	165				hypothetical protein
+CCGELMGK_00925	CDS	315				hypothetical protein
+CCGELMGK_00926	CDS	453				hypothetical protein
+CCGELMGK_00927	CDS	372				hypothetical protein
+CCGELMGK_00928	CDS	192				hypothetical protein
+CCGELMGK_00929	CDS	702				hypothetical protein
+CCGELMGK_00930	CDS	822				hypothetical protein
+CCGELMGK_00931	CDS	699				hypothetical protein
+CCGELMGK_00932	CDS	189				hypothetical protein
+CCGELMGK_00933	CDS	576				hypothetical protein
+CCGELMGK_00934	CDS	447				hypothetical protein
+CCGELMGK_00935	CDS	330				hypothetical protein
+CCGELMGK_00936	CDS	327	gdx			Guanidinium exporter
+CCGELMGK_00937	CDS	234				hypothetical protein
+CCGELMGK_00938	CDS	450				hypothetical protein
+CCGELMGK_00939	CDS	531				hypothetical protein
+CCGELMGK_00940	CDS	141				hypothetical protein
+CCGELMGK_00941	CDS	270	purQ	3.5.1.2		Phosphoribosylformylglycinamidine synthase subunit PurQ
+CCGELMGK_00942	CDS	717	purC_1	6.3.2.6	COG0152	Phosphoribosylaminoimidazole-succinocarboxamide synthase
+CCGELMGK_00943	CDS	126				hypothetical protein
+CCGELMGK_00944	CDS	708				hypothetical protein
+CCGELMGK_00945	CDS	831				hypothetical protein
+CCGELMGK_00946	CDS	426				hypothetical protein
+CCGELMGK_00947	CDS	369				hypothetical protein
+CCGELMGK_00948	CDS	384	ytrA		COG1725	HTH-type transcriptional repressor YtrA
+CCGELMGK_00949	CDS	741				hypothetical protein
+CCGELMGK_00950	CDS	846	btuD	7.6.2.8		Vitamin B12 import ATP-binding protein BtuD
+CCGELMGK_00951	CDS	309	ung_1	3.2.2.27	COG0692	Uracil-DNA glycosylase
+CCGELMGK_00952	CDS	246				hypothetical protein
+CCGELMGK_00953	CDS	222				hypothetical protein
+CCGELMGK_00954	CDS	309				hypothetical protein
+CCGELMGK_00955	CDS	246				hypothetical protein
+CCGELMGK_00956	CDS	234				hypothetical protein
+CCGELMGK_00957	CDS	258				hypothetical protein
+CCGELMGK_00958	CDS	1290				hypothetical protein
+CCGELMGK_00959	CDS	423				hypothetical protein
+CCGELMGK_00960	CDS	597				hypothetical protein
+CCGELMGK_00961	CDS	222				hypothetical protein
+CCGELMGK_00962	CDS	216				hypothetical protein
+CCGELMGK_00963	CDS	1170				hypothetical protein
+CCGELMGK_00964	CDS	600				hypothetical protein
+CCGELMGK_00965	CDS	639				hypothetical protein
+CCGELMGK_00966	CDS	669	ligA	6.5.1.2		DNA ligase
+CCGELMGK_00967	CDS	384				hypothetical protein
+CCGELMGK_00968	CDS	363				hypothetical protein
+CCGELMGK_00969	CDS	1275				hypothetical protein
+CCGELMGK_00970	CDS	213				hypothetical protein
+CCGELMGK_00971	CDS	1077				hypothetical protein
+CCGELMGK_00972	CDS	897	yidC_2			Membrane protein insertase YidC
+CCGELMGK_00973	CDS	285				hypothetical protein
+CCGELMGK_00974	CDS	252				hypothetical protein
+CCGELMGK_00975	CDS	180				hypothetical protein
+CCGELMGK_00976	CDS	600				hypothetical protein
+CCGELMGK_00977	CDS	252				hypothetical protein
+CCGELMGK_00978	CDS	774				hypothetical protein
+CCGELMGK_00979	rRNA	109				5S ribosomal RNA
+CCGELMGK_00980	CDS	216				hypothetical protein
+CCGELMGK_00981	CDS	834				hypothetical protein
+CCGELMGK_00982	CDS	684				hypothetical protein
+CCGELMGK_00983	CDS	144				hypothetical protein
+CCGELMGK_00984	CDS	243				hypothetical protein
+CCGELMGK_00985	CDS	573				hypothetical protein
+CCGELMGK_00986	CDS	429				hypothetical protein
+CCGELMGK_00987	CDS	216				hypothetical protein
+CCGELMGK_00988	CDS	771				hypothetical protein
+CCGELMGK_00989	CDS	435				hypothetical protein
+CCGELMGK_00990	CDS	294				hypothetical protein
+CCGELMGK_00991	CDS	1410				hypothetical protein
+CCGELMGK_00992	CDS	387	dksA			RNA polymerase-binding transcription factor DksA
+CCGELMGK_00993	CDS	474				hypothetical protein
+CCGELMGK_00994	CDS	1107				hypothetical protein
+CCGELMGK_00995	CDS	666	psd	4.1.1.65		Phosphatidylserine decarboxylase proenzyme
+CCGELMGK_00996	CDS	381				hypothetical protein
+CCGELMGK_00997	CDS	876	wbnK	2.4.1.308		O-antigen biosynthesis glycosyltransferase WbnK
+CCGELMGK_00998	CDS	363				hypothetical protein
+CCGELMGK_00999	CDS	264				hypothetical protein
+CCGELMGK_01000	CDS	633				hypothetical protein
+CCGELMGK_01001	CDS	852				hypothetical protein
+CCGELMGK_01002	CDS	702	crp		COG0664	CRP-like cAMP-activated global transcriptional regulator
+CCGELMGK_01003	CDS	600				hypothetical protein
+CCGELMGK_01004	CDS	159				hypothetical protein
+CCGELMGK_01005	CDS	888	mdtA_2			Multidrug resistance protein MdtA
+CCGELMGK_01006	CDS	522				hypothetical protein
+CCGELMGK_01007	CDS	198				hypothetical protein
+CCGELMGK_01008	CDS	513				hypothetical protein
+CCGELMGK_01009	CDS	486				hypothetical protein
+CCGELMGK_01010	CDS	180				hypothetical protein
+CCGELMGK_01011	CDS	1167	dinG	3.1.-.-		3'-5' exonuclease DinG
+CCGELMGK_01012	CDS	273				hypothetical protein
+CCGELMGK_01013	CDS	558				hypothetical protein
+CCGELMGK_01014	CDS	531				hypothetical protein
+CCGELMGK_01015	CDS	144				hypothetical protein
+CCGELMGK_01016	CDS	924				hypothetical protein
+CCGELMGK_01017	CDS	714				hypothetical protein
+CCGELMGK_01018	CDS	1365				hypothetical protein
+CCGELMGK_01019	CDS	411				hypothetical protein
+CCGELMGK_01020	CDS	1611				hypothetical protein
+CCGELMGK_01021	CDS	204				hypothetical protein
+CCGELMGK_01022	CDS	696				hypothetical protein
+CCGELMGK_01023	CDS	627				hypothetical protein
+CCGELMGK_01024	CDS	678				hypothetical protein
+CCGELMGK_01025	CDS	1353				hypothetical protein
+CCGELMGK_01026	CDS	255				hypothetical protein
+CCGELMGK_01027	CDS	249				hypothetical protein
+CCGELMGK_01028	CDS	768				hypothetical protein
+CCGELMGK_01029	CDS	912	ppx2	3.6.1.11	COG0248	Exopolyphosphatase 2
+CCGELMGK_01030	CDS	927	Int-Tn			Transposase from transposon Tn916
+CCGELMGK_01031	CDS	825				hypothetical protein
+CCGELMGK_01032	CDS	1005				hypothetical protein
+CCGELMGK_01033	CDS	390				hypothetical protein
+CCGELMGK_01034	CDS	315				hypothetical protein
+CCGELMGK_01035	CDS	105				hypothetical protein
+CCGELMGK_01036	CDS	477				hypothetical protein
+CCGELMGK_01037	CDS	426				hypothetical protein
+CCGELMGK_01038	CDS	348				hypothetical protein
+CCGELMGK_01039	CDS	489				hypothetical protein
+CCGELMGK_01040	CDS	507				hypothetical protein
+CCGELMGK_01041	CDS	381				hypothetical protein
+CCGELMGK_01042	CDS	303				hypothetical protein
+CCGELMGK_01043	CDS	318				hypothetical protein
+CCGELMGK_01044	CDS	267				hypothetical protein
+CCGELMGK_01045	CDS	180				hypothetical protein
+CCGELMGK_01046	CDS	204				hypothetical protein
+CCGELMGK_01047	CDS	264				hypothetical protein
+CCGELMGK_01048	CDS	213				hypothetical protein
+CCGELMGK_01049	tRNA	86				tRNA-Ser(tga)
+CCGELMGK_01050	CDS	591				hypothetical protein
+CCGELMGK_01051	CDS	882	ftsX		COG2177	Cell division protein FtsX
+CCGELMGK_01052	CDS	1011				hypothetical protein
+CCGELMGK_01053	CDS	468				hypothetical protein
+CCGELMGK_01054	CDS	984				hypothetical protein
+CCGELMGK_01055	CDS	717				hypothetical protein
+CCGELMGK_01056	CDS	225				hypothetical protein
+CCGELMGK_01057	CDS	1032				hypothetical protein
+CCGELMGK_01058	CDS	483	yafP	2.3.1.-	COG0454	putative N-acetyltransferase YafP
+CCGELMGK_01059	CDS	438				hypothetical protein
+CCGELMGK_01060	CDS	381				hypothetical protein
+CCGELMGK_01061	CDS	300				hypothetical protein
+CCGELMGK_01062	CDS	483				hypothetical protein
+CCGELMGK_01063	CDS	528	kdd	1.4.1.11		L-erythro-3,5-diaminohexanoate dehydrogenase
+CCGELMGK_01064	CDS	822				hypothetical protein
+CCGELMGK_01065	CDS	477				hypothetical protein
+CCGELMGK_01066	CDS	600				hypothetical protein
+CCGELMGK_01067	CDS	297				hypothetical protein
+CCGELMGK_01068	CDS	315				hypothetical protein
+CCGELMGK_01069	CDS	327				hypothetical protein
+CCGELMGK_01070	CDS	906	gtfA	2.4.1.-		UDP-N-acetylglucosamine--peptide N-acetylglucosaminyltransferase GtfA subunit
+CCGELMGK_01071	CDS	189				hypothetical protein
+CCGELMGK_01072	CDS	1398				hypothetical protein
+CCGELMGK_01073	CDS	1731				hypothetical protein
+CCGELMGK_01074	tRNA	75				tRNA-Arg(tct)
+CCGELMGK_01075	CDS	759				hypothetical protein
+CCGELMGK_01076	CDS	336				hypothetical protein
+CCGELMGK_01077	CDS	684				hypothetical protein
+CCGELMGK_01078	CDS	471				hypothetical protein
+CCGELMGK_01079	CDS	735				hypothetical protein
+CCGELMGK_01080	CDS	366				hypothetical protein
+CCGELMGK_01081	CDS	921				hypothetical protein
+CCGELMGK_01082	CDS	1233				hypothetical protein
+CCGELMGK_01083	CDS	924	bglA_1	3.2.1.73		Beta-glucanase
+CCGELMGK_01084	CDS	276				hypothetical protein
+CCGELMGK_01085	CDS	177				hypothetical protein
+CCGELMGK_01086	CDS	324				hypothetical protein
+CCGELMGK_01087	CDS	996				hypothetical protein
+CCGELMGK_01088	CDS	483				hypothetical protein
+CCGELMGK_01089	CDS	90				hypothetical protein
+CCGELMGK_01090	CDS	201				hypothetical protein
+CCGELMGK_01091	CDS	135				hypothetical protein
+CCGELMGK_01092	CDS	621				hypothetical protein
+CCGELMGK_01093	CDS	420				hypothetical protein
+CCGELMGK_01094	CDS	204				hypothetical protein
+CCGELMGK_01095	CDS	411				hypothetical protein
+CCGELMGK_01096	CDS	246				hypothetical protein
+CCGELMGK_01097	CDS	1299				hypothetical protein
+CCGELMGK_01098	CDS	603				hypothetical protein
+CCGELMGK_01099	CDS	942				hypothetical protein
+CCGELMGK_01100	CDS	1656				hypothetical protein
+CCGELMGK_01101	CDS	174				hypothetical protein
+CCGELMGK_01102	CDS	378				hypothetical protein
+CCGELMGK_01103	CDS	606				hypothetical protein
+CCGELMGK_01104	CDS	489				hypothetical protein
+CCGELMGK_01105	CDS	240				hypothetical protein
+CCGELMGK_01106	CDS	246				hypothetical protein
+CCGELMGK_01107	CDS	519				hypothetical protein
+CCGELMGK_01108	CDS	663				hypothetical protein
+CCGELMGK_01109	CDS	174				hypothetical protein
+CCGELMGK_01110	CDS	1077				hypothetical protein
+CCGELMGK_01111	CDS	480				hypothetical protein
+CCGELMGK_01112	CDS	531				hypothetical protein
+CCGELMGK_01113	CDS	489				hypothetical protein
+CCGELMGK_01114	CDS	408		3.1.2.28		1,4-dihydroxy-2-naphthoyl-CoA hydrolase
+CCGELMGK_01115	CDS	1245	xerC_7			Tyrosine recombinase XerC
+CCGELMGK_01116	CDS	138				hypothetical protein
+CCGELMGK_01117	CDS	1008	proS	6.1.1.15	COG0442	Proline--tRNA ligase
+CCGELMGK_01118	CDS	573				hypothetical protein
+CCGELMGK_01119	CDS	957				hypothetical protein
+CCGELMGK_01120	CDS	234	rhlE	3.6.4.13	COG0513	ATP-dependent RNA helicase RhlE
+CCGELMGK_01121	CDS	441				hypothetical protein
+CCGELMGK_01122	CDS	1011				hypothetical protein
+CCGELMGK_01123	CDS	822				hypothetical protein
+CCGELMGK_01124	CDS	849				hypothetical protein
+CCGELMGK_01125	CDS	330				hypothetical protein
+CCGELMGK_01126	CDS	477				hypothetical protein
+CCGELMGK_01127	tRNA	77				tRNA-Pro(cgg)
+CCGELMGK_01128	CDS	585				hypothetical protein
+CCGELMGK_01129	CDS	498				hypothetical protein
+CCGELMGK_01130	CDS	279				hypothetical protein
+CCGELMGK_01131	CDS	291	hup_1			DNA-binding protein HU
+CCGELMGK_01132	CDS	105				hypothetical protein
+CCGELMGK_01133	CDS	747	fbiB	6.3.2.34		Bifunctional F420 biosynthesis protein FbiB
+CCGELMGK_01134	CDS	741	resA_3			Thiol-disulfide oxidoreductase ResA
+CCGELMGK_01135	CDS	375				hypothetical protein
+CCGELMGK_01136	CDS	432	mutS_2			DNA mismatch repair protein MutS
+CCGELMGK_01137	CDS	162	rnhB_2			Ribonuclease HII
+CCGELMGK_01138	CDS	255	rny	3.1.-.-	COG1418	Ribonuclease Y
+CCGELMGK_01139	CDS	588				hypothetical protein
+CCGELMGK_01140	CDS	396				hypothetical protein
+CCGELMGK_01141	CDS	408				hypothetical protein
+CCGELMGK_01142	CDS	1119				hypothetical protein
+CCGELMGK_01143	CDS	804				hypothetical protein
+CCGELMGK_01144	CDS	531				hypothetical protein
+CCGELMGK_01145	CDS	453				hypothetical protein
+CCGELMGK_01146	CDS	618				TonB-dependent receptor P26
+CCGELMGK_01147	CDS	534				hypothetical protein
+CCGELMGK_01148	CDS	567				hypothetical protein
+CCGELMGK_01149	CDS	441				hypothetical protein
+CCGELMGK_01150	CDS	714				hypothetical protein
+CCGELMGK_01151	CDS	447	ybeY_1	3.1.-.-		Endoribonuclease YbeY
+CCGELMGK_01152	CDS	438				hypothetical protein
+CCGELMGK_01153	CDS	156				hypothetical protein
+CCGELMGK_01154	CDS	597				hypothetical protein
+CCGELMGK_01155	CDS	171				hypothetical protein
+CCGELMGK_01156	CDS	267				hypothetical protein
+CCGELMGK_01157	CDS	387				hypothetical protein
+CCGELMGK_01158	CDS	663				hypothetical protein
+CCGELMGK_01159	CDS	291	rcsC_1	2.7.13.3		Sensor histidine kinase RcsC
+CCGELMGK_01160	CDS	321				hypothetical protein
+CCGELMGK_01161	CDS	132				hypothetical protein
+CCGELMGK_01162	CDS	243				hypothetical protein
+CCGELMGK_01163	CDS	381				hypothetical protein
+CCGELMGK_01164	CDS	153				hypothetical protein
+CCGELMGK_01165	CDS	342				hypothetical protein
+CCGELMGK_01166	CDS	489				hypothetical protein
+CCGELMGK_01167	CDS	657				hypothetical protein
+CCGELMGK_01168	CDS	378				hypothetical protein
+CCGELMGK_01169	CDS	246				hypothetical protein
+CCGELMGK_01170	CDS	495				hypothetical protein
+CCGELMGK_01171	CDS	615				hypothetical protein
+CCGELMGK_01172	CDS	414				hypothetical protein
+CCGELMGK_01173	CDS	1401	xerC_8			Tyrosine recombinase XerC
+CCGELMGK_01174	CDS	381				hypothetical protein
+CCGELMGK_01175	CDS	579				hypothetical protein
+CCGELMGK_01176	CDS	456				hypothetical protein
+CCGELMGK_01177	CDS	288				hypothetical protein
+CCGELMGK_01178	CDS	756				hypothetical protein
+CCGELMGK_01179	CDS	426				hypothetical protein
+CCGELMGK_01180	CDS	381				hypothetical protein
+CCGELMGK_01181	CDS	441				hypothetical protein
+CCGELMGK_01182	CDS	156				hypothetical protein
+CCGELMGK_01183	CDS	210				hypothetical protein
+CCGELMGK_01184	CDS	507	gmhB	3.1.3.83		D-glycero-alpha-D-manno-heptose-1,7-bisphosphate 7-phosphatase
+CCGELMGK_01185	CDS	570	gmhA	5.3.1.28	COG0279	Phosphoheptose isomerase
+CCGELMGK_01186	CDS	603				hypothetical protein
+CCGELMGK_01187	CDS	195				hypothetical protein
+CCGELMGK_01188	CDS	246				hypothetical protein
+CCGELMGK_01189	CDS	642	mkl		COG1127	putative ribonucleotide transport ATP-binding protein mkl
+CCGELMGK_01190	CDS	723				hypothetical protein
+CCGELMGK_01191	CDS	180				hypothetical protein
+CCGELMGK_01192	CDS	402				hypothetical protein
+CCGELMGK_01193	CDS	666				hypothetical protein
+CCGELMGK_01194	CDS	438				hypothetical protein
+CCGELMGK_01195	CDS	1650				hypothetical protein
+CCGELMGK_01196	CDS	1404				hypothetical protein
+CCGELMGK_01197	CDS	177				hypothetical protein
+CCGELMGK_01198	CDS	798				hypothetical protein
+CCGELMGK_01199	CDS	636				hypothetical protein
+CCGELMGK_01200	CDS	186				hypothetical protein
+CCGELMGK_01201	CDS	333				hypothetical protein
+CCGELMGK_01202	CDS	348				hypothetical protein
+CCGELMGK_01203	CDS	243				hypothetical protein
+CCGELMGK_01204	CDS	252				hypothetical protein
+CCGELMGK_01205	CDS	504				hypothetical protein
+CCGELMGK_01206	CDS	339	cidA			Holin-like protein CidA
+CCGELMGK_01207	CDS	186				hypothetical protein
+CCGELMGK_01208	CDS	924	carA	6.3.5.5		Carbamoyl-phosphate synthase small chain
+CCGELMGK_01209	CDS	333				hypothetical protein
+CCGELMGK_01210	CDS	642				hypothetical protein
+CCGELMGK_01211	CDS	282				hypothetical protein
+CCGELMGK_01212	CDS	285				hypothetical protein
+CCGELMGK_01213	CDS	711				hypothetical protein
+CCGELMGK_01214	CDS	540				hypothetical protein
+CCGELMGK_01215	CDS	507				hypothetical protein
+CCGELMGK_01216	CDS	879	dnaG_1	2.7.7.-		DNA primase
+CCGELMGK_01217	CDS	378				hypothetical protein
+CCGELMGK_01218	CDS	606	pinR_2	3.1.22.-	COG1961	Serine recombinase PinR
+CCGELMGK_01219	CDS	186				hypothetical protein
+CCGELMGK_01220	CDS	267				hypothetical protein
+CCGELMGK_01221	CDS	1818	ltrA_1		COG3344	Group II intron-encoded protein LtrA
+CCGELMGK_01222	CDS	2259				hypothetical protein
+CCGELMGK_01223	CDS	1017				hypothetical protein
+CCGELMGK_01224	CDS	750	nedA	3.2.1.18		Sialidase
+CCGELMGK_01225	CDS	1650	dnaE_1	2.7.7.7	COG0587	DNA polymerase III subunit alpha
+CCGELMGK_01226	CDS	555				hypothetical protein
+CCGELMGK_01227	CDS	726				hypothetical protein
+CCGELMGK_01228	CDS	375				hypothetical protein
+CCGELMGK_01229	CDS	399				hypothetical protein
+CCGELMGK_01230	CDS	189				hypothetical protein
+CCGELMGK_01231	CDS	672	epsF		COG1459	Type II secretion system protein F
+CCGELMGK_01232	CDS	972				hypothetical protein
+CCGELMGK_01233	CDS	588				hypothetical protein
+CCGELMGK_01234	CDS	354				hypothetical protein
+CCGELMGK_01235	rRNA	1509				16S ribosomal RNA
+CCGELMGK_01236	tRNA	76				tRNA-Ala(tgc)
+CCGELMGK_01237	tRNA	77				tRNA-Ile(gat)
+CCGELMGK_01238	rRNA	2831				23S ribosomal RNA
+CCGELMGK_01239	rRNA	108				5S ribosomal RNA
+CCGELMGK_01240	CDS	135				hypothetical protein
+CCGELMGK_01241	CDS	813	pgcA	5.4.2.2		Phosphoglucomutase
+CCGELMGK_01242	CDS	234				hypothetical protein
+CCGELMGK_01243	CDS	1008				IS110 family transposase ISCaa7
+CCGELMGK_01244	CDS	396				hypothetical protein
+CCGELMGK_01245	CDS	609	pinR_3	3.1.22.-	COG1961	Serine recombinase PinR
+CCGELMGK_01246	CDS	132				hypothetical protein
+CCGELMGK_01247	CDS	507				hypothetical protein
+CCGELMGK_01248	CDS	387				hypothetical protein
+CCGELMGK_01249	CDS	321				hypothetical protein
+CCGELMGK_01250	CDS	189				hypothetical protein
+CCGELMGK_01251	CDS	231				hypothetical protein
+CCGELMGK_01252	CDS	558				hypothetical protein
+CCGELMGK_01253	CDS	222				hypothetical protein
+CCGELMGK_01254	CDS	1431				hypothetical protein
+CCGELMGK_01255	CDS	645				hypothetical protein
+CCGELMGK_01256	CDS	1284	relA	2.7.6.5	COG0317	GTP pyrophosphokinase
+CCGELMGK_01257	CDS	318				hypothetical protein
+CCGELMGK_01258	CDS	387			COG0537	putative HIT-like protein
+CCGELMGK_01259	CDS	192				hypothetical protein
+CCGELMGK_01260	CDS	342				hypothetical protein
+CCGELMGK_01261	CDS	201	rbr3B_1	1.11.1.1	COG1592	Reverse rubrerythrin-2
+CCGELMGK_01262	CDS	330	rbr3B_2	1.11.1.1	COG1592	Reverse rubrerythrin-2
+CCGELMGK_01263	CDS	1128	mshA_1	2.4.1.250		D-inositol-3-phosphate glycosyltransferase
+CCGELMGK_01264	CDS	684				hypothetical protein
+CCGELMGK_01265	CDS	258				hypothetical protein
+CCGELMGK_01266	CDS	282	sdhA	4.3.1.17		L-serine dehydratase, alpha chain
+CCGELMGK_01267	tRNA	77				tRNA-Arg(acg)
+CCGELMGK_01268	CDS	813	xerC_9			Tyrosine recombinase XerC
+CCGELMGK_01269	CDS	663				hypothetical protein
+CCGELMGK_01270	CDS	879				hypothetical protein
+CCGELMGK_01271	CDS	603	cnrH			RNA polymerase sigma factor CnrH
+CCGELMGK_01272	CDS	1173				hypothetical protein
+CCGELMGK_01273	CDS	447				hypothetical protein
+CCGELMGK_01274	CDS	582				hypothetical protein
+CCGELMGK_01275	CDS	294				hypothetical protein
+CCGELMGK_01276	CDS	1101				hypothetical protein
+CCGELMGK_01277	CDS	825	wbbL	2.4.1.289	COG1216	N-acetylglucosaminyl-diphospho-decaprenol L-rhamnosyltransferase
+CCGELMGK_01278	CDS	2223				hypothetical protein
+CCGELMGK_01279	CDS	1044				hypothetical protein
+CCGELMGK_01280	CDS	519				hypothetical protein
+CCGELMGK_01281	CDS	597				hypothetical protein
+CCGELMGK_01282	CDS	270	groS1		COG0234	10 kDa chaperonin 1
+CCGELMGK_01283	tRNA	75				tRNA-His(gtg)
+CCGELMGK_01284	CDS	297	eno_2	4.2.1.11	COG0148	Enolase
+CCGELMGK_01285	CDS	330				hypothetical protein
+CCGELMGK_01286	CDS	1278				hypothetical protein
+CCGELMGK_01287	CDS	327				hypothetical protein
+CCGELMGK_01288	tRNA	73				tRNA-Arg(cct)
+CCGELMGK_01289	CDS	396	corA_1		COG0598	Magnesium transport protein CorA
+CCGELMGK_01290	CDS	723				hypothetical protein
+CCGELMGK_01291	CDS	588				hypothetical protein
+CCGELMGK_01292	CDS	156				hypothetical protein
+CCGELMGK_01293	CDS	1107	ybhS		COG0842	putative multidrug ABC transporter permease YbhS
+CCGELMGK_01294	CDS	420				hypothetical protein
+CCGELMGK_01295	CDS	234				hypothetical protein
+CCGELMGK_01296	CDS	540				hypothetical protein
+CCGELMGK_01297	CDS	1374				hypothetical protein
+CCGELMGK_01298	CDS	645				hypothetical protein
+CCGELMGK_01299	CDS	204				hypothetical protein
+CCGELMGK_01300	CDS	177				hypothetical protein
+CCGELMGK_01301	CDS	780	pstB	7.3.2.1	COG1117	Phosphate import ATP-binding protein PstB
+CCGELMGK_01302	CDS	264				hypothetical protein
+CCGELMGK_01303	CDS	528	xerC_10			Tyrosine recombinase XerC
+CCGELMGK_01304	CDS	546	kdsC	3.1.3.45	COG1778	3-deoxy-D-manno-octulosonate 8-phosphate phosphatase KdsC
+CCGELMGK_01305	CDS	2013				hypothetical protein
+CCGELMGK_01306	CDS	438				hypothetical protein
+CCGELMGK_01307	CDS	1008	rcsC_2	2.7.13.3		Sensor histidine kinase RcsC
+CCGELMGK_01308	CDS	531				hypothetical protein
+CCGELMGK_01309	CDS	165				hypothetical protein
+CCGELMGK_01310	CDS	1296				hypothetical protein
+CCGELMGK_01311	CDS	219				hypothetical protein
+CCGELMGK_01312	CDS	336				hypothetical protein
+CCGELMGK_01313	CDS	603				hypothetical protein
+CCGELMGK_01314	CDS	210				hypothetical protein
+CCGELMGK_01315	CDS	2148	uvrB			UvrABC system protein B
+CCGELMGK_01316	CDS	645				hypothetical protein
+CCGELMGK_01317	CDS	654				hypothetical protein
+CCGELMGK_01318	CDS	468	cdsA	2.7.7.41	COG0575	Phosphatidate cytidylyltransferase
+CCGELMGK_01319	CDS	339				hypothetical protein
+CCGELMGK_01320	CDS	273				hypothetical protein
+CCGELMGK_01321	CDS	237	acpA		COG0236	Acyl carrier protein
+CCGELMGK_01322	CDS	480				hypothetical protein
+CCGELMGK_01323	CDS	801				hypothetical protein
+CCGELMGK_01324	CDS	429				hypothetical protein
+CCGELMGK_01325	CDS	477	mscS		COG0668	Small-conductance mechanosensitive channel
+CCGELMGK_01326	CDS	675				hypothetical protein
+CCGELMGK_01327	CDS	561				hypothetical protein
+CCGELMGK_01328	CDS	360				hypothetical protein
+CCGELMGK_01329	CDS	639	ybhR		COG0842	putative multidrug ABC transporter permease YbhR
+CCGELMGK_01330	tRNA	75				tRNA-Arg(ccg)
+CCGELMGK_01331	CDS	117				hypothetical protein
+CCGELMGK_01332	CDS	375	yidC_3			Membrane protein insertase YidC
+CCGELMGK_01333	CDS	495	proX		COG3760	Prolyl-tRNA editing protein ProX
+CCGELMGK_01334	CDS	396	rlmI	2.1.1.191	COG1092	Ribosomal RNA large subunit methyltransferase I
+CCGELMGK_01335	CDS	315				hypothetical protein
+CCGELMGK_01336	CDS	210				hypothetical protein
+CCGELMGK_01337	CDS	219				hypothetical protein
+CCGELMGK_01338	CDS	222				hypothetical protein
+CCGELMGK_01339	CDS	1356	xerC_11			Tyrosine recombinase XerC
+CCGELMGK_01340	CDS	678				hypothetical protein
+CCGELMGK_01341	CDS	438				hypothetical protein
+CCGELMGK_01342	CDS	861				hypothetical protein
+CCGELMGK_01343	CDS	345				hypothetical protein
+CCGELMGK_01344	CDS	858				hypothetical protein
+CCGELMGK_01345	CDS	450				hypothetical protein
+CCGELMGK_01346	CDS	453				hypothetical protein
+CCGELMGK_01347	CDS	375				hypothetical protein
+CCGELMGK_01348	CDS	684				hypothetical protein
+CCGELMGK_01349	CDS	258				hypothetical protein
+CCGELMGK_01350	CDS	519				hypothetical protein
+CCGELMGK_01351	CDS	330				hypothetical protein
+CCGELMGK_01352	CDS	1533				hypothetical protein
+CCGELMGK_01353	CDS	747				hypothetical protein
+CCGELMGK_01354	CDS	339				hypothetical protein
+CCGELMGK_01355	CDS	912	rhaR_4			HTH-type transcriptional activator RhaR
+CCGELMGK_01356	rRNA	1017				23S ribosomal RNA (partial)
+CCGELMGK_01357	CDS	876	insK		COG2801	Putative transposase InsK for insertion sequence element IS150
+CCGELMGK_01358	CDS	228	gdhA	1.4.1.3		NAD(P)-specific glutamate dehydrogenase
+CCGELMGK_01359	CDS	546				hypothetical protein
+CCGELMGK_01360	CDS	186				hypothetical protein
+CCGELMGK_01361	CDS	411				hypothetical protein
+CCGELMGK_01362	CDS	525	yhcG_1	3.1.-.-	COG4804	Putative nuclease YhcG
+CCGELMGK_01363	CDS	567				hypothetical protein
+CCGELMGK_01364	CDS	372	yciO		COG0009	putative protein YciO
+CCGELMGK_01365	CDS	1122				hypothetical protein
+CCGELMGK_01366	CDS	441				hypothetical protein
+CCGELMGK_01367	CDS	132				hypothetical protein
+CCGELMGK_01368	CDS	1881				hypothetical protein
+CCGELMGK_01369	CDS	231				hypothetical protein
+CCGELMGK_01370	CDS	141				hypothetical protein
+CCGELMGK_01371	CDS	378				hypothetical protein
+CCGELMGK_01372	CDS	219				hypothetical protein
+CCGELMGK_01373	CDS	510				hypothetical protein
+CCGELMGK_01374	CDS	195				hypothetical protein
+CCGELMGK_01375	CDS	165	ybdM_1		COG1475	putative protein YbdM
+CCGELMGK_01376	CDS	435				hypothetical protein
+CCGELMGK_01377	CDS	351				hypothetical protein
+CCGELMGK_01378	CDS	336				hypothetical protein
+CCGELMGK_01379	CDS	570				hypothetical protein
+CCGELMGK_01380	CDS	846				hypothetical protein
+CCGELMGK_01381	CDS	345	cnrA			Nickel and cobalt resistance protein CnrA
+CCGELMGK_01382	CDS	441				hypothetical protein
+CCGELMGK_01383	CDS	1284				hypothetical protein
+CCGELMGK_01384	CDS	384				hypothetical protein
+CCGELMGK_01385	CDS	525	apt	2.4.2.7		Adenine phosphoribosyltransferase
+CCGELMGK_01386	CDS	930	mnmG_2		COG0445	tRNA uridine 5-carboxymethylaminomethyl modification enzyme MnmG
+CCGELMGK_01387	CDS	561				hypothetical protein
+CCGELMGK_01388	CDS	618	baiN	1.3.1.114	COG2081	3-dehydro-bile acid delta(4,6)-reductase
+CCGELMGK_01389	CDS	327				hypothetical protein
+CCGELMGK_01390	CDS	483				hypothetical protein
+CCGELMGK_01391	CDS	474				hypothetical protein
+CCGELMGK_01392	CDS	885	rhaS_3			HTH-type transcriptional activator RhaS
+CCGELMGK_01393	CDS	720	pfp	2.7.1.90	COG0205	Pyrophosphate--fructose 6-phosphate 1-phosphotransferase
+CCGELMGK_01394	CDS	609				hypothetical protein
+CCGELMGK_01395	CDS	177				hypothetical protein
+CCGELMGK_01396	CDS	276				hypothetical protein
+CCGELMGK_01397	CDS	510				hypothetical protein
+CCGELMGK_01398	CDS	951				hypothetical protein
+CCGELMGK_01399	CDS	171	efp		COG0231	Elongation factor P
+CCGELMGK_01400	CDS	942	bglA_2	3.2.1.73		Beta-glucanase
+CCGELMGK_01401	CDS	324				hypothetical protein
+CCGELMGK_01402	rRNA	2457				23S ribosomal RNA (partial)
+CCGELMGK_01403	tRNA	75				tRNA-Ala(tgc)
+CCGELMGK_01404	tRNA	75				tRNA-Ile(gat)
+CCGELMGK_01405	CDS	156				hypothetical protein
+CCGELMGK_01406	CDS	294				hypothetical protein
+CCGELMGK_01407	CDS	243				hypothetical protein
+CCGELMGK_01408	CDS	687				hypothetical protein
+CCGELMGK_01409	CDS	273				hypothetical protein
+CCGELMGK_01410	CDS	576				hypothetical protein
+CCGELMGK_01411	CDS	1017				hypothetical protein
+CCGELMGK_01412	CDS	447				hypothetical protein
+CCGELMGK_01413	CDS	468				hypothetical protein
+CCGELMGK_01414	CDS	504				hypothetical protein
+CCGELMGK_01415	CDS	291				hypothetical protein
+CCGELMGK_01416	CDS	231				hypothetical protein
+CCGELMGK_01417	CDS	348				hypothetical protein
+CCGELMGK_01418	CDS	483				hypothetical protein
+CCGELMGK_01419	CDS	369	ktrB			Ktr system potassium uptake protein B
+CCGELMGK_01420	CDS	354				hypothetical protein
+CCGELMGK_01421	CDS	342				hypothetical protein
+CCGELMGK_01422	CDS	516				hypothetical protein
+CCGELMGK_01423	CDS	330				hypothetical protein
+CCGELMGK_01424	CDS	462				hypothetical protein
+CCGELMGK_01425	CDS	618				hypothetical protein
+CCGELMGK_01426	CDS	210				hypothetical protein
+CCGELMGK_01427	CDS	264				hypothetical protein
+CCGELMGK_01428	CDS	198				hypothetical protein
+CCGELMGK_01429	CDS	1038				hypothetical protein
+CCGELMGK_01430	CDS	837	algC	5.4.2.2	COG1109	Phosphomannomutase/phosphoglucomutase
+CCGELMGK_01431	CDS	243				hypothetical protein
+CCGELMGK_01432	CDS	438				hypothetical protein
+CCGELMGK_01433	CDS	615				hypothetical protein
+CCGELMGK_01434	CDS	288				hypothetical protein
+CCGELMGK_01435	CDS	432	dut	3.6.1.23		Deoxyuridine 5'-triphosphate nucleotidohydrolase
+CCGELMGK_01436	CDS	123				hypothetical protein
+CCGELMGK_01437	CDS	1095				hypothetical protein
+CCGELMGK_01438	CDS	315				hypothetical protein
+CCGELMGK_01439	CDS	207				hypothetical protein
+CCGELMGK_01440	CDS	420				hypothetical protein
+CCGELMGK_01441	CDS	417				hypothetical protein
+CCGELMGK_01442	CDS	1155				hypothetical protein
+CCGELMGK_01443	CDS	498	nqrA	7.2.1.1	COG1726	Na(+)-translocating NADH-quinone reductase subunit A
+CCGELMGK_01444	CDS	609				hypothetical protein
+CCGELMGK_01445	CDS	249	yhgF		COG2183	Protein YhgF
+CCGELMGK_01446	CDS	801	tam	2.1.1.144		Trans-aconitate 2-methyltransferase
+CCGELMGK_01447	CDS	360				hypothetical protein
+CCGELMGK_01448	CDS	195				hypothetical protein
+CCGELMGK_01449	CDS	732				hypothetical protein
+CCGELMGK_01450	CDS	675				hypothetical protein
+CCGELMGK_01451	CDS	753				hypothetical protein
+CCGELMGK_01452	CDS	246				hypothetical protein
+CCGELMGK_01453	CDS	444				hypothetical protein
+CCGELMGK_01454	CDS	2313				hypothetical protein
+CCGELMGK_01455	tRNA	76				tRNA-Lys(ttt)
+CCGELMGK_01456	CDS	126				hypothetical protein
+CCGELMGK_01457	CDS	1077				hypothetical protein
+CCGELMGK_01458	CDS	1617				hypothetical protein
+CCGELMGK_01459	CDS	615				hypothetical protein
+CCGELMGK_01460	CDS	483				TonB-dependent receptor P26
+CCGELMGK_01461	CDS	1098	aplIM	2.1.1.37	COG0270	Modification methylase AplI
+CCGELMGK_01462	CDS	420	vsr	3.1.-.-	COG3727	Very short patch repair protein
+CCGELMGK_01463	CDS	840				hypothetical protein
+CCGELMGK_01464	CDS	930				hypothetical protein
+CCGELMGK_01465	CDS	450			COG2731	putative protein
+CCGELMGK_01466	CDS	279				hypothetical protein
+CCGELMGK_01467	CDS	549				hypothetical protein
+CCGELMGK_01468	CDS	504				hypothetical protein
+CCGELMGK_01469	CDS	534	fmt	2.1.2.9		Methionyl-tRNA formyltransferase
+CCGELMGK_01470	CDS	786				hypothetical protein
+CCGELMGK_01471	CDS	438				hypothetical protein
+CCGELMGK_01472	CDS	360				hypothetical protein
+CCGELMGK_01473	CDS	225				hypothetical protein
+CCGELMGK_01474	CDS	771				hypothetical protein
+CCGELMGK_01475	CDS	411	rplV		COG0091	50S ribosomal protein L22
+CCGELMGK_01476	CDS	270	rpsS		COG0185	30S ribosomal protein S19
+CCGELMGK_01477	CDS	912				hypothetical protein
+CCGELMGK_01478	CDS	411				hypothetical protein
+CCGELMGK_01479	CDS	948				hypothetical protein
+CCGELMGK_01480	CDS	492				hypothetical protein
+CCGELMGK_01481	CDS	1044	yhcG_2	3.1.-.-	COG4804	Putative nuclease YhcG
+CCGELMGK_01482	CDS	306				hypothetical protein
+CCGELMGK_01483	CDS	246				hypothetical protein
+CCGELMGK_01484	CDS	468	COQ5_1	2.1.1.163		2-methoxy-6-polyprenyl-1,4-benzoquinol methylase, mitochondrial
+CCGELMGK_01485	CDS	960	rhaR_5			HTH-type transcriptional activator RhaR
+CCGELMGK_01486	CDS	834	wbbD_1	2.4.1.303	COG0463	UDP-Gal:alpha-D-GlcNAc-diphosphoundecaprenol beta-1,3-galactosyltransferase
+CCGELMGK_01487	CDS	594	hpf			Ribosome hibernation promotion factor
+CCGELMGK_01488	tRNA	77				tRNA-Met(cat)
+CCGELMGK_01489	CDS	474				hypothetical protein
+CCGELMGK_01490	CDS	930	nqo4	7.1.1.-	COG0649	NADH-quinone oxidoreductase subunit 4
+CCGELMGK_01491	CDS	366				hypothetical protein
+CCGELMGK_01492	CDS	603				hypothetical protein
+CCGELMGK_01493	CDS	531	esiB			Secretory immunoglobulin A-binding protein EsiB
+CCGELMGK_01494	CDS	1026	pepD	3.4.13.18	COG2195	Cytosol non-specific dipeptidase
+CCGELMGK_01495	CDS	159				hypothetical protein
+CCGELMGK_01496	CDS	276				hypothetical protein
+CCGELMGK_01497	CDS	510				hypothetical protein
+CCGELMGK_01498	CDS	849				hypothetical protein
+CCGELMGK_01499	CDS	642				hypothetical protein
+CCGELMGK_01500	CDS	375				hypothetical protein
+CCGELMGK_01501	CDS	414				hypothetical protein
+CCGELMGK_01502	CDS	255				hypothetical protein
+CCGELMGK_01503	CDS	1002				hypothetical protein
+CCGELMGK_01504	CDS	978				hypothetical protein
+CCGELMGK_01505	CDS	849	aroE	1.1.1.25	COG0169	Shikimate dehydrogenase (NADP(+))
+CCGELMGK_01506	CDS	336				hypothetical protein
+CCGELMGK_01507	CDS	435				hypothetical protein
+CCGELMGK_01508	CDS	759				hypothetical protein
+CCGELMGK_01509	CDS	840				TonB-dependent receptor P39
+CCGELMGK_01510	CDS	495				hypothetical protein
+CCGELMGK_01511	CDS	1026				hypothetical protein
+CCGELMGK_01512	CDS	855				hypothetical protein
+CCGELMGK_01513	CDS	633				hypothetical protein
+CCGELMGK_01514	CDS	621	corC		COG4535	Magnesium and cobalt efflux protein CorC
+CCGELMGK_01515	CDS	927	rhaR_6			HTH-type transcriptional activator RhaR
+CCGELMGK_01516	CDS	285				hypothetical protein
+CCGELMGK_01517	CDS	522				hypothetical protein
+CCGELMGK_01518	CDS	186				hypothetical protein
+CCGELMGK_01519	CDS	969				hypothetical protein
+CCGELMGK_01520	CDS	666				hypothetical protein
+CCGELMGK_01521	CDS	123				hypothetical protein
+CCGELMGK_01522	CDS	1110				hypothetical protein
+CCGELMGK_01523	CDS	657	rhaR_7			HTH-type transcriptional activator RhaR
+CCGELMGK_01524	CDS	630				hypothetical protein
+CCGELMGK_01525	CDS	618				hypothetical protein
+CCGELMGK_01526	CDS	261				hypothetical protein
+CCGELMGK_01527	CDS	552			COG0488	putative ABC transporter ATP-binding protein
+CCGELMGK_01528	CDS	651				hypothetical protein
+CCGELMGK_01529	CDS	453				hypothetical protein
+CCGELMGK_01530	CDS	558				hypothetical protein
+CCGELMGK_01531	CDS	717	purC_2	6.3.2.6	COG0152	Phosphoribosylaminoimidazole-succinocarboxamide synthase
+CCGELMGK_01532	CDS	360				hypothetical protein
+CCGELMGK_01533	CDS	261				hypothetical protein
+CCGELMGK_01534	CDS	606				hypothetical protein
+CCGELMGK_01535	CDS	315				hypothetical protein
+CCGELMGK_01536	CDS	375				hypothetical protein
+CCGELMGK_01537	CDS	699				hypothetical protein
+CCGELMGK_01538	CDS	570				hypothetical protein
+CCGELMGK_01539	CDS	618				hypothetical protein
+CCGELMGK_01540	CDS	672	serS	6.1.1.11	COG0172	Serine--tRNA ligase
+CCGELMGK_01541	CDS	747				hypothetical protein
+CCGELMGK_01542	CDS	114				hypothetical protein
+CCGELMGK_01543	CDS	1074				hypothetical protein
+CCGELMGK_01544	CDS	507				hypothetical protein
+CCGELMGK_01545	CDS	1038	pglH	2.4.1.292	COG0438	GalNAc-alpha-(1->4)-GalNAc-alpha-(1->3)-diNAcBac-PP-undecaprenol alpha-1,4-N-acetyl-D-galactosaminyltransferase
+CCGELMGK_01546	CDS	822	wbbD_2	2.4.1.303	COG0463	UDP-Gal:alpha-D-GlcNAc-diphosphoundecaprenol beta-1,3-galactosyltransferase
+CCGELMGK_01547	CDS	609	pglC	2.7.8.36	COG2148	Undecaprenyl phosphate N,N'-diacetylbacillosamine 1-phosphate transferase
+CCGELMGK_01548	CDS	1140	epsN	2.6.1.-	COG0399	Putative pyridoxal phosphate-dependent aminotransferase EpsN
+CCGELMGK_01549	CDS	477				hypothetical protein
+CCGELMGK_01550	CDS	252				hypothetical protein
+CCGELMGK_01551	CDS	225				hypothetical protein
+CCGELMGK_01552	CDS	450				hypothetical protein
+CCGELMGK_01553	CDS	1032				hypothetical protein
+CCGELMGK_01554	CDS	96				hypothetical protein
+CCGELMGK_01555	CDS	843				hypothetical protein
+CCGELMGK_01556	CDS	849	btuB			Vitamin B12 transporter BtuB
+CCGELMGK_01557	CDS	633				hypothetical protein
+CCGELMGK_01558	CDS	465				hypothetical protein
+CCGELMGK_01559	CDS	504		3.1.6.-	COG3119	N-acetylglucosamine-6-O-sulfatase
+CCGELMGK_01560	CDS	1041				TonB-dependent receptor P3
+CCGELMGK_01561	CDS	858				hypothetical protein
+CCGELMGK_01562	CDS	390	perR_1		COG0735	Peroxide operon regulator
+CCGELMGK_01563	CDS	741				hypothetical protein
+CCGELMGK_01564	CDS	783				hypothetical protein
+CCGELMGK_01565	CDS	624				hypothetical protein
+CCGELMGK_01566	CDS	717	axeA1	3.1.1.72	COG0657	Acetylxylan esterase
+CCGELMGK_01567	CDS	579	rpoE		COG1595	ECF RNA polymerase sigma factor RpoE
+CCGELMGK_01568	tRNA	76				tRNA-Ala(cgc)
+CCGELMGK_01569	CDS	1548				hypothetical protein
+CCGELMGK_01570	CDS	1212	xerC_12			Tyrosine recombinase XerC
+CCGELMGK_01571	CDS	1218	xerC_13			Tyrosine recombinase XerC
+CCGELMGK_01572	CDS	348				hypothetical protein
+CCGELMGK_01573	CDS	129				hypothetical protein
+CCGELMGK_01574	CDS	1026				IS110 family transposase ISEnfa110
+CCGELMGK_01575	CDS	351	ftnA_2	1.16.3.2		Bacterial non-heme ferritin
+CCGELMGK_01576	CDS	435				hypothetical protein
+CCGELMGK_01577	CDS	1131	mshA_2	2.4.1.250		D-inositol-3-phosphate glycosyltransferase
+CCGELMGK_01578	CDS	1266				hypothetical protein
+CCGELMGK_01579	CDS	423				hypothetical protein
+CCGELMGK_01580	CDS	756				hypothetical protein
+CCGELMGK_01581	CDS	213				hypothetical protein
+CCGELMGK_01582	CDS	432				hypothetical protein
+CCGELMGK_01583	CDS	759				hypothetical protein
+CCGELMGK_01584	CDS	354				hypothetical protein
+CCGELMGK_01585	CDS	171				hypothetical protein
+CCGELMGK_01586	CDS	651				hypothetical protein
+CCGELMGK_01587	CDS	1605				hypothetical protein
+CCGELMGK_01588	CDS	249				hypothetical protein
+CCGELMGK_01589	CDS	390				hypothetical protein
+CCGELMGK_01590	CDS	231				hypothetical protein
+CCGELMGK_01591	CDS	453				hypothetical protein
+CCGELMGK_01592	CDS	795				hypothetical protein
+CCGELMGK_01593	CDS	300				hypothetical protein
+CCGELMGK_01594	CDS	774				hypothetical protein
+CCGELMGK_01595	CDS	180				hypothetical protein
+CCGELMGK_01596	CDS	357				hypothetical protein
+CCGELMGK_01597	CDS	585	tagA	2.4.1.187	COG1922	N-acetylglucosaminyldiphosphoundecaprenol N-acetyl-beta-D-mannosaminyltransferase
+CCGELMGK_01598	CDS	543				hypothetical protein
+CCGELMGK_01599	CDS	741	rlmB	2.1.1.185		23S rRNA (guanosine-2'-O-)-methyltransferase RlmB
+CCGELMGK_01600	CDS	414				hypothetical protein
+CCGELMGK_01601	CDS	285				hypothetical protein
+CCGELMGK_01602	tRNA	74				tRNA-Pro(cgg)
+CCGELMGK_01603	tRNA	74				tRNA-Phe(gaa)
+CCGELMGK_01604	CDS	624	glnQ_2		COG1126	Glutamine transport ATP-binding protein GlnQ
+CCGELMGK_01605	CDS	405				hypothetical protein
+CCGELMGK_01606	CDS	681				hypothetical protein
+CCGELMGK_01607	CDS	1554	rcsC_3	2.7.13.3		Sensor histidine kinase RcsC
+CCGELMGK_01608	CDS	711				hypothetical protein
+CCGELMGK_01609	CDS	579	rbr		COG1592	Rubrerythrin
+CCGELMGK_01610	CDS	414				hypothetical protein
+CCGELMGK_01611	CDS	612				hypothetical protein
+CCGELMGK_01612	CDS	1455				hypothetical protein
+CCGELMGK_01613	CDS	279				hypothetical protein
+CCGELMGK_01614	CDS	399				hypothetical protein
+CCGELMGK_01615	CDS	231				hypothetical protein
+CCGELMGK_01616	CDS	213				hypothetical protein
+CCGELMGK_01617	CDS	621	uxaC	5.3.1.12	COG1904	Uronate isomerase
+CCGELMGK_01618	CDS	615				hypothetical protein
+CCGELMGK_01619	CDS	588				hypothetical protein
+CCGELMGK_01620	CDS	276				hypothetical protein
+CCGELMGK_01621	CDS	219				hypothetical protein
+CCGELMGK_01622	CDS	879				hypothetical protein
+CCGELMGK_01623	CDS	318				hypothetical protein
+CCGELMGK_01624	CDS	495				hypothetical protein
+CCGELMGK_01625	CDS	855				hypothetical protein
+CCGELMGK_01626	CDS	738				hypothetical protein
+CCGELMGK_01627	CDS	309				hypothetical protein
+CCGELMGK_01628	CDS	1608				hypothetical protein
+CCGELMGK_01629	CDS	312	rpsJ		COG0051	30S ribosomal protein S10
+CCGELMGK_01630	CDS	474				hypothetical protein
+CCGELMGK_01631	CDS	249				hypothetical protein
+CCGELMGK_01632	CDS	318				hypothetical protein
+CCGELMGK_01633	CDS	1335				hypothetical protein
+CCGELMGK_01634	CDS	210				hypothetical protein
+CCGELMGK_01635	CDS	762				hypothetical protein
+CCGELMGK_01636	CDS	465				hypothetical protein
+CCGELMGK_01637	CDS	420				hypothetical protein
+CCGELMGK_01638	CDS	360				hypothetical protein
+CCGELMGK_01639	CDS	216				hypothetical protein
+CCGELMGK_01640	CDS	924				hypothetical protein
+CCGELMGK_01641	CDS	852				hypothetical protein
+CCGELMGK_01642	CDS	726				hypothetical protein
+CCGELMGK_01643	CDS	705				hypothetical protein
+CCGELMGK_01644	CDS	1278				hypothetical protein
+CCGELMGK_01645	CDS	483				hypothetical protein
+CCGELMGK_01646	CDS	366				hypothetical protein
+CCGELMGK_01647	CDS	696				hypothetical protein
+CCGELMGK_01648	CDS	1017	endOF1	3.2.1.96		Endo-beta-N-acetylglucosaminidase F1
+CCGELMGK_01649	CDS	618				hypothetical protein
+CCGELMGK_01650	CDS	558				hypothetical protein
+CCGELMGK_01651	CDS	444				hypothetical protein
+CCGELMGK_01652	CDS	156				hypothetical protein
+CCGELMGK_01653	CDS	459				hypothetical protein
+CCGELMGK_01654	CDS	357				hypothetical protein
+CCGELMGK_01655	CDS	678				hypothetical protein
+CCGELMGK_01656	CDS	303				hypothetical protein
+CCGELMGK_01657	CDS	204				hypothetical protein
+CCGELMGK_01658	CDS	1125				hypothetical protein
+CCGELMGK_01659	CDS	345				hypothetical protein
+CCGELMGK_01660	CDS	570				hypothetical protein
+CCGELMGK_01661	CDS	852	agaA_1	3.2.1.22		Alpha-galactosidase AgaA
+CCGELMGK_01662	CDS	432				hypothetical protein
+CCGELMGK_01663	CDS	444				hypothetical protein
+CCGELMGK_01664	CDS	300				hypothetical protein
+CCGELMGK_01665	CDS	600				hypothetical protein
+CCGELMGK_01666	CDS	597				hypothetical protein
+CCGELMGK_01667	CDS	300				hypothetical protein
+CCGELMGK_01668	CDS	285				hypothetical protein
+CCGELMGK_01669	CDS	654				hypothetical protein
+CCGELMGK_01670	CDS	228				hypothetical protein
+CCGELMGK_01671	CDS	366				hypothetical protein
+CCGELMGK_01672	CDS	936				hypothetical protein
+CCGELMGK_01673	CDS	546				hypothetical protein
+CCGELMGK_01674	CDS	210				hypothetical protein
+CCGELMGK_01675	CDS	648	trmR	2.1.1.-		tRNA 5-hydroxyuridine methyltransferase
+CCGELMGK_01676	CDS	315				hypothetical protein
+CCGELMGK_01677	CDS	438				hypothetical protein
+CCGELMGK_01678	CDS	966				hypothetical protein
+CCGELMGK_01679	CDS	1452				hypothetical protein
+CCGELMGK_01680	CDS	2232				hypothetical protein
+CCGELMGK_01681	CDS	462				hypothetical protein
+CCGELMGK_01682	CDS	657				hypothetical protein
+CCGELMGK_01683	CDS	336				hypothetical protein
+CCGELMGK_01684	CDS	627	pdxK	2.7.1.35	COG0351	Pyridoxine kinase
+CCGELMGK_01685	CDS	681				hypothetical protein
+CCGELMGK_01686	CDS	234				hypothetical protein
+CCGELMGK_01687	CDS	921		4.2.2.-		Endo-acting ulvan lyase
+CCGELMGK_01688	CDS	411			COG0543	Dihydroorotate dehydrogenase B (NAD(+)), electron transfer subunit 
+CCGELMGK_01689	CDS	1602	rho	3.6.4.-		Transcription termination factor Rho
+CCGELMGK_01690	tRNA	87				tRNA-Leu(taa)
+CCGELMGK_01691	CDS	294				hypothetical protein
+CCGELMGK_01692	CDS	540				hypothetical protein
+CCGELMGK_01693	CDS	321	mnmE_1	3.6.5.-	COG0486	tRNA modification GTPase MnmE
+CCGELMGK_01694	CDS	558				TonB-dependent receptor P26
+CCGELMGK_01695	CDS	159	glyQS_2	6.1.1.14	COG0423	Glycine--tRNA ligase
+CCGELMGK_01696	CDS	96				hypothetical protein
+CCGELMGK_01697	CDS	132				hypothetical protein
+CCGELMGK_01698	CDS	330	corA_2		COG0598	Cobalt/magnesium transport protein CorA
+CCGELMGK_01699	CDS	501				hypothetical protein
+CCGELMGK_01700	CDS	303	ftnA_3	1.16.3.2	COG1528	Bacterial non-heme ferritin
+CCGELMGK_01701	CDS	405				hypothetical protein
+CCGELMGK_01702	CDS	204				hypothetical protein
+CCGELMGK_01703	CDS	303				hypothetical protein
+CCGELMGK_01704	CDS	573			COG0655	Iron-sulfur flavoprotein
+CCGELMGK_01705	CDS	285				hypothetical protein
+CCGELMGK_01706	CDS	321				hypothetical protein
+CCGELMGK_01707	CDS	564				hypothetical protein
+CCGELMGK_01708	CDS	150				hypothetical protein
+CCGELMGK_01709	CDS	312				hypothetical protein
+CCGELMGK_01710	CDS	1020				hypothetical protein
+CCGELMGK_01711	CDS	933				hypothetical protein
+CCGELMGK_01712	CDS	750	metF	1.5.1.20	COG0685	5,10-methylenetetrahydrofolate reductase
+CCGELMGK_01713	CDS	441	perR_2		COG0735	Peroxide-responsive repressor PerR
+CCGELMGK_01714	CDS	264	rpmA_2		COG0211	50S ribosomal protein L27
+CCGELMGK_01715	CDS	1074				hypothetical protein
+CCGELMGK_01716	CDS	714				hypothetical protein
+CCGELMGK_01717	CDS	840	tll	1.1.1.339		dTDP-6-deoxy-L-talose 4-dehydrogenase (NAD(+))
+CCGELMGK_01718	CDS	303				hypothetical protein
+CCGELMGK_01719	CDS	447	arbA	3.2.1.55	COG3507	Extracellular exo-alpha-(1->5)-L-arabinofuranosidase ArbA
+CCGELMGK_01720	CDS	1302				hypothetical protein
+CCGELMGK_01721	CDS	291				hypothetical protein
+CCGELMGK_01722	CDS	954				hypothetical protein
+CCGELMGK_01723	CDS	930				hypothetical protein
+CCGELMGK_01724	CDS	837				hypothetical protein
+CCGELMGK_01725	CDS	774				hypothetical protein
+CCGELMGK_01726	CDS	429				hypothetical protein
+CCGELMGK_01727	CDS	750	lepA	3.6.5.-	COG0481	Elongation factor 4
+CCGELMGK_01728	CDS	438	ibpA			Small heat shock protein IbpA
+CCGELMGK_01729	CDS	249				hypothetical protein
+CCGELMGK_01730	CDS	378				TonB-dependent receptor P3
+CCGELMGK_01731	CDS	1575				hypothetical protein
+CCGELMGK_01732	CDS	312				hypothetical protein
+CCGELMGK_01733	CDS	489				hypothetical protein
+CCGELMGK_01734	CDS	357				hypothetical protein
+CCGELMGK_01735	CDS	225				hypothetical protein
+CCGELMGK_01736	CDS	426				hypothetical protein
+CCGELMGK_01737	CDS	438	rlmH	2.1.1.177	COG1576	Ribosomal RNA large subunit methyltransferase H
+CCGELMGK_01738	CDS	423	uvrC		COG0322	UvrABC system protein C
+CCGELMGK_01739	CDS	1446				hypothetical protein
+CCGELMGK_01740	CDS	1098				hypothetical protein
+CCGELMGK_01741	CDS	531	ade	3.5.4.2	COG1001	Adenine deaminase
+CCGELMGK_01742	CDS	429				hypothetical protein
+CCGELMGK_01743	CDS	948				hypothetical protein
+CCGELMGK_01744	CDS	825				hypothetical protein
+CCGELMGK_01745	CDS	873				hypothetical protein
+CCGELMGK_01746	CDS	1149				hypothetical protein
+CCGELMGK_01747	CDS	1140				hypothetical protein
+CCGELMGK_01748	CDS	408				hypothetical protein
+CCGELMGK_01749	CDS	144				hypothetical protein
+CCGELMGK_01750	CDS	1134	traC			Protein TraC
+CCGELMGK_01751	CDS	1824	ltrA_2		COG3344	Group II intron-encoded protein LtrA
+CCGELMGK_01752	CDS	90				hypothetical protein
+CCGELMGK_01753	CDS	660				hypothetical protein
+CCGELMGK_01754	CDS	282				hypothetical protein
+CCGELMGK_01755	CDS	138				hypothetical protein
+CCGELMGK_01756	CDS	543				hypothetical protein
+CCGELMGK_01757	CDS	1206				hypothetical protein
+CCGELMGK_01758	CDS	516				hypothetical protein
+CCGELMGK_01759	CDS	1152		3.2.1.-		Unsaturated glucuronyl hydrolase
+CCGELMGK_01760	CDS	204				hypothetical protein
+CCGELMGK_01761	CDS	438				hypothetical protein
+CCGELMGK_01762	CDS	471				hypothetical protein
+CCGELMGK_01763	CDS	711				hypothetical protein
+CCGELMGK_01764	CDS	972				Outer membrane protein 41
+CCGELMGK_01765	CDS	582				hypothetical protein
+CCGELMGK_01766	CDS	393				hypothetical protein
+CCGELMGK_01767	CDS	390				hypothetical protein
+CCGELMGK_01768	CDS	1170				hypothetical protein
+CCGELMGK_01769	CDS	393	glpE	2.8.1.1		Thiosulfate sulfurtransferase GlpE
+CCGELMGK_01770	CDS	702				hypothetical protein
+CCGELMGK_01771	CDS	477				hypothetical protein
+CCGELMGK_01772	CDS	654				hypothetical protein
+CCGELMGK_01773	CDS	615				hypothetical protein
+CCGELMGK_01774	CDS	261				hypothetical protein
+CCGELMGK_01775	CDS	303				hypothetical protein
+CCGELMGK_01776	CDS	1239	pepO	3.4.24.-	COG3590	Neutral endopeptidase
+CCGELMGK_01777	CDS	738	carE_1	1.3.1.108	COG2025	Caffeyl-CoA reductase-Etf complex subunit CarE
+CCGELMGK_01778	CDS	477				hypothetical protein
+CCGELMGK_01779	CDS	756				hypothetical protein
+CCGELMGK_01780	CDS	639			COG0546	putative protein
+CCGELMGK_01781	CDS	930				hypothetical protein
+CCGELMGK_01782	CDS	1101			COG3385	IS4 family transposase ISBf13
+CCGELMGK_01783	CDS	294	higB	3.1.-.-	COG4680	mRNA interferase HigB
+CCGELMGK_01784	CDS	369				hypothetical protein
+CCGELMGK_01785	CDS	579				hypothetical protein
+CCGELMGK_01786	CDS	153				hypothetical protein
+CCGELMGK_01787	CDS	267				hypothetical protein
+CCGELMGK_01788	CDS	171				hypothetical protein
+CCGELMGK_01789	CDS	276	rpoC	2.7.7.6		DNA-directed RNA polymerase subunit beta'
+CCGELMGK_01790	CDS	420				hypothetical protein
+CCGELMGK_01791	CDS	465				hypothetical protein
+CCGELMGK_01792	CDS	405				hypothetical protein
+CCGELMGK_01793	CDS	396				hypothetical protein
+CCGELMGK_01794	CDS	468				hypothetical protein
+CCGELMGK_01795	CDS	423				hypothetical protein
+CCGELMGK_01796	CDS	816	yhjX			putative MFS-type transporter YhjX
+CCGELMGK_01797	CDS	591				hypothetical protein
+CCGELMGK_01798	CDS	411	queF	1.7.1.13	COG0780	NADPH-dependent 7-cyano-7-deazaguanine reductase
+CCGELMGK_01799	CDS	918				hypothetical protein
+CCGELMGK_01800	CDS	777				hypothetical protein
+CCGELMGK_01801	CDS	2244				hypothetical protein
+CCGELMGK_01802	CDS	849				hypothetical protein
+CCGELMGK_01803	CDS	609	norV			Anaerobic nitric oxide reductase flavorubredoxin
+CCGELMGK_01804	CDS	741	hypB		COG0378	Hydrogenase maturation factor HypB
+CCGELMGK_01805	CDS	1032				hypothetical protein
+CCGELMGK_01806	CDS	393				hypothetical protein
+CCGELMGK_01807	CDS	123				hypothetical protein
+CCGELMGK_01808	CDS	594				hypothetical protein
+CCGELMGK_01809	CDS	150				hypothetical protein
+CCGELMGK_01810	CDS	645				hypothetical protein
+CCGELMGK_01811	CDS	723				hypothetical protein
+CCGELMGK_01812	CDS	600				hypothetical protein
+CCGELMGK_01813	CDS	234				hypothetical protein
+CCGELMGK_01814	CDS	705				hypothetical protein
+CCGELMGK_01815	CDS	702				IS1595 family transposase ISNwi1
+CCGELMGK_01816	CDS	564	lacA	2.3.1.18	COG0110	Galactoside O-acetyltransferase
+CCGELMGK_01817	CDS	543				hypothetical protein
+CCGELMGK_01818	CDS	474				hypothetical protein
+CCGELMGK_01819	CDS	369				hypothetical protein
+CCGELMGK_01820	CDS	243				hypothetical protein
+CCGELMGK_01821	CDS	438				hypothetical protein
+CCGELMGK_01822	CDS	228				hypothetical protein
+CCGELMGK_01823	CDS	318				hypothetical protein
+CCGELMGK_01824	CDS	672				hypothetical protein
+CCGELMGK_01825	CDS	318				hypothetical protein
+CCGELMGK_01826	CDS	606				hypothetical protein
+CCGELMGK_01827	CDS	498				hypothetical protein
+CCGELMGK_01828	CDS	840				hypothetical protein
+CCGELMGK_01829	CDS	264				hypothetical protein
+CCGELMGK_01830	CDS	567				hypothetical protein
+CCGELMGK_01831	CDS	795	pyrF	4.1.1.23	COG0284	Orotidine 5'-phosphate decarboxylase
+CCGELMGK_01832	CDS	132				hypothetical protein
+CCGELMGK_01833	CDS	567				hypothetical protein
+CCGELMGK_01834	CDS	741	recG	3.6.4.12		ATP-dependent DNA helicase RecG
+CCGELMGK_01835	CDS	444				hypothetical protein
+CCGELMGK_01836	CDS	303				hypothetical protein
+CCGELMGK_01837	CDS	330				hypothetical protein
+CCGELMGK_01838	CDS	312	thiL_2	2.7.4.16	COG0611	Thiamine-monophosphate kinase
+CCGELMGK_01839	CDS	273				hypothetical protein
+CCGELMGK_01840	CDS	171				hypothetical protein
+CCGELMGK_01841	CDS	732				hypothetical protein
+CCGELMGK_01842	CDS	342	rhaS_4			HTH-type transcriptional activator RhaS
+CCGELMGK_01843	CDS	306	RBKS_2	2.7.1.15		Ribokinase
+CCGELMGK_01844	CDS	516				hypothetical protein
+CCGELMGK_01845	CDS	168				hypothetical protein
+CCGELMGK_01846	CDS	150				hypothetical protein
+CCGELMGK_01847	CDS	306				hypothetical protein
+CCGELMGK_01848	CDS	951	pfkA2	2.7.1.11	COG0205	ATP-dependent 6-phosphofructokinase 2
+CCGELMGK_01849	CDS	609				hypothetical protein
+CCGELMGK_01850	CDS	921				hypothetical protein
+CCGELMGK_01851	CDS	327				hypothetical protein
+CCGELMGK_01852	CDS	339				hypothetical protein
+CCGELMGK_01853	CDS	1848				hypothetical protein
+CCGELMGK_01854	CDS	900				hypothetical protein
+CCGELMGK_01855	CDS	405				hypothetical protein
+CCGELMGK_01856	CDS	213				hypothetical protein
+CCGELMGK_01857	CDS	1332				hypothetical protein
+CCGELMGK_01858	CDS	399				hypothetical protein
+CCGELMGK_01859	CDS	213				hypothetical protein
+CCGELMGK_01860	CDS	870				hypothetical protein
+CCGELMGK_01861	CDS	750				hypothetical protein
+CCGELMGK_01862	CDS	543				hypothetical protein
+CCGELMGK_01863	CDS	1170				hypothetical protein
+CCGELMGK_01864	CDS	693				hypothetical protein
+CCGELMGK_01865	CDS	459				hypothetical protein
+CCGELMGK_01866	CDS	309				hypothetical protein
+CCGELMGK_01867	CDS	258				hypothetical protein
+CCGELMGK_01868	CDS	1392				hypothetical protein
+CCGELMGK_01869	CDS	183				hypothetical protein
+CCGELMGK_01870	CDS	765				hypothetical protein
+CCGELMGK_01871	CDS	324				hypothetical protein
+CCGELMGK_01872	CDS	576	tag	3.2.2.20	COG2818	DNA-3-methyladenine glycosylase 1
+CCGELMGK_01873	CDS	765	tpiA	5.3.1.1		Triosephosphate isomerase
+CCGELMGK_01874	CDS	333				hypothetical protein
+CCGELMGK_01875	CDS	603				hypothetical protein
+CCGELMGK_01876	CDS	147				hypothetical protein
+CCGELMGK_01877	CDS	912		3.6.3.-	COG1132	Putative multidrug export ATP-binding/permease protein
+CCGELMGK_01878	CDS	621	COQ5_2	2.1.1.163		2-methoxy-6-polyprenyl-1,4-benzoquinol methylase, mitochondrial
+CCGELMGK_01879	CDS	417				hypothetical protein
+CCGELMGK_01880	CDS	210				hypothetical protein
+CCGELMGK_01881	CDS	1191				hypothetical protein
+CCGELMGK_01882	CDS	564				hypothetical protein
+CCGELMGK_01883	CDS	1395	ybdG		COG0668	Miniconductance mechanosensitive channel YbdG
+CCGELMGK_01884	CDS	411	msrA2	1.8.4.11		Peptide methionine sulfoxide reductase MsrA 2
+CCGELMGK_01885	CDS	429				hypothetical protein
+CCGELMGK_01886	CDS	816				hypothetical protein
+CCGELMGK_01887	CDS	798				hypothetical protein
+CCGELMGK_01888	CDS	498				hypothetical protein
+CCGELMGK_01889	CDS	1389	dnaG_2	2.7.7.-	COG0358	DNA primase
+CCGELMGK_01890	CDS	642				hypothetical protein
+CCGELMGK_01891	CDS	279				hypothetical protein
+CCGELMGK_01892	CDS	267				hypothetical protein
+CCGELMGK_01893	CDS	618				hypothetical protein
+CCGELMGK_01894	CDS	705				hypothetical protein
+CCGELMGK_01895	CDS	228				hypothetical protein
+CCGELMGK_01896	CDS	795	rhaS_5			HTH-type transcriptional activator RhaS
+CCGELMGK_01897	CDS	525	ybdM_2		COG1475	putative protein YbdM
+CCGELMGK_01898	CDS	453				hypothetical protein
+CCGELMGK_01899	CDS	1125	xerC_14			Tyrosine recombinase XerC
+CCGELMGK_01900	CDS	555				hypothetical protein
+CCGELMGK_01901	CDS	168				hypothetical protein
+CCGELMGK_01902	CDS	396				hypothetical protein
+CCGELMGK_01903	CDS	303				hypothetical protein
+CCGELMGK_01904	CDS	114	rpmJ		COG0257	50S ribosomal protein L36
+CCGELMGK_01905	CDS	378	rpsM_1		COG0099	30S ribosomal protein S13
+CCGELMGK_01906	CDS	390	rpsK_1			30S ribosomal protein S11
+CCGELMGK_01907	CDS	498				hypothetical protein
+CCGELMGK_01908	CDS	426				hypothetical protein
+CCGELMGK_01909	CDS	939				hypothetical protein
+CCGELMGK_01910	CDS	822	wbbD_3	2.4.1.303	COG0463	UDP-Gal:alpha-D-GlcNAc-diphosphoundecaprenol beta-1,3-galactosyltransferase
+CCGELMGK_01911	CDS	363				hypothetical protein
+CCGELMGK_01912	CDS	798	phoR	2.7.13.3	COG0642	Alkaline phosphatase synthesis sensor protein PhoR
+CCGELMGK_01913	CDS	369				hypothetical protein
+CCGELMGK_01914	CDS	336				hypothetical protein
+CCGELMGK_01915	CDS	117				hypothetical protein
+CCGELMGK_01916	CDS	372	asnA	6.3.1.1	COG2502	Aspartate--ammonia ligase
+CCGELMGK_01917	CDS	663	ung_2	3.2.2.27	COG0692	Uracil-DNA glycosylase
+CCGELMGK_01918	tRNA	72				tRNA-Gln(ctg)
+CCGELMGK_01919	CDS	453				hypothetical protein
+CCGELMGK_01920	CDS	1137				hypothetical protein
+CCGELMGK_01921	CDS	1608				hypothetical protein
+CCGELMGK_01922	CDS	1071				hypothetical protein
+CCGELMGK_01923	CDS	735				hypothetical protein
+CCGELMGK_01924	CDS	576				hypothetical protein
+CCGELMGK_01925	CDS	231				hypothetical protein
+CCGELMGK_01926	CDS	768				hypothetical protein
+CCGELMGK_01927	CDS	534				hypothetical protein
+CCGELMGK_01928	CDS	300				hypothetical protein
+CCGELMGK_01929	CDS	972				hypothetical protein
+CCGELMGK_01930	CDS	432				hypothetical protein
+CCGELMGK_01931	CDS	330				hypothetical protein
+CCGELMGK_01932	CDS	687				hypothetical protein
+CCGELMGK_01933	CDS	474				hypothetical protein
+CCGELMGK_01934	CDS	651	fabG	1.1.1.100		3-oxoacyl-[acyl-carrier-protein] reductase FabG
+CCGELMGK_01935	CDS	387	ispG	1.17.7.1	COG0821	4-hydroxy-3-methylbut-2-en-1-yl diphosphate synthase (ferredoxin)
+CCGELMGK_01936	CDS	402	mntR		COG1321	HTH-type transcriptional regulator MntR
+CCGELMGK_01937	CDS	246				hypothetical protein
+CCGELMGK_01938	CDS	1071	polA	2.7.7.7		DNA polymerase I
+CCGELMGK_01939	CDS	666	nifS	2.8.1.7	COG1104	Cysteine desulfurase NifS
+CCGELMGK_01940	CDS	588	agrB	3.4.-.-		Accessory gene regulator protein B
+CCGELMGK_01941	CDS	339	cobB	2.3.1.286	COG0846	NAD-dependent protein deacylase
+CCGELMGK_01942	CDS	1041				hypothetical protein
+CCGELMGK_01943	CDS	294				hypothetical protein
+CCGELMGK_01944	CDS	981				hypothetical protein
+CCGELMGK_01945	CDS	417	agaA_2	3.2.1.22		Alpha-galactosidase A
+CCGELMGK_01946	CDS	1827	bamA_1			Outer membrane protein assembly factor BamA
+CCGELMGK_01947	CDS	243				hypothetical protein
+CCGELMGK_01948	CDS	285				hypothetical protein
+CCGELMGK_01949	CDS	96				hypothetical protein
+CCGELMGK_01950	CDS	369				hypothetical protein
+CCGELMGK_01951	CDS	855				hypothetical protein
+CCGELMGK_01952	CDS	714				hypothetical protein
+CCGELMGK_01953	CDS	396				hypothetical protein
+CCGELMGK_01954	CDS	666				hypothetical protein
+CCGELMGK_01955	CDS	843				hypothetical protein
+CCGELMGK_01956	CDS	807	dapF	5.1.1.7		Diaminopimelate epimerase
+CCGELMGK_01957	CDS	657				hypothetical protein
+CCGELMGK_01958	CDS	1200				hypothetical protein
+CCGELMGK_01959	CDS	684	topA	5.6.2.1	COG0550	DNA topoisomerase 1
+CCGELMGK_01960	CDS	1332	susC_2			TonB-dependent receptor SusC
+CCGELMGK_01961	CDS	768				hypothetical protein
+CCGELMGK_01962	CDS	306				hypothetical protein
+CCGELMGK_01963	CDS	219				hypothetical protein
+CCGELMGK_01964	CDS	432				hypothetical protein
+CCGELMGK_01965	CDS	636				hypothetical protein
+CCGELMGK_01966	CDS	462				hypothetical protein
+CCGELMGK_01967	CDS	366				hypothetical protein
+CCGELMGK_01968	CDS	615				hypothetical protein
+CCGELMGK_01969	CDS	369				hypothetical protein
+CCGELMGK_01970	rRNA	1299				23S ribosomal RNA (partial)
+CCGELMGK_01971	tRNA	77				tRNA-Ile(gat)
+CCGELMGK_01972	tRNA	76				tRNA-Ala(tgc)
+CCGELMGK_01973	CDS	222				hypothetical protein
+CCGELMGK_01974	CDS	444				hypothetical protein
+CCGELMGK_01975	CDS	474				hypothetical protein
+CCGELMGK_01976	CDS	267				hypothetical protein
+CCGELMGK_01977	CDS	783				hypothetical protein
+CCGELMGK_01978	CDS	375				hypothetical protein
+CCGELMGK_01979	CDS	261				hypothetical protein
+CCGELMGK_01980	CDS	258				hypothetical protein
+CCGELMGK_01981	CDS	261				hypothetical protein
+CCGELMGK_01982	CDS	957				hypothetical protein
+CCGELMGK_01983	CDS	354				hypothetical protein
+CCGELMGK_01984	CDS	147				hypothetical protein
+CCGELMGK_01985	CDS	1002				hypothetical protein
+CCGELMGK_01986	CDS	420				hypothetical protein
+CCGELMGK_01987	CDS	225				hypothetical protein
+CCGELMGK_01988	CDS	159				hypothetical protein
+CCGELMGK_01989	CDS	330				hypothetical protein
+CCGELMGK_01990	CDS	876	yvgN	1.1.1.-	COG0656	Glyoxal reductase
+CCGELMGK_01991	CDS	366				hypothetical protein
+CCGELMGK_01992	CDS	609				hypothetical protein
+CCGELMGK_01993	CDS	708	lytR		COG3279	Sensory transduction protein LytR
+CCGELMGK_01994	CDS	1404				hypothetical protein
+CCGELMGK_01995	CDS	375				hypothetical protein
+CCGELMGK_01996	CDS	942				hypothetical protein
+CCGELMGK_01997	CDS	195				hypothetical protein
+CCGELMGK_01998	CDS	345				hypothetical protein
+CCGELMGK_01999	CDS	753				hypothetical protein
+CCGELMGK_02000	CDS	330				hypothetical protein
+CCGELMGK_02001	CDS	399				hypothetical protein
+CCGELMGK_02002	CDS	258				hypothetical protein
+CCGELMGK_02003	CDS	207				hypothetical protein
+CCGELMGK_02004	CDS	597				hypothetical protein
+CCGELMGK_02005	CDS	1020				hypothetical protein
+CCGELMGK_02006	CDS	4050				hypothetical protein
+CCGELMGK_02007	CDS	588				hypothetical protein
+CCGELMGK_02008	CDS	264				hypothetical protein
+CCGELMGK_02009	CDS	405				hypothetical protein
+CCGELMGK_02010	CDS	270				hypothetical protein
+CCGELMGK_02011	CDS	210				hypothetical protein
+CCGELMGK_02012	CDS	558				hypothetical protein
+CCGELMGK_02013	CDS	609	rpsD_1			30S ribosomal protein S4
+CCGELMGK_02014	CDS	390	rpsK_2			30S ribosomal protein S11
+CCGELMGK_02015	CDS	381	rpsM_2		COG0099	30S ribosomal protein S13
+CCGELMGK_02016	CDS	117	ykgO		COG0257	50S ribosomal protein L36 2
+CCGELMGK_02017	CDS	219	infA		COG0361	Translation initiation factor IF-1
+CCGELMGK_02018	CDS	777	map	3.4.11.18	COG0024	Methionine aminopeptidase 1
+CCGELMGK_02019	CDS	627				hypothetical protein
+CCGELMGK_02020	CDS	1143				hypothetical protein
+CCGELMGK_02021	CDS	1428				hypothetical protein
+CCGELMGK_02022	CDS	297				hypothetical protein
+CCGELMGK_02023	CDS	621				hypothetical protein
+CCGELMGK_02024	CDS	1026				hypothetical protein
+CCGELMGK_02025	CDS	441				hypothetical protein
+CCGELMGK_02026	CDS	837				hypothetical protein
+CCGELMGK_02027	CDS	231	pyrC	3.5.2.3	COG0044	Dihydroorotase
+CCGELMGK_02028	CDS	921	glnA	6.3.1.2		Glutamine synthetase
+CCGELMGK_02029	CDS	210				hypothetical protein
+CCGELMGK_02030	CDS	366				hypothetical protein
+CCGELMGK_02031	CDS	810				hypothetical protein
+CCGELMGK_02032	CDS	516				hypothetical protein
+CCGELMGK_02033	CDS	252				hypothetical protein
+CCGELMGK_02034	CDS	162				hypothetical protein
+CCGELMGK_02035	CDS	1395				hypothetical protein
+CCGELMGK_02036	CDS	381				hypothetical protein
+CCGELMGK_02037	CDS	648				hypothetical protein
+CCGELMGK_02038	CDS	570				hypothetical protein
+CCGELMGK_02039	CDS	381				hypothetical protein
+CCGELMGK_02040	CDS	678	murG_2	2.4.1.227	COG0707	UDP-N-acetylglucosamine--N-acetylmuramyl-(pentapeptide) pyrophosphoryl-undecaprenol N-acetylglucosamine transferase
+CCGELMGK_02041	CDS	195				hypothetical protein
+CCGELMGK_02042	CDS	309				hypothetical protein
+CCGELMGK_02043	CDS	417				SusD-like protein P2
+CCGELMGK_02044	CDS	1281				hypothetical protein
+CCGELMGK_02045	CDS	1446				hypothetical protein
+CCGELMGK_02046	CDS	369				hypothetical protein
+CCGELMGK_02047	CDS	180				hypothetical protein
+CCGELMGK_02048	CDS	426				hypothetical protein
+CCGELMGK_02049	CDS	456				hypothetical protein
+CCGELMGK_02050	CDS	1146				hypothetical protein
+CCGELMGK_02051	CDS	429				hypothetical protein
+CCGELMGK_02052	CDS	534				hypothetical protein
+CCGELMGK_02053	CDS	288				hypothetical protein
+CCGELMGK_02054	CDS	1401				hypothetical protein
+CCGELMGK_02055	CDS	609	nqrE	7.2.1.1	COG2209	Na(+)-translocating NADH-quinone reductase subunit E
+CCGELMGK_02056	CDS	390	nqrD	7.2.1.1	COG1347	Na(+)-translocating NADH-quinone reductase subunit D
+CCGELMGK_02057	CDS	798				hypothetical protein
+CCGELMGK_02058	CDS	342	rplS		COG0335	50S ribosomal protein L19
+CCGELMGK_02059	CDS	264				hypothetical protein
+CCGELMGK_02060	CDS	405				hypothetical protein
+CCGELMGK_02061	CDS	888				hypothetical protein
+CCGELMGK_02062	CDS	999				hypothetical protein
+CCGELMGK_02063	CDS	324				hypothetical protein
+CCGELMGK_02064	CDS	387				hypothetical protein
+CCGELMGK_02065	CDS	261				hypothetical protein
+CCGELMGK_02066	CDS	381				hypothetical protein
+CCGELMGK_02067	CDS	402				hypothetical protein
+CCGELMGK_02068	CDS	483				hypothetical protein
+CCGELMGK_02069	CDS	354				hypothetical protein
+CCGELMGK_02070	CDS	300	tatA			Sec-independent protein translocase protein TatA
+CCGELMGK_02071	CDS	528	mnmE_2	3.6.5.-	COG0486	tRNA modification GTPase MnmE
+CCGELMGK_02072	CDS	462	tuaD	1.1.1.22	COG1004	UDP-glucose 6-dehydrogenase TuaD
+CCGELMGK_02073	CDS	807				hypothetical protein
+CCGELMGK_02074	CDS	594				hypothetical protein
+CCGELMGK_02075	CDS	585	gamA	3.5.99.6	COG0363	putative glucosamine-6-phosphate deaminase 2
+CCGELMGK_02076	CDS	504				hypothetical protein
+CCGELMGK_02077	CDS	240	pyrH_1	2.7.4.22	COG0528	Uridylate kinase
+CCGELMGK_02078	CDS	567	frr		COG0233	Ribosome-recycling factor
+CCGELMGK_02079	CDS	366				hypothetical protein
+CCGELMGK_02080	CDS	507				hypothetical protein
+CCGELMGK_02081	CDS	537	tgt	2.4.2.29		Queuine tRNA-ribosyltransferase
+CCGELMGK_02082	CDS	426				hypothetical protein
+CCGELMGK_02083	CDS	426				hypothetical protein
+CCGELMGK_02084	CDS	498				hypothetical protein
+CCGELMGK_02085	CDS	528				hypothetical protein
+CCGELMGK_02086	CDS	342				hypothetical protein
+CCGELMGK_02087	CDS	207				hypothetical protein
+CCGELMGK_02088	CDS	1665				hypothetical protein
+CCGELMGK_02089	CDS	573				hypothetical protein
+CCGELMGK_02090	CDS	642				hypothetical protein
+CCGELMGK_02091	CDS	1110				hypothetical protein
+CCGELMGK_02092	CDS	543	rfbC	5.1.3.13	COG1898	dTDP-4-dehydrorhamnose 3,5-epimerase
+CCGELMGK_02093	CDS	240	rfbA_2	2.7.7.24	COG1209	Glucose-1-phosphate thymidylyltransferase 1
+CCGELMGK_02094	CDS	252	bioP		COG0697	Biotin transporter
+CCGELMGK_02095	CDS	447				hypothetical protein
+CCGELMGK_02096	CDS	492				hypothetical protein
+CCGELMGK_02097	CDS	276	hupA		COG0776	DNA-binding protein HU 1
+CCGELMGK_02098	CDS	429				hypothetical protein
+CCGELMGK_02099	CDS	708				hypothetical protein
+CCGELMGK_02100	CDS	387				hypothetical protein
+CCGELMGK_02101	CDS	807				hypothetical protein
+CCGELMGK_02102	CDS	633				hypothetical protein
+CCGELMGK_02103	CDS	309				hypothetical protein
+CCGELMGK_02104	CDS	543				hypothetical protein
+CCGELMGK_02105	CDS	186				hypothetical protein
+CCGELMGK_02106	CDS	417				hypothetical protein
+CCGELMGK_02107	CDS	354				hypothetical protein
+CCGELMGK_02108	CDS	462				hypothetical protein
+CCGELMGK_02109	CDS	195				hypothetical protein
+CCGELMGK_02110	CDS	159				hypothetical protein
+CCGELMGK_02111	CDS	771	sdcS			Sodium-dependent dicarboxylate transporter SdcS
+CCGELMGK_02112	CDS	270	rpsN2		COG0199	Alternate 30S ribosomal protein S14
+CCGELMGK_02113	CDS	261				hypothetical protein
+CCGELMGK_02114	CDS	558				hypothetical protein
+CCGELMGK_02115	CDS	228				hypothetical protein
+CCGELMGK_02116	CDS	603				hypothetical protein
+CCGELMGK_02117	CDS	144				hypothetical protein
+CCGELMGK_02118	CDS	507				hypothetical protein
+CCGELMGK_02119	CDS	729				hypothetical protein
+CCGELMGK_02120	CDS	327				hypothetical protein
+CCGELMGK_02121	CDS	699				hypothetical protein
+CCGELMGK_02122	CDS	399				hypothetical protein
+CCGELMGK_02123	CDS	951				hypothetical protein
+CCGELMGK_02124	CDS	1323				hypothetical protein
+CCGELMGK_02125	CDS	243				hypothetical protein
+CCGELMGK_02126	CDS	342				hypothetical protein
+CCGELMGK_02127	CDS	390				hypothetical protein
+CCGELMGK_02128	CDS	828	fucP		COG0738	L-fucose-proton symporter
+CCGELMGK_02129	CDS	1008				IS110 family transposase ISCaa7
+CCGELMGK_02130	CDS	249	xerC_15			Tyrosine recombinase XerC
+CCGELMGK_02131	CDS	2538				TonB-dependent receptor P3
+CCGELMGK_02132	CDS	588				hypothetical protein
+CCGELMGK_02133	CDS	279				hypothetical protein
+CCGELMGK_02134	CDS	462	lcfB	6.2.1.3	COG0318	Long-chain-fatty-acid--CoA ligase
+CCGELMGK_02135	CDS	255				hypothetical protein
+CCGELMGK_02136	tRNA	77				tRNA-Ala(ggc)
+CCGELMGK_02137	CDS	93				hypothetical protein
+CCGELMGK_02138	CDS	867	der		COG1160	GTPase Der
+CCGELMGK_02139	CDS	699	prrA			Transcriptional regulatory protein PrrA
+CCGELMGK_02140	CDS	183				hypothetical protein
+CCGELMGK_02141	CDS	525				hypothetical protein
+CCGELMGK_02142	CDS	1182				hypothetical protein
+CCGELMGK_02143	CDS	1143				hypothetical protein
+CCGELMGK_02144	CDS	525				hypothetical protein
+CCGELMGK_02145	CDS	495				hypothetical protein
+CCGELMGK_02146	CDS	324				hypothetical protein
+CCGELMGK_02147	CDS	465				hypothetical protein
+CCGELMGK_02148	CDS	153				hypothetical protein
+CCGELMGK_02149	CDS	237				hypothetical protein
+CCGELMGK_02150	CDS	474	rsxB_2	7.-.-.-		Ion-translocating oxidoreductase complex subunit B
+CCGELMGK_02151	CDS	1473				hypothetical protein
+CCGELMGK_02152	CDS	237				hypothetical protein
+CCGELMGK_02153	CDS	486				hypothetical protein
+CCGELMGK_02154	CDS	1044				hypothetical protein
+CCGELMGK_02155	CDS	369				hypothetical protein
+CCGELMGK_02156	CDS	894				hypothetical protein
+CCGELMGK_02157	CDS	435				hypothetical protein
+CCGELMGK_02158	CDS	492				hypothetical protein
+CCGELMGK_02159	CDS	636				hypothetical protein
+CCGELMGK_02160	CDS	480				hypothetical protein
+CCGELMGK_02161	CDS	1170				Outer membrane protein 41
+CCGELMGK_02162	CDS	267	hup_2			DNA-binding protein HU
+CCGELMGK_02163	CDS	282				hypothetical protein
+CCGELMGK_02164	CDS	387				hypothetical protein
+CCGELMGK_02165	CDS	987	prfC		COG4108	Peptide chain release factor 3
+CCGELMGK_02166	CDS	405				hypothetical protein
+CCGELMGK_02167	CDS	861				hypothetical protein
+CCGELMGK_02168	CDS	336				IS3 family transposase ISBce15
+CCGELMGK_02169	CDS	390				hypothetical protein
+CCGELMGK_02170	CDS	318				hypothetical protein
+CCGELMGK_02171	CDS	414	mscL		COG1970	Large-conductance mechanosensitive channel
+CCGELMGK_02172	CDS	1332				hypothetical protein
+CCGELMGK_02173	CDS	597	xerD		COG4974	Tyrosine recombinase XerD
+CCGELMGK_02174	CDS	597	rpsD_2			30S ribosomal protein S4
+CCGELMGK_02175	CDS	918				hypothetical protein
+CCGELMGK_02176	CDS	273				hypothetical protein
+CCGELMGK_02177	CDS	321				hypothetical protein
+CCGELMGK_02178	CDS	381				hypothetical protein
+CCGELMGK_02179	CDS	396	ilvE_2	2.6.1.42		putative branched-chain-amino-acid aminotransferase
+CCGELMGK_02180	CDS	933	mnmG_3		COG0445	tRNA uridine 5-carboxymethylaminomethyl modification enzyme MnmG
+CCGELMGK_02181	CDS	231				hypothetical protein
+CCGELMGK_02182	CDS	225				hypothetical protein
+CCGELMGK_02183	CDS	522				hypothetical protein
+CCGELMGK_02184	CDS	495				hypothetical protein
+CCGELMGK_02185	CDS	168				hypothetical protein
+CCGELMGK_02186	CDS	468				hypothetical protein
+CCGELMGK_02187	CDS	387				hypothetical protein
+CCGELMGK_02188	CDS	324	tlyA	2.1.1.226	COG1189	16S/23S rRNA (cytidine-2'-O)-methyltransferase TlyA
+CCGELMGK_02189	CDS	1053				TonB-dependent receptor P3
+CCGELMGK_02190	CDS	696				hypothetical protein
+CCGELMGK_02191	CDS	381	araC			Arabinose operon regulatory protein
+CCGELMGK_02192	CDS	195	rpmC_1			50S ribosomal protein L29
+CCGELMGK_02193	CDS	270	rpsQ		COG0186	30S ribosomal protein S17
+CCGELMGK_02194	CDS	366	rplN_2			50S ribosomal protein L14
+CCGELMGK_02195	CDS	324	rplX_2			50S ribosomal protein L24
+CCGELMGK_02196	CDS	279				hypothetical protein
+CCGELMGK_02197	CDS	231				hypothetical protein
+CCGELMGK_02198	CDS	375				hypothetical protein
+CCGELMGK_02199	CDS	264				hypothetical protein
+CCGELMGK_02200	CDS	561	cat3	2.3.1.28		Chloramphenicol acetyltransferase 3
+CCGELMGK_02201	CDS	465				hypothetical protein
+CCGELMGK_02202	CDS	666				hypothetical protein
+CCGELMGK_02203	CDS	696				hypothetical protein
+CCGELMGK_02204	CDS	393				hypothetical protein
+CCGELMGK_02205	CDS	465				hypothetical protein
+CCGELMGK_02206	CDS	633				hypothetical protein
+CCGELMGK_02207	CDS	567				hypothetical protein
+CCGELMGK_02208	CDS	549				hypothetical protein
+CCGELMGK_02209	CDS	1113	mutA	5.4.99.2	COG1884	putative methylmalonyl-CoA mutase small subunit
+CCGELMGK_02210	CDS	639		2.3.1.28		Chloramphenicol acetyltransferase
+CCGELMGK_02211	CDS	660				hypothetical protein
+CCGELMGK_02212	CDS	552	rpoN_2		COG1508	RNA polymerase sigma-54 factor
+CCGELMGK_02213	CDS	447				hypothetical protein
+CCGELMGK_02214	CDS	324				hypothetical protein
+CCGELMGK_02215	CDS	378				hypothetical protein
+CCGELMGK_02216	CDS	297				hypothetical protein
+CCGELMGK_02217	CDS	765	bshA	2.4.1.-	COG0438	N-acetyl-alpha-D-glucosaminyl L-malate synthase
+CCGELMGK_02218	tmRNA	402	ssrA			transfer-messenger RNA, SsrA
+CCGELMGK_02219	CDS	186				hypothetical protein
+CCGELMGK_02220	CDS	204				hypothetical protein
+CCGELMGK_02221	CDS	198	tctD		COG0745	Transcriptional regulatory protein tctD
+CCGELMGK_02222	CDS	630				hypothetical protein
+CCGELMGK_02223	CDS	564	dprA		COG0758	DNA processing protein DprA
+CCGELMGK_02224	CDS	363				hypothetical protein
+CCGELMGK_02225	CDS	429				hypothetical protein
+CCGELMGK_02226	CDS	252				TonB-dependent receptor P3
+CCGELMGK_02227	CDS	441	rplK		COG0080	50S ribosomal protein L11
+CCGELMGK_02228	CDS	351				hypothetical protein
+CCGELMGK_02229	CDS	219				hypothetical protein
+CCGELMGK_02230	CDS	420				hypothetical protein
+CCGELMGK_02231	tRNA	77				tRNA-Val(cac)
+CCGELMGK_02232	CDS	624				hypothetical protein
+CCGELMGK_02233	CDS	975				hypothetical protein
+CCGELMGK_02234	CDS	264				hypothetical protein
+CCGELMGK_02235	CDS	159				hypothetical protein
+CCGELMGK_02236	CDS	309				hypothetical protein
+CCGELMGK_02237	CDS	636	xerC_16		COG4974	Tyrosine recombinase XerC
+CCGELMGK_02238	CDS	228				hypothetical protein
+CCGELMGK_02239	CDS	1029				hypothetical protein
+CCGELMGK_02240	CDS	1014				hypothetical protein
+CCGELMGK_02241	CDS	411				hypothetical protein
+CCGELMGK_02242	CDS	834				hypothetical protein
+CCGELMGK_02243	CDS	603				hypothetical protein
+CCGELMGK_02244	CDS	429	rplP		COG0197	50S ribosomal protein L16
+CCGELMGK_02245	CDS	192	rpmC_2		COG0255	50S ribosomal protein L29
+CCGELMGK_02246	CDS	273				hypothetical protein
+CCGELMGK_02247	CDS	1344				hypothetical protein
+CCGELMGK_02248	CDS	231				hypothetical protein
+CCGELMGK_02249	CDS	258				hypothetical protein
+CCGELMGK_02250	CDS	465				hypothetical protein
+CCGELMGK_02251	CDS	414				hypothetical protein
+CCGELMGK_02252	CDS	276	ricR		COG1937	Copper-sensing transcriptional repressor RicR
+CCGELMGK_02253	CDS	486				hypothetical protein
+CCGELMGK_02254	CDS	810				hypothetical protein
+CCGELMGK_02255	CDS	930				hypothetical protein
+CCGELMGK_02256	CDS	594				hypothetical protein
+CCGELMGK_02257	CDS	720	feoB		COG0370	Fe(2+) transporter FeoB
+CCGELMGK_02258	CDS	1302	ntpA	7.2.2.1		V-type sodium ATPase catalytic subunit A
+CCGELMGK_02259	CDS	1737				hypothetical protein
+CCGELMGK_02260	CDS	1812	ltrA_3		COG3344	Group II intron-encoded protein LtrA
+CCGELMGK_02261	CDS	390				hypothetical protein
+CCGELMGK_02262	CDS	1059				hypothetical protein
+CCGELMGK_02263	CDS	696				hypothetical protein
+CCGELMGK_02264	CDS	669				hypothetical protein
+CCGELMGK_02265	CDS	444				hypothetical protein
+CCGELMGK_02266	CDS	588				hypothetical protein
+CCGELMGK_02267	CDS	342				hypothetical protein
+CCGELMGK_02268	CDS	471	lnt	2.3.1.269		Apolipoprotein N-acyltransferase
+CCGELMGK_02269	CDS	876				hypothetical protein
+CCGELMGK_02270	CDS	225				hypothetical protein
+CCGELMGK_02271	CDS	657	tal	2.2.1.2	COG0176	Transaldolase
+CCGELMGK_02272	CDS	495				hypothetical protein
+CCGELMGK_02273	CDS	1518				hypothetical protein
+CCGELMGK_02274	CDS	678				hypothetical protein
+CCGELMGK_02275	CDS	186	mgsA	4.2.3.3	COG1803	Methylglyoxal synthase
+CCGELMGK_02276	CDS	648				hypothetical protein
+CCGELMGK_02277	CDS	177				hypothetical protein
+CCGELMGK_02278	CDS	237				hypothetical protein
+CCGELMGK_02279	CDS	639				hypothetical protein
+CCGELMGK_02280	CDS	1038				hypothetical protein
+CCGELMGK_02281	CDS	741				IS3 family transposase ISEnfa5
+CCGELMGK_02282	CDS	660				IS3 family transposase ISEnfa5
+CCGELMGK_02283	CDS	759				hypothetical protein
+CCGELMGK_02284	CDS	606				hypothetical protein
+CCGELMGK_02285	CDS	987				hypothetical protein
+CCGELMGK_02286	CDS	528				hypothetical protein
+CCGELMGK_02287	CDS	177				hypothetical protein
+CCGELMGK_02288	CDS	615	atpE			V-type proton ATPase subunit E
+CCGELMGK_02289	CDS	441				hypothetical protein
+CCGELMGK_02290	CDS	375				hypothetical protein
+CCGELMGK_02291	CDS	522				hypothetical protein
+CCGELMGK_02292	CDS	516				hypothetical protein
+CCGELMGK_02293	CDS	633				hypothetical protein
+CCGELMGK_02294	CDS	474	ansA	3.5.1.1	COG0252	L-asparaginase 1
+CCGELMGK_02295	CDS	471				hypothetical protein
+CCGELMGK_02296	CDS	225	rpmB		COG0227	50S ribosomal protein L28
+CCGELMGK_02297	CDS	189	rpmG2			50S ribosomal protein L33 2
+CCGELMGK_02298	tRNA	74				tRNA-Phe(gaa)
+CCGELMGK_02299	CDS	510				hypothetical protein
+CCGELMGK_02300	CDS	444				hypothetical protein
+CCGELMGK_02301	CDS	576	citE	4.1.3.6	COG2301	Citrate lyase subunit beta
+CCGELMGK_02302	CDS	561				hypothetical protein
+CCGELMGK_02303	CDS	240				hypothetical protein
+CCGELMGK_02304	tRNA	93				tRNA-Ser(cga)
+CCGELMGK_02305	CDS	741				hypothetical protein
+CCGELMGK_02306	CDS	225	CARKD	4.2.1.136		ATP-dependent (S)-NAD(P)H-hydrate dehydratase
+CCGELMGK_02307	CDS	315				hypothetical protein
+CCGELMGK_02308	CDS	492				hypothetical protein
+CCGELMGK_02309	CDS	1197				hypothetical protein
+CCGELMGK_02310	CDS	1041	ndhB	7.1.1.-	COG1007	NAD(P)H-quinone oxidoreductase subunit 2
+CCGELMGK_02311	CDS	93				hypothetical protein
+CCGELMGK_02312	CDS	699				hypothetical protein
+CCGELMGK_02313	CDS	189				hypothetical protein
+CCGELMGK_02314	CDS	183				hypothetical protein
+CCGELMGK_02315	CDS	600				hypothetical protein
+CCGELMGK_02316	CDS	684				hypothetical protein
+CCGELMGK_02317	CDS	591				hypothetical protein
+CCGELMGK_02318	CDS	402	rhaR_8			HTH-type transcriptional activator RhaR
+CCGELMGK_02319	CDS	348				hypothetical protein
+CCGELMGK_02320	CDS	534				hypothetical protein
+CCGELMGK_02321	CDS	318				hypothetical protein
+CCGELMGK_02322	CDS	447				hypothetical protein
+CCGELMGK_02323	CDS	885				hypothetical protein
+CCGELMGK_02324	CDS	336				hypothetical protein
+CCGELMGK_02325	CDS	711				hypothetical protein
+CCGELMGK_02326	CDS	1206	irtA	3.6.3.-	COG1132	Iron import ATP-binding/permease protein IrtA
+CCGELMGK_02327	CDS	804				hypothetical protein
+CCGELMGK_02328	CDS	222	dapB	1.17.1.8	COG0289	4-hydroxy-tetrahydrodipicolinate reductase
+CCGELMGK_02329	CDS	1359				hypothetical protein
+CCGELMGK_02330	CDS	294				hypothetical protein
+CCGELMGK_02331	CDS	1548				hypothetical protein
+CCGELMGK_02332	CDS	459				hypothetical protein
+CCGELMGK_02333	CDS	282				hypothetical protein
+CCGELMGK_02334	CDS	648				hypothetical protein
+CCGELMGK_02335	CDS	318	fim1C			Fimbrium subunit Fim1C
+CCGELMGK_02336	CDS	411				hypothetical protein
+CCGELMGK_02337	CDS	579				hypothetical protein
+CCGELMGK_02338	CDS	174				hypothetical protein
+CCGELMGK_02339	CDS	144				hypothetical protein
+CCGELMGK_02340	CDS	132				hypothetical protein
+CCGELMGK_02341	CDS	906	lgt	2.5.1.145	COG0682	Phosphatidylglycerol--prolipoprotein diacylglyceryl transferase
+CCGELMGK_02342	CDS	1047	sasA_2	2.7.-.-		Adaptive-response sensory-kinase SasA
+CCGELMGK_02343	CDS	561	ribE	2.5.1.9	COG0307	Riboflavin synthase
+CCGELMGK_02344	CDS	465				hypothetical protein
+CCGELMGK_02345	tRNA	72				tRNA-Cys(gca)
+CCGELMGK_02346	CDS	1176				hypothetical protein
+CCGELMGK_02347	CDS	687				hypothetical protein
+CCGELMGK_02348	CDS	705				hypothetical protein
+CCGELMGK_02349	CDS	318				hypothetical protein
+CCGELMGK_02350	CDS	291				hypothetical protein
+CCGELMGK_02351	CDS	318				hypothetical protein
+CCGELMGK_02352	CDS	456				hypothetical protein
+CCGELMGK_02353	CDS	552				hypothetical protein
+CCGELMGK_02354	CDS	516				hypothetical protein
+CCGELMGK_02355	CDS	333				hypothetical protein
+CCGELMGK_02356	CDS	534				hypothetical protein
+CCGELMGK_02357	CDS	159				hypothetical protein
+CCGELMGK_02358	CDS	1146	hom	1.1.1.3	COG0460	Homoserine dehydrogenase
+CCGELMGK_02359	CDS	252				hypothetical protein
+CCGELMGK_02360	CDS	519	potB		COG1176	Spermidine/putrescine transport system permease protein PotB
+CCGELMGK_02361	tRNA	74				tRNA-Gly(tcc)
+CCGELMGK_02362	tRNA	74				tRNA-Gly(ccc)
+CCGELMGK_02363	CDS	990				hypothetical protein
+CCGELMGK_02364	CDS	528				hypothetical protein
+CCGELMGK_02365	CDS	204				hypothetical protein
+CCGELMGK_02366	CDS	1152				hypothetical protein
+CCGELMGK_02367	CDS	621				hypothetical protein
+CCGELMGK_02368	CDS	408				hypothetical protein
+CCGELMGK_02369	CDS	843				hypothetical protein
+CCGELMGK_02370	CDS	375	yabJ	3.5.99.10	COG0251	2-iminobutanoate/2-iminopropanoate deaminase
+CCGELMGK_02371	CDS	885				hypothetical protein
+CCGELMGK_02372	CDS	327				hypothetical protein
+CCGELMGK_02373	CDS	138				hypothetical protein
+CCGELMGK_02374	CDS	573	uvrA		COG0178	UvrABC system protein A
+CCGELMGK_02375	CDS	438				hypothetical protein
+CCGELMGK_02376	CDS	966				hypothetical protein
+CCGELMGK_02377	CDS	627				hypothetical protein
+CCGELMGK_02378	CDS	309				hypothetical protein
+CCGELMGK_02379	CDS	552				hypothetical protein
+CCGELMGK_02380	CDS	972	glf	5.4.99.9	COG0562	UDP-galactopyranose mutase
+CCGELMGK_02381	CDS	693				hypothetical protein
+CCGELMGK_02382	CDS	1005	galK_2	2.7.1.6	COG0153	Galactokinase
+CCGELMGK_02383	CDS	477				hypothetical protein
+CCGELMGK_02384	CDS	375	dinF		COG0534	DNA damage-inducible protein F
+CCGELMGK_02385	CDS	501				hypothetical protein
+CCGELMGK_02386	CDS	1410	ahcY	3.3.1.1		Adenosylhomocysteinase
+CCGELMGK_02387	CDS	1302	citN		COG2851	Citrate transporter
+CCGELMGK_02388	CDS	201				hypothetical protein
+CCGELMGK_02389	CDS	291				hypothetical protein
+CCGELMGK_02390	CDS	642				hypothetical protein
+CCGELMGK_02391	CDS	1089				hypothetical protein
+CCGELMGK_02392	CDS	636				hypothetical protein
+CCGELMGK_02393	CDS	717				hypothetical protein
+CCGELMGK_02394	CDS	360				hypothetical protein
+CCGELMGK_02395	CDS	633				hypothetical protein
+CCGELMGK_02396	CDS	216				hypothetical protein
+CCGELMGK_02397	CDS	939				hypothetical protein
+CCGELMGK_02398	CDS	207				hypothetical protein
+CCGELMGK_02399	CDS	477				hypothetical protein
+CCGELMGK_02400	CDS	228				hypothetical protein
+CCGELMGK_02401	CDS	852				hypothetical protein
+CCGELMGK_02402	CDS	333				hypothetical protein
+CCGELMGK_02403	CDS	198	purE	5.4.99.18	COG0041	N5-carboxyaminoimidazole ribonucleotide mutase
+CCGELMGK_02404	CDS	1101	purK	6.3.4.18		N5-carboxyaminoimidazole ribonucleotide synthase
+CCGELMGK_02405	CDS	522	bamA_2			Outer membrane protein assembly factor BamA
+CCGELMGK_02406	CDS	504	tolQ			Tol-Pal system protein TolQ
+CCGELMGK_02407	CDS	447	tolR_1			Tol-Pal system protein TolR
+CCGELMGK_02408	CDS	255				hypothetical protein
+CCGELMGK_02409	CDS	741				hypothetical protein
+CCGELMGK_02410	CDS	369				hypothetical protein
+CCGELMGK_02411	CDS	393				hypothetical protein
+CCGELMGK_02412	CDS	315				hypothetical protein
+CCGELMGK_02413	CDS	180				hypothetical protein
+CCGELMGK_02414	CDS	831				hypothetical protein
+CCGELMGK_02415	CDS	396				hypothetical protein
+CCGELMGK_02416	CDS	351				hypothetical protein
+CCGELMGK_02417	CDS	411				hypothetical protein
+CCGELMGK_02418	CDS	1239				hypothetical protein
+CCGELMGK_02419	CDS	309				hypothetical protein
+CCGELMGK_02420	CDS	186				hypothetical protein
+CCGELMGK_02421	CDS	300				hypothetical protein
+CCGELMGK_02422	CDS	423				hypothetical protein
+CCGELMGK_02423	CDS	681				hypothetical protein
+CCGELMGK_02424	CDS	426				hypothetical protein
+CCGELMGK_02425	CDS	201	csp		COG1278	Cold shock-like protein
+CCGELMGK_02426	CDS	819				IS3 family transposase ISStrsp1
+CCGELMGK_02427	CDS	564				hypothetical protein
+CCGELMGK_02428	CDS	684				hypothetical protein
+CCGELMGK_02429	CDS	384				hypothetical protein
+CCGELMGK_02430	CDS	633				hypothetical protein
+CCGELMGK_02431	CDS	630				hypothetical protein
+CCGELMGK_02432	CDS	600	carE_2	1.3.1.108	COG2025	Caffeyl-CoA reductase-Etf complex subunit CarE
+CCGELMGK_02433	CDS	435				hypothetical protein
+CCGELMGK_02434	CDS	606				hypothetical protein
+CCGELMGK_02435	CDS	165				hypothetical protein
+CCGELMGK_02436	CDS	828				hypothetical protein
+CCGELMGK_02437	CDS	1977	cpdA	3.1.4.53		3',5'-cyclic adenosine monophosphate phosphodiesterase CpdA
+CCGELMGK_02438	CDS	381				hypothetical protein
+CCGELMGK_02439	CDS	204				hypothetical protein
+CCGELMGK_02440	CDS	381				hypothetical protein
+CCGELMGK_02441	CDS	555				hypothetical protein
+CCGELMGK_02442	CDS	447				hypothetical protein
+CCGELMGK_02443	CDS	1674	madA	2.3.1.187		Acetyl-S-ACP:malonate ACP transferase
+CCGELMGK_02444	CDS	120				hypothetical protein
+CCGELMGK_02445	CDS	486	bioA	2.6.1.62		Adenosylmethionine-8-amino-7-oxononanoate aminotransferase
+CCGELMGK_02446	CDS	600				hypothetical protein
+CCGELMGK_02447	CDS	354				hypothetical protein
+CCGELMGK_02448	CDS	1023				hypothetical protein
+CCGELMGK_02449	CDS	2673				hypothetical protein
+CCGELMGK_02450	CDS	474				hypothetical protein
+CCGELMGK_02451	CDS	1446	trkH		COG0168	Trk system potassium uptake protein TrkH
+CCGELMGK_02452	CDS	165				hypothetical protein
+CCGELMGK_02453	CDS	675				hypothetical protein
+CCGELMGK_02454	CDS	240				hypothetical protein
+CCGELMGK_02455	CDS	672				hypothetical protein
+CCGELMGK_02456	CDS	1041	cobT	2.4.2.21	COG2038	Nicotinate-nucleotide--dimethylbenzimidazole phosphoribosyltransferase
+CCGELMGK_02457	CDS	429				hypothetical protein
+CCGELMGK_02458	CDS	678	susC_3			TonB-dependent receptor SusC
+CCGELMGK_02459	CDS	318				hypothetical protein
+CCGELMGK_02460	CDS	357				hypothetical protein
+CCGELMGK_02461	CDS	900				TonB-dependent receptor P3
+CCGELMGK_02462	CDS	573				hypothetical protein
+CCGELMGK_02463	CDS	504	dsbH	1.8.-.-	COG0526	Disulfide bond reductase DsbH
+CCGELMGK_02464	CDS	1413				hypothetical protein
+CCGELMGK_02465	CDS	387				hypothetical protein
+CCGELMGK_02466	CDS	282				hypothetical protein
+CCGELMGK_02467	CDS	231				hypothetical protein
+CCGELMGK_02468	CDS	576	recJ	3.1.-.-	COG0608	Single-stranded-DNA-specific exonuclease RecJ
+CCGELMGK_02469	CDS	156				hypothetical protein
+CCGELMGK_02470	CDS	216				hypothetical protein
+CCGELMGK_02471	CDS	483				hypothetical protein
+CCGELMGK_02472	CDS	1644				hypothetical protein
+CCGELMGK_02473	CDS	195				hypothetical protein
+CCGELMGK_02474	CDS	642	agaA_3	3.2.1.22		Alpha-galactosidase AgaA
+CCGELMGK_02475	CDS	468				hypothetical protein
+CCGELMGK_02476	CDS	975				hypothetical protein
+CCGELMGK_02477	CDS	417				hypothetical protein
+CCGELMGK_02478	CDS	582				hypothetical protein
+CCGELMGK_02479	CDS	417				hypothetical protein
+CCGELMGK_02480	CDS	231				hypothetical protein
+CCGELMGK_02481	CDS	768				hypothetical protein
+CCGELMGK_02482	CDS	321			COG1120	putative ABC transporter ATP-binding protein
+CCGELMGK_02483	CDS	408				hypothetical protein
+CCGELMGK_02484	CDS	285				hypothetical protein
+CCGELMGK_02485	CDS	639	rsmH	2.1.1.199		Ribosomal RNA small subunit methyltransferase H
+CCGELMGK_02486	CDS	186				hypothetical protein
+CCGELMGK_02487	rRNA	1125				23S ribosomal RNA (partial)
+CCGELMGK_02488	CDS	447				hypothetical protein
+CCGELMGK_02489	CDS	147				hypothetical protein
+CCGELMGK_02490	CDS	225				hypothetical protein
+CCGELMGK_02491	CDS	213				hypothetical protein
+CCGELMGK_02492	CDS	471				hypothetical protein
+CCGELMGK_02493	CDS	708	pyrH_2	2.7.4.22	COG0528	Uridylate kinase
+CCGELMGK_02494	CDS	597				hypothetical protein
+CCGELMGK_02495	CDS	216				hypothetical protein
+CCGELMGK_02496	CDS	387				hypothetical protein
+CCGELMGK_02497	CDS	348				hypothetical protein
+CCGELMGK_02498	CDS	405				hypothetical protein
+CCGELMGK_02499	CDS	744				hypothetical protein
+CCGELMGK_02500	CDS	312				hypothetical protein
+CCGELMGK_02501	CDS	1857				hypothetical protein
+CCGELMGK_02502	CDS	894				hypothetical protein
+CCGELMGK_02503	CDS	192				hypothetical protein
+CCGELMGK_02504	CDS	315				hypothetical protein
+CCGELMGK_02505	CDS	249				hypothetical protein
+CCGELMGK_02506	CDS	324				hypothetical protein
+CCGELMGK_02507	CDS	222				hypothetical protein
+CCGELMGK_02508	CDS	273	aspS	6.1.1.12		Aspartate--tRNA ligase
+CCGELMGK_02509	CDS	291				hypothetical protein
+CCGELMGK_02510	CDS	234				hypothetical protein
+CCGELMGK_02511	CDS	921				hypothetical protein
+CCGELMGK_02512	CDS	282	hup_3		COG0776	DNA-binding protein HU
+CCGELMGK_02513	CDS	318				hypothetical protein
+CCGELMGK_02514	CDS	246	hutH	4.3.1.3		Histidine ammonia-lyase
+CCGELMGK_02515	CDS	645				hypothetical protein
+CCGELMGK_02516	CDS	1014	purM_2	6.3.3.1	COG0150	Phosphoribosylformylglycinamidine cyclo-ligase
+CCGELMGK_02517	CDS	333				hypothetical protein
+CCGELMGK_02518	CDS	381				hypothetical protein
+CCGELMGK_02519	CDS	243				hypothetical protein
+CCGELMGK_02520	CDS	648				hypothetical protein
+CCGELMGK_02521	CDS	435				hypothetical protein
+CCGELMGK_02522	CDS	912				TonB-dependent receptor P3
+CCGELMGK_02523	CDS	345				hypothetical protein
+CCGELMGK_02524	CDS	477				hypothetical protein
+CCGELMGK_02525	CDS	405				hypothetical protein
+CCGELMGK_02526	CDS	378				hypothetical protein
+CCGELMGK_02527	CDS	711	bamD			Outer membrane protein assembly factor BamD
+CCGELMGK_02528	CDS	321				hypothetical protein
+CCGELMGK_02529	CDS	207				hypothetical protein
+CCGELMGK_02530	CDS	513				hypothetical protein
+CCGELMGK_02531	CDS	456				hypothetical protein
+CCGELMGK_02532	CDS	540				hypothetical protein
+CCGELMGK_02533	CDS	216				hypothetical protein
+CCGELMGK_02534	CDS	435				hypothetical protein
+CCGELMGK_02535	CDS	222				hypothetical protein
+CCGELMGK_02536	CDS	651				hypothetical protein
+CCGELMGK_02537	CDS	159				hypothetical protein
+CCGELMGK_02538	CDS	1377				hypothetical protein
+CCGELMGK_02539	CDS	315	trxA		COG0526	Thioredoxin
+CCGELMGK_02540	CDS	552	dnaE_2	2.7.7.7	COG0587	DNA polymerase III subunit alpha
+CCGELMGK_02541	CDS	198				hypothetical protein
+CCGELMGK_02542	CDS	810				hypothetical protein
+CCGELMGK_02543	CDS	201				hypothetical protein
+CCGELMGK_02544	CDS	288				hypothetical protein
+CCGELMGK_02545	CDS	579				hypothetical protein
+CCGELMGK_02546	CDS	756				hypothetical protein
+CCGELMGK_02547	CDS	201				hypothetical protein
+CCGELMGK_02548	CDS	780	rsgA_2	3.6.1.-	COG1162	Small ribosomal subunit biogenesis GTPase RsgA
+CCGELMGK_02549	CDS	255				hypothetical protein
+CCGELMGK_02550	CDS	549				hypothetical protein
+CCGELMGK_02551	CDS	657				hypothetical protein
+CCGELMGK_02552	CDS	1068				hypothetical protein
+CCGELMGK_02553	CDS	1116				hypothetical protein
+CCGELMGK_02554	CDS	360				hypothetical protein
+CCGELMGK_02555	CDS	723				hypothetical protein
+CCGELMGK_02556	CDS	999				hypothetical protein
+CCGELMGK_02557	CDS	447				hypothetical protein
+CCGELMGK_02558	CDS	213				hypothetical protein
+CCGELMGK_02559	CDS	243				hypothetical protein
+CCGELMGK_02560	CDS	168				hypothetical protein
+CCGELMGK_02561	CDS	537				hypothetical protein
+CCGELMGK_02562	tRNA	77				tRNA-Arg(tct)
+CCGELMGK_02563	CDS	510	ybeY_2	3.1.-.-		Endoribonuclease YbeY
+CCGELMGK_02564	CDS	615				hypothetical protein
+CCGELMGK_02565	CDS	633				hypothetical protein
+CCGELMGK_02566	CDS	381				hypothetical protein
+CCGELMGK_02567	CDS	630				hypothetical protein
+CCGELMGK_02568	CDS	882				hypothetical protein
+CCGELMGK_02569	CDS	555		2.7.7.-	COG2184	Protein adenylyltransferase NmFic
+CCGELMGK_02570	CDS	153				hypothetical protein
+CCGELMGK_02571	CDS	369				hypothetical protein
+CCGELMGK_02572	CDS	477				hypothetical protein
+CCGELMGK_02573	CDS	444				hypothetical protein
+CCGELMGK_02574	CDS	492				hypothetical protein
+CCGELMGK_02575	CDS	804	xerC_17			Tyrosine recombinase XerC
+CCGELMGK_02576	CDS	264				hypothetical protein
+CCGELMGK_02577	CDS	288				hypothetical protein
+CCGELMGK_02578	CDS	768				hypothetical protein
+CCGELMGK_02579	CDS	177				hypothetical protein
+CCGELMGK_02580	CDS	165				hypothetical protein
+CCGELMGK_02581	CDS	1104				hypothetical protein
+CCGELMGK_02582	CDS	459				hypothetical protein
+CCGELMGK_02583	CDS	288				hypothetical protein
+CCGELMGK_02584	CDS	321				hypothetical protein
+CCGELMGK_02585	CDS	1263				hypothetical protein
+CCGELMGK_02586	CDS	102				hypothetical protein
+CCGELMGK_02587	CDS	396	ftsE		COG2884	Cell division ATP-binding protein FtsE
+CCGELMGK_02588	CDS	1632				hypothetical protein
+CCGELMGK_02589	CDS	828				hypothetical protein
+CCGELMGK_02590	CDS	1008	clpX		COG1219	ATP-dependent Clp protease ATP-binding subunit ClpX
+CCGELMGK_02591	CDS	921				hypothetical protein
+CCGELMGK_02592	CDS	693				hypothetical protein
+CCGELMGK_02593	CDS	291				hypothetical protein
+CCGELMGK_02594	CDS	168				hypothetical protein
+CCGELMGK_02595	CDS	210				hypothetical protein
+CCGELMGK_02596	CDS	411				hypothetical protein
+CCGELMGK_02597	CDS	432				hypothetical protein
+CCGELMGK_02598	CDS	723				hypothetical protein
+CCGELMGK_02599	CDS	300				hypothetical protein
+CCGELMGK_02600	CDS	873				hypothetical protein
+CCGELMGK_02601	CDS	783	spnN	1.1.1.384		dTDP-3,4-didehydro-2,6-dideoxy-alpha-D-glucose 3-reductase
+CCGELMGK_02602	CDS	204				hypothetical protein
+CCGELMGK_02603	CDS	408				hypothetical protein
+CCGELMGK_02604	CDS	408				hypothetical protein
+CCGELMGK_02605	CDS	231				hypothetical protein
+CCGELMGK_02606	CDS	882				hypothetical protein
+CCGELMGK_02607	CDS	180				hypothetical protein
+CCGELMGK_02608	CDS	459	tolR_2			Tol-Pal system protein TolR
+CCGELMGK_02609	CDS	462				hypothetical protein
+CCGELMGK_02610	CDS	402				hypothetical protein
+CCGELMGK_02611	CDS	558				hypothetical protein
+CCGELMGK_02612	CDS	420				hypothetical protein
+CCGELMGK_02613	CDS	462				hypothetical protein
+CCGELMGK_02614	CDS	381	ndoA	3.1.27.-	COG2337	Endoribonuclease EndoA
+CCGELMGK_02615	CDS	228				hypothetical protein
+CCGELMGK_02616	CDS	279				hypothetical protein
+CCGELMGK_02617	CDS	186				hypothetical protein
+CCGELMGK_02618	CDS	1155	trkA		COG0569	Trk system potassium uptake protein TrkA
+CCGELMGK_02619	CDS	342				hypothetical protein
+CCGELMGK_02620	CDS	183				hypothetical protein
+CCGELMGK_02621	CDS	225				hypothetical protein
+CCGELMGK_02622	CDS	954				hypothetical protein
+CCGELMGK_02623	CDS	714				hypothetical protein
+CCGELMGK_02624	CDS	384				hypothetical protein
+CCGELMGK_02625	CDS	429				hypothetical protein
+CCGELMGK_02626	CDS	276	aspS1	6.1.1.12	COG0173	Aspartate--tRNA(Asp) ligase
+CCGELMGK_02627	CDS	552				hypothetical protein
+CCGELMGK_02628	CDS	204				hypothetical protein
+CCGELMGK_02629	CDS	372				hypothetical protein
+CCGELMGK_02630	CDS	351				hypothetical protein
+CCGELMGK_02631	CDS	528				hypothetical protein
+CCGELMGK_02632	CDS	711				hypothetical protein
+CCGELMGK_02633	CDS	744				hypothetical protein
+CCGELMGK_02634	CDS	990				Putative fimbrium anchoring subunit Fim4B
+CCGELMGK_02635	CDS	357	ziaR			Transcriptional repressor SmtB 
+CCGELMGK_02636	CDS	528				hypothetical protein
+CCGELMGK_02637	CDS	138	murE	6.3.2.7		UDP-N-acetylmuramoyl-L-alanyl-D-glutamate--2,6-diaminopimelate ligase
+CCGELMGK_02638	CDS	1245	mraY	2.7.8.13	COG0472	Phospho-N-acetylmuramoyl-pentapeptide-transferase
+CCGELMGK_02639	CDS	699				hypothetical protein
+CCGELMGK_02640	CDS	177				hypothetical protein
+CCGELMGK_02641	CDS	534	mshA_3	2.4.1.250		D-inositol-3-phosphate glycosyltransferase
+CCGELMGK_02642	CDS	282				hypothetical protein
+CCGELMGK_02643	CDS	240				hypothetical protein
+CCGELMGK_02644	CDS	603				hypothetical protein
+CCGELMGK_02645	tRNA	74				tRNA-Gly(gcc)
+CCGELMGK_02646	CDS	441				hypothetical protein

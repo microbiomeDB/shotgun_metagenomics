@@ -1,0 +1,6 @@
+2024-07-11 00:10:58 ERROR:	Cannot reach https://busco-data.ezlab.org/v5/data/information/virus_datasets.2020-11-26.txt.tar.gz
+2024-07-11 00:12:33 ERROR:	Cannot reach https://busco-data.ezlab.org/v5/data/lineages/iridoviridae_odb10.2024-01-08.tar.gz
+2024-07-11 00:13:49 ERROR:	No genes were recognized by BUSCO. Please check the content of your input file.
+2024-07-11 00:13:49 ERROR:	BUSCO analysis failed!
+2024-07-11 00:13:49 ERROR:	Check the logs, read the user guide (https://busco.ezlab.org/busco_userguide.html), and check the BUSCO issue board on https://gitlab.com/ezlab/busco/issues
+

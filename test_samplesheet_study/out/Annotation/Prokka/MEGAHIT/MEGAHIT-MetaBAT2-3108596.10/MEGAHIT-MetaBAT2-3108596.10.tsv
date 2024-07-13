@@ -1,0 +1,202 @@
+locus_tag	ftype	length_bp	gene	EC_number	COG	product
+CGBELFPF_00001	CDS	549	cysS	6.1.1.16	COG0215	Cysteine--tRNA ligase
+CGBELFPF_00002	CDS	1572	cmdF	5.4.3.6		Tyrosine 2,3-aminomutase
+CGBELFPF_00003	CDS	729	fabG	1.1.1.100		3-oxoacyl-[acyl-carrier-protein] reductase FabG
+CGBELFPF_00004	CDS	1230	fabB	2.3.1.41	COG0304	3-oxoacyl-[acyl-carrier-protein] synthase 1
+CGBELFPF_00005	CDS	252	acpP			Acyl carrier protein
+CGBELFPF_00006	CDS	885	lpxL	2.3.1.241		Lipid A biosynthesis lauroyltransferase
+CGBELFPF_00007	CDS	1071	sfmM2	2.1.1.304		L-tyrosine C(3)-methyltransferase
+CGBELFPF_00008	CDS	438				hypothetical protein
+CGBELFPF_00009	CDS	216				hypothetical protein
+CGBELFPF_00010	CDS	954				hypothetical protein
+CGBELFPF_00011	CDS	1911	btuB_1		COG4206	Vitamin B12 transporter BtuB
+CGBELFPF_00012	CDS	432				hypothetical protein
+CGBELFPF_00013	CDS	180				hypothetical protein
+CGBELFPF_00014	CDS	780				hypothetical protein
+CGBELFPF_00015	CDS	843				hypothetical protein
+CGBELFPF_00016	CDS	558				hypothetical protein
+CGBELFPF_00017	CDS	399				hypothetical protein
+CGBELFPF_00018	CDS	453				hypothetical protein
+CGBELFPF_00019	CDS	1053				hypothetical protein
+CGBELFPF_00020	CDS	648				hypothetical protein
+CGBELFPF_00021	CDS	2952	susC			TonB-dependent receptor SusC
+CGBELFPF_00022	CDS	1665				hypothetical protein
+CGBELFPF_00023	CDS	999				hypothetical protein
+CGBELFPF_00024	CDS	738	glpK	2.7.1.30	COG0554	Glycerol kinase
+CGBELFPF_00025	CDS	1362				hypothetical protein
+CGBELFPF_00026	CDS	1779				hypothetical protein
+CGBELFPF_00027	CDS	1884				hypothetical protein
+CGBELFPF_00028	CDS	588				hypothetical protein
+CGBELFPF_00029	CDS	1419				hypothetical protein
+CGBELFPF_00030	CDS	1617				hypothetical protein
+CGBELFPF_00031	CDS	972				hypothetical protein
+CGBELFPF_00032	CDS	1248				hypothetical protein
+CGBELFPF_00033	CDS	3333				hypothetical protein
+CGBELFPF_00034	CDS	225				hypothetical protein
+CGBELFPF_00035	CDS	1032	btuC		COG4139	Vitamin B12 import system permease protein BtuC
+CGBELFPF_00036	CDS	1296				hypothetical protein
+CGBELFPF_00037	CDS	177				hypothetical protein
+CGBELFPF_00038	CDS	444				hypothetical protein
+CGBELFPF_00039	CDS	180				hypothetical protein
+CGBELFPF_00040	CDS	3969				hypothetical protein
+CGBELFPF_00041	CDS	1023				hypothetical protein
+CGBELFPF_00042	CDS	321				hypothetical protein
+CGBELFPF_00043	CDS	306				hypothetical protein
+CGBELFPF_00044	CDS	1434	yeeO		COG0534	putative FMN/FAD exporter YeeO
+CGBELFPF_00045	CDS	867				hypothetical protein
+CGBELFPF_00046	CDS	567	lacA	2.3.1.18	COG0110	Galactoside O-acetyltransferase
+CGBELFPF_00047	CDS	474				hypothetical protein
+CGBELFPF_00048	CDS	213				hypothetical protein
+CGBELFPF_00049	CDS	852		1.-.-.-	COG0656	putative oxidoreductase/MSMEI_2347
+CGBELFPF_00050	CDS	858	rhaR			HTH-type transcriptional activator RhaR
+CGBELFPF_00051	CDS	912		1.1.1.391	COG1028	3-beta-hydroxycholanate 3-dehydrogenase (NAD(+)) 2
+CGBELFPF_00052	CDS	954				hypothetical protein
+CGBELFPF_00053	CDS	1260				hypothetical protein
+CGBELFPF_00054	CDS	1062				hypothetical protein
+CGBELFPF_00055	CDS	678	arlR		COG0745	Response regulator ArlR
+CGBELFPF_00056	CDS	141				hypothetical protein
+CGBELFPF_00057	CDS	1461	czcA			Cobalt-zinc-cadmium resistance protein CzcA
+CGBELFPF_00058	CDS	1038		1.8.-.-	COG0502	[FeFe] hydrogenase maturase subunit HydE
+CGBELFPF_00059	CDS	840		1.12.7.2		Iron hydrogenase 1
+CGBELFPF_00060	CDS	486				hypothetical protein
+CGBELFPF_00061	CDS	360				hypothetical protein
+CGBELFPF_00062	CDS	1044				hypothetical protein
+CGBELFPF_00063	CDS	462				hypothetical protein
+CGBELFPF_00064	CDS	978	htpX	3.4.24.-		Protease HtpX
+CGBELFPF_00065	CDS	462				hypothetical protein
+CGBELFPF_00066	CDS	564				hypothetical protein
+CGBELFPF_00067	CDS	900				hypothetical protein
+CGBELFPF_00068	CDS	321				hypothetical protein
+CGBELFPF_00069	CDS	801				hypothetical protein
+CGBELFPF_00070	CDS	291				hypothetical protein
+CGBELFPF_00071	CDS	450				hypothetical protein
+CGBELFPF_00072	CDS	1014				hypothetical protein
+CGBELFPF_00073	CDS	630				hypothetical protein
+CGBELFPF_00074	CDS	276				hypothetical protein
+CGBELFPF_00075	CDS	1149				hypothetical protein
+CGBELFPF_00076	CDS	2190	glnA	6.3.1.2		Glutamine synthetase
+CGBELFPF_00077	CDS	1398	amtB			Ammonia channel
+CGBELFPF_00078	CDS	357	glnB		COG0347	Nitrogen regulatory protein P-II
+CGBELFPF_00079	CDS	216				hypothetical protein
+CGBELFPF_00080	CDS	336				hypothetical protein
+CGBELFPF_00081	CDS	3600				hypothetical protein
+CGBELFPF_00082	CDS	1626				hypothetical protein
+CGBELFPF_00083	CDS	528				hypothetical protein
+CGBELFPF_00084	CDS	828	rhaS_1			HTH-type transcriptional activator RhaS
+CGBELFPF_00085	CDS	1023	bcr			Bicyclomycin resistance protein
+CGBELFPF_00086	CDS	813	rhaS_2			HTH-type transcriptional activator RhaS
+CGBELFPF_00087	CDS	828				hypothetical protein
+CGBELFPF_00088	CDS	381	patB	4.4.1.13	COG1168	Cystathionine beta-lyase PatB
+CGBELFPF_00089	CDS	801				hypothetical protein
+CGBELFPF_00090	CDS	1140				hypothetical protein
+CGBELFPF_00091	CDS	1380				hypothetical protein
+CGBELFPF_00092	CDS	1914	btuB_2			Vitamin B12 transporter BtuB
+CGBELFPF_00093	CDS	1161	xerC			Tyrosine recombinase XerC
+CGBELFPF_00094	CDS	1524				hypothetical protein
+CGBELFPF_00095	CDS	783				hypothetical protein
+CGBELFPF_00096	CDS	408				hypothetical protein
+CGBELFPF_00097	CDS	450				hypothetical protein
+CGBELFPF_00098	CDS	1068				hypothetical protein
+CGBELFPF_00099	CDS	159				hypothetical protein
+CGBELFPF_00100	CDS	639				hypothetical protein
+CGBELFPF_00101	CDS	267				hypothetical protein
+CGBELFPF_00102	CDS	1626	btuD_1	7.6.2.8		Vitamin B12 import ATP-binding protein BtuD
+CGBELFPF_00103	CDS	453				hypothetical protein
+CGBELFPF_00104	CDS	663				Outer membrane protein 40
+CGBELFPF_00105	CDS	1914				hypothetical protein
+CGBELFPF_00106	CDS	2292				hypothetical protein
+CGBELFPF_00107	CDS	192				hypothetical protein
+CGBELFPF_00108	CDS	2346				hypothetical protein
+CGBELFPF_00109	CDS	792				hypothetical protein
+CGBELFPF_00110	CDS	909				hypothetical protein
+CGBELFPF_00111	CDS	1128				hypothetical protein
+CGBELFPF_00112	CDS	285				hypothetical protein
+CGBELFPF_00113	CDS	672	wcaJ	2.7.8.31	COG2148	UDP-glucose:undecaprenyl-phosphate glucose-1-phosphate transferase
+CGBELFPF_00114	CDS	1122	mshA_1	2.4.1.250		D-inositol-3-phosphate glycosyltransferase
+CGBELFPF_00115	CDS	1089	mshA_2	2.4.1.250		D-inositol-3-phosphate glycosyltransferase
+CGBELFPF_00116	CDS	783				hypothetical protein
+CGBELFPF_00117	CDS	1269				hypothetical protein
+CGBELFPF_00118	CDS	987	epsJ	2.4.-.-	COG0463	putative glycosyltransferase EpsJ
+CGBELFPF_00119	CDS	1062	arnC	2.4.2.53		Undecaprenyl-phosphate 4-deoxy-4-formamido-L-arabinose transferase
+CGBELFPF_00120	CDS	1113	mshA_3	2.4.1.250		D-inositol-3-phosphate glycosyltransferase
+CGBELFPF_00121	CDS	1104				hypothetical protein
+CGBELFPF_00122	CDS	501	pglJ	2.4.1.291	COG0438	N-acetylgalactosamine-N,N'-diacetylbacillosaminyl-diphospho-undecaprenol 4-alpha-N-acetylgalactosaminyltransferase
+CGBELFPF_00123	CDS	1134	iolS	1.1.1.-	COG0667	Aldo-keto reductase IolS
+CGBELFPF_00124	CDS	993				hypothetical protein
+CGBELFPF_00125	CDS	1296				hypothetical protein
+CGBELFPF_00126	CDS	906				hypothetical protein
+CGBELFPF_00127	CDS	1518				hypothetical protein
+CGBELFPF_00128	CDS	708		5.1.1.20	COG4948	L-Ala-D/L-Glu epimerase
+CGBELFPF_00129	CDS	450				hypothetical protein
+CGBELFPF_00130	CDS	390				hypothetical protein
+CGBELFPF_00131	CDS	414				hypothetical protein
+CGBELFPF_00132	CDS	225				hypothetical protein
+CGBELFPF_00133	CDS	681				hypothetical protein
+CGBELFPF_00134	CDS	2091				hypothetical protein
+CGBELFPF_00135	CDS	483				hypothetical protein
+CGBELFPF_00136	CDS	1806	ltrA		COG3344	Group II intron-encoded protein LtrA
+CGBELFPF_00137	CDS	627				hypothetical protein
+CGBELFPF_00138	CDS	1368				hypothetical protein
+CGBELFPF_00139	CDS	2064	bepG			Efflux pump membrane transporter BepG
+CGBELFPF_00140	CDS	294				hypothetical protein
+CGBELFPF_00141	CDS	456				hypothetical protein
+CGBELFPF_00142	CDS	429				hypothetical protein
+CGBELFPF_00143	CDS	300				hypothetical protein
+CGBELFPF_00144	CDS	321				hypothetical protein
+CGBELFPF_00145	CDS	171				hypothetical protein
+CGBELFPF_00146	CDS	597				hypothetical protein
+CGBELFPF_00147	CDS	606				hypothetical protein
+CGBELFPF_00148	CDS	1227				Outer membrane protein 40
+CGBELFPF_00149	CDS	1146	epsN	2.6.1.-	COG0399	Putative pyridoxal phosphate-dependent aminotransferase EpsN
+CGBELFPF_00150	CDS	390				hypothetical protein
+CGBELFPF_00151	CDS	396				hypothetical protein
+CGBELFPF_00152	CDS	1104	albA	1.21.98.-	COG0535	Antilisterial bacteriocin subtilosin biosynthesis protein AlbA
+CGBELFPF_00153	CDS	1107	moaA			GTP 3',8-cyclase
+CGBELFPF_00154	CDS	885				hypothetical protein
+CGBELFPF_00155	CDS	441				hypothetical protein
+CGBELFPF_00156	CDS	282				hypothetical protein
+CGBELFPF_00157	CDS	270				hypothetical protein
+CGBELFPF_00158	CDS	1083				hypothetical protein
+CGBELFPF_00159	CDS	1008				hypothetical protein
+CGBELFPF_00160	CDS	696	pglK	7.5.2.5	COG1132	Protein glycosylation K
+CGBELFPF_00161	CDS	810				hypothetical protein
+CGBELFPF_00162	CDS	2412				hypothetical protein
+CGBELFPF_00163	CDS	720	ywqE	3.1.3.48	COG4464	Tyrosine-protein phosphatase YwqE
+CGBELFPF_00164	CDS	1005				hypothetical protein
+CGBELFPF_00165	CDS	846				hypothetical protein
+CGBELFPF_00166	CDS	1275	btuD_2	7.6.2.8		Vitamin B12 import ATP-binding protein BtuD
+CGBELFPF_00167	CDS	1338				hypothetical protein
+CGBELFPF_00168	CDS	360				hypothetical protein
+CGBELFPF_00169	CDS	846				hypothetical protein
+CGBELFPF_00170	CDS	636	vat	2.3.1.-		Virginiamycin A acetyltransferase
+CGBELFPF_00171	CDS	1338	mdtK			Multidrug resistance protein MdtK
+CGBELFPF_00172	CDS	621				hypothetical protein
+CGBELFPF_00173	CDS	819				hypothetical protein
+CGBELFPF_00174	CDS	702				hypothetical protein
+CGBELFPF_00175	CDS	1002				hypothetical protein
+CGBELFPF_00176	CDS	252				hypothetical protein
+CGBELFPF_00177	CDS	375				hypothetical protein
+CGBELFPF_00178	CDS	813				hypothetical protein
+CGBELFPF_00179	CDS	597				hypothetical protein
+CGBELFPF_00180	CDS	600				hypothetical protein
+CGBELFPF_00181	CDS	639				hypothetical protein
+CGBELFPF_00182	CDS	1101				hypothetical protein
+CGBELFPF_00183	CDS	204	tatA			Sec-independent protein translocase protein TatA
+CGBELFPF_00184	CDS	486	tatC			Sec-independent protein translocase protein TatC
+CGBELFPF_00185	CDS	906				hypothetical protein
+CGBELFPF_00186	CDS	288				hypothetical protein
+CGBELFPF_00187	CDS	138				hypothetical protein
+CGBELFPF_00188	CDS	195				hypothetical protein
+CGBELFPF_00189	CDS	663				hypothetical protein
+CGBELFPF_00190	CDS	222				hypothetical protein
+CGBELFPF_00191	CDS	561				hypothetical protein
+CGBELFPF_00192	CDS	345				hypothetical protein
+CGBELFPF_00193	CDS	543				hypothetical protein
+CGBELFPF_00194	CDS	351				hypothetical protein
+CGBELFPF_00195	CDS	753	linC	1.1.1.-	COG1028	2,5-dichloro-2,5-cyclohexadiene-1,4-diol dehydrogenase
+CGBELFPF_00196	CDS	1167				hypothetical protein
+CGBELFPF_00197	CDS	648				hypothetical protein
+CGBELFPF_00198	CDS	975			COG1073	putative protein
+CGBELFPF_00199	CDS	351				hypothetical protein
+CGBELFPF_00200	CDS	483				hypothetical protein
+CGBELFPF_00201	CDS	1074				hypothetical protein

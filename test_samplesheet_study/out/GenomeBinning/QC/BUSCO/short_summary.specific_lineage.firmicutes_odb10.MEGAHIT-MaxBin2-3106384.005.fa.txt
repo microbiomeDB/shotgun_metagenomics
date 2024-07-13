@@ -1,0 +1,40 @@
+# BUSCO version is: 5.4.3 
+# The lineage dataset is: firmicutes_odb10 (Creation date: 2024-01-08, number of genomes: 1212, number of BUSCOs: 218)
+# Summarized benchmarking in BUSCO notation for file /home/dcallan/work/c8/334277e375e81477ff8a51089eed1f/MEGAHIT-MaxBin2-3106384.005.fa
+# BUSCO was run in mode: prok_genome
+# Gene predictor used: prodigal
+
+	***** Results: *****
+
+	C:90.9%[S:77.1%,D:13.8%],F:4.6%,M:4.5%,n:218	   
+	198	Complete BUSCOs (C)			   
+	168	Complete and single-copy BUSCOs (S)	   
+	30	Complete and duplicated BUSCOs (D)	   
+	10	Fragmented BUSCOs (F)			   
+	10	Missing BUSCOs (M)			   
+	218	Total BUSCO groups searched		   
+
+Assembly Statistics:
+	1113	Number of scaffolds
+	1113	Number of contigs
+	4136241	Total length
+	0.000%	Percent gaps
+	5 KB	Scaffold N50
+	5 KB	Contigs N50
+
+
+Dependencies and versions:
+	hmmsearch: 3.1
+	bbtools: 38.98
+	prodigal: 2.6.3
+	busco: 5.4.3
+	metaeuk: 6.a5d39d9
+	sepp: 4.4.0
+
+Placement file versions:
+	list_of_reference_markers.bacteria_odb10.2019-12-16.txt
+	tree.bacteria_odb10.2019-12-16.nwk
+	tree_metadata.bacteria_odb10.2019-12-16.txt
+	supermatrix.aln.bacteria_odb10.2019-12-16.faa
+	mapping_taxids-busco_dataset_name.bacteria_odb10.2019-12-16.txt
+	mapping_taxid-lineage.bacteria_odb10.2019-12-16.txt

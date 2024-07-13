@@ -1,0 +1,4394 @@
+>Feature k99_6048
+349	654	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	MEEGKEJE_00001
+			product	hypothetical protein
+734	898	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	MEEGKEJE_00002
+			product	hypothetical protein
+934	1539	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	MEEGKEJE_00003
+			product	hypothetical protein
+>Feature k99_6053
+157	1488	CDS
+			EC_number	2.4.99.12
+			db_xref	COG:COG1519
+			gene	waaA
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0AC75
+			locus_tag	MEEGKEJE_00004
+			product	3-deoxy-D-manno-octulosonic acid transferase
+>Feature k99_24173
+12	497	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	MEEGKEJE_00005
+			product	hypothetical protein
+>Feature k99_24209
+1696	809	CDS
+			db_xref	COG:COG0697
+			gene	yicL
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P31437
+			locus_tag	MEEGKEJE_00006
+			product	putative inner membrane transporter YicL
+>Feature k99_6104
+22	333	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	MEEGKEJE_00007
+			product	hypothetical protein
+374	643	CDS
+			gene	atpF
+			inference	ab initio prediction:Prodigal:002006
+			inference	protein motif:HAMAP:MF_00312
+			locus_tag	MEEGKEJE_00008
+			product	V-type ATP synthase subunit F
+663	1244	CDS
+			gene	atpE
+			inference	ab initio prediction:Prodigal:002006
+			inference	protein motif:HAMAP:MF_00311
+			locus_tag	MEEGKEJE_00009
+			product	V-type proton ATPase subunit E
+>Feature k99_6121
+1111	8	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	MEEGKEJE_00010
+			product	hypothetical protein
+1669	1163	CDS
+			EC_number	3.4.21.53
+			db_xref	COG:COG0466
+			gene	lon
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P77810
+			locus_tag	MEEGKEJE_00011
+			product	Lon protease
+>Feature k99_36297
+474	52	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	MEEGKEJE_00012
+			product	hypothetical protein
+652	1197	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	MEEGKEJE_00013
+			product	hypothetical protein
+>Feature k99_6129
+1	1473	CDS
+			db_xref	COG:COG1132
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P9WQJ1
+			locus_tag	MEEGKEJE_00014
+			product	putative ABC transporter ATP-binding protein
+>Feature k99_12185
+702	148	CDS
+			gene	infC
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P03000
+			locus_tag	MEEGKEJE_00015
+			product	Translation initiation factor IF-3
+1383	913	CDS
+			EC_number	3.1.-.-
+			db_xref	COG:COG1074
+			gene	addA
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P23478
+			locus_tag	MEEGKEJE_00016
+			product	ATP-dependent helicase/nuclease subunit A
+>Feature k99_12210
+346	750	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	MEEGKEJE_00017
+			product	hypothetical protein
+759	1289	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	MEEGKEJE_00018
+			product	hypothetical protein
+1357	1479	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	MEEGKEJE_00019
+			product	hypothetical protein
+1476	1877	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	MEEGKEJE_00020
+			product	hypothetical protein
+1900	2817	CDS
+			EC_number	3.1.-.-
+			gene	dinG
+			inference	ab initio prediction:Prodigal:002006
+			inference	protein motif:HAMAP:MF_02206
+			locus_tag	MEEGKEJE_00021
+			product	3'-5' exonuclease DinG
+>Feature k99_42450
+1587	100	CDS
+			EC_number	1.2.1.3
+			gene	aldA
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:Q7A825
+			locus_tag	MEEGKEJE_00022
+			product	Putative aldehyde dehydrogenase AldA
+>Feature k99_12232
+1666	998	CDS
+			EC_number	2.4.2.-
+			db_xref	COG:COG2071
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:O33341
+			locus_tag	MEEGKEJE_00023
+			product	Putative glutamine amidotransferase
+>Feature k99_18290
+1654	776	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	MEEGKEJE_00024
+			product	hypothetical protein
+>Feature k99_12276
+1197	763	CDS
+			db_xref	COG:COG0716
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P00322
+			locus_tag	MEEGKEJE_00025
+			product	Flavodoxin
+1682	1254	CDS
+			db_xref	COG:COG0716
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P00321
+			locus_tag	MEEGKEJE_00026
+			product	Flavodoxin
+>Feature k99_18340
+629	168	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	MEEGKEJE_00027
+			product	hypothetical protein
+>Feature k99_42563
+246	827	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	MEEGKEJE_00028
+			product	hypothetical protein
+824	1276	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	MEEGKEJE_00029
+			product	hypothetical protein
+>Feature k99_42564
+1946	876	CDS
+			EC_number	2.4.2.53
+			gene	arnC_1
+			inference	ab initio prediction:Prodigal:002006
+			inference	protein motif:HAMAP:MF_01164
+			locus_tag	MEEGKEJE_00030
+			product	Undecaprenyl-phosphate 4-deoxy-4-formamido-L-arabinose transferase
+3014	1995	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	MEEGKEJE_00031
+			product	hypothetical protein
+3270	3016	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	MEEGKEJE_00032
+			product	hypothetical protein
+>Feature k99_18346
+186	1337	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	MEEGKEJE_00033
+			product	hypothetical protein
+1350	2498	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	MEEGKEJE_00034
+			product	hypothetical protein
+2500	3084	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	MEEGKEJE_00035
+			product	hypothetical protein
+>Feature k99_30428
+901	1062	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	MEEGKEJE_00036
+			product	hypothetical protein
+1621	1013	CDS
+			EC_number	3.1.2.6
+			db_xref	COG:COG0491
+			gene	gloC
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P75849
+			locus_tag	MEEGKEJE_00037
+			product	Hydroxyacylglutathione hydrolase GloC
+>Feature k99_24492
+94	348	CDS
+			EC_number	2.1.1.207
+			db_xref	COG:COG0219
+			gene	trmL
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:Q74Y93
+			locus_tag	MEEGKEJE_00038
+			product	tRNA (cytidine(34)-2'-O)-methyltransferase
+377	1249	CDS
+			db_xref	COG:COG1307
+			gene	degV
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P32436
+			locus_tag	MEEGKEJE_00039
+			product	Protein DegV
+1593	1318	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	MEEGKEJE_00040
+			product	hypothetical protein
+>Feature k99_18442
+3050	1860	CDS
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:ISfinder:ISEnfa110
+			locus_tag	MEEGKEJE_00041
+			product	IS110 family transposase ISEnfa110
+3394	4326	CDS
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:ISfinder:ISSsu8
+			locus_tag	MEEGKEJE_00042
+			product	IS481 family transposase ISSsu8
+>Feature k99_18460
+65	409	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	MEEGKEJE_00043
+			product	hypothetical protein
+1495	701	CDS
+			EC_number	3.2.1.55
+			db_xref	COG:COG3534
+			gene	abf2
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P94552
+			locus_tag	MEEGKEJE_00044
+			product	Intracellular exo-alpha-L-arabinofuranosidase 2
+>Feature k99_343
+1272	178	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	MEEGKEJE_00045
+			product	hypothetical protein
+2084	1272	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	MEEGKEJE_00046
+			product	hypothetical protein
+>Feature k99_18484
+1111	86	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	MEEGKEJE_00047
+			product	hypothetical protein
+1637	1098	CDS
+			EC_number	3.1.26.3
+			db_xref	COG:COG0571
+			gene	rnc
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P51833
+			locus_tag	MEEGKEJE_00048
+			product	Ribonuclease 3
+>Feature k99_36588
+44	712	CDS
+			EC_number	2.1.1.151
+			db_xref	COG:COG2243
+			gene	cbiL
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:Q05593
+			locus_tag	MEEGKEJE_00049
+			product	Cobalt-precorrin-2 C(20)-methyltransferase
+>Feature k99_36649
+91	1908	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	MEEGKEJE_00050
+			product	hypothetical protein
+>Feature k99_24633
+1210	527	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	MEEGKEJE_00051
+			product	hypothetical protein
+1527	1210	CDS
+			EC_number	4.2.2.-
+			db_xref	COG:COG0741
+			gene	slt
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0AGC3
+			locus_tag	MEEGKEJE_00052
+			product	Soluble lytic murein transglycosylase
+>Feature k99_18602
+46	1164	CDS
+			EC_number	3.5.4.10
+			gene	purH
+			inference	ab initio prediction:Prodigal:002006
+			inference	protein motif:HAMAP:MF_00139
+			locus_tag	MEEGKEJE_00053
+			product	Bifunctional purine biosynthesis protein PurH
+1470	1195	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	MEEGKEJE_00054
+			product	hypothetical protein
+>Feature k99_431
+876	190	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	MEEGKEJE_00055
+			product	hypothetical protein
+1408	899	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	MEEGKEJE_00056
+			product	hypothetical protein
+2459	1368	CDS
+			EC_number	2.7.2.-
+			gene	rcsD
+			inference	ab initio prediction:Prodigal:002006
+			inference	protein motif:HAMAP:MF_00980
+			locus_tag	MEEGKEJE_00057
+			product	Phosphotransferase RcsD
+3139	2456	CDS
+			db_xref	COG:COG0745
+			gene	phoB
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0AFJ5
+			locus_tag	MEEGKEJE_00058
+			product	Phosphate regulon transcriptional regulatory protein PhoB
+5031	3169	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	MEEGKEJE_00059
+			product	hypothetical protein
+>Feature k99_458
+2	1627	CDS
+			gene	groL_1
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:Q07201
+			locus_tag	MEEGKEJE_00060
+			product	60 kDa chaperonin
+>Feature k99_485
+115	690	CDS
+			EC_number	1.5.1.20
+			db_xref	COG:COG0685
+			gene	metF
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P45208
+			locus_tag	MEEGKEJE_00061
+			product	5,10-methylenetetrahydrofolate reductase
+1990	962	CDS
+			db_xref	COG:COG0577
+			gene	yknZ
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:O31712
+			locus_tag	MEEGKEJE_00062
+			product	putative ABC transporter permease YknZ
+>Feature k99_30774
+58	813	CDS
+			db_xref	COG:COG0206
+			gene	ftsZ
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0A031
+			locus_tag	MEEGKEJE_00063
+			product	Cell division protein FtsZ
+879	1373	CDS
+			db_xref	COG:COG1327
+			gene	nrdR
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0A8D0
+			locus_tag	MEEGKEJE_00064
+			product	Transcriptional repressor NrdR
+>Feature k99_42762
+7	618	CDS
+			EC_number	7.1.2.2
+			db_xref	COG:COG0055
+			gene	atpD
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:Q2RFX9
+			locus_tag	MEEGKEJE_00065
+			product	ATP synthase subunit beta
+622	1041	CDS
+			db_xref	COG:COG0355
+			gene	atpC
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:Q5KUJ4
+			locus_tag	MEEGKEJE_00066
+			product	ATP synthase epsilon chain
+1705	1175	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	MEEGKEJE_00067
+			product	hypothetical protein
+>Feature k99_6625
+865	53	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	MEEGKEJE_00068
+			product	hypothetical protein
+1488	862	CDS
+			EC_number	7.5.2.-
+			db_xref	COG:COG3839
+			gene	msmX
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P94360
+			locus_tag	MEEGKEJE_00069
+			product	Oligosaccharides import ATP-binding protein MsmX
+>Feature k99_18664
+676	930	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	MEEGKEJE_00070
+			product	hypothetical protein
+>Feature k99_24829
+32	703	CDS
+			EC_number	5.4.2.11
+			gene	gpmA
+			inference	ab initio prediction:Prodigal:002006
+			inference	protein motif:HAMAP:MF_01039
+			locus_tag	MEEGKEJE_00071
+			product	2,3-bisphosphoglycerate-dependent phosphoglycerate mutase
+736	1569	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	MEEGKEJE_00072
+			product	hypothetical protein
+>Feature k99_30811
+55	2127	CDS
+			EC_number	5.6.2.2
+			db_xref	COG:COG0188
+			gene	gyrA
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P05653
+			locus_tag	MEEGKEJE_00073
+			product	DNA gyrase subunit A
+>Feature k99_6767
+14	835	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	MEEGKEJE_00074
+			product	hypothetical protein
+1486	1235	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	MEEGKEJE_00075
+			product	hypothetical protein
+>Feature k99_24975
+1169	474	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	MEEGKEJE_00076
+			product	hypothetical protein
+1769	1188	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	MEEGKEJE_00077
+			product	hypothetical protein
+>Feature k99_42919
+124	504	CDS
+			gene	htrA
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P73354
+			locus_tag	MEEGKEJE_00078
+			product	Putative serine protease HtrA
+501	980	CDS
+			EC_number	2.1.1.177
+			db_xref	COG:COG1576
+			gene	rlmH
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0C1V0
+			locus_tag	MEEGKEJE_00079
+			product	Ribosomal RNA large subunit methyltransferase H
+1102	1605	CDS
+			EC_number	1.1.1.205
+			gene	IMPDH
+			inference	ab initio prediction:Prodigal:002006
+			inference	protein motif:HAMAP:MF_01964
+			locus_tag	MEEGKEJE_00080
+			product	Inosine-5'-monophosphate dehydrogenase
+>Feature k99_31020
+47	529	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	MEEGKEJE_00081
+			product	hypothetical protein
+1788	682	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	MEEGKEJE_00082
+			product	hypothetical protein
+>Feature k99_18966
+354	238	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	MEEGKEJE_00083
+			product	hypothetical protein
+1047	889	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	MEEGKEJE_00084
+			product	hypothetical protein
+>Feature k99_25022
+>Feature k99_37074
+38	256	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	MEEGKEJE_00085
+			product	hypothetical protein
+342	1106	CDS
+			gene	bcrA
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:Q5WNX0
+			locus_tag	MEEGKEJE_00086
+			product	Bacitracin transport ATP-binding protein BcrA
+1107	1853	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	MEEGKEJE_00087
+			product	hypothetical protein
+1856	2599	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	MEEGKEJE_00088
+			product	hypothetical protein
+2790	2566	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	MEEGKEJE_00089
+			product	hypothetical protein
+>Feature k99_37110
+12	1346	CDS
+			EC_number	2.7.11.1
+			db_xref	COG:COG0515
+			gene	prkC
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:O34507
+			locus_tag	MEEGKEJE_00090
+			product	Serine/threonine-protein kinase PrkC
+>Feature k99_25092
+24	1187	CDS
+			EC_number	3.6.5.-
+			db_xref	COG:COG0481
+			gene	lepA
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:Q2FXY7
+			locus_tag	MEEGKEJE_00091
+			product	Elongation factor 4
+>Feature k99_37135
+53	733	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	MEEGKEJE_00092
+			product	hypothetical protein
+821	1177	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	MEEGKEJE_00093
+			product	hypothetical protein
+1174	1641	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	MEEGKEJE_00094
+			product	hypothetical protein
+1644	2144	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	MEEGKEJE_00095
+			product	hypothetical protein
+2151	2621	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	MEEGKEJE_00096
+			product	hypothetical protein
+>Feature k99_7123
+1461	145	CDS
+			EC_number	6.3.5.-
+			db_xref	COG:COG0064
+			gene	gatB
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:O30509
+			locus_tag	MEEGKEJE_00097
+			product	Aspartyl/glutamyl-tRNA(Asn/Gln) amidotransferase subunit B
+>Feature k99_43076
+779	177	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	MEEGKEJE_00098
+			product	hypothetical protein
+1617	991	CDS
+			gene	ntpD
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P43435
+			locus_tag	MEEGKEJE_00099
+			product	V-type sodium ATPase subunit D
+>Feature k99_19181
+35	592	CDS
+			gene	mutL
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P65492
+			locus_tag	MEEGKEJE_00100
+			product	DNA mismatch repair protein MutL
+1426	1148	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	MEEGKEJE_00101
+			product	hypothetical protein
+>Feature k99_25122
+776	81	CDS
+			gene	rplA
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:Q99W68
+			locus_tag	MEEGKEJE_00102
+			product	50S ribosomal protein L1
+1306	881	CDS
+			gene	rplK
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0A0F2
+			locus_tag	MEEGKEJE_00103
+			product	50S ribosomal protein L11
+1976	1446	CDS
+			db_xref	COG:COG0250
+			gene	nusG
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:Q06795
+			locus_tag	MEEGKEJE_00104
+			product	Transcription termination/antitermination protein NusG
+2275	2021	CDS
+			gene	secE
+			inference	ab initio prediction:Prodigal:002006
+			inference	protein motif:HAMAP:MF_00422
+			locus_tag	MEEGKEJE_00105
+			product	Protein translocase subunit SecE
+2446	2297	CDS
+			db_xref	COG:COG0267
+			gene	rpmGA
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P56849
+			locus_tag	MEEGKEJE_00106
+			product	50S ribosomal protein L33 1
+>Feature k99_7192
+269	964	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	MEEGKEJE_00107
+			product	hypothetical protein
+964	1713	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	MEEGKEJE_00108
+			product	hypothetical protein
+>Feature k99_13292
+4201	1760	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	MEEGKEJE_00109
+			product	hypothetical protein
+>Feature k99_31233
+22	1161	CDS
+			db_xref	COG:COG2256
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P9WQN1
+			locus_tag	MEEGKEJE_00110
+			product	putative AAA domain-containing protein
+>Feature k99_25197
+1520	288	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	MEEGKEJE_00111
+			product	hypothetical protein
+>Feature k99_13359
+1671	1060	CDS
+			gene	prfB
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:Q7A6R4
+			locus_tag	MEEGKEJE_00112
+			product	Peptide chain release factor 2
+>Feature k99_19359
+205	759	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	MEEGKEJE_00113
+			product	hypothetical protein
+879	1679	CDS
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P83513
+			locus_tag	MEEGKEJE_00114
+			product	Bifunctional xylanase/deacetylase
+2504	1716	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	MEEGKEJE_00115
+			product	hypothetical protein
+>Feature k99_43254
+33	587	CDS
+			EC_number	2.7.7.8
+			gene	pnp
+			inference	ab initio prediction:Prodigal:002006
+			inference	protein motif:HAMAP:MF_01595
+			locus_tag	MEEGKEJE_00116
+			product	Polyribonucleotide nucleotidyltransferase
+620	883	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	MEEGKEJE_00117
+			product	hypothetical protein
+901	1572	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	MEEGKEJE_00118
+			product	hypothetical protein
+>Feature k99_43293
+380	192	CDS
+			EC_number	3.1.11.6
+			db_xref	COG:COG1722
+			gene	xseB
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:Q7VV85
+			locus_tag	MEEGKEJE_00119
+			product	Exodeoxyribonuclease 7 small subunit
+1587	394	CDS
+			EC_number	3.1.11.6
+			db_xref	COG:COG1570
+			gene	xseA
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P04994
+			locus_tag	MEEGKEJE_00120
+			product	Exodeoxyribonuclease 7 large subunit
+2078	1584	CDS
+			EC_number	2.3.1.234
+			db_xref	COG:COG0533
+			gene	tsaD
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P40731
+			locus_tag	MEEGKEJE_00121
+			product	tRNA N6-adenosine threonylcarbamoyltransferase
+>Feature k99_31301
+103	1440	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	MEEGKEJE_00122
+			product	hypothetical protein
+>Feature k99_7392
+1784	141	CDS
+			db_xref	COG:COG0459
+			gene	groL_2
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P48212
+			locus_tag	MEEGKEJE_00123
+			product	60 kDa chaperonin
+2100	1828	CDS
+			db_xref	COG:COG0234
+			gene	groS
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P48223
+			locus_tag	MEEGKEJE_00124
+			product	10 kDa chaperonin
+>Feature k99_13551
+520	870	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	MEEGKEJE_00125
+			product	hypothetical protein
+1489	1127	CDS
+			EC_number	7.5.2.6
+			gene	msbA_1
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:Q14JW6
+			locus_tag	MEEGKEJE_00126
+			product	Lipid A export ATP-binding/permease protein MsbA
+2602	1502	CDS
+			EC_number	3.6.3.-
+			db_xref	COG:COG1132
+			gene	irtA
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P9WQJ9
+			locus_tag	MEEGKEJE_00127
+			product	Iron import ATP-binding/permease protein IrtA
+>Feature k99_1223
+1467	469	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	MEEGKEJE_00128
+			product	hypothetical protein
+>Feature k99_13620
+1496	312	CDS
+			EC_number	1.1.1.22
+			db_xref	COG:COG1004
+			gene	ugd
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P76373
+			locus_tag	MEEGKEJE_00129
+			product	UDP-glucose 6-dehydrogenase
+1696	1526	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	MEEGKEJE_00130
+			product	hypothetical protein
+>Feature k99_25377
+1503	514	CDS
+			EC_number	2.3.1.241
+			gene	lpxL
+			inference	ab initio prediction:Prodigal:002006
+			inference	protein motif:HAMAP:MF_01942
+			locus_tag	MEEGKEJE_00131
+			product	Lipid A biosynthesis lauroyltransferase
+2076	1540	CDS
+			EC_number	3.1.3.45
+			db_xref	COG:COG1778
+			gene	kdsC
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:Q8Z3G5
+			locus_tag	MEEGKEJE_00132
+			product	3-deoxy-D-manno-octulosonate 8-phosphate phosphatase KdsC
+2453	2076	CDS
+			EC_number	5.3.1.13
+			db_xref	COG:COG0517
+			gene	kdsD
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P45395
+			locus_tag	MEEGKEJE_00133
+			product	Arabinose 5-phosphate isomerase KdsD
+>Feature k99_1275
+887	1093	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	MEEGKEJE_00134
+			product	hypothetical protein
+1123	1431	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	MEEGKEJE_00135
+			product	hypothetical protein
+1756	1445	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	MEEGKEJE_00136
+			product	hypothetical protein
+>Feature k99_37434
+909	502	CDS
+			EC_number	3.6.1.55
+			db_xref	COG:COG0406
+			gene	mutT1
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P9WIY3
+			locus_tag	MEEGKEJE_00137
+			product	putative 8-oxo-dGTP diphosphatase 1
+1315	1082	CDS
+			db_xref	COG:COG0236
+			gene	acpP
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:O67611
+			locus_tag	MEEGKEJE_00138
+			product	Acyl carrier protein
+>Feature k99_1343
+53	1066	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	MEEGKEJE_00139
+			product	hypothetical protein
+1059	2018	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	MEEGKEJE_00140
+			product	hypothetical protein
+2541	2218	CDS
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P00275
+			locus_tag	MEEGKEJE_00141
+			product	Thioredoxin C-1
+2756	2559	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	MEEGKEJE_00142
+			product	hypothetical protein
+2984	2787	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	MEEGKEJE_00143
+			product	hypothetical protein
+>Feature k99_13761
+141	1157	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	MEEGKEJE_00144
+			product	hypothetical protein
+1699	1214	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	MEEGKEJE_00145
+			product	hypothetical protein
+>Feature k99_1393
+569	952	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	MEEGKEJE_00146
+			product	hypothetical protein
+1139	1480	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	MEEGKEJE_00147
+			product	hypothetical protein
+>Feature k99_7652
+46	498	CDS
+			EC_number	2.1.1.-
+			db_xref	COG:COG4122
+			gene	trmR
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:O32036
+			locus_tag	MEEGKEJE_00148
+			product	tRNA 5-hydroxyuridine methyltransferase
+1631	795	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	MEEGKEJE_00149
+			product	hypothetical protein
+>Feature k99_43565
+54	1109	CDS
+			db_xref	COG:COG0541
+			gene	ffh
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P37105
+			locus_tag	MEEGKEJE_00150
+			product	Signal recognition particle protein
+1177	1419	CDS
+			gene	rpsP
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P81290
+			locus_tag	MEEGKEJE_00151
+			product	30S ribosomal protein S16
+>Feature k99_7711
+660	1145	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	MEEGKEJE_00152
+			product	hypothetical protein
+>Feature k99_31667
+9	245	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	MEEGKEJE_00153
+			product	hypothetical protein
+805	455	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	MEEGKEJE_00154
+			product	hypothetical protein
+1444	926	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	MEEGKEJE_00155
+			product	hypothetical protein
+>Feature k99_13928
+96	1592	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	MEEGKEJE_00156
+			product	hypothetical protein
+>Feature k99_43709
+1402	1271	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	MEEGKEJE_00157
+			product	hypothetical protein
+>Feature k99_13971
+2013	970	CDS
+			EC_number	2.7.8.13
+			db_xref	COG:COG0472
+			gene	mraY
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:O66465
+			locus_tag	MEEGKEJE_00158
+			product	Phospho-N-acetylmuramoyl-pentapeptide-transferase
+2360	2010	CDS
+			EC_number	6.3.2.10
+			db_xref	COG:COG0770
+			gene	murF
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P11880
+			locus_tag	MEEGKEJE_00159
+			product	UDP-N-acetylmuramoyl-tripeptide--D-alanyl-D-alanine ligase
+>Feature k99_43756
+24	764	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	MEEGKEJE_00160
+			product	hypothetical protein
+1437	823	CDS
+			EC_number	2.3.1.18
+			db_xref	COG:COG0110
+			gene	lacA
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P07464
+			locus_tag	MEEGKEJE_00161
+			product	Galactoside O-acetyltransferase
+1813	1631	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	MEEGKEJE_00162
+			product	hypothetical protein
+>Feature k99_37703
+17	421	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	MEEGKEJE_00163
+			product	hypothetical protein
+682	1305	CDS
+			gene	ribU
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:E5QVT2
+			locus_tag	MEEGKEJE_00164
+			product	Riboflavin transporter RibU
+2544	1372	CDS
+			EC_number	2.5.1.6
+			gene	metK
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P66767
+			locus_tag	MEEGKEJE_00165
+			product	S-adenosylmethionine synthase
+>Feature k99_43778
+131	550	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	MEEGKEJE_00166
+			product	hypothetical protein
+550	1632	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	MEEGKEJE_00167
+			product	hypothetical protein
+1645	2694	CDS
+			db_xref	COG:COG0395
+			gene	araQ
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P94530
+			locus_tag	MEEGKEJE_00168
+			product	L-arabinose transport system permease protein AraQ
+>Feature k99_1605
+494	195	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	MEEGKEJE_00169
+			product	hypothetical protein
+980	678	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	MEEGKEJE_00170
+			product	hypothetical protein
+1222	980	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	MEEGKEJE_00171
+			product	hypothetical protein
+1886	1587	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	MEEGKEJE_00172
+			product	hypothetical protein
+>Feature k99_37742
+695	84	CDS
+			db_xref	COG:COG1592
+			gene	rbr
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P24931
+			locus_tag	MEEGKEJE_00173
+			product	Rubrerythrin
+2044	713	CDS
+			gene	ypeB
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P38490
+			locus_tag	MEEGKEJE_00174
+			product	Sporulation protein YpeB
+>Feature k99_14032
+922	506	CDS
+			EC_number	2.7.4.6
+			db_xref	COG:COG0105
+			gene	ndk
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:O85501
+			locus_tag	MEEGKEJE_00175
+			product	Nucleoside diphosphate kinase
+1703	942	CDS
+			EC_number	3.4.24.-
+			db_xref	COG:COG0501
+			gene	htpX
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P9WHS5
+			locus_tag	MEEGKEJE_00176
+			product	Protease HtpX 
+>Feature k99_19909
+745	1224	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	MEEGKEJE_00177
+			product	hypothetical protein
+2035	1295	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	MEEGKEJE_00178
+			product	hypothetical protein
+>Feature k99_25745
+44	817	CDS
+			EC_number	6.1.1.20
+			db_xref	COG:COG0016
+			gene	pheS
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:Q4L5E3
+			locus_tag	MEEGKEJE_00179
+			product	Phenylalanine--tRNA ligase alpha subunit
+817	1407	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	MEEGKEJE_00180
+			product	hypothetical protein
+>Feature k99_37780
+1490	1131	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	MEEGKEJE_00181
+			product	hypothetical protein
+>Feature k99_7929
+11	961	CDS
+			EC_number	2.8.4.3
+			db_xref	COG:COG0621
+			gene	miaB
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:O31778
+			locus_tag	MEEGKEJE_00182
+			product	tRNA-2-methylthio-N(6)-dimethylallyladenosine synthase
+>Feature k99_37846
+1955	69	CDS
+			EC_number	3.2.1.22
+			gene	agaA
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:Q9ALJ4
+			locus_tag	MEEGKEJE_00183
+			product	Alpha-galactosidase AgaA
+>Feature k99_7989
+95	295	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	MEEGKEJE_00184
+			product	hypothetical protein
+420	653	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	MEEGKEJE_00185
+			product	hypothetical protein
+668	898	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	MEEGKEJE_00186
+			product	hypothetical protein
+1068	1316	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	MEEGKEJE_00187
+			product	hypothetical protein
+1525	1701	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	MEEGKEJE_00188
+			product	hypothetical protein
+1694	2212	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	MEEGKEJE_00189
+			product	hypothetical protein
+2218	2532	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	MEEGKEJE_00190
+			product	hypothetical protein
+2598	3035	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	MEEGKEJE_00191
+			product	hypothetical protein
+3120	4085	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	MEEGKEJE_00192
+			product	hypothetical protein
+4113	5564	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	MEEGKEJE_00193
+			product	hypothetical protein
+5794	6063	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	MEEGKEJE_00194
+			product	hypothetical protein
+6084	7805	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	MEEGKEJE_00195
+			product	hypothetical protein
+7876	10116	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	MEEGKEJE_00196
+			product	hypothetical protein
+10169	11107	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	MEEGKEJE_00197
+			product	hypothetical protein
+11107	11919	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	MEEGKEJE_00198
+			product	hypothetical protein
+11952	12476	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	MEEGKEJE_00199
+			product	hypothetical protein
+12482	12664	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	MEEGKEJE_00200
+			product	hypothetical protein
+>Feature k99_8004
+7	969	CDS
+			EC_number	6.3.3.1
+			db_xref	COG:COG0150
+			gene	purM
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:Q97TA2
+			locus_tag	MEEGKEJE_00201
+			product	Phosphoribosylformylglycinamidine cyclo-ligase
+982	1614	CDS
+			EC_number	2.1.2.2
+			db_xref	COG:COG0299
+			gene	purN
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P08179
+			locus_tag	MEEGKEJE_00202
+			product	Phosphoribosylglycinamide formyltransferase
+>Feature k99_8010
+2532	1084	CDS
+			EC_number	6.3.2.13
+			db_xref	COG:COG0769
+			gene	murE_1
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:Q819Q0
+			locus_tag	MEEGKEJE_00203
+			product	UDP-N-acetylmuramoyl-L-alanyl-D-glutamate--2,6-diaminopimelate ligase
+3370	2558	CDS
+			EC_number	3.4.16.4
+			gene	ftsI
+			inference	ab initio prediction:Prodigal:002006
+			inference	protein motif:HAMAP:MF_02080
+			locus_tag	MEEGKEJE_00204
+			product	Peptidoglycan D,D-transpeptidase FtsI
+>Feature k99_37900
+63	659	CDS
+			db_xref	COG:COG0668
+			gene	mscS
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0C0S1
+			locus_tag	MEEGKEJE_00205
+			product	Small-conductance mechanosensitive channel
+1538	1311	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	MEEGKEJE_00206
+			product	hypothetical protein
+>Feature k99_25871
+32	343	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	MEEGKEJE_00207
+			product	hypothetical protein
+345	1049	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	MEEGKEJE_00208
+			product	hypothetical protein
+1516	1109	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	MEEGKEJE_00209
+			product	hypothetical protein
+>Feature k99_20057
+51	239	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	MEEGKEJE_00210
+			product	hypothetical protein
+256	2007	CDS
+			gene	rqcH
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:D4FWG0
+			locus_tag	MEEGKEJE_00211
+			product	Rqc2 RqcH
+>Feature k99_25910
+17	457	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	MEEGKEJE_00212
+			product	hypothetical protein
+463	1317	CDS
+			db_xref	COG:COG1682
+			gene	tagG
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P42953
+			locus_tag	MEEGKEJE_00213
+			product	Teichoic acid translocation permease protein TagG
+1345	2079	CDS
+			EC_number	7.5.2.4
+			db_xref	COG:COG1134
+			gene	tagH
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P42954
+			locus_tag	MEEGKEJE_00214
+			product	Teichoic acids export ATP-binding protein TagH
+>Feature k99_20059
+2267	735	CDS
+			gene	cobQ
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P29932
+			locus_tag	MEEGKEJE_00215
+			product	Cobyric acid synthase
+2788	2267	CDS
+			EC_number	2.7.1.156
+			db_xref	COG:COG2087
+			gene	cobU
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:Q05599
+			locus_tag	MEEGKEJE_00216
+			product	Bifunctional adenosylcobalamin biosynthesis protein CobU
+>Feature k99_14217
+2192	1515	CDS
+			db_xref	COG:COG0745
+			gene	regX3_1
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P9WGL9
+			locus_tag	MEEGKEJE_00217
+			product	Sensory transduction protein regX3
+2669	2211	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	MEEGKEJE_00218
+			product	hypothetical protein
+>Feature k99_20096
+>Feature k99_32057
+807	55	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	MEEGKEJE_00219
+			product	hypothetical protein
+1591	1286	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	MEEGKEJE_00220
+			product	hypothetical protein
+>Feature k99_1716
+1420	1725	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	MEEGKEJE_00221
+			product	hypothetical protein
+>Feature k99_14270
+655	23	CDS
+			EC_number	3.4.21.88
+			gene	lexA_1
+			inference	ab initio prediction:Prodigal:002006
+			inference	protein motif:HAMAP:MF_00015
+			locus_tag	MEEGKEJE_00222
+			product	LexA repressor
+801	1004	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	MEEGKEJE_00223
+			product	hypothetical protein
+1039	1140	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	MEEGKEJE_00224
+			product	hypothetical protein
+1546	1097	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	MEEGKEJE_00225
+			product	hypothetical protein
+1624	1797	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	MEEGKEJE_00226
+			product	hypothetical protein
+1794	2093	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	MEEGKEJE_00227
+			product	hypothetical protein
+2093	2434	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	MEEGKEJE_00228
+			product	hypothetical protein
+>Feature k99_8169
+876	433	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	MEEGKEJE_00229
+			product	hypothetical protein
+>Feature k99_14298
+19	561	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	MEEGKEJE_00230
+			product	hypothetical protein
+1561	821	CDS
+			EC_number	3.4.21.107
+			db_xref	COG:COG0265
+			gene	htrB
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:Q9R9I1
+			locus_tag	MEEGKEJE_00231
+			product	Serine protease Do-like HtrB
+>Feature k99_32116
+199	672	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	MEEGKEJE_00232
+			product	hypothetical protein
+1015	1962	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	MEEGKEJE_00233
+			product	hypothetical protein
+>Feature k99_38090
+29	643	CDS
+			db_xref	COG:COG0322
+			gene	uvrC
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:Q9WYA3
+			locus_tag	MEEGKEJE_00234
+			product	UvrABC system protein C
+825	1229	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	MEEGKEJE_00235
+			product	hypothetical protein
+1349	1534	CDS
+			db_xref	COG:COG0333
+			gene	rpmF
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P49228
+			locus_tag	MEEGKEJE_00236
+			product	50S ribosomal protein L32
+>Feature k99_38104
+14	589	CDS
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P72255
+			locus_tag	MEEGKEJE_00237
+			note	UPF0758 protein
+			product	hypothetical protein
+1627	647	CDS
+			db_xref	COG:COG0341
+			gene	secDF_1
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:O32047
+			locus_tag	MEEGKEJE_00238
+			product	Protein translocase subunit SecDF
+2237	1620	CDS
+			db_xref	COG:COG0341
+			gene	secDF_2
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:O32047
+			locus_tag	MEEGKEJE_00239
+			product	Protein translocase subunit SecDF
+>Feature k99_8269
+812	477	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	MEEGKEJE_00240
+			product	hypothetical protein
+>Feature k99_26014
+70	282	CDS
+			EC_number	6.1.1.4
+			db_xref	COG:COG0495
+			gene	leuS
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:Q9JXT2
+			locus_tag	MEEGKEJE_00241
+			product	Leucine--tRNA ligase
+304	669	CDS
+			db_xref	COG:COG3152
+			gene	yhaH
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P64590
+			locus_tag	MEEGKEJE_00242
+			product	Inner membrane protein YhaH
+1744	812	CDS
+			EC_number	4.1.2.13
+			gene	fba
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:Q703I2
+			locus_tag	MEEGKEJE_00243
+			product	Fructose-bisphosphate aldolase
+>Feature k99_26043
+565	62	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	MEEGKEJE_00244
+			product	hypothetical protein
+1831	1211	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	MEEGKEJE_00245
+			product	hypothetical protein
+>Feature k99_1835
+1875	757	CDS
+			EC_number	2.1.1.14
+			gene	metE
+			inference	ab initio prediction:Prodigal:002006
+			inference	protein motif:HAMAP:MF_00172
+			locus_tag	MEEGKEJE_00246
+			product	5-methyltetrahydropteroyltriglutamate--homocysteine methyltransferase
+>Feature k99_44284
+>Feature k99_1879
+17	364	CDS
+			EC_number	3.6.1.-
+			db_xref	COG:COG1162
+			gene	rsgA
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:Q9X242
+			locus_tag	MEEGKEJE_00247
+			product	Small ribosomal subunit biogenesis GTPase RsgA
+361	1014	CDS
+			EC_number	5.1.3.1
+			gene	rpe
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P74061
+			locus_tag	MEEGKEJE_00248
+			product	Ribulose-phosphate 3-epimerase
+1196	1912	CDS
+			db_xref	COG:COG1136
+			gene	bceA
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:O34697
+			locus_tag	MEEGKEJE_00249
+			product	Bacitracin export ATP-binding protein BceA
+>Feature k99_44305
+1428	94	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	MEEGKEJE_00250
+			product	hypothetical protein
+1828	1583	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	MEEGKEJE_00251
+			product	hypothetical protein
+2098	1886	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	MEEGKEJE_00252
+			product	hypothetical protein
+3642	2095	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	MEEGKEJE_00253
+			product	hypothetical protein
+4867	3635	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	MEEGKEJE_00254
+			product	hypothetical protein
+5315	4980	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	MEEGKEJE_00255
+			product	hypothetical protein
+>Feature k99_1948
+24	266	CDS
+			db_xref	COG:COG1923
+			gene	hfq
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:O31796
+			locus_tag	MEEGKEJE_00256
+			product	RNA-binding protein Hfq
+281	1516	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	MEEGKEJE_00257
+			product	hypothetical protein
+>Feature k99_1976
+1122	1514	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	MEEGKEJE_00258
+			product	hypothetical protein
+>Feature k99_44373
+38	457	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	MEEGKEJE_00259
+			product	hypothetical protein
+480	1289	CDS
+			EC_number	7.2.1.2
+			db_xref	COG:COG2878
+			gene	rnfB
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:H6LC27
+			locus_tag	MEEGKEJE_00260
+			product	Na(+)-translocating ferredoxin:NAD(+) oxidoreductase complex subunit B
+>Feature k99_32386
+19	450	CDS
+			EC_number	2.7.7.12
+			gene	galT
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:E8MF11
+			locus_tag	MEEGKEJE_00261
+			product	Galactose-1-phosphate uridylyltransferase
+462	1325	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	MEEGKEJE_00262
+			product	hypothetical protein
+>Feature k99_2008
+112	639	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	MEEGKEJE_00263
+			product	hypothetical protein
+1809	793	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	MEEGKEJE_00264
+			product	hypothetical protein
+>Feature k99_26283
+82	1662	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	MEEGKEJE_00265
+			product	hypothetical protein
+>Feature k99_38350
+1498	155	CDS
+			EC_number	6.3.2.9
+			gene	murD
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0A090
+			locus_tag	MEEGKEJE_00266
+			product	UDP-N-acetylmuramoylalanine--D-glutamate ligase
+>Feature k99_32460
+31	1371	CDS
+			gene	xylA
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P48790
+			locus_tag	MEEGKEJE_00267
+			product	Xylosidase/arabinosidase
+1383	3170	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	MEEGKEJE_00268
+			product	hypothetical protein
+3778	3233	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	MEEGKEJE_00269
+			product	hypothetical protein
+>Feature k99_44491
+4	690	CDS
+			EC_number	1.3.1.106
+			db_xref	COG:COG2099
+			gene	cbiJ
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:O87691
+			locus_tag	MEEGKEJE_00270
+			product	Cobalt-precorrin-6A reductase
+659	1324	CDS
+			EC_number	5.4.99.60
+			db_xref	COG:COG2082
+			gene	cbiC
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:Q8EXP7
+			locus_tag	MEEGKEJE_00271
+			product	Cobalt-precorrin-8 methylmutase
+>Feature k99_2098
+149	700	CDS
+			EC_number	6.3.2.6
+			db_xref	COG:COG0152
+			gene	purC
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:Q0TTB4
+			locus_tag	MEEGKEJE_00272
+			product	Phosphoribosylaminoimidazole-succinocarboxamide synthase
+706	2127	CDS
+			EC_number	2.4.2.14
+			db_xref	COG:COG0034
+			gene	purF
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P00497
+			locus_tag	MEEGKEJE_00273
+			product	Amidophosphoribosyltransferase
+>Feature k99_8651
+807	34	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	MEEGKEJE_00274
+			product	hypothetical protein
+1944	1045	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	MEEGKEJE_00275
+			product	hypothetical protein
+>Feature k99_26413
+250	804	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	MEEGKEJE_00276
+			product	hypothetical protein
+1380	973	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	MEEGKEJE_00277
+			product	hypothetical protein
+1687	1412	CDS
+			gene	hup
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:Q7A5J1
+			locus_tag	MEEGKEJE_00278
+			product	DNA-binding protein HU
+>Feature k99_38460
+99	1193	CDS
+			EC_number	6.5.1.-
+			db_xref	COG:COG1690
+			gene	rtcB
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P46850
+			locus_tag	MEEGKEJE_00279
+			product	RNA-splicing ligase RtcB
+>Feature k99_2170
+481	47	CDS
+			EC_number	3.4.23.36
+			db_xref	COG:COG0597
+			gene	lspA
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P00804
+			locus_tag	MEEGKEJE_00280
+			product	Lipoprotein signal peptidase
+1527	553	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	MEEGKEJE_00281
+			product	hypothetical protein
+>Feature k99_14649
+1284	403	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	MEEGKEJE_00282
+			product	hypothetical protein
+1740	1384	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	MEEGKEJE_00283
+			product	hypothetical protein
+>Feature k99_2172
+260	1462	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	MEEGKEJE_00284
+			product	hypothetical protein
+>Feature k99_8694
+1796	438	CDS
+			db_xref	COG:COG0488
+			gene	ybiT
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0A9U3
+			locus_tag	MEEGKEJE_00285
+			product	putative ABC transporter ATP-binding protein YbiT
+>Feature k99_14686
+2257	1556	CDS
+			db_xref	COG:COG1136
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P9WQK1
+			locus_tag	MEEGKEJE_00286
+			product	putative ABC transporter ATP-binding protein
+>Feature k99_26525
+133	2328	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	MEEGKEJE_00287
+			product	hypothetical protein
+2331	2639	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	MEEGKEJE_00288
+			product	hypothetical protein
+>Feature k99_32668
+1251	334	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	MEEGKEJE_00289
+			product	hypothetical protein
+2009	1374	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	MEEGKEJE_00290
+			product	hypothetical protein
+2054	3274	CDS
+			EC_number	5.1.1.1
+			db_xref	COG:COG0787
+			gene	alr1
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:Q8RAK6
+			locus_tag	MEEGKEJE_00291
+			product	Alanine racemase 1
+>Feature k99_32676
+1804	914	CDS
+			EC_number	6.3.4.-
+			db_xref	COG:COG1323
+			gene	tmcAL
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:Q9X1K1
+			locus_tag	MEEGKEJE_00292
+			product	tRNA(Met) cytidine acetate ligase
+>Feature k99_32677
+95	751	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	MEEGKEJE_00293
+			product	hypothetical protein
+738	1484	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	MEEGKEJE_00294
+			product	hypothetical protein
+>Feature k99_44695
+1013	516	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	MEEGKEJE_00295
+			product	hypothetical protein
+>Feature k99_2257
+52	627	CDS
+			EC_number	5.6.2.2
+			gene	gyrB
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P22447
+			locus_tag	MEEGKEJE_00296
+			product	DNA gyrase subunit B
+649	1773	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	MEEGKEJE_00297
+			product	hypothetical protein
+>Feature k99_20529
+91	378	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	MEEGKEJE_00298
+			product	hypothetical protein
+581	1066	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	MEEGKEJE_00299
+			product	hypothetical protein
+1433	1140	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	MEEGKEJE_00300
+			product	hypothetical protein
+>Feature k99_2297
+1767	58	CDS
+			EC_number	2.7.7.-
+			gene	dnaG
+			inference	ab initio prediction:Prodigal:002006
+			inference	protein motif:HAMAP:MF_00974
+			locus_tag	MEEGKEJE_00301
+			product	DNA primase
+>Feature k99_44786
+>Feature k99_44812
+201	914	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	MEEGKEJE_00302
+			product	hypothetical protein
+>Feature k99_2332
+279	863	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	MEEGKEJE_00303
+			product	hypothetical protein
+948	1454	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	MEEGKEJE_00304
+			product	hypothetical protein
+>Feature k99_14871
+6	281	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	MEEGKEJE_00305
+			product	hypothetical protein
+997	344	CDS
+			db_xref	COG:COG2011
+			gene	metI
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P31547
+			locus_tag	MEEGKEJE_00306
+			product	D-methionine transport system permease protein MetI
+2015	978	CDS
+			EC_number	3.6.3.-
+			db_xref	COG:COG1135
+			gene	metN
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:Q87RS1
+			locus_tag	MEEGKEJE_00307
+			product	Methionine import ATP-binding protein MetN
+>Feature k99_38766
+250	426	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	MEEGKEJE_00308
+			product	hypothetical protein
+525	1475	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	MEEGKEJE_00309
+			product	hypothetical protein
+1469	2215	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	MEEGKEJE_00310
+			product	hypothetical protein
+>Feature k99_44894
+426	88	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	MEEGKEJE_00311
+			product	hypothetical protein
+1012	434	CDS
+			EC_number	3.2.1.17
+			db_xref	COG:COG3409
+			gene	lyc
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P34020
+			locus_tag	MEEGKEJE_00312
+			product	Autolytic lysozyme
+1301	984	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	MEEGKEJE_00313
+			product	hypothetical protein
+1786	1292	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	MEEGKEJE_00314
+			product	hypothetical protein
+2706	1852	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	MEEGKEJE_00315
+			product	hypothetical protein
+>Feature k99_32800
+1431	376	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	MEEGKEJE_00316
+			product	hypothetical protein
+>Feature k99_20681
+50	235	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	MEEGKEJE_00317
+			product	hypothetical protein
+247	696	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	MEEGKEJE_00318
+			product	hypothetical protein
+>Feature k99_44946
+950	699	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	MEEGKEJE_00319
+			product	hypothetical protein
+2910	1012	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	MEEGKEJE_00320
+			product	hypothetical protein
+>Feature k99_38825
+5	343	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	MEEGKEJE_00321
+			product	hypothetical protein
+2507	750	CDS
+			db_xref	COG:COG1131
+			gene	ybhF
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0A9U1
+			locus_tag	MEEGKEJE_00322
+			product	putative multidrug ABC transporter ATP-binding protein YbhF
+3405	2545	CDS
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P75777
+			locus_tag	MEEGKEJE_00323
+			note	UPF0194 membrane protein YbhG
+			product	hypothetical protein
+>Feature k99_14942
+773	219	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	MEEGKEJE_00324
+			product	hypothetical protein
+1244	774	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	MEEGKEJE_00325
+			product	hypothetical protein
+1491	1246	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	MEEGKEJE_00326
+			product	hypothetical protein
+>Feature k99_2452
+707	1648	CDS
+			EC_number	2.7.4.1
+			db_xref	COG:COG2326
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:Q6N140
+			locus_tag	MEEGKEJE_00327
+			product	Polyphosphate:ADP phosphotransferase
+>Feature k99_14949
+1188	928	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	MEEGKEJE_00328
+			product	hypothetical protein
+1447	1193	CDS
+			EC_number	3.1.-.-
+			db_xref	COG:COG0816
+			gene	yrrK
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:O34634
+			locus_tag	MEEGKEJE_00329
+			product	Putative pre-16S rRNA nuclease
+>Feature k99_2468
+35	910	CDS
+			EC_number	2.4.1.21
+			db_xref	COG:COG0297
+			gene	glgA
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P39125
+			locus_tag	MEEGKEJE_00330
+			product	Glycogen synthase
+1601	1071	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	MEEGKEJE_00331
+			product	hypothetical protein
+2286	1834	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	MEEGKEJE_00332
+			product	hypothetical protein
+>Feature k99_45006
+27	719	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	MEEGKEJE_00333
+			product	hypothetical protein
+839	1600	CDS
+			gene	rhaR_1
+			inference	ab initio prediction:Prodigal:002006
+			inference	protein motif:HAMAP:MF_01533
+			locus_tag	MEEGKEJE_00334
+			product	HTH-type transcriptional activator RhaR
+>Feature k99_9127
+737	42	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	MEEGKEJE_00335
+			product	hypothetical protein
+1490	987	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	MEEGKEJE_00336
+			product	hypothetical protein
+>Feature k99_15063
+341	826	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	MEEGKEJE_00337
+			product	hypothetical protein
+>Feature k99_39041
+123	623	CDS
+			EC_number	2.4.-.-
+			gene	ykoT
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:O34755
+			locus_tag	MEEGKEJE_00338
+			product	putative glycosyltransferase YkoT
+630	1187	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	MEEGKEJE_00339
+			product	hypothetical protein
+1449	2171	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	MEEGKEJE_00340
+			product	hypothetical protein
+2249	3175	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	MEEGKEJE_00341
+			product	hypothetical protein
+3325	5766	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	MEEGKEJE_00342
+			product	hypothetical protein
+5788	6327	CDS
+			EC_number	3.-.-.-
+			gene	act
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:Q8KP10
+			locus_tag	MEEGKEJE_00343
+			product	Methanol dehydrogenase activator
+6927	6487	CDS
+			EC_number	1.2.7.1
+			db_xref	COG:COG0674
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:Q2RMD6
+			locus_tag	MEEGKEJE_00344
+			product	Pyruvate:ferredoxin oxidoreductase
+>Feature k99_45101
+26	625	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	MEEGKEJE_00345
+			product	hypothetical protein
+733	2430	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	MEEGKEJE_00346
+			product	hypothetical protein
+>Feature k99_15101
+238	942	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	MEEGKEJE_00347
+			product	hypothetical protein
+1972	1619	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	MEEGKEJE_00348
+			product	hypothetical protein
+>Feature k99_9232
+111	1358	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	MEEGKEJE_00349
+			product	hypothetical protein
+>Feature k99_26974
+2091	1294	CDS
+			db_xref	COG:COG1629
+			gene	fhuA
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P06971
+			locus_tag	MEEGKEJE_00350
+			product	Ferrichrome outer membrane transporter/phage receptor
+>Feature k99_39158
+163	861	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	MEEGKEJE_00351
+			product	hypothetical protein
+879	2369	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	MEEGKEJE_00352
+			product	hypothetical protein
+>Feature k99_2809
+132	902	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	MEEGKEJE_00353
+			product	hypothetical protein
+859	1566	CDS
+			EC_number	3.6.1.41
+			gene	apaH
+			inference	ab initio prediction:Prodigal:002006
+			inference	protein motif:HAMAP:MF_00199
+			locus_tag	MEEGKEJE_00354
+			product	Bis(5'-nucleosyl)-tetraphosphatase, symmetrical
+>Feature k99_21097
+178	858	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	MEEGKEJE_00355
+			product	hypothetical protein
+>Feature k99_2830
+204	857	CDS
+			EC_number	2.5.1.54
+			db_xref	COG:COG2876
+			gene	aroF
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:Q9WYH8
+			locus_tag	MEEGKEJE_00356
+			product	Phospho-2-dehydro-3-deoxyheptonate aldolase
+970	1440	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	MEEGKEJE_00357
+			product	hypothetical protein
+>Feature k99_9362
+510	875	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	MEEGKEJE_00358
+			product	hypothetical protein
+1180	860	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	MEEGKEJE_00359
+			product	hypothetical protein
+1425	1177	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	MEEGKEJE_00360
+			product	hypothetical protein
+1610	1422	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	MEEGKEJE_00361
+			product	hypothetical protein
+>Feature k99_2866
+52	996	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	MEEGKEJE_00362
+			product	hypothetical protein
+>Feature k99_33217
+494	45	CDS
+			EC_number	3.1.1.96
+			db_xref	COG:COG1490
+			gene	dtd
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:O66742
+			locus_tag	MEEGKEJE_00363
+			product	D-aminoacyl-tRNA deacylase
+2645	495	CDS
+			EC_number	2.7.6.5
+			db_xref	COG:COG0317
+			gene	relA
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:O54408
+			locus_tag	MEEGKEJE_00364
+			product	GTP pyrophosphokinase
+>Feature k99_45335
+1688	699	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	MEEGKEJE_00365
+			product	hypothetical protein
+>Feature k99_15300
+458	150	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	MEEGKEJE_00366
+			product	hypothetical protein
+2031	502	CDS
+			EC_number	6.4.1.3
+			db_xref	COG:COG4799
+			gene	pccB_1
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:Q3J4E3
+			locus_tag	MEEGKEJE_00367
+			product	Propionyl-CoA carboxylase beta chain
+>Feature k99_27120
+35	1609	CDS
+			EC_number	3.6.4.-
+			gene	mfd
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:Q7A7B2
+			locus_tag	MEEGKEJE_00368
+			product	Transcription-repair-coupling factor
+>Feature k99_27131
+>Feature k99_9442
+1881	1486	CDS
+			EC_number	6.2.1.54
+			gene	dltA
+			inference	ab initio prediction:Prodigal:002006
+			inference	protein motif:HAMAP:MF_00593
+			locus_tag	MEEGKEJE_00369
+			product	D-alanine--D-alanyl carrier protein ligase
+>Feature k99_39336
+2003	186	CDS
+			EC_number	3.1.4.59
+			db_xref	COG:COG3887
+			gene	gdpP
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:A4ITV2
+			locus_tag	MEEGKEJE_00370
+			product	Cyclic-di-AMP phosphodiesterase GdpP
+>Feature k99_21200
+>Feature k99_27179
+1230	742	CDS
+			db_xref	COG:COG3880
+			gene	mcsA
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P37569
+			locus_tag	MEEGKEJE_00371
+			product	Protein-arginine kinase activator protein
+1727	1233	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	MEEGKEJE_00372
+			product	hypothetical protein
+>Feature k99_33285
+90	1103	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	MEEGKEJE_00373
+			product	hypothetical protein
+2085	1753	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	MEEGKEJE_00374
+			product	hypothetical protein
+>Feature k99_45433
+51	605	CDS
+			EC_number	6.1.1.12
+			gene	aspS_1
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P67015
+			locus_tag	MEEGKEJE_00375
+			product	Aspartate--tRNA ligase
+1978	1028	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	MEEGKEJE_00376
+			product	hypothetical protein
+>Feature k99_9517
+776	234	CDS
+			db_xref	COG:COG0097
+			gene	rplF
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:A0QSG4
+			locus_tag	MEEGKEJE_00377
+			product	50S ribosomal protein L6
+1192	794	CDS
+			db_xref	COG:COG0096
+			gene	rpsH_1
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:Q81VR6
+			locus_tag	MEEGKEJE_00378
+			product	30S ribosomal protein S8
+1488	1219	CDS
+			db_xref	COG:COG0199
+			gene	rpsN2
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:O31587
+			locus_tag	MEEGKEJE_00379
+			product	Alternate 30S ribosomal protein S14
+>Feature k99_39459
+62	1282	CDS
+			gene	dnaA
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P68866
+			locus_tag	MEEGKEJE_00380
+			product	Chromosomal replication initiator protein DnaA
+>Feature k99_27253
+70	519	CDS
+			EC_number	3.4.21.89
+			db_xref	COG:COG0681
+			gene	sipT
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P71013
+			locus_tag	MEEGKEJE_00381
+			product	Signal peptidase I T
+>Feature k99_45496
+423	728	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	MEEGKEJE_00382
+			product	hypothetical protein
+>Feature k99_15519
+1167	1385	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	MEEGKEJE_00383
+			product	hypothetical protein
+>Feature k99_33393
+512	129	CDS
+			EC_number	2.7.8.7
+			db_xref	COG:COG0736
+			gene	acpS
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P24224
+			locus_tag	MEEGKEJE_00384
+			product	Holo-[acyl-carrier-protein] synthase
+1021	515	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	MEEGKEJE_00385
+			product	hypothetical protein
+1662	1036	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	MEEGKEJE_00386
+			product	hypothetical protein
+2337	1696	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	MEEGKEJE_00387
+			product	hypothetical protein
+>Feature k99_39570
+643	68	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	MEEGKEJE_00388
+			product	hypothetical protein
+805	674	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	MEEGKEJE_00389
+			product	hypothetical protein
+1032	802	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	MEEGKEJE_00390
+			product	hypothetical protein
+1771	1100	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	MEEGKEJE_00391
+			product	hypothetical protein
+2384	1974	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	MEEGKEJE_00392
+			product	hypothetical protein
+>Feature k99_45580
+23	394	CDS
+			gene	rimP
+			inference	ab initio prediction:Prodigal:002006
+			inference	protein motif:HAMAP:MF_01077
+			locus_tag	MEEGKEJE_00393
+			product	Ribosome maturation factor RimP
+414	1544	CDS
+			db_xref	COG:COG0195
+			gene	nusA
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P32727
+			locus_tag	MEEGKEJE_00394
+			product	Transcription termination/antitermination protein NusA
+1531	1803	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	MEEGKEJE_00395
+			product	hypothetical protein
+1796	2128	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	MEEGKEJE_00396
+			product	hypothetical protein
+>Feature k99_39596
+2444	15	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	MEEGKEJE_00397
+			product	hypothetical protein
+>Feature k99_9613
+47	1078	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	MEEGKEJE_00398
+			product	hypothetical protein
+1608	1117	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	MEEGKEJE_00399
+			product	hypothetical protein
+>Feature k99_39612
+724	353	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	MEEGKEJE_00400
+			product	hypothetical protein
+>Feature k99_45596
+6	725	CDS
+			EC_number	2.8.1.4
+			db_xref	COG:COG0301
+			gene	thiI
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:Q81KU0
+			locus_tag	MEEGKEJE_00401
+			product	putative tRNA sulfurtransferase
+>Feature k99_15627
+27	257	CDS
+			EC_number	6.1.1.23
+			db_xref	COG:COG0173
+			gene	aspS_2
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:Q51422
+			locus_tag	MEEGKEJE_00402
+			product	Aspartate--tRNA(Asp/Asn) ligase
+566	1867	CDS
+			db_xref	COG:COG2256
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P9WQN1
+			locus_tag	MEEGKEJE_00403
+			product	putative AAA domain-containing protein
+>Feature k99_39633
+101	412	CDS
+			EC_number	6.3.5.2
+			gene	guaA
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P99105
+			locus_tag	MEEGKEJE_00404
+			product	GMP synthase [glutamine-hydrolyzing]
+1361	579	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	MEEGKEJE_00405
+			product	hypothetical protein
+1849	1364	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	MEEGKEJE_00406
+			product	hypothetical protein
+>Feature k99_39648
+887	138	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	MEEGKEJE_00407
+			product	hypothetical protein
+1752	961	CDS
+			EC_number	3.6.1.27
+			db_xref	COG:COG1968
+			gene	uppP
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P60932
+			locus_tag	MEEGKEJE_00408
+			product	Undecaprenyl-diphosphatase
+>Feature k99_39681
+59	742	CDS
+			EC_number	7.5.2.6
+			db_xref	COG:COG1132
+			gene	msbA_2
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:Q9KQW9
+			locus_tag	MEEGKEJE_00409
+			product	Lipid A export ATP-binding/permease protein MsbA
+1174	980	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	MEEGKEJE_00410
+			product	hypothetical protein
+2308	1976	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	MEEGKEJE_00411
+			product	hypothetical protein
+>Feature k99_3203
+19	486	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	MEEGKEJE_00412
+			product	hypothetical protein
+557	1747	CDS
+			EC_number	2.8.1.7
+			gene	iscS
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:O54055
+			locus_tag	MEEGKEJE_00413
+			product	Cysteine desulfurase IscS
+1884	1744	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	MEEGKEJE_00414
+			product	hypothetical protein
+>Feature k99_39750
+112	360	CDS
+			EC_number	2.1.1.199
+			db_xref	COG:COG0275
+			gene	rsmH
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P45057
+			locus_tag	MEEGKEJE_00415
+			product	Ribosomal RNA small subunit methyltransferase H
+379	756	CDS
+			gene	ftsL_1
+			inference	ab initio prediction:Prodigal:002006
+			inference	protein motif:HAMAP:MF_00910
+			locus_tag	MEEGKEJE_00416
+			product	Cell division protein FtsL
+858	2357	CDS
+			EC_number	6.3.2.13
+			db_xref	COG:COG0769
+			gene	murE_2
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:Q819Q0
+			locus_tag	MEEGKEJE_00417
+			product	UDP-N-acetylmuramoyl-L-alanyl-D-glutamate--2,6-diaminopimelate ligase
+>Feature k99_27589
+972	346	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	MEEGKEJE_00418
+			product	hypothetical protein
+1529	957	CDS
+			EC_number	2.1.1.195
+			gene	cbiD
+			inference	ab initio prediction:Prodigal:002006
+			inference	protein motif:HAMAP:MF_00787
+			locus_tag	MEEGKEJE_00419
+			product	Cobalt-precorrin-5B C(1)-methyltransferase
+>Feature k99_39804
+25	393	CDS
+			gene	adhE
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P33744
+			locus_tag	MEEGKEJE_00420
+			product	Aldehyde-alcohol dehydrogenase
+564	1130	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	MEEGKEJE_00421
+			product	hypothetical protein
+2569	1196	CDS
+			EC_number	3.6.4.-
+			db_xref	COG:COG1066
+			gene	radA
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P37572
+			locus_tag	MEEGKEJE_00422
+			product	DNA repair protein RadA
+>Feature k99_3283
+155	658	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	MEEGKEJE_00423
+			product	hypothetical protein
+672	941	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	MEEGKEJE_00424
+			product	hypothetical protein
+1814	1167	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	MEEGKEJE_00425
+			product	hypothetical protein
+>Feature k99_33558
+116	235	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	MEEGKEJE_00426
+			product	hypothetical protein
+980	411	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	MEEGKEJE_00427
+			product	hypothetical protein
+2050	986	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	MEEGKEJE_00428
+			product	hypothetical protein
+2421	4436	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	MEEGKEJE_00429
+			product	hypothetical protein
+4580	4452	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	MEEGKEJE_00430
+			product	hypothetical protein
+5013	4651	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	MEEGKEJE_00431
+			product	hypothetical protein
+5106	5561	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	MEEGKEJE_00432
+			product	hypothetical protein
+>Feature k99_39838
+42	263	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	MEEGKEJE_00433
+			product	hypothetical protein
+311	1282	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	MEEGKEJE_00434
+			product	hypothetical protein
+1321	1509	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	MEEGKEJE_00435
+			product	hypothetical protein
+>Feature k99_27629
+639	76	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	MEEGKEJE_00436
+			product	hypothetical protein
+944	639	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	MEEGKEJE_00437
+			product	hypothetical protein
+1395	973	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	MEEGKEJE_00438
+			product	hypothetical protein
+1755	1408	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	MEEGKEJE_00439
+			product	hypothetical protein
+>Feature k99_45725
+23	937	CDS
+			EC_number	5.4.99.25
+			gene	truB
+			inference	ab initio prediction:Prodigal:002006
+			inference	protein motif:HAMAP:MF_01080
+			locus_tag	MEEGKEJE_00440
+			product	tRNA pseudouridine synthase B
+964	1893	CDS
+			db_xref	COG:COG0196
+			gene	ribF
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0AG40
+			locus_tag	MEEGKEJE_00441
+			product	Bifunctional riboflavin kinase/FMN adenylyltransferase
+>Feature k99_15944
+88	1497	CDS
+			EC_number	2.7.4.1
+			gene	ppk
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0DP45
+			locus_tag	MEEGKEJE_00442
+			product	Polyphosphate kinase
+>Feature k99_15956
+1790	1674	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	MEEGKEJE_00443
+			product	hypothetical protein
+2470	1892	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	MEEGKEJE_00444
+			product	hypothetical protein
+>Feature k99_27757
+1606	146	CDS
+			EC_number	6.1.1.17
+			gene	gltX
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P99170
+			locus_tag	MEEGKEJE_00445
+			product	Glutamate--tRNA ligase
+2772	1606	CDS
+			db_xref	COG:COG0245
+			gene	ispDF
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:Q9PM68
+			locus_tag	MEEGKEJE_00446
+			product	Bifunctional enzyme IspD/IspF
+3043	2765	CDS
+			EC_number	3.1.-.-
+			db_xref	COG:COG4956
+			gene	yacL
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:Q06754
+			locus_tag	MEEGKEJE_00447
+			product	putative PIN and TRAM-domain containing protein YacL
+>Feature k99_33701
+24	269	CDS
+			EC_number	7.3.2.1
+			db_xref	COG:COG1117
+			gene	pstB3
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0A2V9
+			locus_tag	MEEGKEJE_00448
+			product	Phosphate import ATP-binding protein PstB 3
+306	965	CDS
+			db_xref	COG:COG0704
+			gene	phoU
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:Q97ID9
+			locus_tag	MEEGKEJE_00449
+			product	Phosphate-specific transport system accessory protein PhoU 
+1125	1607	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	MEEGKEJE_00450
+			product	hypothetical protein
+>Feature k99_9858
+590	1873	CDS
+			EC_number	6.1.1.11
+			db_xref	COG:COG0172
+			gene	serS
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:O66647
+			locus_tag	MEEGKEJE_00451
+			product	Serine--tRNA ligase
+>Feature k99_33834
+50	1135	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	MEEGKEJE_00452
+			product	hypothetical protein
+1256	1528	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	MEEGKEJE_00453
+			product	hypothetical protein
+>Feature k99_27955
+10	330	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	MEEGKEJE_00454
+			product	hypothetical protein
+2587	524	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	MEEGKEJE_00455
+			product	hypothetical protein
+>Feature k99_16257
+130	396	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	MEEGKEJE_00456
+			product	hypothetical protein
+411	713	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	MEEGKEJE_00457
+			product	hypothetical protein
+710	1171	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	MEEGKEJE_00458
+			product	hypothetical protein
+1294	1674	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	MEEGKEJE_00459
+			product	hypothetical protein
+>Feature k99_10165
+1262	492	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	MEEGKEJE_00460
+			product	hypothetical protein
+1624	1409	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	MEEGKEJE_00461
+			product	hypothetical protein
+>Feature k99_40247
+150	620	CDS
+			db_xref	COG:COG1281
+			gene	hslO
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P37565
+			locus_tag	MEEGKEJE_00462
+			product	33 kDa chaperonin
+613	1407	CDS
+			EC_number	2.4.2.44
+			db_xref	COG:COG0005
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:Q9HZK1
+			locus_tag	MEEGKEJE_00463
+			product	S-methyl-5'-thioinosine phosphorylase
+1404	2459	CDS
+			EC_number	5.3.1.23
+			db_xref	COG:COG0182
+			gene	mtnA
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:Q9X013
+			locus_tag	MEEGKEJE_00464
+			product	Methylthioribose-1-phosphate isomerase
+>Feature k99_28064
+1018	869	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	MEEGKEJE_00465
+			product	hypothetical protein
+>Feature k99_21995
+1013	651	CDS
+			EC_number	7.2.4.5
+			db_xref	COG:COG0511
+			gene	gcdC
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:Q9ZAA7
+			locus_tag	MEEGKEJE_00466
+			product	Glutaconyl-CoA decarboxylase subunit gamma
+1462	1052	CDS
+			EC_number	6.4.1.3
+			db_xref	COG:COG4799
+			gene	pccB_2
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:Q3J4E3
+			locus_tag	MEEGKEJE_00467
+			product	Propionyl-CoA carboxylase beta chain
+>Feature k99_34061
+144	1247	CDS
+			gene	rhaR_2
+			inference	ab initio prediction:Prodigal:002006
+			inference	protein motif:HAMAP:MF_01533
+			locus_tag	MEEGKEJE_00468
+			product	HTH-type transcriptional activator RhaR
+1959	1630	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	MEEGKEJE_00469
+			product	hypothetical protein
+>Feature k99_22093
+1813	869	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	MEEGKEJE_00470
+			product	hypothetical protein
+>Feature k99_40413
+1100	129	CDS
+			EC_number	5.4.99.23
+			db_xref	COG:COG0564
+			gene	rluD
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P33643
+			locus_tag	MEEGKEJE_00471
+			product	Ribosomal large subunit pseudouridine synthase D
+1525	1109	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	MEEGKEJE_00472
+			product	hypothetical protein
+>Feature k99_22120
+1643	366	CDS
+			EC_number	2.7.9.1
+			db_xref	COG:COG0574
+			gene	ppdK
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P22983
+			locus_tag	MEEGKEJE_00473
+			product	Pyruvate, phosphate dikinase
+>Feature k99_16486
+1575	1069	CDS
+			gene	mdtG
+			inference	ab initio prediction:Prodigal:002006
+			inference	protein motif:HAMAP:MF_01528
+			locus_tag	MEEGKEJE_00474
+			product	Multidrug resistance protein MdtG
+>Feature k99_16496
+1640	432	CDS
+			gene	uvrB
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P56981
+			locus_tag	MEEGKEJE_00475
+			product	UvrABC system protein B
+>Feature k99_28211
+256	1533	CDS
+			db_xref	COG:COG1167
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:A0R5R7
+			locus_tag	MEEGKEJE_00476
+			product	Putative aminotransferase/MSMEI_6121
+2559	1696	CDS
+			db_xref	COG:COG0395
+			gene	ngcG
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:O50501
+			locus_tag	MEEGKEJE_00477
+			product	Diacetylchitobiose uptake system permease protein NgcG
+3527	2559	CDS
+			gene	lacF
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P29823
+			locus_tag	MEEGKEJE_00478
+			product	Lactose transport system permease protein LacF
+4968	3601	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	MEEGKEJE_00479
+			product	hypothetical protein
+>Feature k99_28226
+143	418	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	MEEGKEJE_00480
+			product	hypothetical protein
+730	1173	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	MEEGKEJE_00481
+			product	hypothetical protein
+1189	2262	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	MEEGKEJE_00482
+			product	hypothetical protein
+2275	2961	CDS
+			EC_number	3.6.3.-
+			db_xref	COG:COG1136
+			gene	yknY
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:O31711
+			locus_tag	MEEGKEJE_00483
+			product	putative ABC transporter ATP-binding protein YknY
+>Feature k99_40501
+96	500	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	MEEGKEJE_00484
+			product	hypothetical protein
+513	1118	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	MEEGKEJE_00485
+			product	hypothetical protein
+>Feature k99_4008
+2	1294	CDS
+			EC_number	2.6.1.16
+			db_xref	COG:COG0449
+			gene	glmS
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P9WN49
+			locus_tag	MEEGKEJE_00486
+			product	Glutamine--fructose-6-phosphate aminotransferase [isomerizing]
+1245	1730	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	MEEGKEJE_00487
+			product	hypothetical protein
+>Feature k99_40520
+99	371	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	MEEGKEJE_00488
+			product	hypothetical protein
+361	1437	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	MEEGKEJE_00489
+			product	hypothetical protein
+>Feature k99_46323
+1028	1396	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	MEEGKEJE_00490
+			product	hypothetical protein
+1618	1920	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	MEEGKEJE_00491
+			product	hypothetical protein
+2369	1911	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	MEEGKEJE_00492
+			product	hypothetical protein
+>Feature k99_40556
+33	635	CDS
+			gene	mnmG
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P64230
+			locus_tag	MEEGKEJE_00493
+			product	tRNA uridine 5-carboxymethylaminomethyl modification enzyme MnmG
+637	1356	CDS
+			EC_number	2.1.1.-
+			db_xref	COG:COG0357
+			gene	rsmG
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:Q97QD4
+			locus_tag	MEEGKEJE_00494
+			product	Ribosomal RNA small subunit methyltransferase G
+2000	1425	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	MEEGKEJE_00495
+			product	hypothetical protein
+>Feature k99_22260
+318	740	CDS
+			db_xref	COG:COG0539
+			gene	rpsA
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P9WH43
+			locus_tag	MEEGKEJE_00496
+			product	30S ribosomal protein S1
+1321	1190	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	MEEGKEJE_00497
+			product	hypothetical protein
+>Feature k99_4058
+2764	143	CDS
+			EC_number	2.7.7.7
+			db_xref	COG:COG2176
+			gene	polC
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P13267
+			locus_tag	MEEGKEJE_00498
+			product	DNA polymerase III PolC-type
+>Feature k99_10522
+40	600	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	MEEGKEJE_00499
+			product	hypothetical protein
+593	1396	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	MEEGKEJE_00500
+			product	hypothetical protein
+1448	3070	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	MEEGKEJE_00501
+			product	hypothetical protein
+>Feature k99_22293
+66	755	CDS
+			db_xref	COG:COG0601
+			gene	dppB
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0AEF8
+			locus_tag	MEEGKEJE_00502
+			product	Dipeptide transport system permease protein DppB
+755	1594	CDS
+			db_xref	COG:COG1173
+			gene	gsiD
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P75799
+			locus_tag	MEEGKEJE_00503
+			product	Glutathione transport system permease protein GsiD
+>Feature k99_40630
+357	848	CDS
+			EC_number	1.2.1.12
+			gene	gap
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P68777
+			locus_tag	MEEGKEJE_00504
+			product	Glyceraldehyde-3-phosphate dehydrogenase
+1668	1078	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	MEEGKEJE_00505
+			product	hypothetical protein
+>Feature k99_22327
+108	578	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	MEEGKEJE_00506
+			product	hypothetical protein
+684	541	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	MEEGKEJE_00507
+			product	hypothetical protein
+>Feature k99_40646
+42	233	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	MEEGKEJE_00508
+			product	hypothetical protein
+230	1186	CDS
+			EC_number	1.1.1.81
+			db_xref	COG:COG1052
+			gene	hpr
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:C0CMQ8
+			locus_tag	MEEGKEJE_00509
+			product	Hydroxypyruvate reductase
+1167	2003	CDS
+			EC_number	2.7.2.11
+			db_xref	COG:COG0263
+			gene	proB
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0A7B5
+			locus_tag	MEEGKEJE_00510
+			product	Glutamate 5-kinase
+>Feature k99_10562
+1243	239	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	MEEGKEJE_00511
+			product	hypothetical protein
+1988	1227	CDS
+			EC_number	2.7.11.1
+			db_xref	COG:COG0515
+			gene	pknB
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:A0QNG1
+			locus_tag	MEEGKEJE_00512
+			product	Serine/threonine-protein kinase PknB
+>Feature k99_16728
+477	683	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	MEEGKEJE_00513
+			product	hypothetical protein
+>Feature k99_40708
+1330	272	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	MEEGKEJE_00514
+			product	hypothetical protein
+2189	1446	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	MEEGKEJE_00515
+			product	hypothetical protein
+2599	2186	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	MEEGKEJE_00516
+			product	hypothetical protein
+>Feature k99_22443
+56	1366	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	MEEGKEJE_00517
+			product	hypothetical protein
+>Feature k99_40767
+104	1066	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	MEEGKEJE_00518
+			product	hypothetical protein
+1085	1795	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	MEEGKEJE_00519
+			product	hypothetical protein
+>Feature k99_16783
+334	672	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	MEEGKEJE_00520
+			product	hypothetical protein
+673	969	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	MEEGKEJE_00521
+			product	hypothetical protein
+1285	1464	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	MEEGKEJE_00522
+			product	hypothetical protein
+1906	2304	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	MEEGKEJE_00523
+			product	hypothetical protein
+>Feature k99_10727
+52	888	CDS
+			EC_number	2.4.1.303
+			db_xref	COG:COG0463
+			gene	wbbD_1
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:Q03084
+			locus_tag	MEEGKEJE_00524
+			product	UDP-Gal:alpha-D-GlcNAc-diphosphoundecaprenol beta-1,3-galactosyltransferase
+1568	1107	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	MEEGKEJE_00525
+			product	hypothetical protein
+>Feature k99_22492
+513	977	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	MEEGKEJE_00526
+			product	hypothetical protein
+>Feature k99_46629
+1044	565	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	MEEGKEJE_00527
+			product	hypothetical protein
+1805	1053	CDS
+			gene	zntB
+			inference	ab initio prediction:Prodigal:002006
+			inference	protein motif:HAMAP:MF_01565
+			locus_tag	MEEGKEJE_00528
+			product	Zinc transport protein ZntB
+>Feature k99_16830
+12	1946	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	MEEGKEJE_00529
+			product	hypothetical protein
+>Feature k99_22534
+4	237	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	MEEGKEJE_00530
+			product	hypothetical protein
+969	2849	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	MEEGKEJE_00531
+			product	hypothetical protein
+3025	3255	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	MEEGKEJE_00532
+			product	hypothetical protein
+3248	3421	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	MEEGKEJE_00533
+			product	hypothetical protein
+3414	4436	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	MEEGKEJE_00534
+			product	hypothetical protein
+4852	4409	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	MEEGKEJE_00535
+			product	hypothetical protein
+>Feature k99_46675
+45	452	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	MEEGKEJE_00536
+			product	hypothetical protein
+1404	496	CDS
+			EC_number	4.3.3.7
+			db_xref	COG:COG0329
+			gene	dapA
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:Q04796
+			locus_tag	MEEGKEJE_00537
+			product	4-hydroxy-tetrahydrodipicolinate synthase
+2465	1431	CDS
+			EC_number	1.2.1.11
+			db_xref	COG:COG0136
+			gene	asd
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:Q04797
+			locus_tag	MEEGKEJE_00538
+			product	Aspartate-semialdehyde dehydrogenase
+3271	2480	CDS
+			EC_number	1.17.1.8
+			db_xref	COG:COG0289
+			gene	dapB
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:Q3MFY8
+			locus_tag	MEEGKEJE_00539
+			product	4-hydroxy-tetrahydrodipicolinate reductase
+>Feature k99_16849
+22	831	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	MEEGKEJE_00540
+			product	hypothetical protein
+824	1816	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	MEEGKEJE_00541
+			product	hypothetical protein
+>Feature k99_10831
+87	980	CDS
+			EC_number	2.4.1.182
+			db_xref	COG:COG0763
+			gene	lpxB
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P10441
+			locus_tag	MEEGKEJE_00542
+			product	Lipid-A-disaccharide synthase
+>Feature k99_28402
+38	637	CDS
+			EC_number	3.1.-.-
+			db_xref	COG:COG1193
+			gene	mutS2
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:Q5SHT5
+			locus_tag	MEEGKEJE_00543
+			product	Endonuclease MutS2
+676	1827	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	MEEGKEJE_00544
+			product	hypothetical protein
+>Feature k99_40844
+41	571	CDS
+			db_xref	COG:COG0745
+			gene	srrA
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:Q9L524
+			locus_tag	MEEGKEJE_00545
+			product	Transcriptional regulatory protein SrrA
+1185	946	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	MEEGKEJE_00546
+			product	hypothetical protein
+>Feature k99_34619
+502	1263	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	MEEGKEJE_00547
+			product	hypothetical protein
+>Feature k99_40888
+122	373	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	MEEGKEJE_00548
+			product	hypothetical protein
+1802	453	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	MEEGKEJE_00549
+			product	hypothetical protein
+>Feature k99_40900
+24	584	CDS
+			EC_number	4.1.1.65
+			db_xref	COG:COG0688
+			gene	psd
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P9WHQ5
+			locus_tag	MEEGKEJE_00550
+			product	Phosphatidylserine decarboxylase proenzyme
+581	1300	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	MEEGKEJE_00551
+			product	hypothetical protein
+1302	2558	CDS
+			EC_number	2.4.1.336
+			db_xref	COG:COG1215
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:Q3MB01
+			locus_tag	MEEGKEJE_00552
+			product	Beta-monoglucosyldiacylglycerol synthase
+2558	3331	CDS
+			EC_number	3.1.3.5
+			db_xref	COG:COG0496
+			gene	surE
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:O67004
+			locus_tag	MEEGKEJE_00553
+			product	5'-nucleotidase SurE
+3371	3456	tRNA
+			inference	COORDINATES:profile:Aragorn:001002
+			locus_tag	MEEGKEJE_00554
+			product	tRNA-Leu(caa)
+4153	3638	CDS
+			gene	xerC
+			inference	ab initio prediction:Prodigal:002006
+			inference	protein motif:HAMAP:MF_01808
+			locus_tag	MEEGKEJE_00555
+			product	Tyrosine recombinase XerC
+>Feature k99_28552
+2120	1182	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	MEEGKEJE_00556
+			product	hypothetical protein
+>Feature k99_10952
+74	667	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	MEEGKEJE_00557
+			product	hypothetical protein
+2430	763	CDS
+			EC_number	3.6.3.-
+			db_xref	COG:COG1132
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:Q99T13
+			locus_tag	MEEGKEJE_00558
+			product	Putative multidrug export ATP-binding/permease protein
+>Feature k99_17036
+168	839	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	MEEGKEJE_00559
+			product	hypothetical protein
+842	3718	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	MEEGKEJE_00560
+			product	hypothetical protein
+>Feature k99_40984
+963	124	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	MEEGKEJE_00561
+			product	hypothetical protein
+1339	1094	CDS
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:Q97SX1
+			locus_tag	MEEGKEJE_00562
+			note	UPF0297 protein SP_0192
+			product	hypothetical protein
+3240	1468	CDS
+			EC_number	6.1.1.20
+			db_xref	COG:COG0072
+			gene	pheT
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:Q4L5E4
+			locus_tag	MEEGKEJE_00563
+			product	Phenylalanine--tRNA ligase beta subunit
+>Feature k99_46935
+151	1545	CDS
+			db_xref	COG:COG2252
+			gene	pbuG
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:O34987
+			locus_tag	MEEGKEJE_00564
+			product	Guanine/hypoxanthine permease PbuG
+>Feature k99_22800
+93	656	CDS
+			db_xref	COG:COG0217
+			gene	yebC
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0A8A0
+			locus_tag	MEEGKEJE_00565
+			product	putative transcriptional regulatory protein YebC
+1969	1580	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	MEEGKEJE_00566
+			product	hypothetical protein
+>Feature k99_34809
+89	2629	CDS
+			EC_number	3.5.1.44
+			gene	cheB
+			inference	ab initio prediction:Prodigal:002006
+			inference	protein motif:HAMAP:MF_00099
+			locus_tag	MEEGKEJE_00567
+			product	Protein-glutamate methylesterase/protein-glutamine glutaminase
+2725	3534	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	MEEGKEJE_00568
+			product	hypothetical protein
+>Feature k99_34819
+27	128	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	MEEGKEJE_00569
+			product	hypothetical protein
+121	624	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	MEEGKEJE_00570
+			product	hypothetical protein
+727	1560	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	MEEGKEJE_00571
+			product	hypothetical protein
+2201	1668	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	MEEGKEJE_00572
+			product	hypothetical protein
+>Feature k99_34835
+40	471	CDS
+			gene	cbiB
+			inference	ab initio prediction:Prodigal:002006
+			inference	protein motif:HAMAP:MF_00024
+			locus_tag	MEEGKEJE_00573
+			product	Cobalamin biosynthesis protein CbiB
+1536	607	CDS
+			EC_number	3.2.1.4
+			db_xref	COG:COG2730
+			gene	eglS
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P10475
+			locus_tag	MEEGKEJE_00574
+			product	Endoglucanase
+>Feature k99_22855
+49	717	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	MEEGKEJE_00575
+			product	hypothetical protein
+815	940	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	MEEGKEJE_00576
+			product	hypothetical protein
+1409	1092	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	MEEGKEJE_00577
+			product	hypothetical protein
+>Feature k99_22871
+4	516	CDS
+			EC_number	2.7.1.17
+			db_xref	COG:COG1070
+			gene	xylB
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P35850
+			locus_tag	MEEGKEJE_00578
+			product	Xylulose kinase
+697	621	tRNA
+			inference	COORDINATES:profile:Aragorn:001002
+			locus_tag	MEEGKEJE_00579
+			product	tRNA-Pro(ggg)
+847	923	tRNA
+			inference	COORDINATES:profile:Aragorn:001002
+			locus_tag	MEEGKEJE_00580
+			product	tRNA-Met(cat)
+>Feature k99_47113
+1620	1312	CDS
+			db_xref	COG:COG0103
+			gene	rpsI
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P21470
+			locus_tag	MEEGKEJE_00581
+			product	30S ribosomal protein S9
+>Feature k99_17142
+958	353	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	MEEGKEJE_00582
+			product	hypothetical protein
+>Feature k99_11133
+1734	853	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	MEEGKEJE_00583
+			product	hypothetical protein
+>Feature k99_17176
+303	728	CDS
+			db_xref	COG:COG0197
+			gene	rplP
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P14577
+			locus_tag	MEEGKEJE_00584
+			product	50S ribosomal protein L16
+730	936	CDS
+			db_xref	COG:COG0255
+			gene	rpmC
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P12873
+			locus_tag	MEEGKEJE_00585
+			product	50S ribosomal protein L29
+961	1221	CDS
+			db_xref	COG:COG0186
+			gene	rpsQ
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P12874
+			locus_tag	MEEGKEJE_00586
+			product	30S ribosomal protein S17
+1255	1623	CDS
+			gene	rplN
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P04450
+			locus_tag	MEEGKEJE_00587
+			product	50S ribosomal protein L14
+1636	1968	CDS
+			gene	rplX_1
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P04455
+			locus_tag	MEEGKEJE_00588
+			product	50S ribosomal protein L24
+>Feature k99_17180
+973	50	CDS
+			EC_number	2.7.1.39
+			gene	thrB
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:Q1CMW6
+			locus_tag	MEEGKEJE_00589
+			product	Homoserine kinase
+1907	966	CDS
+			EC_number	1.1.1.3
+			db_xref	COG:COG0460
+			gene	hom
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P19582
+			locus_tag	MEEGKEJE_00590
+			product	Homoserine dehydrogenase
+>Feature k99_28780
+3	293	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	MEEGKEJE_00591
+			product	hypothetical protein
+410	574	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	MEEGKEJE_00592
+			product	hypothetical protein
+601	747	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	MEEGKEJE_00593
+			product	hypothetical protein
+748	948	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	MEEGKEJE_00594
+			product	hypothetical protein
+953	1153	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	MEEGKEJE_00595
+			product	hypothetical protein
+1155	1301	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	MEEGKEJE_00596
+			product	hypothetical protein
+1270	1650	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	MEEGKEJE_00597
+			product	hypothetical protein
+1652	2923	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	MEEGKEJE_00598
+			product	hypothetical protein
+2923	4065	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	MEEGKEJE_00599
+			product	hypothetical protein
+4081	4587	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	MEEGKEJE_00600
+			product	hypothetical protein
+4587	6176	CDS
+			EC_number	3.6.4.13
+			gene	srmB
+			inference	ab initio prediction:Prodigal:002006
+			inference	protein motif:HAMAP:MF_00967
+			locus_tag	MEEGKEJE_00601
+			product	ATP-dependent RNA helicase SrmB
+6187	8394	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	MEEGKEJE_00602
+			product	hypothetical protein
+8596	8850	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	MEEGKEJE_00603
+			product	hypothetical protein
+8843	9235	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	MEEGKEJE_00604
+			product	hypothetical protein
+9178	9438	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	MEEGKEJE_00605
+			product	hypothetical protein
+9425	9643	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	MEEGKEJE_00606
+			product	hypothetical protein
+>Feature k99_11194
+48	791	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	MEEGKEJE_00607
+			product	hypothetical protein
+819	2213	CDS
+			EC_number	5.3.1.9
+			gene	pgi
+			inference	ab initio prediction:Prodigal:002006
+			inference	protein motif:HAMAP:MF_00473
+			locus_tag	MEEGKEJE_00608
+			product	Glucose-6-phosphate isomerase
+2218	2736	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	MEEGKEJE_00609
+			product	hypothetical protein
+>Feature k99_11203
+63	440	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	MEEGKEJE_00610
+			product	hypothetical protein
+1547	1419	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	MEEGKEJE_00611
+			product	hypothetical protein
+>Feature k99_23001
+79	402	CDS
+			db_xref	COG:COG0198
+			gene	rplX_2
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:Q5SHP9
+			locus_tag	MEEGKEJE_00612
+			product	50S ribosomal protein L24
+419	961	CDS
+			gene	rplE
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P08895
+			locus_tag	MEEGKEJE_00613
+			product	50S ribosomal protein L5
+976	1161	CDS
+			db_xref	COG:COG0199
+			gene	rpsN1
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P12878
+			locus_tag	MEEGKEJE_00614
+			product	30S ribosomal protein S14
+1178	1576	CDS
+			gene	rpsH_2
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P66630
+			locus_tag	MEEGKEJE_00615
+			product	30S ribosomal protein S8
+>Feature k99_17232
+82	1578	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	MEEGKEJE_00616
+			product	hypothetical protein
+>Feature k99_17340
+136	354	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	MEEGKEJE_00617
+			product	hypothetical protein
+434	718	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	MEEGKEJE_00618
+			product	hypothetical protein
+890	1192	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	MEEGKEJE_00619
+			product	hypothetical protein
+>Feature k99_17373
+>Feature k99_35132
+25	729	CDS
+			db_xref	COG:COG0745
+			gene	regX3_2
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P9WGL9
+			locus_tag	MEEGKEJE_00620
+			product	Sensory transduction protein regX3
+1882	1340	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	MEEGKEJE_00621
+			product	hypothetical protein
+>Feature k99_17431
+676	518	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	MEEGKEJE_00622
+			product	hypothetical protein
+1682	705	CDS
+			EC_number	2.4.2.53
+			gene	arnC_2
+			inference	ab initio prediction:Prodigal:002006
+			inference	protein motif:HAMAP:MF_01164
+			locus_tag	MEEGKEJE_00623
+			product	Undecaprenyl-phosphate 4-deoxy-4-formamido-L-arabinose transferase
+>Feature k99_11396
+326	84	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	MEEGKEJE_00624
+			product	hypothetical protein
+1527	361	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	MEEGKEJE_00625
+			product	hypothetical protein
+>Feature k99_41387
+1670	1179	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	MEEGKEJE_00626
+			product	hypothetical protein
+>Feature k99_17498
+1499	447	CDS
+			EC_number	1.1.98.6
+			db_xref	COG:COG1328
+			gene	nrdD
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P28903
+			locus_tag	MEEGKEJE_00627
+			product	Anaerobic ribonucleoside-triphosphate reductase
+>Feature k99_23272
+4	285	CDS
+			gene	rpsK
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P66357
+			locus_tag	MEEGKEJE_00628
+			product	30S ribosomal protein S11
+378	974	CDS
+			gene	rpsD
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P81288
+			locus_tag	MEEGKEJE_00629
+			product	30S ribosomal protein S4
+>Feature k99_23289
+12	791	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	MEEGKEJE_00630
+			product	hypothetical protein
+1157	867	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	MEEGKEJE_00631
+			product	hypothetical protein
+2009	1290	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	MEEGKEJE_00632
+			product	hypothetical protein
+2419	2033	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	MEEGKEJE_00633
+			product	hypothetical protein
+>Feature k99_23295
+65	1768	CDS
+			EC_number	6.1.1.3
+			db_xref	COG:COG0441
+			gene	thrZ
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P18256
+			locus_tag	MEEGKEJE_00634
+			product	Threonine--tRNA ligase 2
+>Feature k99_11504
+20	688	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	MEEGKEJE_00635
+			product	hypothetical protein
+1531	803	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	MEEGKEJE_00636
+			product	hypothetical protein
+>Feature k99_23321
+232	1077	CDS
+			EC_number	2.4.1.303
+			db_xref	COG:COG0463
+			gene	wbbD_2
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:Q03084
+			locus_tag	MEEGKEJE_00637
+			product	UDP-Gal:alpha-D-GlcNAc-diphosphoundecaprenol beta-1,3-galactosyltransferase
+>Feature k99_23327
+4	396	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	MEEGKEJE_00638
+			product	hypothetical protein
+393	1271	CDS
+			EC_number	2.7.8.-
+			gene	tagU
+			inference	ab initio prediction:Prodigal:002006
+			inference	protein motif:HAMAP:MF_01140
+			locus_tag	MEEGKEJE_00639
+			product	Polyisoprenyl-teichoic acid--peptidoglycan teichoic acid transferase TagU
+1288	1638	CDS
+			db_xref	COG:COG0799
+			gene	rsfS
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:Q97P97
+			locus_tag	MEEGKEJE_00640
+			product	Ribosomal silencing factor RsfS
+1635	2522	CDS
+			gene	cvfB
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:Q7A5Q1
+			locus_tag	MEEGKEJE_00641
+			product	Conserved virulence factor B
+3198	2566	CDS
+			EC_number	3.4.21.88
+			db_xref	COG:COG1974
+			gene	lexA_2
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P31080
+			locus_tag	MEEGKEJE_00642
+			product	LexA repressor
+>Feature k99_41527
+89	217	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	MEEGKEJE_00643
+			product	hypothetical protein
+225	776	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	MEEGKEJE_00644
+			product	hypothetical protein
+1752	1219	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	MEEGKEJE_00645
+			product	hypothetical protein
+>Feature k99_41533
+2	178	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	MEEGKEJE_00646
+			product	hypothetical protein
+194	619	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	MEEGKEJE_00647
+			product	hypothetical protein
+1911	742	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	MEEGKEJE_00648
+			product	hypothetical protein
+>Feature k99_17580
+561	94	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	MEEGKEJE_00649
+			product	hypothetical protein
+582	1031	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	MEEGKEJE_00650
+			product	hypothetical protein
+1382	870	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	MEEGKEJE_00651
+			product	hypothetical protein
+>Feature k99_23378
+911	432	CDS
+			EC_number	3.5.4.33
+			gene	tadA
+			inference	ab initio prediction:Prodigal:002006
+			inference	protein motif:HAMAP:MF_00972
+			locus_tag	MEEGKEJE_00652
+			product	tRNA-specific adenosine deaminase
+1457	930	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	MEEGKEJE_00653
+			product	hypothetical protein
+1622	1476	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	MEEGKEJE_00654
+			product	hypothetical protein
+>Feature k99_29120
+324	929	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	MEEGKEJE_00655
+			product	hypothetical protein
+929	1612	CDS
+			gene	ecfT
+			inference	ab initio prediction:Prodigal:002006
+			inference	protein motif:HAMAP:MF_01461
+			locus_tag	MEEGKEJE_00656
+			product	Energy-coupling factor transporter transmembrane protein EcfT
+1626	3029	CDS
+			EC_number	3.6.3.-
+			db_xref	COG:COG1122
+			gene	ykoD
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:O34362
+			locus_tag	MEEGKEJE_00657
+			product	Putative HMP/thiamine import ATP-binding protein YkoD
+3035	3994	CDS
+			gene	rhaR_3
+			inference	ab initio prediction:Prodigal:002006
+			inference	protein motif:HAMAP:MF_01533
+			locus_tag	MEEGKEJE_00658
+			product	HTH-type transcriptional activator RhaR
+4120	5901	CDS
+			EC_number	3.6.3.-
+			db_xref	COG:COG1132
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:Q99T13
+			locus_tag	MEEGKEJE_00659
+			product	Putative multidrug export ATP-binding/permease protein
+5894	7642	CDS
+			EC_number	7.5.2.6
+			db_xref	COG:COG1132
+			gene	msbA_3
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P63359
+			locus_tag	MEEGKEJE_00660
+			product	Lipid A export ATP-binding/permease protein MsbA
+7642	8019	CDS
+			db_xref	COG:COG1321
+			gene	mntR
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0A9F1
+			locus_tag	MEEGKEJE_00661
+			product	Transcriptional regulator MntR
+>Feature k99_23402
+54	296	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	MEEGKEJE_00662
+			product	hypothetical protein
+360	1598	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	MEEGKEJE_00663
+			product	hypothetical protein
+>Feature k99_29151
+2217	2417	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	MEEGKEJE_00664
+			product	hypothetical protein
+3098	2685	CDS
+			EC_number	2.4.-.-
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:Q55487
+			locus_tag	MEEGKEJE_00665
+			product	putative glycosyltransferase
+>Feature k99_47682
+1456	977	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	MEEGKEJE_00666
+			product	hypothetical protein
+>Feature k99_41653
+18	356	CDS
+			EC_number	2.4.2.10
+			db_xref	COG:COG0461
+			gene	pyrE
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:Q9KVD5
+			locus_tag	MEEGKEJE_00667
+			product	Orotate phosphoribosyltransferase
+781	981	CDS
+			db_xref	COG:COG0254
+			gene	rpmE
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0A7M9
+			locus_tag	MEEGKEJE_00668
+			product	50S ribosomal protein L31
+1037	1657	CDS
+			db_xref	COG:COG1739
+			gene	yigZ
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P27862
+			locus_tag	MEEGKEJE_00669
+			product	IMPACT family member YigZ
+>Feature k99_29194
+256	1728	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	MEEGKEJE_00670
+			product	hypothetical protein
+>Feature k99_23458
+40	195	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	MEEGKEJE_00671
+			product	hypothetical protein
+198	380	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	MEEGKEJE_00672
+			product	hypothetical protein
+475	633	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	MEEGKEJE_00673
+			product	hypothetical protein
+718	888	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	MEEGKEJE_00674
+			product	hypothetical protein
+913	1188	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	MEEGKEJE_00675
+			product	hypothetical protein
+1274	1498	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	MEEGKEJE_00676
+			product	hypothetical protein
+1515	1736	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	MEEGKEJE_00677
+			product	hypothetical protein
+1913	2104	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	MEEGKEJE_00678
+			product	hypothetical protein
+2160	2270	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	MEEGKEJE_00679
+			product	hypothetical protein
+>Feature k99_17699
+1721	1131	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	MEEGKEJE_00680
+			product	hypothetical protein
+>Feature k99_23489
+1273	242	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	MEEGKEJE_00681
+			product	hypothetical protein
+2485	1274	CDS
+			EC_number	2.4.1.-
+			gene	gtfA
+			inference	ab initio prediction:Prodigal:002006
+			inference	protein motif:HAMAP:MF_01472
+			locus_tag	MEEGKEJE_00682
+			product	UDP-N-acetylglucosamine--peptide N-acetylglucosaminyltransferase GtfA subunit
+>Feature k99_47783
+1959	1123	CDS
+			EC_number	2.1.1.72
+			gene	dpnM
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P04043
+			locus_tag	MEEGKEJE_00683
+			product	Modification methylase DpnIIA
+2296	2024	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	MEEGKEJE_00684
+			product	hypothetical protein
+>Feature k99_29269
+29	217	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	MEEGKEJE_00685
+			product	hypothetical protein
+219	1436	CDS
+			EC_number	2.6.1.2
+			db_xref	COG:COG0436
+			gene	alaA
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0A959
+			locus_tag	MEEGKEJE_00686
+			product	Glutamate-pyruvate aminotransferase AlaA
+>Feature k99_47800
+209	781	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	MEEGKEJE_00687
+			product	hypothetical protein
+765	1004	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	MEEGKEJE_00688
+			product	hypothetical protein
+1020	1751	CDS
+			EC_number	1.1.1.100
+			gene	fabG_1
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P99093
+			locus_tag	MEEGKEJE_00689
+			product	3-oxoacyl-[acyl-carrier-protein] reductase FabG
+>Feature k99_23520
+687	259	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	MEEGKEJE_00690
+			product	hypothetical protein
+1614	718	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	MEEGKEJE_00691
+			product	hypothetical protein
+>Feature k99_5011
+1588	1109	CDS
+			EC_number	3.2.1.23
+			db_xref	COG:COG3250
+			gene	lacZ
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0C1Y0
+			locus_tag	MEEGKEJE_00692
+			product	Beta-galactosidase
+>Feature k99_47839
+1805	6	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	MEEGKEJE_00693
+			product	hypothetical protein
+>Feature k99_5057
+1680	772	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	MEEGKEJE_00694
+			product	hypothetical protein
+>Feature k99_17793
+477	196	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	MEEGKEJE_00695
+			product	hypothetical protein
+1418	498	CDS
+			EC_number	3.6.3.3
+			db_xref	COG:COG2217
+			gene	cadA
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:O32219
+			locus_tag	MEEGKEJE_00696
+			product	Cadmium, zinc and cobalt-transporting ATPase
+>Feature k99_5092
+1058	837	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	MEEGKEJE_00697
+			product	hypothetical protein
+1769	1497	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	MEEGKEJE_00698
+			product	hypothetical protein
+>Feature k99_5094
+1151	81	CDS
+			db_xref	COG:COG2730
+			gene	celE
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P10477
+			locus_tag	MEEGKEJE_00699
+			product	Cellulase/esterase CelE
+1303	1575	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	MEEGKEJE_00700
+			product	hypothetical protein
+1746	2195	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	MEEGKEJE_00701
+			product	hypothetical protein
+>Feature k99_41830
+284	925	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	MEEGKEJE_00702
+			product	hypothetical protein
+>Feature k99_23643
+89	1087	CDS
+			EC_number	2.4.1.319
+			db_xref	COG:COG2152
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:E6UBR9
+			locus_tag	MEEGKEJE_00703
+			product	Beta-1,4-mannooligosaccharide phosphorylase
+1759	1265	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	MEEGKEJE_00704
+			product	hypothetical protein
+2591	1773	CDS
+			gene	araC
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0A9E0
+			locus_tag	MEEGKEJE_00705
+			product	Arabinose operon regulatory protein
+>Feature k99_23652
+310	549	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	MEEGKEJE_00706
+			product	hypothetical protein
+564	869	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	MEEGKEJE_00707
+			product	hypothetical protein
+1401	2603	CDS
+			EC_number	4.3.1.19
+			db_xref	COG:COG1171
+			gene	tdcB
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:Q74FW6
+			locus_tag	MEEGKEJE_00708
+			product	L-threonine ammonia-lyase
+>Feature k99_35600
+50	802	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	MEEGKEJE_00709
+			product	hypothetical protein
+762	1385	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	MEEGKEJE_00710
+			product	hypothetical protein
+>Feature k99_12027
+1761	901	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	MEEGKEJE_00711
+			product	hypothetical protein
+>Feature k99_17932
+1717	569	CDS
+			EC_number	1.1.1.77
+			db_xref	COG:COG1454
+			gene	fucO
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0A9S1
+			locus_tag	MEEGKEJE_00712
+			product	Lactaldehyde reductase
+>Feature k99_41967
+1210	1476	CDS
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:Q836B3
+			locus_tag	MEEGKEJE_00713
+			note	UPF0297 protein EF_1202
+			product	hypothetical protein
+>Feature k99_5236
+200	397	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	MEEGKEJE_00714
+			product	hypothetical protein
+1140	1550	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	MEEGKEJE_00715
+			product	hypothetical protein
+>Feature k99_18007
+1090	431	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	MEEGKEJE_00716
+			product	hypothetical protein
+>Feature k99_18017
+545	243	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	MEEGKEJE_00717
+			product	hypothetical protein
+1353	562	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	MEEGKEJE_00718
+			product	hypothetical protein
+>Feature k99_29505
+1078	833	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	MEEGKEJE_00719
+			product	hypothetical protein
+>Feature k99_23833
+1450	2070	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	MEEGKEJE_00720
+			product	hypothetical protein
+>Feature k99_35821
+1218	721	CDS
+			EC_number	3.5.1.42
+			db_xref	COG:COG1546
+			gene	pncC
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0A6G3
+			locus_tag	MEEGKEJE_00721
+			product	Nicotinamide-nucleotide amidohydrolase PncC
+1663	1235	CDS
+			EC_number	2.8.4.4
+			db_xref	COG:COG0621
+			gene	rimO
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0AEI4
+			locus_tag	MEEGKEJE_00722
+			product	Ribosomal protein S12 methylthiotransferase RimO
+>Feature k99_5379
+10	927	CDS
+			db_xref	COG:COG1792
+			gene	mreC
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:Q8Y6Y4
+			locus_tag	MEEGKEJE_00723
+			product	Cell shape-determining protein MreC
+920	1411	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	MEEGKEJE_00724
+			product	hypothetical protein
+2005	1619	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	MEEGKEJE_00725
+			product	hypothetical protein
+>Feature k99_48161
+1039	41	CDS
+			gene	btuF
+			inference	ab initio prediction:Prodigal:002006
+			inference	protein motif:HAMAP:MF_01000
+			locus_tag	MEEGKEJE_00726
+			product	Vitamin B12-binding protein
+1747	1079	CDS
+			db_xref	COG:COG1120
+			gene	fepC
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P23878
+			locus_tag	MEEGKEJE_00727
+			product	Ferric enterobactin transport ATP-binding protein FepC
+>Feature k99_29715
+81	392	CDS
+			db_xref	COG:COG0051
+			gene	rpsJ
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P21471
+			locus_tag	MEEGKEJE_00728
+			product	30S ribosomal protein S10
+405	1046	CDS
+			db_xref	COG:COG0087
+			gene	rplC
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P42920
+			locus_tag	MEEGKEJE_00729
+			product	50S ribosomal protein L3
+>Feature k99_42133
+263	1366	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	MEEGKEJE_00730
+			product	hypothetical protein
+>Feature k99_23991
+299	880	CDS
+			EC_number	2.4.99.17
+			db_xref	COG:COG0809
+			gene	queA
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:A8AYK5
+			locus_tag	MEEGKEJE_00731
+			product	S-adenosylmethionine:tRNA ribosyltransferase-isomerase
+>Feature k99_42144
+89	1864	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	MEEGKEJE_00732
+			product	hypothetical protein
+1880	2170	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	MEEGKEJE_00733
+			product	hypothetical protein
+2163	3089	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	MEEGKEJE_00734
+			product	hypothetical protein
+3188	3811	CDS
+			EC_number	2.3.1.28
+			gene	cat
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P06135
+			locus_tag	MEEGKEJE_00735
+			product	Chloramphenicol acetyltransferase
+3907	4173	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	MEEGKEJE_00736
+			product	hypothetical protein
+>Feature k99_42154
+2142	997	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	MEEGKEJE_00737
+			product	hypothetical protein
+>Feature k99_29761
+28	693	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	MEEGKEJE_00738
+			product	hypothetical protein
+1845	724	CDS
+			gene	xylP
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P96792
+			locus_tag	MEEGKEJE_00739
+			product	Isoprimeverose transporter
+>Feature k99_35992
+24	410	CDS
+			EC_number	7.-.-.-
+			db_xref	COG:COG1122
+			gene	ecfA1
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:A2RI01
+			locus_tag	MEEGKEJE_00740
+			product	Energy-coupling factor transporter ATP-binding protein EcfA1
+423	1286	CDS
+			EC_number	3.6.3.-
+			db_xref	COG:COG1122
+			gene	ecfA2
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:Q8R7Y5
+			locus_tag	MEEGKEJE_00741
+			product	Energy-coupling factor transporter ATP-binding protein EcfA2
+>Feature k99_36049
+1265	507	CDS
+			EC_number	3.4.21.92
+			gene	clpP
+			inference	ab initio prediction:Prodigal:002006
+			inference	protein motif:HAMAP:MF_00444
+			locus_tag	MEEGKEJE_00742
+			product	ATP-dependent Clp protease proteolytic subunit
+1564	1268	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	MEEGKEJE_00743
+			product	hypothetical protein
+3432	1564	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	MEEGKEJE_00744
+			product	hypothetical protein
+>Feature k99_42250
+1921	1124	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	MEEGKEJE_00745
+			product	hypothetical protein
+>Feature k99_5631
+1	918	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	MEEGKEJE_00746
+			product	hypothetical protein
+1327	2196	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	MEEGKEJE_00747
+			product	hypothetical protein
+2608	2363	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	MEEGKEJE_00748
+			product	hypothetical protein
+>Feature k99_36179
+181	657	CDS
+			gene	ftsL_2
+			inference	ab initio prediction:Prodigal:002006
+			inference	protein motif:HAMAP:MF_00910
+			locus_tag	MEEGKEJE_00749
+			product	Cell division protein FtsL
+813	1304	CDS
+			EC_number	3.4.16.4
+			gene	mrdA
+			inference	ab initio prediction:Prodigal:002006
+			inference	protein motif:HAMAP:MF_02081
+			locus_tag	MEEGKEJE_00750
+			product	Peptidoglycan D,D-transpeptidase MrdA
+>Feature k99_36181
+81	353	CDS
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P67382
+			locus_tag	MEEGKEJE_00751
+			note	UPF0237 protein SP_0238
+			product	hypothetical protein
+363	1727	CDS
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:Q97ST4
+			locus_tag	MEEGKEJE_00752
+			note	UPF0210 protein SP_0239
+			product	hypothetical protein
+>Feature k99_36182
+63	818	CDS
+			db_xref	COG:COG0601
+			gene	gsiC
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P75798
+			locus_tag	MEEGKEJE_00753
+			product	Glutathione transport system permease protein GsiC
+832	1743	CDS
+			db_xref	COG:COG1173
+			gene	ddpC
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P77463
+			locus_tag	MEEGKEJE_00754
+			product	putative D,D-dipeptide transport system permease protein DdpC
+1747	2742	CDS
+			db_xref	COG:COG0444
+			gene	oppD
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P24136
+			locus_tag	MEEGKEJE_00755
+			product	Oligopeptide transport ATP-binding protein OppD
+2739	3632	CDS
+			EC_number	7.6.2.8
+			gene	btuD
+			inference	ab initio prediction:Prodigal:002006
+			inference	protein motif:HAMAP:MF_01005
+			locus_tag	MEEGKEJE_00756
+			product	Vitamin B12 import ATP-binding protein BtuD
+>Feature k99_5735
+1326	139	CDS
+			db_xref	COG:COG0050
+			gene	tuf
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:Q01698
+			locus_tag	MEEGKEJE_00757
+			product	Elongation factor Tu
+1583	1507	tRNA
+			inference	COORDINATES:profile:Aragorn:001002
+			locus_tag	MEEGKEJE_00758
+			product	tRNA-Met(cat)
+>Feature k99_5835
+241	29	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	MEEGKEJE_00759
+			product	hypothetical protein
+919	485	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	MEEGKEJE_00760
+			product	hypothetical protein
+1584	1096	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	MEEGKEJE_00761
+			product	hypothetical protein
+>Feature k99_30003
+2	190	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	MEEGKEJE_00762
+			product	hypothetical protein
+1688	1092	CDS
+			EC_number	2.7.7.65
+			db_xref	COG:COG2199
+			gene	dgcJ
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P76237
+			locus_tag	MEEGKEJE_00763
+			product	putative diguanylate cyclase DgcJ
+>Feature k99_5910
+918	184	CDS
+			EC_number	1.1.1.100
+			gene	fabG_2
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P99093
+			locus_tag	MEEGKEJE_00764
+			product	3-oxoacyl-[acyl-carrier-protein] reductase FabG
+1548	1096	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	MEEGKEJE_00765
+			product	hypothetical protein
+>Feature k99_30104
+82	618	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	MEEGKEJE_00766
+			product	hypothetical protein
+605	955	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	MEEGKEJE_00767
+			product	hypothetical protein
+1509	1081	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	MEEGKEJE_00768
+			product	hypothetical protein
+>Feature k99_30128
+258	58	CDS
+			EC_number	2.7.7.6
+			gene	rpoZ
+			inference	ab initio prediction:Prodigal:002006
+			inference	protein motif:HAMAP:MF_00366
+			locus_tag	MEEGKEJE_00769
+			product	DNA-directed RNA polymerase subunit omega
+902	255	CDS
+			EC_number	2.7.4.8
+			db_xref	COG:COG0194
+			gene	gmk
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:Q5HGM3
+			locus_tag	MEEGKEJE_00770
+			product	Guanylate kinase
+1179	904	CDS
+			db_xref	COG:COG2052
+			gene	remA
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:Q7WY72
+			locus_tag	MEEGKEJE_00771
+			product	Extracellular matrix regulatory protein A
+1915	1190	CDS
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P44726
+			locus_tag	MEEGKEJE_00772
+			note	UPF0701 protein HI_0467
+			product	hypothetical protein
+>Feature k99_6020
+56	1333	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	MEEGKEJE_00773
+			product	hypothetical protein
+1500	1802	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	MEEGKEJE_00774
+			product	hypothetical protein

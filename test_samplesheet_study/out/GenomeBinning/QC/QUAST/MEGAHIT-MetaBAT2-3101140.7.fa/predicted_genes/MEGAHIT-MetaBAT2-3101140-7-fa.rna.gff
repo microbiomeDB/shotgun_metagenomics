@@ -1,0 +1,6 @@
+##gff-version 3
+k99_15910	barrnap:0.8	rRNA	2	84	2.7e-07	+	.	Name=5S_rRNA;product=5S ribosomal RNA (partial);note=aligned only 69 percent of the 5S ribosomal RNA
+k99_17468	barrnap:0.8	rRNA	2	84	2.7e-07	+	.	Name=5S_rRNA;product=5S ribosomal RNA (partial);note=aligned only 69 percent of the 5S ribosomal RNA
+k99_18362	barrnap:0.8	rRNA	42720	42820	6.5e-10	-	.	Name=5S_rRNA;product=5S ribosomal RNA
+k99_4279	barrnap:0.8	rRNA	57097	57184	1.3e-08	-	.	Name=5S_rRNA;product=5S ribosomal RNA (partial);note=aligned only 73 percent of the 5S ribosomal RNA
+k99_6311	barrnap:0.8	rRNA	2	83	4.1e-07	+	.	Name=5S_rRNA;product=5S ribosomal RNA (partial);note=aligned only 68 percent of the 5S ribosomal RNA

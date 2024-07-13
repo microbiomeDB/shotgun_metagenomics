@@ -1,0 +1,636 @@
+>Feature k99_25511
+555	160	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	OEPBNHDA_00001
+			product	hypothetical protein
+2503	548	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	OEPBNHDA_00002
+			product	hypothetical protein
+2735	2511	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	OEPBNHDA_00003
+			product	hypothetical protein
+3276	2830	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	OEPBNHDA_00004
+			product	hypothetical protein
+3569	3294	CDS
+			gene	hup
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:Q7A5J1
+			locus_tag	OEPBNHDA_00005
+			product	DNA-binding protein HU
+3906	3559	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	OEPBNHDA_00006
+			product	hypothetical protein
+4739	3903	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	OEPBNHDA_00007
+			product	hypothetical protein
+5436	4744	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	OEPBNHDA_00008
+			product	hypothetical protein
+5905	5417	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	OEPBNHDA_00009
+			product	hypothetical protein
+6996	5902	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	OEPBNHDA_00010
+			product	hypothetical protein
+8510	6999	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	OEPBNHDA_00011
+			product	hypothetical protein
+9208	8507	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	OEPBNHDA_00012
+			product	hypothetical protein
+9253	9918	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	OEPBNHDA_00013
+			product	hypothetical protein
+10196	9948	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	OEPBNHDA_00014
+			product	hypothetical protein
+11082	10750	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	OEPBNHDA_00015
+			product	hypothetical protein
+11726	11097	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	OEPBNHDA_00016
+			product	hypothetical protein
+13672	12557	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	OEPBNHDA_00017
+			product	hypothetical protein
+14025	13828	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	OEPBNHDA_00018
+			product	hypothetical protein
+14480	14028	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	OEPBNHDA_00019
+			product	hypothetical protein
+14668	14477	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	OEPBNHDA_00020
+			product	hypothetical protein
+14889	14665	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	OEPBNHDA_00021
+			product	hypothetical protein
+15109	14843	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	OEPBNHDA_00022
+			product	hypothetical protein
+>Feature k99_7725
+707	372	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	OEPBNHDA_00023
+			product	hypothetical protein
+1063	701	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	OEPBNHDA_00024
+			product	hypothetical protein
+>Feature k99_14274
+225	668	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	OEPBNHDA_00025
+			product	hypothetical protein
+843	1067	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	OEPBNHDA_00026
+			product	hypothetical protein
+>Feature k99_38406
+103	510	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	OEPBNHDA_00027
+			product	hypothetical protein
+713	898	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	OEPBNHDA_00028
+			product	hypothetical protein
+900	1001	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	OEPBNHDA_00029
+			product	hypothetical protein
+1315	1662	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	OEPBNHDA_00030
+			product	hypothetical protein
+1800	3359	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	OEPBNHDA_00031
+			product	hypothetical protein
+3372	3992	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	OEPBNHDA_00032
+			product	hypothetical protein
+4053	4448	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	OEPBNHDA_00033
+			product	hypothetical protein
+4646	5242	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	OEPBNHDA_00034
+			product	hypothetical protein
+5232	6374	CDS
+			EC_number	2.3.1.180
+			db_xref	COG:COG0332
+			gene	fabH
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:O67185
+			locus_tag	OEPBNHDA_00035
+			product	3-oxoacyl-[acyl-carrier-protein] synthase 3
+6458	7144	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	OEPBNHDA_00036
+			product	hypothetical protein
+7160	7528	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	OEPBNHDA_00037
+			product	hypothetical protein
+7665	8318	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	OEPBNHDA_00038
+			product	hypothetical protein
+8821	8381	CDS
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:Q8KES1
+			locus_tag	OEPBNHDA_00039
+			note	UPF0758 protein CT0611
+			product	hypothetical protein
+>Feature k99_14597
+1208	87	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	OEPBNHDA_00040
+			product	hypothetical protein
+>Feature k99_8917
+977	30	CDS
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:ISfinder:ISCde1
+			locus_tag	OEPBNHDA_00041
+			product	IS66 family transposase ISCde1
+>Feature k99_39428
+43	474	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	OEPBNHDA_00042
+			product	hypothetical protein
+521	1450	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	OEPBNHDA_00043
+			product	hypothetical protein
+>Feature k99_33464
+3231	625	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	OEPBNHDA_00044
+			product	hypothetical protein
+3822	3295	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	OEPBNHDA_00045
+			product	hypothetical protein
+4058	3819	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	OEPBNHDA_00046
+			product	hypothetical protein
+4640	4068	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	OEPBNHDA_00047
+			product	hypothetical protein
+5575	4712	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	OEPBNHDA_00048
+			product	hypothetical protein
+6293	5595	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	OEPBNHDA_00049
+			product	hypothetical protein
+7453	6296	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	OEPBNHDA_00050
+			product	hypothetical protein
+8951	7479	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	OEPBNHDA_00051
+			product	hypothetical protein
+10281	8971	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	OEPBNHDA_00052
+			product	hypothetical protein
+13035	10624	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	OEPBNHDA_00053
+			product	hypothetical protein
+15309	13054	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	OEPBNHDA_00054
+			product	hypothetical protein
+15702	15316	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	OEPBNHDA_00055
+			product	hypothetical protein
+15934	15650	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	OEPBNHDA_00056
+			product	hypothetical protein
+16382	15954	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	OEPBNHDA_00057
+			product	hypothetical protein
+16583	16386	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	OEPBNHDA_00058
+			product	hypothetical protein
+16940	16590	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	OEPBNHDA_00059
+			product	hypothetical protein
+17989	16937	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	OEPBNHDA_00060
+			product	hypothetical protein
+18640	18041	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	OEPBNHDA_00061
+			product	hypothetical protein
+19166	18600	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	OEPBNHDA_00062
+			product	hypothetical protein
+19823	19284	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	OEPBNHDA_00063
+			product	hypothetical protein
+19973	19833	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	OEPBNHDA_00064
+			product	hypothetical protein
+20481	21137	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	OEPBNHDA_00065
+			product	hypothetical protein
+21438	21596	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	OEPBNHDA_00066
+			product	hypothetical protein
+21781	21936	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	OEPBNHDA_00067
+			product	hypothetical protein
+22008	22823	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	OEPBNHDA_00068
+			product	hypothetical protein
+23028	23333	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	OEPBNHDA_00069
+			product	hypothetical protein
+23893	23792	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	OEPBNHDA_00070
+			product	hypothetical protein
+24001	23912	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	OEPBNHDA_00071
+			product	hypothetical protein
+24061	24237	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	OEPBNHDA_00072
+			product	hypothetical protein
+24379	25005	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	OEPBNHDA_00073
+			product	hypothetical protein
+25171	25350	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	OEPBNHDA_00074
+			product	hypothetical protein
+25369	25941	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	OEPBNHDA_00075
+			product	hypothetical protein
+26291	26686	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	OEPBNHDA_00076
+			product	hypothetical protein
+26846	27418	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	OEPBNHDA_00077
+			product	hypothetical protein
+27411	27671	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	OEPBNHDA_00078
+			product	hypothetical protein
+27808	28140	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	OEPBNHDA_00079
+			product	hypothetical protein
+28147	28617	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	OEPBNHDA_00080
+			product	hypothetical protein
+28617	30077	CDS
+			EC_number	3.6.4.12
+			gene	recD2
+			inference	ab initio prediction:Prodigal:002006
+			inference	protein motif:HAMAP:MF_01488
+			locus_tag	OEPBNHDA_00081
+			product	ATP-dependent RecD-like DNA helicase
+30067	30621	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	OEPBNHDA_00082
+			product	hypothetical protein
+30614	32941	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	OEPBNHDA_00083
+			product	hypothetical protein
+32938	34323	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	OEPBNHDA_00084
+			product	hypothetical protein
+34376	35308	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	OEPBNHDA_00085
+			product	hypothetical protein
+35387	36214	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	OEPBNHDA_00086
+			product	hypothetical protein
+36324	37343	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	OEPBNHDA_00087
+			product	hypothetical protein
+37366	38661	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	OEPBNHDA_00088
+			product	hypothetical protein
+38603	39031	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	OEPBNHDA_00089
+			product	hypothetical protein
+39028	39588	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	OEPBNHDA_00090
+			product	hypothetical protein
+39581	40798	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	OEPBNHDA_00091
+			product	hypothetical protein
+40779	41162	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	OEPBNHDA_00092
+			product	hypothetical protein
+41245	42171	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	OEPBNHDA_00093
+			product	hypothetical protein
+42168	42551	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	OEPBNHDA_00094
+			product	hypothetical protein
+42538	43404	CDS
+			EC_number	2.1.1.148
+			gene	thyX
+			inference	ab initio prediction:Prodigal:002006
+			inference	protein motif:HAMAP:MF_01408
+			locus_tag	OEPBNHDA_00095
+			product	Flavin-dependent thymidylate synthase
+43388	43594	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	OEPBNHDA_00096
+			product	hypothetical protein
+43639	43794	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	OEPBNHDA_00097
+			product	hypothetical protein
+43822	43953	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	OEPBNHDA_00098
+			product	hypothetical protein
+44074	44856	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	OEPBNHDA_00099
+			product	hypothetical protein
+44933	45052	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	OEPBNHDA_00100
+			product	hypothetical protein
+45054	46115	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	OEPBNHDA_00101
+			product	hypothetical protein
+46135	46803	CDS
+			EC_number	3.6.1.23
+			gene	dut
+			inference	ab initio prediction:Prodigal:002006
+			inference	protein motif:HAMAP:MF_00116
+			locus_tag	OEPBNHDA_00102
+			product	Deoxyuridine 5'-triphosphate nucleotidohydrolase
+46754	47011	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	OEPBNHDA_00103
+			product	hypothetical protein
+47008	47271	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	OEPBNHDA_00104
+			product	hypothetical protein
+47407	48000	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	OEPBNHDA_00105
+			product	hypothetical protein
+47997	48275	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	OEPBNHDA_00106
+			product	hypothetical protein
+48279	48428	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	OEPBNHDA_00107
+			product	hypothetical protein
+48448	48897	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	OEPBNHDA_00108
+			product	hypothetical protein
+48913	49092	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	OEPBNHDA_00109
+			product	hypothetical protein
+49264	49446	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	OEPBNHDA_00110
+			product	hypothetical protein
+61734	49522	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	OEPBNHDA_00111
+			product	hypothetical protein
+67738	61865	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	OEPBNHDA_00112
+			product	hypothetical protein
+70313	67740	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	OEPBNHDA_00113
+			product	hypothetical protein
+74230	70304	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	OEPBNHDA_00114
+			product	hypothetical protein
+75145	74351	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	OEPBNHDA_00115
+			product	hypothetical protein
+79653	75142	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	OEPBNHDA_00116
+			product	hypothetical protein
+80585	79656	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	OEPBNHDA_00117
+			product	hypothetical protein
+81519	80557	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	OEPBNHDA_00118
+			product	hypothetical protein
+82245	81523	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	OEPBNHDA_00119
+			product	hypothetical protein
+82510	82229	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	OEPBNHDA_00120
+			product	hypothetical protein
+83812	82517	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	OEPBNHDA_00121
+			product	hypothetical protein
+85672	84212	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	OEPBNHDA_00122
+			product	hypothetical protein
+86177	85674	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	OEPBNHDA_00123
+			product	hypothetical protein
+86600	86259	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	OEPBNHDA_00124
+			product	hypothetical protein
+87168	86809	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	OEPBNHDA_00125
+			product	hypothetical protein
+88376	87273	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	OEPBNHDA_00126
+			product	hypothetical protein
+90052	88376	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	OEPBNHDA_00127
+			product	hypothetical protein
+94022	90138	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	OEPBNHDA_00128
+			product	hypothetical protein
+94850	94026	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	OEPBNHDA_00129
+			product	hypothetical protein
+95100	94876	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	OEPBNHDA_00130
+			product	hypothetical protein
+>Feature k99_16798
+704	114	CDS
+			db_xref	COG:COG1961
+			gene	hin
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P03013
+			locus_tag	OEPBNHDA_00131
+			product	DNA-invertase hin
+895	1212	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	OEPBNHDA_00132
+			product	hypothetical protein
+1243	1560	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	OEPBNHDA_00133
+			product	hypothetical protein
+1557	1865	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	OEPBNHDA_00134
+			product	hypothetical protein
+1858	4692	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	OEPBNHDA_00135
+			product	hypothetical protein
+4696	5370	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	OEPBNHDA_00136
+			product	hypothetical protein
+5399	6034	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	OEPBNHDA_00137
+			product	hypothetical protein
+6018	7040	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	OEPBNHDA_00138
+			product	hypothetical protein
+7064	7678	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	OEPBNHDA_00139
+			product	hypothetical protein
+7680	8123	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	OEPBNHDA_00140
+			product	hypothetical protein
+8110	9246	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	OEPBNHDA_00141
+			product	hypothetical protein
+9230	10084	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	OEPBNHDA_00142
+			product	hypothetical protein
+10090	10593	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	OEPBNHDA_00143
+			product	hypothetical protein
+10597	11250	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	OEPBNHDA_00144
+			product	hypothetical protein
+11253	11879	CDS
+			gene	pal
+			inference	ab initio prediction:Prodigal:002006
+			inference	protein motif:HAMAP:MF_02204
+			locus_tag	OEPBNHDA_00145
+			product	Peptidoglycan-associated lipoprotein
+11951	12745	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	OEPBNHDA_00146
+			product	hypothetical protein
+13071	13760	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	OEPBNHDA_00147
+			product	hypothetical protein
+>Feature k99_46771
+1743	7	CDS
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:ISfinder:ISSeq4
+			locus_tag	OEPBNHDA_00148
+			product	IS1634 family transposase ISSeq4
+>Feature k99_47712
+55	399	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	OEPBNHDA_00149
+			product	hypothetical protein
+1670	501	CDS
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:ISfinder:ISFnu3
+			locus_tag	OEPBNHDA_00150
+			product	IS110 family transposase ISFnu3

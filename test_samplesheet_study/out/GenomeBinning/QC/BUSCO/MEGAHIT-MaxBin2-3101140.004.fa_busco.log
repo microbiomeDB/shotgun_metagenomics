@@ -1,0 +1,167 @@
+2024-07-11 00:11:29 INFO:	***** Start a BUSCO v5.4.3 analysis, current time: 07/11/2024 00:11:29 *****
+2024-07-11 00:11:29 INFO:	Configuring BUSCO with local environment
+2024-07-11 00:11:29 INFO:	Mode is genome
+2024-07-11 00:11:29 INFO:	Downloading information on latest versions of BUSCO data...
+2024-07-11 00:11:34 INFO:	Input file is /home/dcallan/work/df/2e16f7eda7e01eb902322bb48a1aeb/MEGAHIT-MaxBin2-3101140.004.fa
+2024-07-11 00:11:34 INFO:	No lineage specified. Running lineage auto selector.
+
+2024-07-11 00:11:34 INFO:	***** Starting Auto Select Lineage *****
+	This process runs BUSCO on the generic lineage datasets for the domains archaea, bacteria and eukaryota. Once the optimal domain is selected, BUSCO automatically attempts to find the most appropriate BUSCO dataset to use based on phylogenetic placement.
+	--auto-lineage-euk and --auto-lineage-prok are also available if you know your input assembly is, or is not, an eukaryote. See the user guide for more information.
+	A reminder: Busco evaluations are valid when an appropriate dataset is used, i.e., the dataset belongs to the lineage of the species to test. Because of overlapping markers/spurious matches among domains, busco matches in another domain do not necessarily mean that your genome/proteome contains sequences from this domain. However, a high busco score in multiple domains might help you identify possible contaminations.
+2024-07-11 00:11:34 INFO:	Downloading file 'https://busco-data.ezlab.org/v5/data/lineages/archaea_odb10.2024-01-08.tar.gz'
+2024-07-11 00:11:36 INFO:	Decompressing file '/home/dcallan/work/df/2e16f7eda7e01eb902322bb48a1aeb/busco_downloads/lineages/archaea_odb10.tar.gz'
+2024-07-11 00:11:37 INFO:	Running BUSCO using lineage dataset archaea_odb10 (prokaryota, 2024-01-08)
+2024-07-11 00:11:37 INFO:	Running 1 job(s) on bbtools, starting at 07/11/2024 00:11:37
+2024-07-11 00:11:38 INFO:	[bbtools]	1 of 1 task(s) completed
+2024-07-11 00:11:38 INFO:	***** Run Prodigal on input to predict and extract genes *****
+2024-07-11 00:11:38 INFO:	Running Prodigal with genetic code 11 in single mode
+2024-07-11 00:11:38 INFO:	Running 1 job(s) on prodigal, starting at 07/11/2024 00:11:38
+2024-07-11 00:11:49 INFO:	[prodigal]	1 of 1 task(s) completed
+2024-07-11 00:11:49 INFO:	Genetic code 11 selected as optimal
+2024-07-11 00:11:49 INFO:	***** Run HMMER on gene sequences *****
+2024-07-11 00:11:49 INFO:	Running 194 job(s) on hmmsearch, starting at 07/11/2024 00:11:49
+2024-07-11 00:11:51 INFO:	[hmmsearch]	20 of 194 task(s) completed
+2024-07-11 00:11:51 INFO:	[hmmsearch]	39 of 194 task(s) completed
+2024-07-11 00:11:51 INFO:	[hmmsearch]	59 of 194 task(s) completed
+2024-07-11 00:11:52 INFO:	[hmmsearch]	78 of 194 task(s) completed
+2024-07-11 00:11:52 INFO:	[hmmsearch]	97 of 194 task(s) completed
+2024-07-11 00:11:52 INFO:	[hmmsearch]	117 of 194 task(s) completed
+2024-07-11 00:11:52 INFO:	[hmmsearch]	136 of 194 task(s) completed
+2024-07-11 00:11:53 INFO:	[hmmsearch]	156 of 194 task(s) completed
+2024-07-11 00:11:53 INFO:	[hmmsearch]	175 of 194 task(s) completed
+2024-07-11 00:11:53 INFO:	[hmmsearch]	194 of 194 task(s) completed
+2024-07-11 00:11:53 INFO:	Results:	C:23.2%[S:21.1%,D:2.1%],F:3.1%,M:73.7%,n:194	   
+
+2024-07-11 00:11:53 INFO:	Downloading file 'https://busco-data.ezlab.org/v5/data/lineages/bacteria_odb10.2024-01-08.tar.gz'
+2024-07-11 00:11:54 INFO:	Decompressing file '/home/dcallan/work/df/2e16f7eda7e01eb902322bb48a1aeb/busco_downloads/lineages/bacteria_odb10.tar.gz'
+2024-07-11 00:11:55 INFO:	Running BUSCO using lineage dataset bacteria_odb10 (prokaryota, 2024-01-08)
+2024-07-11 00:11:55 INFO:	Running 1 job(s) on bbtools, starting at 07/11/2024 00:11:55
+2024-07-11 00:11:56 INFO:	[bbtools]	1 of 1 task(s) completed
+2024-07-11 00:11:56 INFO:	***** Run Prodigal on input to predict and extract genes *****
+2024-07-11 00:11:56 INFO:	Genetic code 11 selected as optimal
+2024-07-11 00:11:56 INFO:	***** Run HMMER on gene sequences *****
+2024-07-11 00:11:56 INFO:	Running 124 job(s) on hmmsearch, starting at 07/11/2024 00:11:56
+2024-07-11 00:11:58 INFO:	[hmmsearch]	13 of 124 task(s) completed
+2024-07-11 00:11:58 INFO:	[hmmsearch]	25 of 124 task(s) completed
+2024-07-11 00:11:58 INFO:	[hmmsearch]	38 of 124 task(s) completed
+2024-07-11 00:11:58 INFO:	[hmmsearch]	63 of 124 task(s) completed
+2024-07-11 00:11:58 INFO:	[hmmsearch]	75 of 124 task(s) completed
+2024-07-11 00:11:58 INFO:	[hmmsearch]	75 of 124 task(s) completed
+2024-07-11 00:11:58 INFO:	[hmmsearch]	87 of 124 task(s) completed
+2024-07-11 00:11:59 INFO:	[hmmsearch]	100 of 124 task(s) completed
+2024-07-11 00:11:59 INFO:	[hmmsearch]	112 of 124 task(s) completed
+2024-07-11 00:11:59 INFO:	[hmmsearch]	124 of 124 task(s) completed
+2024-07-11 00:11:59 INFO:	Results:	C:98.4%[S:95.2%,D:3.2%],F:1.6%,M:0.0%,n:124	   
+
+2024-07-11 00:11:59 INFO:	Downloading file 'https://busco-data.ezlab.org/v5/data/lineages/eukaryota_odb10.2024-01-08.tar.gz'
+2024-07-11 00:12:02 INFO:	Decompressing file '/home/dcallan/work/df/2e16f7eda7e01eb902322bb48a1aeb/busco_downloads/lineages/eukaryota_odb10.tar.gz'
+2024-07-11 00:12:04 INFO:	Running BUSCO using lineage dataset eukaryota_odb10 (eukaryota, 2024-01-08)
+2024-07-11 00:12:04 INFO:	Running 1 job(s) on bbtools, starting at 07/11/2024 00:12:04
+2024-07-11 00:12:05 INFO:	[bbtools]	1 of 1 task(s) completed
+2024-07-11 00:12:07 INFO:	Running 1 job(s) on metaeuk, starting at 07/11/2024 00:12:07
+2024-07-11 00:12:57 INFO:	[metaeuk]	1 of 1 task(s) completed
+2024-07-11 00:12:57 INFO:	***** Run HMMER on gene sequences *****
+2024-07-11 00:12:57 INFO:	Running 255 job(s) on hmmsearch, starting at 07/11/2024 00:12:57
+2024-07-11 00:12:58 INFO:	[hmmsearch]	26 of 255 task(s) completed
+2024-07-11 00:12:58 INFO:	[hmmsearch]	51 of 255 task(s) completed
+2024-07-11 00:12:58 INFO:	[hmmsearch]	77 of 255 task(s) completed
+2024-07-11 00:12:58 INFO:	[hmmsearch]	102 of 255 task(s) completed
+2024-07-11 00:12:58 INFO:	[hmmsearch]	128 of 255 task(s) completed
+2024-07-11 00:12:58 INFO:	[hmmsearch]	153 of 255 task(s) completed
+2024-07-11 00:12:59 INFO:	[hmmsearch]	179 of 255 task(s) completed
+2024-07-11 00:12:59 INFO:	[hmmsearch]	204 of 255 task(s) completed
+2024-07-11 00:12:59 INFO:	[hmmsearch]	230 of 255 task(s) completed
+2024-07-11 00:12:59 INFO:	[hmmsearch]	255 of 255 task(s) completed
+2024-07-11 00:12:59 INFO:	Results:	C:2.4%[S:2.4%,D:0.0%],F:2.7%,M:94.9%,n:255	   
+
+2024-07-11 00:12:59 INFO:	Extracting missing and fragmented buscos from the file refseq_db.faa...
+2024-07-11 00:13:10 INFO:	Running 1 job(s) on metaeuk, starting at 07/11/2024 00:13:10
+2024-07-11 00:15:18 INFO:	[metaeuk]	1 of 1 task(s) completed
+2024-07-11 00:15:18 INFO:	***** Run HMMER on gene sequences *****
+2024-07-11 00:15:18 INFO:	Running 249 job(s) on hmmsearch, starting at 07/11/2024 00:15:18
+2024-07-11 00:15:20 INFO:	[hmmsearch]	25 of 249 task(s) completed
+2024-07-11 00:15:20 INFO:	[hmmsearch]	50 of 249 task(s) completed
+2024-07-11 00:15:20 INFO:	[hmmsearch]	75 of 249 task(s) completed
+2024-07-11 00:15:20 INFO:	[hmmsearch]	100 of 249 task(s) completed
+2024-07-11 00:15:20 INFO:	[hmmsearch]	125 of 249 task(s) completed
+2024-07-11 00:15:20 INFO:	[hmmsearch]	150 of 249 task(s) completed
+2024-07-11 00:15:20 INFO:	[hmmsearch]	175 of 249 task(s) completed
+2024-07-11 00:15:20 INFO:	[hmmsearch]	225 of 249 task(s) completed
+2024-07-11 00:15:21 INFO:	[hmmsearch]	249 of 249 task(s) completed
+2024-07-11 00:15:21 INFO:	Validating exons and removing overlapping matches
+2024-07-11 00:15:21 INFO:	Results:	C:2.4%[S:2.4%,D:0.0%],F:2.7%,M:94.9%,n:255	   
+
+2024-07-11 00:15:21 INFO:	bacteria_odb10 selected
+
+2024-07-11 00:15:21 INFO:	***** Searching tree for chosen lineage to find best taxonomic match *****
+
+2024-07-11 00:15:21 INFO:	Extract markers...
+2024-07-11 00:15:21 INFO:	Downloading file 'https://busco-data.ezlab.org/v5/data/placement_files/list_of_reference_markers.bacteria_odb10.2019-12-16.txt.tar.gz'
+2024-07-11 00:15:22 INFO:	Decompressing file '/home/dcallan/work/df/2e16f7eda7e01eb902322bb48a1aeb/busco_downloads/placement_files/list_of_reference_markers.bacteria_odb10.2019-12-16.txt.tar.gz'
+2024-07-11 00:15:22 INFO:	Downloading file 'https://busco-data.ezlab.org/v5/data/placement_files/tree.bacteria_odb10.2019-12-16.nwk.tar.gz'
+2024-07-11 00:15:23 INFO:	Decompressing file '/home/dcallan/work/df/2e16f7eda7e01eb902322bb48a1aeb/busco_downloads/placement_files/tree.bacteria_odb10.2019-12-16.nwk.tar.gz'
+2024-07-11 00:15:23 INFO:	Downloading file 'https://busco-data.ezlab.org/v5/data/placement_files/tree_metadata.bacteria_odb10.2019-12-16.txt.tar.gz'
+2024-07-11 00:15:24 INFO:	Decompressing file '/home/dcallan/work/df/2e16f7eda7e01eb902322bb48a1aeb/busco_downloads/placement_files/tree_metadata.bacteria_odb10.2019-12-16.txt.tar.gz'
+2024-07-11 00:15:24 INFO:	Downloading file 'https://busco-data.ezlab.org/v5/data/placement_files/supermatrix.aln.bacteria_odb10.2019-12-16.faa.tar.gz'
+2024-07-11 00:15:26 INFO:	Decompressing file '/home/dcallan/work/df/2e16f7eda7e01eb902322bb48a1aeb/busco_downloads/placement_files/supermatrix.aln.bacteria_odb10.2019-12-16.faa.tar.gz'
+2024-07-11 00:15:26 INFO:	Downloading file 'https://busco-data.ezlab.org/v5/data/placement_files/mapping_taxids-busco_dataset_name.bacteria_odb10.2019-12-16.txt.tar.gz'
+2024-07-11 00:15:27 INFO:	Decompressing file '/home/dcallan/work/df/2e16f7eda7e01eb902322bb48a1aeb/busco_downloads/placement_files/mapping_taxids-busco_dataset_name.bacteria_odb10.2019-12-16.txt.tar.gz'
+2024-07-11 00:15:27 INFO:	Downloading file 'https://busco-data.ezlab.org/v5/data/placement_files/mapping_taxid-lineage.bacteria_odb10.2019-12-16.txt.tar.gz'
+2024-07-11 00:15:28 INFO:	Decompressing file '/home/dcallan/work/df/2e16f7eda7e01eb902322bb48a1aeb/busco_downloads/placement_files/mapping_taxid-lineage.bacteria_odb10.2019-12-16.txt.tar.gz'
+2024-07-11 00:15:28 INFO:	Place the markers on the reference tree...
+2024-07-11 00:15:28 INFO:	Running 1 job(s) on sepp, starting at 07/11/2024 00:15:28
+2024-07-11 00:16:28 INFO:	[sepp]	1 of 1 task(s) completed
+2024-07-11 00:16:29 INFO:	Lineage clostridiales is selected, supported by 41 markers out of 47
+2024-07-11 00:16:29 INFO:	Downloading file 'https://busco-data.ezlab.org/v5/data/lineages/clostridiales_odb10.2024-01-08.tar.gz'
+2024-07-11 00:16:30 INFO:	Decompressing file '/home/dcallan/work/df/2e16f7eda7e01eb902322bb48a1aeb/busco_downloads/lineages/clostridiales_odb10.tar.gz'
+2024-07-11 00:16:31 INFO:	Running BUSCO using lineage dataset clostridiales_odb10 (prokaryota, 2024-01-08)
+2024-07-11 00:16:31 INFO:	Running 1 job(s) on bbtools, starting at 07/11/2024 00:16:31
+2024-07-11 00:16:32 INFO:	[bbtools]	1 of 1 task(s) completed
+2024-07-11 00:16:32 INFO:	***** Run Prodigal on input to predict and extract genes *****
+2024-07-11 00:16:32 INFO:	Genetic code 11 selected as optimal
+2024-07-11 00:16:32 INFO:	***** Run HMMER on gene sequences *****
+2024-07-11 00:16:32 INFO:	Running 264 job(s) on hmmsearch, starting at 07/11/2024 00:16:32
+2024-07-11 00:16:33 INFO:	[hmmsearch]	27 of 264 task(s) completed
+2024-07-11 00:16:34 INFO:	[hmmsearch]	53 of 264 task(s) completed
+2024-07-11 00:16:34 INFO:	[hmmsearch]	80 of 264 task(s) completed
+2024-07-11 00:16:35 INFO:	[hmmsearch]	106 of 264 task(s) completed
+2024-07-11 00:16:35 INFO:	[hmmsearch]	132 of 264 task(s) completed
+2024-07-11 00:16:36 INFO:	[hmmsearch]	159 of 264 task(s) completed
+2024-07-11 00:16:36 INFO:	[hmmsearch]	185 of 264 task(s) completed
+2024-07-11 00:16:36 INFO:	[hmmsearch]	212 of 264 task(s) completed
+2024-07-11 00:16:36 INFO:	[hmmsearch]	238 of 264 task(s) completed
+2024-07-11 00:16:36 INFO:	[hmmsearch]	238 of 264 task(s) completed
+2024-07-11 00:16:37 INFO:	[hmmsearch]	264 of 264 task(s) completed
+2024-07-11 00:16:37 INFO:	Results:	C:98.9%[S:98.1%,D:0.8%],F:0.0%,M:1.1%,n:264	   
+
+2024-07-11 00:16:37 INFO:	
+
+	--------------------------------------------------
+	|Results from generic domain bacteria_odb10       |
+	--------------------------------------------------
+	|C:98.4%[S:95.2%,D:3.2%],F:1.6%,M:0.0%,n:124      |
+	|122	Complete BUSCOs (C)                       |
+	|118	Complete and single-copy BUSCOs (S)       |
+	|4	Complete and duplicated BUSCOs (D)        |
+	|2	Fragmented BUSCOs (F)                     |
+	|0	Missing BUSCOs (M)                        |
+	|124	Total BUSCO groups searched               |
+	--------------------------------------------------
+
+	--------------------------------------------------
+	|Results from dataset clostridiales_odb10         |
+	--------------------------------------------------
+	|C:98.9%[S:98.1%,D:0.8%],F:0.0%,M:1.1%,n:264      |
+	|261	Complete BUSCOs (C)                       |
+	|259	Complete and single-copy BUSCOs (S)       |
+	|2	Complete and duplicated BUSCOs (D)        |
+	|0	Fragmented BUSCOs (F)                     |
+	|3	Missing BUSCOs (M)                        |
+	|264	Total BUSCO groups searched               |
+	--------------------------------------------------
+2024-07-11 00:16:37 INFO:	BUSCO analysis done. Total running time: 302 seconds
+2024-07-11 00:16:37 INFO:	Results written in /home/dcallan/work/df/2e16f7eda7e01eb902322bb48a1aeb/BUSCO
+2024-07-11 00:16:37 INFO:	For assistance with interpreting the results, please consult the userguide: https://busco.ezlab.org/busco_userguide.html
+
+2024-07-11 00:16:37 INFO:	Visit this page https://gitlab.com/ezlab/busco#how-to-cite-busco to see how to cite BUSCO

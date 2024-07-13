@@ -1,0 +1,40 @@
+# BUSCO version is: 5.4.3 
+# The lineage dataset is: bacteroidales_odb10 (Creation date: 2024-01-08, number of genomes: 132, number of BUSCOs: 541)
+# Summarized benchmarking in BUSCO notation for file /home/dcallan/work/e5/498d99b75ae589c69e263df758cb39/MEGAHIT-MetaBAT2-3108596.3.fa
+# BUSCO was run in mode: prok_genome
+# Gene predictor used: prodigal
+
+	***** Results: *****
+
+	C:79.3%[S:79.1%,D:0.2%],F:6.7%,M:14.0%,n:541	   
+	429	Complete BUSCOs (C)			   
+	428	Complete and single-copy BUSCOs (S)	   
+	1	Complete and duplicated BUSCOs (D)	   
+	36	Fragmented BUSCOs (F)			   
+	76	Missing BUSCOs (M)			   
+	541	Total BUSCO groups searched		   
+
+Assembly Statistics:
+	656	Number of scaffolds
+	656	Number of contigs
+	3394758	Total length
+	0.000%	Percent gaps
+	8 KB	Scaffold N50
+	8 KB	Contigs N50
+
+
+Dependencies and versions:
+	hmmsearch: 3.1
+	bbtools: 38.98
+	prodigal: 2.6.3
+	busco: 5.4.3
+	metaeuk: 6.a5d39d9
+	sepp: 4.4.0
+
+Placement file versions:
+	list_of_reference_markers.bacteria_odb10.2019-12-16.txt
+	tree.bacteria_odb10.2019-12-16.nwk
+	tree_metadata.bacteria_odb10.2019-12-16.txt
+	supermatrix.aln.bacteria_odb10.2019-12-16.faa
+	mapping_taxids-busco_dataset_name.bacteria_odb10.2019-12-16.txt
+	mapping_taxid-lineage.bacteria_odb10.2019-12-16.txt

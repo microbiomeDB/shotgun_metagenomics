@@ -1,0 +1,23 @@
+Assembly	MEGAHIT-MaxBin2-3101140.002.fa
+# contigs (>= 0 bp)	112
+# contigs (>= 1000 bp)	112
+# contigs (>= 5000 bp)	67
+# contigs (>= 10000 bp)	53
+# contigs (>= 25000 bp)	34
+# contigs (>= 50000 bp)	24
+Total length (>= 0 bp)	5402312
+Total length (>= 1000 bp)	5402312
+Total length (>= 5000 bp)	5293945
+Total length (>= 10000 bp)	5193696
+Total length (>= 25000 bp)	4888201
+Total length (>= 50000 bp)	4495668
+# contigs	112
+Largest contig	445087
+Total length	5402312
+GC (%)	46.12
+N50	220451
+N75	89517
+L50	9
+L75	18
+# N's per 100 kbp	0.00
+# predicted rRNA genes	3 + 2 part

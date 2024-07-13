@@ -1,0 +1,17 @@
+{
+    "input": "test_manual/taxprofiler_samplesheet.csv",
+    "databases": "test_manual/taxprofiler_databases.csv",
+    "outdir": "test_manual/taxprofiler_out",
+    "perform_shortread_qc": true,
+    "shortread_qc_skipadaptertrim": true,
+    "perform_shortread_complexityfilter": false,
+    "perform_shortread_hostremoval": true,
+    "hostremoval_reference": "hg38.fa.gz",
+    "run_kraken2": true,
+    "run_metaphlan": true,
+    "run_profile_standardisation": true,
+    "taxpasta_taxonomy_dir": "taxdump",
+    "taxpasta_add_name": true,
+    "taxpasta_add_rank": true,
+    "taxpasta_add_lineage": true
+}

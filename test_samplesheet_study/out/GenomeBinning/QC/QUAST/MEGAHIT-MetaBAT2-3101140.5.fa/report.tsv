@@ -1,0 +1,23 @@
+Assembly	MEGAHIT-MetaBAT2-3101140.5.fa
+# contigs (>= 0 bp)	565
+# contigs (>= 1000 bp)	565
+# contigs (>= 5000 bp)	14
+# contigs (>= 10000 bp)	0
+# contigs (>= 25000 bp)	0
+# contigs (>= 50000 bp)	0
+Total length (>= 0 bp)	1401059
+Total length (>= 1000 bp)	1401059
+Total length (>= 5000 bp)	96078
+Total length (>= 10000 bp)	0
+Total length (>= 25000 bp)	0
+Total length (>= 50000 bp)	0
+# contigs	565
+Largest contig	8789
+Total length	1401059
+GC (%)	51.63
+N50	2533
+N75	1939
+L50	202
+L75	360
+# N's per 100 kbp	0.00
+# predicted rRNA genes	0 + 0 part

@@ -1,0 +1,198 @@
+locus_tag	ftype	length_bp	gene	EC_number	COG	product
+FGBLAKPN_00001	CDS	735				hypothetical protein
+FGBLAKPN_00002	tRNA	75				tRNA-Arg(tct)
+FGBLAKPN_00003	CDS	336				hypothetical protein
+FGBLAKPN_00004	CDS	363				hypothetical protein
+FGBLAKPN_00005	CDS	381				hypothetical protein
+FGBLAKPN_00006	CDS	195				hypothetical protein
+FGBLAKPN_00007	CDS	510				hypothetical protein
+FGBLAKPN_00008	CDS	297				hypothetical protein
+FGBLAKPN_00009	CDS	456				hypothetical protein
+FGBLAKPN_00010	CDS	288				hypothetical protein
+FGBLAKPN_00011	CDS	1113	tagO	2.7.8.33	COG0472	putative undecaprenyl-phosphate N-acetylglucosaminyl 1-phosphate transferase
+FGBLAKPN_00012	CDS	888	rfbA	2.7.7.24	COG1209	Glucose-1-phosphate thymidylyltransferase 1
+FGBLAKPN_00013	CDS	1065	rfbB	4.2.1.46	COG1088	dTDP-glucose 4,6-dehydratase
+FGBLAKPN_00014	CDS	405	fdtA_1	5.3.2.3		TDP-4-oxo-6-deoxy-alpha-D-glucose-3,4-oxoisomerase
+FGBLAKPN_00015	CDS	423	fdtA_2	5.3.2.3		TDP-4-oxo-6-deoxy-alpha-D-glucose-3,4-oxoisomerase
+FGBLAKPN_00016	CDS	660	epsM	2.3.1.-	COG0110	Putative acetyltransferase EpsM
+FGBLAKPN_00017	CDS	1500	wzxE			Lipid III flippase
+FGBLAKPN_00018	CDS	1290				hypothetical protein
+FGBLAKPN_00019	CDS	1182				hypothetical protein
+FGBLAKPN_00020	CDS	1113				hypothetical protein
+FGBLAKPN_00021	CDS	516	fdtC	2.3.1.197		dTDP-3-amino-3,6-dideoxy-alpha-D-galactopyranose 3-N-acetyltransferase
+FGBLAKPN_00022	CDS	1131	fdtB	2.6.1.90		dTDP-3-amino-3,6-dideoxy-alpha-D-galactopyranose transaminase
+FGBLAKPN_00023	CDS	1242				hypothetical protein
+FGBLAKPN_00024	CDS	993	gnu	5.1.3.26	COG0451	N-acetyl-alpha-D-glucosaminyl-diphospho-ditrans,octacis-undecaprenol 4-epimerase
+FGBLAKPN_00025	CDS	795				hypothetical protein
+FGBLAKPN_00026	CDS	825				hypothetical protein
+FGBLAKPN_00027	CDS	1587				hypothetical protein
+FGBLAKPN_00028	CDS	1047	algA		COG0662	Alginate biosynthesis protein AlgA
+FGBLAKPN_00029	CDS	897	rhaR			HTH-type transcriptional activator RhaR
+FGBLAKPN_00030	CDS	759		2.4.1.187		N-acetylglucosaminyldiphosphoundecaprenol N-acetyl-beta-D-mannosaminyltransferase
+FGBLAKPN_00031	CDS	777	mshA_1	2.4.1.250		D-inositol-3-phosphate glycosyltransferase
+FGBLAKPN_00032	CDS	546				hypothetical protein
+FGBLAKPN_00033	CDS	165				hypothetical protein
+FGBLAKPN_00034	CDS	774				hypothetical protein
+FGBLAKPN_00035	CDS	549				hypothetical protein
+FGBLAKPN_00036	CDS	465	asnC		COG1522	Regulatory protein AsnC
+FGBLAKPN_00037	tRNA	75				tRNA-Met(cat)
+FGBLAKPN_00038	CDS	954				hypothetical protein
+FGBLAKPN_00039	CDS	426				hypothetical protein
+FGBLAKPN_00040	CDS	807				hypothetical protein
+FGBLAKPN_00041	CDS	207				hypothetical protein
+FGBLAKPN_00042	CDS	399				hypothetical protein
+FGBLAKPN_00043	CDS	687	dtd3	3.1.1.96		D-aminoacyl-tRNA deacylase
+FGBLAKPN_00044	CDS	1218				hypothetical protein
+FGBLAKPN_00045	CDS	1041				hypothetical protein
+FGBLAKPN_00046	CDS	687				IS3 family transposase ISSth1b
+FGBLAKPN_00047	CDS	696				IS3 family transposase ISEnfa5
+FGBLAKPN_00048	CDS	771	yxdL		COG1136	ABC transporter ATP-binding protein YxdL
+FGBLAKPN_00049	CDS	231				hypothetical protein
+FGBLAKPN_00050	CDS	963				hypothetical protein
+FGBLAKPN_00051	CDS	1056				hypothetical protein
+FGBLAKPN_00052	CDS	1188				hypothetical protein
+FGBLAKPN_00053	CDS	1191	mshA_2	2.4.1.250		D-inositol-3-phosphate glycosyltransferase
+FGBLAKPN_00054	CDS	255				hypothetical protein
+FGBLAKPN_00055	CDS	675	phoP		COG0745	Alkaline phosphatase synthesis transcriptional regulatory protein PhoP
+FGBLAKPN_00056	CDS	1266	sasA	2.7.-.-		Adaptive-response sensory-kinase SasA
+FGBLAKPN_00057	CDS	516				hypothetical protein
+FGBLAKPN_00058	CDS	315				hypothetical protein
+FGBLAKPN_00059	CDS	798				hypothetical protein
+FGBLAKPN_00060	CDS	1224				hypothetical protein
+FGBLAKPN_00061	CDS	1170	ndhI	7.1.1.-		NAD(P)H-quinone oxidoreductase subunit I, chloroplastic
+FGBLAKPN_00062	CDS	1002				hypothetical protein
+FGBLAKPN_00063	CDS	648	dapH	2.3.1.89		2,3,4,5-tetrahydropyridine-2,6-dicarboxylate N-acetyltransferase
+FGBLAKPN_00064	CDS	1338	menE	6.2.1.26		2-succinylbenzoate--CoA ligase
+FGBLAKPN_00065	CDS	699	fabG	1.1.1.100		3-oxoacyl-[acyl-carrier-protein] reductase FabG
+FGBLAKPN_00066	CDS	228				hypothetical protein
+FGBLAKPN_00067	CDS	546				hypothetical protein
+FGBLAKPN_00068	CDS	540				hypothetical protein
+FGBLAKPN_00069	CDS	627				hypothetical protein
+FGBLAKPN_00070	CDS	816	yvgN_1	1.1.1.-	COG0656	Glyoxal reductase
+FGBLAKPN_00071	CDS	1569				hypothetical protein
+FGBLAKPN_00072	CDS	1707	menD	2.2.1.9		2-succinyl-5-enolpyruvyl-6-hydroxy-3-cyclohexene-1-carboxylate synthase
+FGBLAKPN_00073	CDS	633				hypothetical protein
+FGBLAKPN_00074	CDS	1080				hypothetical protein
+FGBLAKPN_00075	CDS	1113				hypothetical protein
+FGBLAKPN_00076	CDS	909				hypothetical protein
+FGBLAKPN_00077	CDS	729				hypothetical protein
+FGBLAKPN_00078	CDS	393				hypothetical protein
+FGBLAKPN_00079	CDS	1074	arnC	2.4.2.53		Undecaprenyl-phosphate 4-deoxy-4-formamido-L-arabinose transferase
+FGBLAKPN_00080	CDS	759				IS21 family transposase ISCbo2
+FGBLAKPN_00081	CDS	1293				hypothetical protein
+FGBLAKPN_00082	CDS	1833				hypothetical protein
+FGBLAKPN_00083	CDS	1512				hypothetical protein
+FGBLAKPN_00084	CDS	846				hypothetical protein
+FGBLAKPN_00085	CDS	744				hypothetical protein
+FGBLAKPN_00086	CDS	882				hypothetical protein
+FGBLAKPN_00087	CDS	1176				IS91 family transposase ISAzo26
+FGBLAKPN_00088	CDS	843				IS91 family transposase ISMno24
+FGBLAKPN_00089	CDS	687				IS3 family transposase ISSth1b
+FGBLAKPN_00090	CDS	885				IS3 family transposase ISEnfa5
+FGBLAKPN_00091	CDS	378				hypothetical protein
+FGBLAKPN_00092	CDS	1335				hypothetical protein
+FGBLAKPN_00093	CDS	1650				hypothetical protein
+FGBLAKPN_00094	CDS	366				hypothetical protein
+FGBLAKPN_00095	CDS	720				hypothetical protein
+FGBLAKPN_00096	CDS	1035				hypothetical protein
+FGBLAKPN_00097	CDS	987				hypothetical protein
+FGBLAKPN_00098	CDS	909				hypothetical protein
+FGBLAKPN_00099	CDS	204				hypothetical protein
+FGBLAKPN_00100	CDS	1506				hypothetical protein
+FGBLAKPN_00101	CDS	1164				hypothetical protein
+FGBLAKPN_00102	CDS	126				hypothetical protein
+FGBLAKPN_00103	CDS	1077	mshA_3	2.4.1.250		D-inositol-3-phosphate glycosyltransferase
+FGBLAKPN_00104	CDS	906				hypothetical protein
+FGBLAKPN_00105	CDS	2268				hypothetical protein
+FGBLAKPN_00106	CDS	1044				hypothetical protein
+FGBLAKPN_00107	CDS	798	kfoC			Chondroitin synthase
+FGBLAKPN_00108	CDS	984				hypothetical protein
+FGBLAKPN_00109	CDS	1038				hypothetical protein
+FGBLAKPN_00110	CDS	1428	patA	2.3.1.-	COG1696	Peptidoglycan O-acetyltransferase
+FGBLAKPN_00111	CDS	381				hypothetical protein
+FGBLAKPN_00112	CDS	450	yqeY		COG1610	putative protein YqeY
+FGBLAKPN_00113	CDS	246				hypothetical protein
+FGBLAKPN_00114	CDS	612				hypothetical protein
+FGBLAKPN_00115	CDS	606				hypothetical protein
+FGBLAKPN_00116	CDS	186				hypothetical protein
+FGBLAKPN_00117	CDS	1038				hypothetical protein
+FGBLAKPN_00118	CDS	774	bspRIM	2.1.1.37		Modification methylase BspRI
+FGBLAKPN_00119	CDS	288				hypothetical protein
+FGBLAKPN_00120	CDS	294				hypothetical protein
+FGBLAKPN_00121	CDS	453				hypothetical protein
+FGBLAKPN_00122	CDS	327				hypothetical protein
+FGBLAKPN_00123	CDS	321				hypothetical protein
+FGBLAKPN_00124	CDS	345				hypothetical protein
+FGBLAKPN_00125	CDS	423				hypothetical protein
+FGBLAKPN_00126	CDS	261				hypothetical protein
+FGBLAKPN_00127	CDS	363				hypothetical protein
+FGBLAKPN_00128	CDS	396				hypothetical protein
+FGBLAKPN_00129	CDS	225				hypothetical protein
+FGBLAKPN_00130	CDS	540	vioB	2.3.1.209	COG0110	dTDP-4-amino-4,6-dideoxy-D-glucose acyltransferase
+FGBLAKPN_00131	CDS	1107	vioA	2.6.1.33		dTDP-4-amino-4,6-dideoxy-D-glucose transaminase
+FGBLAKPN_00132	CDS	996				hypothetical protein
+FGBLAKPN_00133	CDS	1047				hypothetical protein
+FGBLAKPN_00134	CDS	1824				hypothetical protein
+FGBLAKPN_00135	CDS	519				hypothetical protein
+FGBLAKPN_00136	CDS	1416				hypothetical protein
+FGBLAKPN_00137	CDS	1740				hypothetical protein
+FGBLAKPN_00138	CDS	1251	ugd	1.1.1.22	COG1004	UDP-glucose 6-dehydrogenase
+FGBLAKPN_00139	CDS	372				hypothetical protein
+FGBLAKPN_00140	CDS	441				hypothetical protein
+FGBLAKPN_00141	CDS	762				IS21 family transposase ISAau2
+FGBLAKPN_00142	CDS	1524				hypothetical protein
+FGBLAKPN_00143	CDS	1185				hypothetical protein
+FGBLAKPN_00144	CDS	1152				hypothetical protein
+FGBLAKPN_00145	CDS	1503				hypothetical protein
+FGBLAKPN_00146	CDS	786				hypothetical protein
+FGBLAKPN_00147	CDS	177				hypothetical protein
+FGBLAKPN_00148	CDS	1530				hypothetical protein
+FGBLAKPN_00149	CDS	447				hypothetical protein
+FGBLAKPN_00150	CDS	1422	spnO	4.2.1.159		dTDP-4-dehydro-6-deoxy-alpha-D-glucopyranose 2,3-dehydratase
+FGBLAKPN_00151	CDS	969	spnN	1.1.1.384		dTDP-3,4-didehydro-2,6-dideoxy-alpha-D-glucose 3-reductase
+FGBLAKPN_00152	CDS	747				hypothetical protein
+FGBLAKPN_00153	CDS	1167				hypothetical protein
+FGBLAKPN_00154	CDS	1320				hypothetical protein
+FGBLAKPN_00155	CDS	978	cbh	3.5.1.24		Choloylglycine hydrolase
+FGBLAKPN_00156	CDS	240				hypothetical protein
+FGBLAKPN_00157	CDS	864	araC			Arabinose operon regulatory protein
+FGBLAKPN_00158	CDS	561				hypothetical protein
+FGBLAKPN_00159	CDS	573				hypothetical protein
+FGBLAKPN_00160	CDS	1494				hypothetical protein
+FGBLAKPN_00161	CDS	843	ngcG		COG0395	Diacetylchitobiose uptake system permease protein NgcG
+FGBLAKPN_00162	CDS	948	lacF			Lactose transport system permease protein LacF
+FGBLAKPN_00163	CDS	1512		3.1.6.-	COG3119	N-acetylglucosamine-6-O-sulfatase
+FGBLAKPN_00164	CDS	1437				hypothetical protein
+FGBLAKPN_00165	CDS	684	graR		COG0745	Response regulator protein GraR
+FGBLAKPN_00166	CDS	1005	graS	2.7.13.3	COG0642	Sensor histidine kinase GraS
+FGBLAKPN_00167	CDS	564				hypothetical protein
+FGBLAKPN_00168	CDS	249				hypothetical protein
+FGBLAKPN_00169	CDS	264				hypothetical protein
+FGBLAKPN_00170	CDS	1134				hypothetical protein
+FGBLAKPN_00171	CDS	1104				hypothetical protein
+FGBLAKPN_00172	CDS	2343				hypothetical protein
+FGBLAKPN_00173	CDS	849				hypothetical protein
+FGBLAKPN_00174	CDS	822				hypothetical protein
+FGBLAKPN_00175	CDS	1113	mshA_4	2.4.1.250		D-inositol-3-phosphate glycosyltransferase
+FGBLAKPN_00176	CDS	1005				hypothetical protein
+FGBLAKPN_00177	CDS	1188	xerC_1			Tyrosine recombinase XerC
+FGBLAKPN_00178	CDS	360				hypothetical protein
+FGBLAKPN_00179	CDS	1242	xerC_2			Tyrosine recombinase XerC
+FGBLAKPN_00180	CDS	237				hypothetical protein
+FGBLAKPN_00181	CDS	930				hypothetical protein
+FGBLAKPN_00182	CDS	792				hypothetical protein
+FGBLAKPN_00183	CDS	411				hypothetical protein
+FGBLAKPN_00184	CDS	1161	bshA	2.4.1.-	COG0438	N-acetyl-alpha-D-glucosaminyl L-malate synthase
+FGBLAKPN_00185	CDS	1524	resA			Thiol-disulfide oxidoreductase ResA
+FGBLAKPN_00186	CDS	813	menH	4.2.99.20		2-succinyl-6-hydroxy-2,4-cyclohexadiene-1-carboxylate synthase
+FGBLAKPN_00187	CDS	705				hypothetical protein
+FGBLAKPN_00188	CDS	438	slyA			Transcriptional regulator SlyA
+FGBLAKPN_00189	CDS	360				hypothetical protein
+FGBLAKPN_00190	CDS	816				hypothetical protein
+FGBLAKPN_00191	CDS	789				hypothetical protein
+FGBLAKPN_00192	CDS	216				hypothetical protein
+FGBLAKPN_00193	CDS	828	xerC_3			Tyrosine recombinase XerC
+FGBLAKPN_00194	CDS	222				hypothetical protein
+FGBLAKPN_00195	CDS	1083				hypothetical protein
+FGBLAKPN_00196	CDS	975				hypothetical protein
+FGBLAKPN_00197	CDS	669	yvgN_2	1.1.1.-	COG0656	Glyoxal reductase
