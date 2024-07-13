@@ -4,6 +4,8 @@
     "outdir": "test_manual/taxprofiler_out",
     "perform_shortread_qc": true,
     "shortread_qc_skipadaptertrim": true,
+    "shortread_qc_mergepairs": true,
+    "shortread_qc_includeunmerged": true,
     "perform_shortread_complexityfilter": false,
     "perform_shortread_hostremoval": true,
     "hostremoval_reference": "hg38.fa.gz",
