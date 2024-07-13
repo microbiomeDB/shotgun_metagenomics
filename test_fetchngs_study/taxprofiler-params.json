@@ -1,7 +1,7 @@
 {
-    "input": "test_manual/taxprofiler_samplesheet.csv",
-    "databases": "test_manual/taxprofiler_databases.csv",
-    "outdir": "test_manual/taxprofiler_out",
+    "input": "../taxprofiler_samplesheet.csv",
+    "databases": "../taxprofiler_databases.csv",
+    "outdir": "../taxprofiler_out",
     "perform_shortread_qc": true,
     "shortread_qc_skipadaptertrim": true,
     "shortread_qc_mergepairs": true,
