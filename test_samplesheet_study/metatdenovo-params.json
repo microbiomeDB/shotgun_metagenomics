@@ -1,6 +1,4 @@
 {
-    "input": "..\/metatdenovo_samplesheet.csv",
-    "outdir": "..\/metatdenovo_out",
     "orf_caller": "prokka",
     "skip_eukulele": true
 }

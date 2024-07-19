@@ -1,6 +1,16 @@
 {
-    "input": "..\/metatdenovo_samplesheet.csv",
-    "outdir": "..\/metatdenovo_out",
-    "orf_caller": "prokka",
-    "skip_eukulele": true
+    "perform_shortread_qc": true,
+    "shortread_qc_skipadaptertrim": true,
+    "shortread_qc_mergepairs": true,
+    "shortread_qc_includeunmerged": true,
+    "perform_shortread_complexityfilter": false,
+    "perform_shortread_hostremoval": true,
+    "hostremoval_reference": "hg38.fa.gz",
+    "run_kraken2": true,
+    "run_metaphlan": true,
+    "run_profile_standardisation": true,
+    "taxpasta_taxonomy_dir": "taxdump",
+    "taxpasta_add_name": true,
+    "taxpasta_add_rank": true,
+    "taxpasta_add_lineage": true
 }
