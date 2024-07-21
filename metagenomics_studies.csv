@@ -1,3 +1,12 @@
 studyName,studyPath
 test_samplesheet,/data/MicrobiomeDB/common/shotgun_metagenomics/test_samplesheet_study
 test_fetchngs,/data/MicrobiomeDB/common/shotgun_metagenomics/test_fetchngs_study
+BONUS-CF,/data/MicrobiomeDB/common/shotgun_metagenomics/BONUS
+DIABIMMUNE,/data/MicrobiomeDB/common/shotgun_metagenomics/DIABIMMUNE_WGS
+FARMM,/data/MicrobiomeDB/common/shotgun_metagenomics/FARMM_metagenomics
+HMP_MGX,/data/MicrobiomeDB/common/shotgun_metagenomics/HMPWgs
+MalaysiaHelminth,/data/MicrobiomeDB/common/shotgun_metagenomics/MalaysiaHelminth
+MORDOR,/data/MicrobiomeDB/common/shotgun_metagenomics/MORDOR_metatranscriptome
+NICU-NEC,/data/MicrobiomeDB/common/shotgun_metagenomics/NICUNEC
+ResistomeI,/data/MicrobiomeDB/common/shotgun_metagenomics/ResistomeWgs
+ResistomeII,/data/MicrobiomeDB/common/shotgun_metagenomics/NICUDischarge
