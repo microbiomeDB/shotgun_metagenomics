@@ -8,6 +8,7 @@
     "hostremoval_reference": "..\/..\/..\/hg38.fa.gz",
     "run_kraken2": true,
     "run_profile_standardisation": true,
+    "standardization_taxpasta_format": "biom",
     "taxpasta_taxonomy_dir": "..\/..\/..\/taxdump",
     "taxpasta_add_name": true,
     "taxpasta_add_rank": true,
