@@ -1,0 +1,2 @@
+Sample	n_seqs	smallest	largest	n_bases	mean_len	n_under_200	n_over_1k	n_over_10k	n_with_orf	mean_orf_percent	n90	n70	n50	n30	n10	gc	bases_n	proportion_n	score	optimal_score	cutoff	weighted
+/home/dcallan/test_samplesheet_study/work/metatdenovo_work/c6/3f2ae47196becff7ff8a712aecb43f/megahit_assembly.contigs.fa	118766.0	200.0	368859.0	151350165.0	1274.356	0.0	26054.0	1914.0	56673.0	48.46299	425.0	985.0	2981.0	10582.0	45178.0	0.46024	0.0	0.0	NA	NA	NA	NA

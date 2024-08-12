@@ -1,0 +1,5 @@
+UNTAR:
+  untar: 1.3
+Workflow:
+    nf-core/taxprofiler: v1.1.8-g5d3ee55
+    Nextflow: 24.04.3

@@ -1,0 +1,42 @@
+You specified --include_unmerged in merging mode. Ignoring argument --out1 = 3106237_3_1.fastp.fastq.gz
+You specified --include_unmerged in merging mode. Ignoring argument --out2 = 3106237_3_2.fastp.fastq.gz
+Read1 before filtering:
+total reads: 7598608
+total bases: 596925879
+Q20 bases: 580428346(97.2363%)
+Q30 bases: 522137755(87.4711%)
+
+Read2 before filtering:
+total reads: 7598608
+total bases: 615517667
+Q20 bases: 602662315(97.9115%)
+Q30 bases: 556744479(90.4514%)
+
+Merged and filtered:
+total reads: 11624686
+total bases: 957681026
+Q20 bases: 933984131(97.5256%)
+Q30 bases: 850386923(88.7965%)
+
+Filtering result:
+reads passed filter: 15197216
+reads failed due to low quality: 0
+reads failed due to too many N: 0
+reads failed due to too short: 0
+reads corrected by overlap analysis: 677010
+bases corrected by overlap analysis: 787009
+
+Duplication rate: 1.39224%
+
+Insert size peak (evaluated by paired-end reads): 86
+
+Read pairs merged: 3572530
+% of original read pairs: 47.0156%
+% in reads after filtering: 30.7323%
+
+
+JSON report: 3106237_3.fastp.json
+HTML report: 3106237_3.fastp.html
+
+fastp --in1 3106237_3_1.fastq.gz --in2 3106237_3_2.fastq.gz --out1 3106237_3_1.fastp.fastq.gz --out2 3106237_3_2.fastp.fastq.gz --json 3106237_3.fastp.json --html 3106237_3.fastp.html -m --merged_out 3106237_3.merged.fastq.gz --thread 6 --detect_adapter_for_pe --include_unmerged --disable_adapter_trimming --detect_adapter_for_pe --length_required 15 
+fastp v0.23.4, time used: 52 seconds

@@ -1,0 +1,26 @@
+Sample	FastQC / Falco (pre-Trimming)_mqc-generalstats-fastqc_falco_pre_trimming-total_sequences	FastQC / Falco (pre-Trimming)_mqc-generalstats-fastqc_falco_pre_trimming-avg_sequence_length	FastQC / Falco (pre-Trimming)_mqc-generalstats-fastqc_falco_pre_trimming-median_sequence_length	FastQC / Falco (pre-Trimming)_mqc-generalstats-fastqc_falco_pre_trimming-percent_duplicates	FastQC / Falco (pre-Trimming)_mqc-generalstats-fastqc_falco_pre_trimming-percent_gc	FastQC / Falco (pre-Trimming)_mqc-generalstats-fastqc_falco_pre_trimming-percent_fails	FastQC / Falco (post-Trimming)_mqc-generalstats-fastqc_falco_post_trimming-total_sequences	FastQC / Falco (post-Trimming)_mqc-generalstats-fastqc_falco_post_trimming-avg_sequence_length	FastQC / Falco (post-Trimming)_mqc-generalstats-fastqc_falco_post_trimming-median_sequence_length	FastQC / Falco (post-Trimming)_mqc-generalstats-fastqc_falco_post_trimming-percent_duplicates	FastQC / Falco (post-Trimming)_mqc-generalstats-fastqc_falco_post_trimming-percent_gc	FastQC / Falco (post-Trimming)_mqc-generalstats-fastqc_falco_post_trimming-percent_fails	fastp_mqc-generalstats-fastp-pct_surviving	fastp_mqc-generalstats-fastp-pct_duplication	fastp_mqc-generalstats-fastp-after_filtering_gc_content	fastp_mqc-generalstats-fastp-after_filtering_q30_rate	fastp_mqc-generalstats-fastp-after_filtering_q30_bases	fastp_mqc-generalstats-fastp-filtering_result_passed_filter_reads	bowtie2_mqc-generalstats-bowtie2-overall_alignment_rate	Samtools Stats: stats_mqc-generalstats-samtools_stats_stats-error_rate	Samtools Stats: stats_mqc-generalstats-samtools_stats_stats-non_primary_alignments	Samtools Stats: stats_mqc-generalstats-samtools_stats_stats-reads_mapped	Samtools Stats: stats_mqc-generalstats-samtools_stats_stats-reads_mapped_percent	Samtools Stats: stats_mqc-generalstats-samtools_stats_stats-reads_properly_paired_percent	Samtools Stats: stats_mqc-generalstats-samtools_stats_stats-reads_MQ0_percent	Samtools Stats: stats_mqc-generalstats-samtools_stats_stats-raw_total_sequences	Kraken_mqc-generalstats-kraken-pct_top_one	Kraken_mqc-generalstats-kraken-pct_top_n	Kraken_mqc-generalstats-kraken-pct_unclassified
+3101140_5													100.0	2.1975700000000002	0.435646	0.966012	886788119.0	15731644.0	0.07	0.009344336	0.0	7039.0	0.06759257320960342	0.0	0.002506273846811549	10413866.0			
+3101140_5_processed							10413866.0	88.60578568996375	87	18.138742953996072	43.0	0.0																	
+3101140_5_raw_1	7865822.0	83.23908957004112	86	16.10177496536498	43.0	0.0																							
+3101140_5_raw_2	7865822.0	83.20429676644093	86	16.027094937523614	43.0	0.0																							
+3101140_se_5_kraken_db																											11.660710800708035	32.4439331988511	7.9534520944760585
+3106237_3													100.0	1.39224	0.422253	0.887965	850386923.0	15197216.0	0.01	0.008391496	0.0	1663.0	0.014305762753505773	0.0	0.0004559262934069789	11624686.0			
+3106237_3_processed							11624686.0	82.93030504221791	87	30.981440556529265	42.0	0.0																	
+3106237_3_raw_1	7598608.0	78.55726719946601	85	28.280481879369262	42.0	0.0																							
+3106237_3_raw_2	7598608.0	81.00400323322377	86	26.511764715665038	42.0	0.0																							
+3106237_se_3_kraken_db																											2.029996843334131	5.657925653248729	53.42455228730082
+3106384_4													100.0	1.82498	0.461505	0.962074	944390948.0	16841936.0	0.02	0.005932962	0.0	2406.0	0.021516536656764826	0.0	0.0004829147878076894	11182097.0			
+3106384_4_processed							11182097.0	88.23987531140179	87	14.349491876007832	46.0	0.0																	
+3106384_4_raw_1	8420968.0	83.11326025701558	86	12.54242258809306	46.0	0.0																							
+3106384_4_raw_2	8420968.0	83.03626673323068	86	12.46735733444882	46.0	0.0																							
+3106384_se_4_kraken_db																											13.772250055927307	23.91647497234047	10.47293704271433
+3108596_1													100.0	2.58356	0.449292	0.892136	1044987545.0	18085390.0	0.05	0.005402336	0.0	7765.0	0.05488372954344158	0.0	0.0012227798082440945	14148091.0			
+3108596_1_processed							14148091.0	83.34562775995715	87	24.55236954494876	44.0	0.0																	
+3108596_1_raw_1	9042695.0	81.6463841808222	86	20.64404846044181	45.0	0.0																							
+3108596_1_raw_2	9042695.0	79.38681244916476	85	21.828971210712638	44.0	0.0																							
+3108596_se_1_kraken_db																											1.8078225353503163	8.973520129592485	37.01657231947835
+3114327_2													100.0	0.6154930000000001	0.453368	0.858771	215951116.0	3511658.0	0.01	0.008647799	0.0	174.0	0.0056652003348328745	0.0	0.0002604689809118563	3071383.0			
+3114327_2_processed							3071383.0	82.47301655312933	87	10.335287208262969	45.0	9.090909090909092																	
+3114327_2_raw_1	1755829.0	77.18445759809184	84	10.489887382772622	45.0	0.0																							
+3114327_2_raw_2	1755829.0	82.6547266277069	86	8.779985506268389	45.0	0.0																							
+3114327_se_2_kraken_db																											3.390293529356029	10.281260571976704	35.06065526637881

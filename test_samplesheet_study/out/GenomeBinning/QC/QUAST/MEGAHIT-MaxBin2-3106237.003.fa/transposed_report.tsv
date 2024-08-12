@@ -1,2 +1,0 @@
-Assembly	# contigs (>= 0 bp)	# contigs (>= 1000 bp)	# contigs (>= 5000 bp)	# contigs (>= 10000 bp)	# contigs (>= 25000 bp)	# contigs (>= 50000 bp)	Total length (>= 0 bp)	Total length (>= 1000 bp)	Total length (>= 5000 bp)	Total length (>= 10000 bp)	Total length (>= 25000 bp)	Total length (>= 50000 bp)	# contigs	Largest contig	Total length	GC (%)	N50	N75	L50	L75	# N's per 100 kbp	# predicted rRNA genes
-MEGAHIT-MaxBin2-3106237.003.fa	1139	1139	161	32	1	1	3448371	3448371	1359061	501017	56280	56280	1139	56280	3448371	42.34	4120	2167	241	530	0.00	1 + 1 part

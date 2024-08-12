@@ -1,0 +1,152 @@
+
+SUMMARISING RUN PARAMETERS
+==========================
+Input filename: SRX5164430_2.fastq.gz
+Trimming mode: paired-end
+Trim Galore version: 0.6.7
+Cutadapt version: 3.4
+Python version: could not detect
+Number of cores used for trimming: 8
+Quality Phred score cutoff: 20
+Quality encoding type selected: ASCII+33
+Using Nextera adapter for trimming (count: 76434). Second best hit was smallRNA (count: 2)
+Adapter sequence: 'CTGTCTCTTATA' (Nextera Transposase sequence; auto-detected)
+Maximum trimming error rate: 0.1 (default)
+Minimum required adapter overlap (stringency): 1 bp
+Minimum required sequence length for both reads before a sequence pair gets removed: 20 bp
+Running FastQC on the data once trimming has completed
+Output file will be GZIP compressed
+
+
+This is cutadapt 3.4 with Python 3.9.6
+Command line parameters: -j 8 -e 0.1 -q 20 -O 1 -a CTGTCTCTTATA SRX5164430_2.fastq.gz
+Processing reads on 8 cores in single-end mode ...
+Finished in 39.25 s (5 µs/read; 11.23 M reads/minute).
+
+=== Summary ===
+
+Total reads processed:               7,345,344
+Reads with adapters:                 2,827,598 (38.5%)
+Reads written (passing filters):     7,345,344 (100.0%)
+
+Total basepairs processed:   671,208,066 bp
+Quality-trimmed:                       0 bp (0.0%)
+Total written (filtered):    649,425,874 bp (96.8%)
+
+=== Adapter 1 ===
+
+Sequence: CTGTCTCTTATA; Type: regular 3'; Length: 12; Trimmed: 2827598 times
+
+No. of allowed errors:
+1-9 bp: 0; 10-12 bp: 1
+
+Bases preceding removed adapters:
+  A: 18.4%
+  C: 30.4%
+  G: 26.4%
+  T: 24.8%
+  none/other: 0.0%
+
+Overview of removed sequences
+length	count	expect	max.err	error counts
+1	1593164	1836336.0	0	1593164
+2	320844	459084.0	0	320844
+3	133719	114771.0	0	133719
+4	35736	28692.8	0	35736
+5	26044	7173.2	0	26044
+6	19897	1793.3	0	19897
+7	19153	448.3	0	19153
+8	18426	112.1	0	18426
+9	21050	28.0	0	20945 105
+10	16259	7.0	1	16109 150
+11	18569	1.8	1	18435 134
+12	19867	0.4	1	19783 84
+13	17451	0.4	1	17358 93
+14	17754	0.4	1	17693 61
+15	18286	0.4	1	18207 79
+16	17553	0.4	1	17479 74
+17	16987	0.4	1	16913 74
+18	16683	0.4	1	16615 68
+19	16719	0.4	1	16659 60
+20	16483	0.4	1	16401 82
+21	15688	0.4	1	15629 59
+22	16759	0.4	1	16698 61
+23	15877	0.4	1	15826 51
+24	17993	0.4	1	17918 75
+25	14923	0.4	1	14827 96
+26	15707	0.4	1	15659 48
+27	14945	0.4	1	14886 59
+28	15821	0.4	1	15756 65
+29	15797	0.4	1	15730 67
+30	14820	0.4	1	14750 70
+31	16621	0.4	1	16548 73
+32	25168	0.4	1	25085 83
+33	26412	0.4	1	26317 95
+34	5546	0.4	1	5502 44
+35	22791	0.4	1	22711 80
+36	12432	0.4	1	12366 66
+37	15069	0.4	1	15009 60
+38	9558	0.4	1	9511 47
+39	16029	0.4	1	15968 61
+40	10582	0.4	1	10540 42
+41	15932	0.4	1	15882 50
+42	33606	0.4	1	33476 130
+43	6154	0.4	1	6108 46
+44	30140	0.4	1	30040 100
+45	6476	0.4	1	6439 37
+46	2536	0.4	1	2499 37
+47	8147	0.4	1	8104 43
+48	2941	0.4	1	2904 37
+49	3299	0.4	1	3265 34
+50	2414	0.4	1	2370 44
+51	2913	0.4	1	2881 32
+52	2365	0.4	1	2323 42
+53	2368	0.4	1	2340 28
+54	4271	0.4	1	4238 33
+55	132	0.4	1	113 19
+56	1485	0.4	1	1465 20
+57	1924	0.4	1	1891 33
+58	161	0.4	1	123 38
+59	65	0.4	1	44 21
+60	160	0.4	1	143 17
+61	43	0.4	1	24 19
+62	57	0.4	1	35 22
+63	108	0.4	1	82 26
+64	38	0.4	1	9 29
+65	30	0.4	1	3 27
+66	19	0.4	1	5 14
+67	19	0.4	1	1 18
+68	32	0.4	1	0 32
+69	13	0.4	1	0 13
+70	24	0.4	1	0 24
+71	29	0.4	1	0 29
+72	21	0.4	1	0 21
+73	17	0.4	1	0 17
+74	27	0.4	1	0 27
+75	16	0.4	1	0 16
+76	23	0.4	1	0 23
+77	20	0.4	1	0 20
+78	20	0.4	1	1 19
+79	20	0.4	1	0 20
+80	24	0.4	1	0 24
+81	28	0.4	1	1 27
+82	24	0.4	1	0 24
+83	36	0.4	1	1 35
+84	34	0.4	1	0 34
+85	90	0.4	1	3 87
+86	9	0.4	1	0 9
+87	19	0.4	1	0 19
+88	12	0.4	1	0 12
+89	9	0.4	1	0 9
+90	33	0.4	1	0 33
+91	13	0.4	1	0 13
+92	10	0.4	1	0 10
+93	10	0.4	1	0 10
+
+RUN STATISTICS FOR INPUT FILE: SRX5164430_2.fastq.gz
+=============================================
+7345344 sequences processed in total
+
+Total number of sequences analysed for the sequence pair length validation: 7345344
+
+Number of sequence pairs removed because at least one read was shorter than the length cutoff (20 bp): 1041 (0.01%)

@@ -1,0 +1,2 @@
+Sample	organism	contigs	bases	CDS	rRNA	repeat_region	tRNA	tmRNA
+strain	Genus species	7068	10489186	9267	8	3	74	1

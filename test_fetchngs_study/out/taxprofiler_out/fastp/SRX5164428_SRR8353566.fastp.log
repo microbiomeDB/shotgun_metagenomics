@@ -1,0 +1,42 @@
+You specified --include_unmerged in merging mode. Ignoring argument --out1 = SRX5164428_SRR8353566_1.fastp.fastq.gz
+You specified --include_unmerged in merging mode. Ignoring argument --out2 = SRX5164428_SRR8353566_2.fastp.fastq.gz
+Read1 before filtering:
+total reads: 14080087
+total bases: 1302176133
+Q20 bases: 1298850150(99.7446%)
+Q30 bases: 1267830515(97.3624%)
+
+Read2 before filtering:
+total reads: 14080087
+total bases: 1296826259
+Q20 bases: 1292176827(99.6415%)
+Q30 bases: 1254191577(96.7124%)
+
+Merged and filtered:
+total reads: 18859918
+total bases: 1838450703
+Q20 bases: 1832919800(99.6992%)
+Q30 bases: 1787164695(97.2104%)
+
+Filtering result:
+reads passed filter: 28160174
+reads failed due to low quality: 0
+reads failed due to too many N: 0
+reads failed due to too short: 0
+reads corrected by overlap analysis: 43312
+bases corrected by overlap analysis: 43945
+
+Duplication rate: 0.165731%
+
+Insert size peak (evaluated by paired-end reads): 93
+
+Read pairs merged: 9300256
+% of original read pairs: 66.0525%
+% in reads after filtering: 49.3123%
+
+
+JSON report: SRX5164428_SRR8353566.fastp.json
+HTML report: SRX5164428_SRR8353566.fastp.html
+
+fastp --in1 SRX5164428_SRR8353566_1.fastq.gz --in2 SRX5164428_SRR8353566_2.fastq.gz --out1 SRX5164428_SRR8353566_1.fastp.fastq.gz --out2 SRX5164428_SRR8353566_2.fastp.fastq.gz --json SRX5164428_SRR8353566.fastp.json --html SRX5164428_SRR8353566.fastp.html -m --merged_out SRX5164428_SRR8353566.merged.fastq.gz --thread 6 --detect_adapter_for_pe --include_unmerged --disable_adapter_trimming --detect_adapter_for_pe --length_required 15 
+fastp v0.23.4, time used: 84 seconds

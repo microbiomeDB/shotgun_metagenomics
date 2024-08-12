@@ -1,0 +1,314 @@
+<!--
+  ~ Copyright 2013-2024, Seqera Labs
+  ~
+  ~ Licensed under the Apache License, Version 2.0 (the "License");
+  ~ you may not use this file except in compliance with the License.
+  ~ You may obtain a copy of the License at
+  ~
+  ~     http://www.apache.org/licenses/LICENSE-2.0
+  ~
+  ~ Unless required by applicable law or agreed to in writing, software
+  ~ distributed under the License is distributed on an "AS IS" BASIS,
+  ~ WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+  ~ See the License for the specific language governing permissions and
+  ~ limitations under the License.
+  -->
+<html>
+<head>
+<meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1, maximum-scale=1">
+</head>
+<body>
+<pre class="mermaid" style="text-align: center;">
+flowchart TB
+    subgraph " "
+    v2["Channel.fromPath"]
+    v6["samplesheet"]
+    v56["assembly"]
+    v73["proteins"]
+    v74["prodigal_tf"]
+    end
+    subgraph NFCORE_METATDENOVO
+    subgraph METATDENOVO
+    subgraph INPUT_CHECK
+    v7([SAMPLESHEET_CHECK])
+    v8(( ))
+    end
+    v14([CAT_FASTQ])
+    subgraph FASTQC_TRIMGALORE
+    v23([FASTQC])
+    v34([TRIMGALORE])
+    end
+    v50([SEQTK_MERGEPE])
+    v57([MEGAHIT_INTERLEAVED])
+    subgraph PROKKA_SUBSETS
+    v75([PROKKA])
+    v91([GFF_CAT])
+    v97([FAA_CAT])
+    v103([FFN_CAT])
+    v106([PROKKAGFF2TSV])
+    v111(( ))
+    v198(( ))
+    end
+    v112([UNPIGZ_GFF])
+    v115([BBMAP_INDEX])
+    v117([BBMAP_ALIGN])
+    subgraph HMMCLASSIFY
+    v124([HMMER_HMMSEARCH])
+    v135([HMMRANK])
+    v120(( ))
+    end
+    subgraph BAM_SORT_STATS_SAMTOOLS
+    v140([SAMTOOLS_SORT])
+    v144([SAMTOOLS_INDEX])
+    subgraph BAM_STATS_SAMTOOLS
+    v152([SAMTOOLS_STATS])
+    v155([SAMTOOLS_FLAGSTAT])
+    v158([SAMTOOLS_IDXSTATS])
+    end
+    v148(( ))
+    end
+    v167([FEATURECOUNTS_CDS])
+    v171([COLLECT_FEATURECOUNTS])
+    subgraph EGGNOG
+    v178([EGGNOG_DOWNLOAD])
+    v184([EGGNOG_MAPPER])
+    v195([EGGNOG_SUM])
+    v181(( ))
+    end
+    subgraph KOFAMSCAN
+    v200([KOFAMSCAN_DOWNLOAD])
+    v202([KOFAMSCAN_SCAN])
+    v205([SUM_KOFAMSCAN])
+    end
+    v210([UNPIGZ_CONTIGS])
+    v212([TRANSRATE])
+    v217([MERGE_TABLES])
+    v222([COLLECT_STATS])
+    v227([CUSTOM_DUMPSOFTWAREVERSIONS])
+    v244([MULTIQC])
+    v13(( ))
+    v52(( ))
+    v55(( ))
+    v63(( ))
+    v85(( ))
+    v162(( ))
+    v169(( ))
+    v175(( ))
+    v208(( ))
+    v241(( ))
+    v242(( ))
+    v243(( ))
+    v248(( ))
+    end
+    end
+    subgraph " "
+    v24["fastqc_zip"]
+    v25["fastqc_html"]
+    v35["trim_html"]
+    v36[" "]
+    v58[" "]
+    v59[" "]
+    v60[" "]
+    v61[" "]
+    v62[" "]
+    v76[" "]
+    v77[" "]
+    v78[" "]
+    v79[" "]
+    v80[" "]
+    v81[" "]
+    v82[" "]
+    v83[" "]
+    v104["ffn"]
+    v107["gfftsv"]
+    v118[" "]
+    v125[" "]
+    v126[" "]
+    v127[" "]
+    v136["$out0"]
+    v141[" "]
+    v145[" "]
+    v153["stats"]
+    v156["flagstat"]
+    v179[" "]
+    v185[" "]
+    v186[" "]
+    v187[" "]
+    v188[" "]
+    v189[" "]
+    v190[" "]
+    v191[" "]
+    v192[" "]
+    v193["hits"]
+    v203[" "]
+    v223[" "]
+    v228[" "]
+    v229[" "]
+    v245[" "]
+    v246[" "]
+    v247[" "]
+    v249[" "]
+    end
+    v2 --> v241
+    v6 --> v7
+    v7 --> v8
+    v7 --> v13
+    v8 --> v14
+    v14 --> v8
+    v14 --> v13
+    v8 --> v23
+    v23 --> v25
+    v23 --> v24
+    v23 --> v13
+    v8 --> v34
+    v34 --> v50
+    v34 --> v36
+    v34 --> v35
+    v34 --> v117
+    v34 --> v8
+    v34 --> v13
+    v34 --> v85
+    v50 --> v13
+    v50 --> v52
+    v56 --> v57
+    v52 --> v57
+    v55 --> v57
+    v57 --> v62
+    v57 --> v61
+    v57 --> v60
+    v57 --> v59
+    v57 --> v58
+    v57 --> v13
+    v57 --> v63
+    v73 --> v75
+    v74 --> v75
+    v63 --> v75
+    v75 --> v83
+    v75 --> v82
+    v75 --> v81
+    v75 --> v80
+    v75 --> v79
+    v75 --> v78
+    v75 --> v77
+    v75 --> v76
+    v75 --> v13
+    v75 --> v63
+    v75 --> v85
+    v63 --> v91
+    v91 --> v106
+    v91 --> v13
+    v91 --> v111
+    v63 --> v97
+    v97 --> v184
+    v97 --> v13
+    v97 --> v120
+    v97 --> v198
+    v63 --> v103
+    v103 --> v104
+    v103 --> v13
+    v106 --> v107
+    v106 --> v13
+    v111 --> v112
+    v112 --> v13
+    v112 --> v162
+    v63 --> v115
+    v115 --> v117
+    v115 --> v13
+    v117 --> v140
+    v117 --> v118
+    v117 --> v13
+    v120 --> v124
+    v124 --> v127
+    v124 --> v126
+    v124 --> v125
+    v124 --> v13
+    v124 --> v120
+    v120 --> v135
+    v135 --> v136
+    v135 --> v13
+    v140 --> v144
+    v140 --> v141
+    v140 --> v13
+    v140 --> v148
+    v140 --> v162
+    v144 --> v145
+    v144 --> v13
+    v144 --> v148
+    v63 --> v152
+    v148 --> v152
+    v152 --> v153
+    v152 --> v13
+    v148 --> v155
+    v155 --> v156
+    v155 --> v13
+    v148 --> v158
+    v158 --> v8
+    v158 --> v13
+    v158 --> v85
+    v162 --> v167
+    v167 --> v13
+    v167 --> v85
+    v167 --> v169
+    v169 --> v171
+    v171 --> v8
+    v171 --> v13
+    v171 --> v175
+    v178 --> v179
+    v178 --> v13
+    v178 --> v181
+    v181 --> v184
+    v184 --> v193
+    v184 --> v192
+    v184 --> v191
+    v184 --> v195
+    v184 --> v190
+    v184 --> v189
+    v184 --> v188
+    v184 --> v187
+    v184 --> v186
+    v184 --> v185
+    v184 --> v13
+    v175 --> v195
+    v195 --> v13
+    v195 --> v208
+    v200 --> v202
+    v200 --> v13
+    v198 --> v202
+    v202 --> v205
+    v202 --> v203
+    v202 --> v13
+    v175 --> v205
+    v205 --> v13
+    v205 --> v208
+    v63 --> v210
+    v210 --> v212
+    v210 --> v13
+    v212 --> v13
+    v212 --> v85
+    v208 --> v217
+    v217 --> v8
+    v217 --> v13
+    v8 --> v222
+    v222 --> v223
+    v222 --> v13
+    v13 --> v227
+    v227 --> v229
+    v227 --> v228
+    v227 --> v85
+    v85 --> v244
+    v241 --> v244
+    v242 --> v244
+    v243 --> v244
+    v244 --> v247
+    v244 --> v246
+    v244 --> v245
+    v244 --> v248
+    v248 --> v249
+
+</pre>
+<script type="module">
+  import mermaid from 'https://cdn.jsdelivr.net/npm/mermaid@10/dist/mermaid.esm.min.mjs';
+  mermaid.initialize({ startOnLoad: true });
+</script>
+</body>
+</html>

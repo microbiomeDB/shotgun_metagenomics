@@ -1,0 +1,252 @@
+<!--
+  ~ Copyright 2013-2023, Seqera Labs
+  ~
+  ~ Licensed under the Apache License, Version 2.0 (the "License");
+  ~ you may not use this file except in compliance with the License.
+  ~ You may obtain a copy of the License at
+  ~
+  ~     http://www.apache.org/licenses/LICENSE-2.0
+  ~
+  ~ Unless required by applicable law or agreed to in writing, software
+  ~ distributed under the License is distributed on an "AS IS" BASIS,
+  ~ WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+  ~ See the License for the specific language governing permissions and
+  ~ limitations under the License.
+  -->
+<html>
+<head>
+<meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1, maximum-scale=1">
+</head>
+<body>
+<pre class="mermaid" style="text-align: center;">
+flowchart TB
+    subgraph " "
+    v2["channel.fromSamplesheet"]
+    v3["channel.fromSamplesheet"]
+    v29["adapter_fasta"]
+    v30["save_trimmed_fail"]
+    v31["save_merged"]
+    v37["adapter_fasta"]
+    v38["save_trimmed_fail"]
+    v39["save_merged"]
+    v62[" "]
+    v65["save_unaligned"]
+    v66["sort_bam"]
+    v77[" "]
+    v103["save_output_fastqs"]
+    v104["save_reads_assignment"]
+    v121["Channel.fromPath"]
+    v126["format"]
+    v127["samplesheet"]
+    v130["format"]
+    v163["taxon_rank"]
+    v201["Channel.of"]
+    v204["Channel.fromPath"]
+    v206["Channel.fromPath"]
+    v207["ch_workflow_summary"]
+    v211["ch_methods_description"]
+    end
+    subgraph NFCORE_TAXPROFILER
+    subgraph TAXPROFILER
+    v13([UNTAR])
+    v20([FASTQC])
+    subgraph SHORTREAD_PREPROCESSING
+    subgraph SHORTREAD_FASTP
+    v32([FASTP_SINGLE])
+    v40([FASTP_PAIRED])
+    v45(( ))
+    end
+    v55([FASTQC_PROCESSED])
+    end
+    subgraph SHORTREAD_HOSTREMOVAL
+    v63([BOWTIE2_BUILD])
+    v67([BOWTIE2_ALIGN])
+    v71([SAMTOOLS_INDEX])
+    v78([SAMTOOLS_STATS])
+    v6(( ))
+    v76(( ))
+    end
+    subgraph PROFILING
+    v105([KRAKEN2_KRAKEN2])
+    end
+    subgraph STANDARDISATION_PROFILES
+    v128([TAXPASTA_MERGE])
+    v131([TAXPASTA_STANDARDISE])
+    v147([BRACKEN_COMBINEBRACKENOUTPUTS])
+    v153([KRAKENTOOLS_COMBINEKREPORTS_CENTRIFUGE])
+    v164([KAIJU_KAIJU2TABLE_COMBINED])
+    v171([KRAKENTOOLS_COMBINEKREPORTS_KRAKEN])
+    v177([METAPHLAN_MERGEMETAPHLANTABLES])
+    v187([MOTUS_MERGE])
+    v194([GANON_TABLE])
+    v122(( ))
+    end
+    v233([MULTIQC])
+    v14(( ))
+    v230(( ))
+    v231(( ))
+    v232(( ))
+    v237(( ))
+    end
+    end
+    subgraph " "
+    v21[" "]
+    v33[" "]
+    v34[" "]
+    v35[" "]
+    v36[" "]
+    v41[" "]
+    v42[" "]
+    v43[" "]
+    v44[" "]
+    v56[" "]
+    v72[" "]
+    v73[" "]
+    v91[" "]
+    v92[" "]
+    v93[" "]
+    v94[" "]
+    v95[" "]
+    v96[" "]
+    v97[" "]
+    v98[" "]
+    v99[" "]
+    v100[" "]
+    v106[" "]
+    v107[" "]
+    v129["taxpasta"]
+    v132[" "]
+    v138[" "]
+    v139[" "]
+    v141[" "]
+    v143[" "]
+    v148[" "]
+    v149[" "]
+    v188[" "]
+    v189[" "]
+    v234[" "]
+    v235[" "]
+    v236[" "]
+    v238["multiqc_report"]
+    end
+    v2 --> v6
+    v3 --> v6
+    v6 --> v13
+    v13 --> v6
+    v13 --> v14
+    v6 --> v20
+    v20 --> v21
+    v20 --> v14
+    v29 --> v32
+    v30 --> v32
+    v31 --> v32
+    v6 --> v32
+    v32 --> v36
+    v32 --> v35
+    v32 --> v34
+    v32 --> v33
+    v32 --> v14
+    v32 --> v45
+    v37 --> v40
+    v38 --> v40
+    v39 --> v40
+    v6 --> v40
+    v40 --> v44
+    v40 --> v43
+    v40 --> v42
+    v40 --> v41
+    v40 --> v14
+    v40 --> v45
+    v45 --> v55
+    v55 --> v56
+    v55 --> v14
+    v62 --> v63
+    v63 --> v67
+    v63 --> v14
+    v65 --> v67
+    v66 --> v67
+    v45 --> v67
+    v67 --> v71
+    v67 --> v6
+    v67 --> v14
+    v67 --> v76
+    v71 --> v73
+    v71 --> v72
+    v71 --> v14
+    v71 --> v76
+    v77 --> v78
+    v76 --> v78
+    v78 --> v14
+    v6 --> v91
+    v6 --> v92
+    v6 --> v93
+    v6 --> v94
+    v6 --> v95
+    v6 --> v96
+    v6 --> v97
+    v6 --> v98
+    v6 --> v99
+    v6 --> v100
+    v103 --> v105
+    v104 --> v105
+    v6 --> v105
+    v105 --> v107
+    v105 --> v106
+    v105 --> v6
+    v105 --> v14
+    v121 --> v122
+    v126 --> v128
+    v127 --> v128
+    v6 --> v128
+    v122 --> v128
+    v128 --> v129
+    v128 --> v14
+    v130 --> v131
+    v6 --> v131
+    v122 --> v131
+    v131 --> v132
+    v131 --> v14
+    v6 --> v138
+    v6 --> v139
+    v6 --> v141
+    v6 --> v143
+    v6 --> v147
+    v147 --> v149
+    v147 --> v148
+    v6 --> v153
+    v153 --> v14
+    v163 --> v164
+    v6 --> v164
+    v164 --> v14
+    v6 --> v171
+    v171 --> v14
+    v6 --> v177
+    v177 --> v14
+    v6 --> v187
+    v187 --> v189
+    v187 --> v188
+    v187 --> v14
+    v6 --> v194
+    v194 --> v14
+    v201 --> v14
+    v204 --> v230
+    v206 --> v232
+    v207 --> v14
+    v211 --> v14
+    v14 --> v233
+    v230 --> v233
+    v231 --> v233
+    v232 --> v233
+    v233 --> v236
+    v233 --> v235
+    v233 --> v234
+    v233 --> v237
+    v237 --> v238
+
+</pre>
+<script type="module">
+  import mermaid from 'https://cdn.jsdelivr.net/npm/mermaid@10/dist/mermaid.esm.min.mjs';
+  mermaid.initialize({ startOnLoad: true });
+</script>
+</body>
+</html>

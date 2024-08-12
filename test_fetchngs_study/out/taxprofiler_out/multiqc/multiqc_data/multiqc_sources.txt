@@ -1,0 +1,29 @@
+Module	Section	Sample Name	Source
+FastQC / Falco (pre-Trimming)	all_sections	SRX5164431_SRR8353569_raw_1	/home/dcallan/test_fetchngs_study/work/taxprofiler_work/fd/d9107164c7c959857a0713ae5b4b58/7/SRX5164431_SRR8353569_raw_1_fastqc.zip
+FastQC / Falco (pre-Trimming)	all_sections	SRX5164429_SRR8353567_raw_2	/home/dcallan/test_fetchngs_study/work/taxprofiler_work/fd/d9107164c7c959857a0713ae5b4b58/6/SRX5164429_SRR8353567_raw_2_fastqc.zip
+FastQC / Falco (pre-Trimming)	all_sections	SRX5164428_SRR8353566_raw_1	/home/dcallan/test_fetchngs_study/work/taxprofiler_work/fd/d9107164c7c959857a0713ae5b4b58/3/SRX5164428_SRR8353566_raw_1_fastqc.zip
+FastQC / Falco (pre-Trimming)	all_sections	SRX5164429_SRR8353567_raw_1	/home/dcallan/test_fetchngs_study/work/taxprofiler_work/fd/d9107164c7c959857a0713ae5b4b58/5/SRX5164429_SRR8353567_raw_1_fastqc.zip
+FastQC / Falco (pre-Trimming)	all_sections	SRX5164428_SRR8353566_raw_2	/home/dcallan/test_fetchngs_study/work/taxprofiler_work/fd/d9107164c7c959857a0713ae5b4b58/4/SRX5164428_SRR8353566_raw_2_fastqc.zip
+FastQC / Falco (pre-Trimming)	all_sections	SRX5164430_SRR8353568_raw_1	/home/dcallan/test_fetchngs_study/work/taxprofiler_work/fd/d9107164c7c959857a0713ae5b4b58/9/SRX5164430_SRR8353568_raw_1_fastqc.zip
+FastQC / Falco (pre-Trimming)	all_sections	SRX5164430_SRR8353568_raw_2	/home/dcallan/test_fetchngs_study/work/taxprofiler_work/fd/d9107164c7c959857a0713ae5b4b58/10/SRX5164430_SRR8353568_raw_2_fastqc.zip
+FastQC / Falco (pre-Trimming)	all_sections	SRX5164431_SRR8353569_raw_2	/home/dcallan/test_fetchngs_study/work/taxprofiler_work/fd/d9107164c7c959857a0713ae5b4b58/8/SRX5164431_SRR8353569_raw_2_fastqc.zip
+FastQC / Falco (post-Trimming)	all_sections	SRX5164430_SRR8353568_processed	/home/dcallan/test_fetchngs_study/work/taxprofiler_work/fd/d9107164c7c959857a0713ae5b4b58/17/SRX5164430_SRR8353568_processed_fastqc.zip
+FastQC / Falco (post-Trimming)	all_sections	SRX5164429_SRR8353567_processed	/home/dcallan/test_fetchngs_study/work/taxprofiler_work/fd/d9107164c7c959857a0713ae5b4b58/16/SRX5164429_SRR8353567_processed_fastqc.zip
+FastQC / Falco (post-Trimming)	all_sections	SRX5164431_SRR8353569_processed	/home/dcallan/test_fetchngs_study/work/taxprofiler_work/fd/d9107164c7c959857a0713ae5b4b58/15/SRX5164431_SRR8353569_processed_fastqc.zip
+FastQC / Falco (post-Trimming)	all_sections	SRX5164428_SRR8353566_processed	/home/dcallan/test_fetchngs_study/work/taxprofiler_work/fd/d9107164c7c959857a0713ae5b4b58/18/SRX5164428_SRR8353566_processed_fastqc.zip
+fastp	all_sections	SRX5164429_SRR8353567	/home/dcallan/test_fetchngs_study/work/taxprofiler_work/fd/d9107164c7c959857a0713ae5b4b58/11/SRX5164429_SRR8353567.fastp.json
+fastp	all_sections	SRX5164430_SRR8353568	/home/dcallan/test_fetchngs_study/work/taxprofiler_work/fd/d9107164c7c959857a0713ae5b4b58/14/SRX5164430_SRR8353568.fastp.json
+fastp	all_sections	SRX5164428_SRR8353566	/home/dcallan/test_fetchngs_study/work/taxprofiler_work/fd/d9107164c7c959857a0713ae5b4b58/13/SRX5164428_SRR8353566.fastp.json
+fastp	all_sections	SRX5164431_SRR8353569	/home/dcallan/test_fetchngs_study/work/taxprofiler_work/fd/d9107164c7c959857a0713ae5b4b58/12/SRX5164431_SRR8353569.fastp.json
+bowtie2	all_sections	SRX5164429_SRR8353567	/home/dcallan/test_fetchngs_study/work/taxprofiler_work/fd/d9107164c7c959857a0713ae5b4b58/21/SRX5164429_SRR8353567.bowtie2.log
+bowtie2	all_sections	SRX5164431_SRR8353569	/home/dcallan/test_fetchngs_study/work/taxprofiler_work/fd/d9107164c7c959857a0713ae5b4b58/19/SRX5164431_SRR8353569.bowtie2.log
+bowtie2	all_sections	SRX5164428_SRR8353566	/home/dcallan/test_fetchngs_study/work/taxprofiler_work/fd/d9107164c7c959857a0713ae5b4b58/22/SRX5164428_SRR8353566.bowtie2.log
+bowtie2	all_sections	SRX5164430_SRR8353568	/home/dcallan/test_fetchngs_study/work/taxprofiler_work/fd/d9107164c7c959857a0713ae5b4b58/20/SRX5164430_SRR8353568.bowtie2.log
+Samtools Stats	stats	SRX5164430_SRR8353568	/home/dcallan/test_fetchngs_study/work/taxprofiler_work/fd/d9107164c7c959857a0713ae5b4b58/24/SRX5164430_SRR8353568.stats
+Samtools Stats	stats	SRX5164431_SRR8353569	/home/dcallan/test_fetchngs_study/work/taxprofiler_work/fd/d9107164c7c959857a0713ae5b4b58/23/SRX5164431_SRR8353569.stats
+Samtools Stats	stats	SRX5164428_SRR8353566	/home/dcallan/test_fetchngs_study/work/taxprofiler_work/fd/d9107164c7c959857a0713ae5b4b58/26/SRX5164428_SRR8353566.stats
+Samtools Stats	stats	SRX5164429_SRR8353567	/home/dcallan/test_fetchngs_study/work/taxprofiler_work/fd/d9107164c7c959857a0713ae5b4b58/25/SRX5164429_SRR8353567.stats
+Kraken	all_sections	SRX5164431_se_SRR8353569_kraken_db	/home/dcallan/test_fetchngs_study/work/taxprofiler_work/fd/d9107164c7c959857a0713ae5b4b58/27/SRX5164431_se_SRR8353569_kraken_db.kraken2.kraken2.report.txt
+Kraken	all_sections	SRX5164429_se_SRR8353567_kraken_db	/home/dcallan/test_fetchngs_study/work/taxprofiler_work/fd/d9107164c7c959857a0713ae5b4b58/29/SRX5164429_se_SRR8353567_kraken_db.kraken2.kraken2.report.txt
+Kraken	all_sections	SRX5164428_se_SRR8353566_kraken_db	/home/dcallan/test_fetchngs_study/work/taxprofiler_work/fd/d9107164c7c959857a0713ae5b4b58/30/SRX5164428_se_SRR8353566_kraken_db.kraken2.kraken2.report.txt
+Kraken	all_sections	SRX5164430_se_SRR8353568_kraken_db	/home/dcallan/test_fetchngs_study/work/taxprofiler_work/fd/d9107164c7c959857a0713ae5b4b58/28/SRX5164430_se_SRR8353568_kraken_db.kraken2.kraken2.report.txt

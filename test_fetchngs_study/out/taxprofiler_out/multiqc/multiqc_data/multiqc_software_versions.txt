@@ -1,0 +1,3 @@
+Sample	fastqc	nf-core/taxprofiler	Nextflow
+FASTQC	0.12.1		
+Workflow		v1.1.8-g5d3ee55	24.4.3

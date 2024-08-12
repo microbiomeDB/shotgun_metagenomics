@@ -1,4 +1,0 @@
-2024-07-11 00:16:27 ERROR:	No genes were recognized by BUSCO. Please check the content of your input file.
-2024-07-11 00:16:27 ERROR:	BUSCO analysis failed!
-2024-07-11 00:16:27 ERROR:	Check the logs, read the user guide (https://busco.ezlab.org/busco_userguide.html), and check the BUSCO issue board on https://gitlab.com/ezlab/busco/issues
-

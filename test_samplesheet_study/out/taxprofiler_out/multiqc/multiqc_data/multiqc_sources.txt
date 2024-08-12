@@ -1,0 +1,36 @@
+Module	Section	Sample Name	Source
+FastQC / Falco (pre-Trimming)	all_sections	3106237_3_raw_1	/home/dcallan/test_samplesheet_study/work/taxprofiler_work/74/0f94f72d6f507ff2b54cc15d424e70/7/3106237_3_raw_1_fastqc.zip
+FastQC / Falco (pre-Trimming)	all_sections	3114327_2_raw_2	/home/dcallan/test_samplesheet_study/work/taxprofiler_work/74/0f94f72d6f507ff2b54cc15d424e70/6/3114327_2_raw_2_fastqc.zip
+FastQC / Falco (pre-Trimming)	all_sections	3108596_1_raw_1	/home/dcallan/test_samplesheet_study/work/taxprofiler_work/74/0f94f72d6f507ff2b54cc15d424e70/3/3108596_1_raw_1_fastqc.zip
+FastQC / Falco (pre-Trimming)	all_sections	3101140_5_raw_1	/home/dcallan/test_samplesheet_study/work/taxprofiler_work/74/0f94f72d6f507ff2b54cc15d424e70/11/3101140_5_raw_1_fastqc.zip
+FastQC / Falco (pre-Trimming)	all_sections	3114327_2_raw_1	/home/dcallan/test_samplesheet_study/work/taxprofiler_work/74/0f94f72d6f507ff2b54cc15d424e70/5/3114327_2_raw_1_fastqc.zip
+FastQC / Falco (pre-Trimming)	all_sections	3108596_1_raw_2	/home/dcallan/test_samplesheet_study/work/taxprofiler_work/74/0f94f72d6f507ff2b54cc15d424e70/4/3108596_1_raw_2_fastqc.zip
+FastQC / Falco (pre-Trimming)	all_sections	3106384_4_raw_1	/home/dcallan/test_samplesheet_study/work/taxprofiler_work/74/0f94f72d6f507ff2b54cc15d424e70/9/3106384_4_raw_1_fastqc.zip
+FastQC / Falco (pre-Trimming)	all_sections	3101140_5_raw_2	/home/dcallan/test_samplesheet_study/work/taxprofiler_work/74/0f94f72d6f507ff2b54cc15d424e70/12/3101140_5_raw_2_fastqc.zip
+FastQC / Falco (pre-Trimming)	all_sections	3106384_4_raw_2	/home/dcallan/test_samplesheet_study/work/taxprofiler_work/74/0f94f72d6f507ff2b54cc15d424e70/10/3106384_4_raw_2_fastqc.zip
+FastQC / Falco (pre-Trimming)	all_sections	3106237_3_raw_2	/home/dcallan/test_samplesheet_study/work/taxprofiler_work/74/0f94f72d6f507ff2b54cc15d424e70/8/3106237_3_raw_2_fastqc.zip
+FastQC / Falco (post-Trimming)	all_sections	3101140_5_processed	/home/dcallan/test_samplesheet_study/work/taxprofiler_work/74/0f94f72d6f507ff2b54cc15d424e70/21/3101140_5_processed_fastqc.zip
+FastQC / Falco (post-Trimming)	all_sections	3108596_1_processed	/home/dcallan/test_samplesheet_study/work/taxprofiler_work/74/0f94f72d6f507ff2b54cc15d424e70/14/3108596_1_processed_fastqc.zip
+FastQC / Falco (post-Trimming)	all_sections	3114327_2_processed	/home/dcallan/test_samplesheet_study/work/taxprofiler_work/74/0f94f72d6f507ff2b54cc15d424e70/16/3114327_2_processed_fastqc.zip
+FastQC / Falco (post-Trimming)	all_sections	3106384_4_processed	/home/dcallan/test_samplesheet_study/work/taxprofiler_work/74/0f94f72d6f507ff2b54cc15d424e70/22/3106384_4_processed_fastqc.zip
+FastQC / Falco (post-Trimming)	all_sections	3106237_3_processed	/home/dcallan/test_samplesheet_study/work/taxprofiler_work/74/0f94f72d6f507ff2b54cc15d424e70/18/3106237_3_processed_fastqc.zip
+fastp	all_sections	3101140_5	/home/dcallan/test_samplesheet_study/work/taxprofiler_work/74/0f94f72d6f507ff2b54cc15d424e70/19/3101140_5.fastp.json
+fastp	all_sections	3106237_3	/home/dcallan/test_samplesheet_study/work/taxprofiler_work/74/0f94f72d6f507ff2b54cc15d424e70/17/3106237_3.fastp.json
+fastp	all_sections	3108596_1	/home/dcallan/test_samplesheet_study/work/taxprofiler_work/74/0f94f72d6f507ff2b54cc15d424e70/13/3108596_1.fastp.json
+fastp	all_sections	3106384_4	/home/dcallan/test_samplesheet_study/work/taxprofiler_work/74/0f94f72d6f507ff2b54cc15d424e70/20/3106384_4.fastp.json
+fastp	all_sections	3114327_2	/home/dcallan/test_samplesheet_study/work/taxprofiler_work/74/0f94f72d6f507ff2b54cc15d424e70/15/3114327_2.fastp.json
+bowtie2	all_sections	3106237_3	/home/dcallan/test_samplesheet_study/work/taxprofiler_work/74/0f94f72d6f507ff2b54cc15d424e70/33/3106237_3.bowtie2.log
+bowtie2	all_sections	3106384_4	/home/dcallan/test_samplesheet_study/work/taxprofiler_work/74/0f94f72d6f507ff2b54cc15d424e70/36/3106384_4.bowtie2.log
+bowtie2	all_sections	3108596_1	/home/dcallan/test_samplesheet_study/work/taxprofiler_work/74/0f94f72d6f507ff2b54cc15d424e70/29/3108596_1.bowtie2.log
+bowtie2	all_sections	3101140_5	/home/dcallan/test_samplesheet_study/work/taxprofiler_work/74/0f94f72d6f507ff2b54cc15d424e70/35/3101140_5.bowtie2.log
+bowtie2	all_sections	3114327_2	/home/dcallan/test_samplesheet_study/work/taxprofiler_work/74/0f94f72d6f507ff2b54cc15d424e70/30/3114327_2.bowtie2.log
+Samtools Stats	stats	3106237_3	/home/dcallan/test_samplesheet_study/work/taxprofiler_work/74/0f94f72d6f507ff2b54cc15d424e70/34/3106237_3.stats
+Samtools Stats	stats	3101140_5	/home/dcallan/test_samplesheet_study/work/taxprofiler_work/74/0f94f72d6f507ff2b54cc15d424e70/37/3101140_5.stats
+Samtools Stats	stats	3108596_1	/home/dcallan/test_samplesheet_study/work/taxprofiler_work/74/0f94f72d6f507ff2b54cc15d424e70/31/3108596_1.stats
+Samtools Stats	stats	3114327_2	/home/dcallan/test_samplesheet_study/work/taxprofiler_work/74/0f94f72d6f507ff2b54cc15d424e70/32/3114327_2.stats
+Samtools Stats	stats	3106384_4	/home/dcallan/test_samplesheet_study/work/taxprofiler_work/74/0f94f72d6f507ff2b54cc15d424e70/38/3106384_4.stats
+Kraken	all_sections	3114327_se_2_kraken_db	/home/dcallan/test_samplesheet_study/work/taxprofiler_work/74/0f94f72d6f507ff2b54cc15d424e70/24/3114327_se_2_kraken_db.kraken2.kraken2.report.txt
+Kraken	all_sections	3106384_se_4_kraken_db	/home/dcallan/test_samplesheet_study/work/taxprofiler_work/74/0f94f72d6f507ff2b54cc15d424e70/27/3106384_se_4_kraken_db.kraken2.kraken2.report.txt
+Kraken	all_sections	3108596_se_1_kraken_db	/home/dcallan/test_samplesheet_study/work/taxprofiler_work/74/0f94f72d6f507ff2b54cc15d424e70/23/3108596_se_1_kraken_db.kraken2.kraken2.report.txt
+Kraken	all_sections	3101140_se_5_kraken_db	/home/dcallan/test_samplesheet_study/work/taxprofiler_work/74/0f94f72d6f507ff2b54cc15d424e70/26/3101140_se_5_kraken_db.kraken2.kraken2.report.txt
+Kraken	all_sections	3106237_se_3_kraken_db	/home/dcallan/test_samplesheet_study/work/taxprofiler_work/74/0f94f72d6f507ff2b54cc15d424e70/25/3106237_se_3_kraken_db.kraken2.kraken2.report.txt

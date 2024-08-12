@@ -1,0 +1,2 @@
+Sample	CDS	rRNA	tRNA	tmRNA	CRISPR array
+strain	9267.0	8.0	74.0	1.0	3.0

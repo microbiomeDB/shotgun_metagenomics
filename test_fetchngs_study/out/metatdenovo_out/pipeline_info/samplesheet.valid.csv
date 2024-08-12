@@ -1,0 +1,5 @@
+sample,single_end,fastq_1,fastq_2
+SRX5164428_T1,False,/home/dcallan/test_fetchngs_study/data/fastq/SRX5164428_SRR8353566_1.fastq.gz,/home/dcallan/test_fetchngs_study/data/fastq/SRX5164428_SRR8353566_2.fastq.gz
+SRX5164429_T1,False,/home/dcallan/test_fetchngs_study/data/fastq/SRX5164429_SRR8353567_1.fastq.gz,/home/dcallan/test_fetchngs_study/data/fastq/SRX5164429_SRR8353567_2.fastq.gz
+SRX5164430_T1,False,/home/dcallan/test_fetchngs_study/data/fastq/SRX5164430_SRR8353568_1.fastq.gz,/home/dcallan/test_fetchngs_study/data/fastq/SRX5164430_SRR8353568_2.fastq.gz
+SRX5164431_T1,False,/home/dcallan/test_fetchngs_study/data/fastq/SRX5164431_SRR8353569_1.fastq.gz,/home/dcallan/test_fetchngs_study/data/fastq/SRX5164431_SRR8353569_2.fastq.gz

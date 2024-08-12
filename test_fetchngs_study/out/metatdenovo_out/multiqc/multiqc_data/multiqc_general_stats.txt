@@ -1,0 +1,14 @@
+Sample	featureCounts_mqc-generalstats-featurecounts-percent_assigned	featureCounts_mqc-generalstats-featurecounts-Assigned	Prokka_mqc-generalstats-prokka-organism	Prokka_mqc-generalstats-prokka-contigs	Prokka_mqc-generalstats-prokka-bases	Prokka_mqc-generalstats-prokka-CDS	FastQC_mqc-generalstats-fastqc-percent_duplicates	FastQC_mqc-generalstats-fastqc-percent_gc	FastQC_mqc-generalstats-fastqc-avg_sequence_length	FastQC_mqc-generalstats-fastqc-median_sequence_length	FastQC_mqc-generalstats-fastqc-percent_fails	FastQC_mqc-generalstats-fastqc-total_sequences
+SRX5164428	84.89934740396457	11952069										
+SRX5164428_1_val_1							35.70571150506474	40.0	86.46378373294706	92	10.0	14077928.0
+SRX5164428_2_val_2							35.28608104128142	40.0	86.19304758484346	92	10.0	14077928.0
+SRX5164429	83.88865162245507	8157486										
+SRX5164429_1_val_1							25.09247667602787	45.0	84.77665177629832	92	10.0	9724183.0
+SRX5164429_2_val_2							24.524678161923788	45.0	84.43265927841959	92	10.0	9724183.0
+SRX5164430	82.13420660885042	6032185										
+SRX5164430_1_val_1							23.38661183888898	48.0	88.52978451460949	92	10.0	7344303.0
+SRX5164430_2_val_2							22.595490510126353	47.0	87.75639104214518	92	10.0	7344303.0
+SRX5164431	74.69181801396707	5513812										
+SRX5164431_1_val_1							14.647969782197478	49.0	74.63127521053339	82	10.0	7382083.0
+SRX5164431_2_val_2							14.35108858687876	49.0	74.28592255058633	80	10.0	7382083.0
+strain			Genus species	7273	10485855	9228						

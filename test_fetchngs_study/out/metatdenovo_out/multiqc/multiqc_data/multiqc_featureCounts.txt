@@ -1,0 +1,5 @@
+Sample	Total	Assigned	Unassigned_Unmapped	Unassigned_Read_Type	Unassigned_Singleton	Unassigned_MappingQuality	Unassigned_Chimera	Unassigned_FragmentLength	Unassigned_Duplicate	Unassigned_MultiMapping	Unassigned_Secondary	Unassigned_NonSplit	Unassigned_NoFeatures	Unassigned_Overlapping_Length	Unassigned_Ambiguity	percent_assigned
+SRX5164428	14077928	11952069	207057	0	0	0	0	0	0	0	0	0	1400368	0	518434	84.89934740396457
+SRX5164429	9724183	8157486	237703	0	0	0	0	0	0	0	0	0	984063	0	344931	83.88865162245507
+SRX5164430	7344303	6032185	135727	0	0	0	0	0	0	0	0	0	795388	0	381003	82.13420660885042
+SRX5164431	7382083	5513812	417288	0	0	0	0	0	0	0	0	0	1238387	0	212596	74.69181801396707
