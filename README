@@ -1,18 +1,25 @@
-In this directory are subdirectories for shotgun metagenomics studies. 
-Each study/ subdirectory needs:	
-	1. a samplesheet.csv file w 2-3 columns `sample`,`fastq_1`,`fastq_2`
-	2. a nf-params.json file w configuration for how airflow + nf-core should run
-	3. fastq.gz files
+In this directory are subdirectories for shotgun metagenomics studies.
 
-There is also a file `metatdenovo_studies.csv` with two columns `studyName` and `studyPath`.
+Currently, it is assumed that we should run nf-core/taxprofiler, nf-core/mag and nf-core/metatdenovo
+ALL THREE for all studies found here. References like 'pipeline' or 'scientific pipeline' below refer
+to these three. For studies configured with an accessions.tsv file (as opposed to samplesheets), then
+nf-core/fetchngs will also be run and the necessary samplesheets will be generated automatically.
+ 
+Each study/ subdirectory needs:	
+	1. EITHER a *_samplesheet.csv file for each pipeline to be run OR an accessions.tsv file.
+		(See test_samplesheet_study and test_fetchngs_study for examples)
+	2. a *-params.json file for each scientific pipeline to be run, with pipeline specific configuration.
+	3. fastq.gz files, for studies using samplesheets.
+
+There is also a file `metagenomics_studies.csv` with two columns `studyName` and `studyPath`.
 When you have made your subdirectory for your study and are happy w it, you should add
 a row to this csv file. Eventually, modifications to this file trigger an Airflow run for the
-associated nf-core/metatdenovo DAG. For now, trigger it manually.
+associated DAG. For now, trigger it manually in the Airflow GUI.
 
 IMPORTANT NOTES:
 
   - It is best practice to include full (as opposed to relative) paths where they are needed
-  - An example directory exists called test_study
+  - Example directories exist called test_samplesheet_study and test_fetchngs_study
   - There is a file called processed_studies_provenance.csv. Mostly you should NOT touch this.*
 
 * Possible exception being to remove a study to force it to re-run next time metatdenovo_studies.csv
